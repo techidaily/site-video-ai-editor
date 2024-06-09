@@ -1,7 +1,7 @@
 ---
 title: New MacVideo Editor
-date: 2024-05-19T05:47:53.170Z
-updated: 2024-05-20T05:47:53.170Z
+date: 2024-06-08T09:07:51.547Z
+updated: 2024-06-09T09:07:51.547Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New MacVideo Editor
 excerpt: This Article Describes New MacVideo Editor
 keywords: top mac video editors of,macvideoeditor,vn video editor mac,macvideo editor,cool video editor,mts video editor,avs video editor mac
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## MacVideo Editor

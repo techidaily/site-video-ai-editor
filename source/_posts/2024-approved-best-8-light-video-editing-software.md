@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Best 8 Light Video Editing Software
-date: 2024-04-29T02:34:12.441Z
-updated: 2024-04-30T02:34:12.441Z
+date: 2024-06-08T09:07:52.021Z
+updated: 2024-06-09T09:07:52.021Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Best 8 Light Video Editing Software
 excerpt: This Article Describes 2024 Approved Best 8 Light Video Editing Software
 keywords: expert approved video editing software,the best of apple video editing expert approved software list,best 8 light video editing software,ai animation best 8 light video editing software,best apple video editing software,best light video editing software,ai animation best light video editing software
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Best 8 Light Video Editing Software

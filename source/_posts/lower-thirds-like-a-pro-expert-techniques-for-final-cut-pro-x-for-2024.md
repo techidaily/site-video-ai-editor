@@ -1,7 +1,7 @@
 ---
 title: Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X for 2024
-date: 2024-05-19T05:47:52.078Z
-updated: 2024-05-20T05:47:52.078Z
+date: 2024-06-08T09:07:43.848Z
+updated: 2024-06-09T09:07:43.848Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X for 2024
 excerpt: This Article Describes Lower Thirds Like a Pro Expert Techniques for Final Cut Pro X for 2024
 keywords: color correct like a pro essential techniques for final cut pro users,final cut pro 2024 expert techniques and tutorials,transition like a pro 3 expert techniques in final cut pro,final cut pro x adding text titles and lower thirds like a pro,lower thirds like a pro expert techniques for final cut pro x,time lapse like a pro expert techniques for final cut pro users,jump cut like a pro expert techniques for final cut pro x editors
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Lower Thirds Like a Pro: Expert Techniques for Final Cut Pro X

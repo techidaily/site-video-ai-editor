@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Bring Your Photos to Life A Detailed Ken Burns Effect Guide
-date: 2024-04-29T02:19:49.735Z
-updated: 2024-04-30T02:19:49.735Z
+date: 2024-06-08T09:07:55.365Z
+updated: 2024-06-09T09:07:55.365Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Bring Your Photos to Life A Detailed Ken Burns Effect Guide
 excerpt: This Article Describes New 2024 Approved Bring Your Photos to Life A Detailed Ken Burns Effect Guide
 keywords: ai animation bring your photos to life a detailed ken burns effect tutorial,ken burns effect tutorial add movement to your photos,elevate your videos a beginners guide to using ken burns effect in final cut pro,elevate your videos how to apply ken burns effect in final cut pro,bring your photos to life a detailed ken burns effect guide,bring your videos to life a step by step guide to the ken burns effect in final cut pro,bring your photos to life a detailed ken burns effect tutorial
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Bring Your Photos to Life: A Detailed Ken Burns Effect Guide

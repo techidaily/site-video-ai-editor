@@ -1,7 +1,7 @@
 ---
 title: New Instagram Video Size Matters Understanding Aspect Ratios for Better Engagement
-date: 2024-05-19T05:47:51.029Z
-updated: 2024-05-20T05:47:51.029Z
+date: 2024-06-08T09:07:57.488Z
+updated: 2024-06-09T09:07:57.488Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Instagram Video Size Matters Understanding Aspect Ratios for Better Engagement
 excerpt: This Article Describes New Instagram Video Size Matters Understanding Aspect Ratios for Better Engagement
 keywords: understanding aspect ratios a beginners guide to image sizing,tiktok visuals 101 understanding aspect ratio for maximum engagement,the science behind instagram video dimensions understanding aspect ratios,ai animation best video dimensions for instagram aspect ratios explained,best video dimensions for instagram aspect ratios explained,instagram video size matters understanding aspect ratios for better engagement,instagram video formatting 101 a beginners guide to aspect ratios and dimensions
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Instagram Video Size Matters: Understanding Aspect Ratios for Better Engagement

@@ -1,7 +1,7 @@
 ---
 title: New The Art of Editing 10 Notable Movies Shaped by Final Cut Pro
-date: 2024-05-19T05:48:03.779Z
-updated: 2024-05-20T05:48:03.779Z
+date: 2024-06-08T09:07:50.372Z
+updated: 2024-06-09T09:07:50.372Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Art of Editing 10 Notable Movies Shaped by Final Cut Pro
 excerpt: This Article Describes New The Art of Editing 10 Notable Movies Shaped by Final Cut Pro
 keywords: the art of storytelling 10 famous movies shaped by final cut pros creative freedom,behind the scenes 10 movies that rely on final cut pro for editing,ai animation the best of fcp top 10 movies edited with final cut pro,unleashing creativity the top 10 final cut pro movies,fcp in the spotlight 10 renowned movies made with final cut pro,the art of editing 10 notable movies shaped by final cut pro,the best of fcp top 10 movies edited with final cut pro
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## The Art of Editing: 10 Notable Movies Shaped by Final Cut Pro

@@ -1,7 +1,7 @@
 ---
 title: New Meet the Top Lego Stop Motion Talent for 2024
-date: 2024-04-29T02:26:04.567Z
-updated: 2024-04-30T02:26:04.567Z
+date: 2024-06-08T09:07:45.876Z
+updated: 2024-06-09T09:07:45.876Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Meet the Top Lego Stop Motion Talent for 2024
 excerpt: This Article Describes New Meet the Top Lego Stop Motion Talent for 2024
 keywords: the most talented lego stop motion creators,meet the top lego stop motion talent,animate on the go top stop motion apps for mobile,the most talented lego stop motion artists this year,the most talented lego stop motion creators of the year,the best lego stop motion channels to follow,lego stop motion mavens the top creators
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Meet the Top Lego Stop Motion Talent

@@ -1,7 +1,7 @@
 ---
 title: Camtasia Video Editing Pro Mastering Playback Speed and More
-date: 2024-05-19T05:47:10.180Z
-updated: 2024-05-20T05:47:10.180Z
+date: 2024-06-08T09:07:52.255Z
+updated: 2024-06-09T09:07:52.255Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Camtasia Video Editing Pro Mastering Playback Speed and More
 excerpt: This Article Describes Camtasia Video Editing Pro Mastering Playback Speed and More
 keywords: adjust video playback speed in camtasia,ai animation adjust video playback speed in camtasia,mastering video playback speed in quicktime tips and tricks,camtasia video editing pro mastering playback speed and more,mastering video speed in camtasia tips and tricks,camtasia video editing essentials how to adjust playback speed,camtasia video editing mastery controlling playback speed
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Camtasia Video Editing Pro: Mastering Playback Speed and More

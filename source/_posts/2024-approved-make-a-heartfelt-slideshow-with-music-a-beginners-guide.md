@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Make a Heartfelt Slideshow with Music A Beginners Guide
-date: 2024-05-19T05:47:53.281Z
-updated: 2024-05-20T05:47:53.281Z
+date: 2024-06-08T09:08:01.267Z
+updated: 2024-06-09T09:08:01.267Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Make a Heartfelt Slideshow with Music A Beginners Guide
 excerpt: This Article Describes 2024 Approved Make a Heartfelt Slideshow with Music A Beginners Guide
 keywords: learn to edit mp4 files on mac and windows a beginners guide,a beginners guide to choosing a movie maker app on android,editing videos like a pro a beginners guide to windows movie maker,make a heartwarming slideshow with pictures and songs,make a heartfelt slideshow with music a beginners guide,the ultimate mac slideshow creator a beginners guide,the art of slow motion a beginners guide to kapwing
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Make a Heartfelt Slideshow with Music: A Beginner's Guide

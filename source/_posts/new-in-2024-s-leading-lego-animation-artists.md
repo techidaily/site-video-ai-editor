@@ -1,7 +1,7 @@
 ---
 title: New In 2024, S Leading Lego Animation Artists
-date: 2024-04-29T02:27:44.163Z
-updated: 2024-04-30T02:27:44.163Z
+date: 2024-06-08T09:07:43.045Z
+updated: 2024-06-09T09:07:43.045Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, S Leading Lego Animation Artists
 excerpt: This Article Describes New In 2024, S Leading Lego Animation Artists
 keywords: best gaming intro animation studios this year,best in class text tracking and animation software 2023,s leading lego animation artists,ai animation best video editing software for beginners 2024 freepaid,s leading lego stop motion studios and filmmakers,unleashing the magic top lego stop motion artists,rising stars of lego animation top makers
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## 'S Leading Lego Animation Artists

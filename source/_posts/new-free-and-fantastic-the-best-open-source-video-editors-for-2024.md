@@ -1,7 +1,7 @@
 ---
 title: New Free and Fantastic The Best Open-Source Video Editors for 2024
-date: 2024-05-19T05:48:23.078Z
-updated: 2024-05-20T05:48:23.078Z
+date: 2024-06-08T09:07:43.445Z
+updated: 2024-06-09T09:07:43.445Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free and Fantastic The Best Open-Source Video Editors for 2024
 excerpt: This Article Describes New Free and Fantastic The Best Open-Source Video Editors for 2024
 keywords: free and fantastic the best flv video editors,free and fantastic the best open source video editors,free and fantastic the best avi video editors,ai animation ai animation free and fantastic the best open source video editors,free and fantastic the best mp4 video editors,free and fantastic the best vob video editors,ai animation free and fantastic the best open source video editors
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Free and Fantastic: The Best Open-Source Video Editors

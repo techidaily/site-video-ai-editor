@@ -1,7 +1,7 @@
 ---
 title: New AVI File Editing Simplified Cut, Trim, and Split with These Easy Steps
-date: 2024-05-19T05:47:32.643Z
-updated: 2024-05-20T05:47:32.643Z
+date: 2024-06-08T09:07:42.974Z
+updated: 2024-06-09T09:07:42.974Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New AVI File Editing Simplified Cut, Trim, and Split with These Easy Steps
 excerpt: This Article Describes New AVI File Editing Simplified Cut, Trim, and Split with These Easy Steps
 keywords: easily edit avi files a step by step guide to trimming and splitting,mastering avi file editing how to split cut and trim with confidence,the easiest way to edit avi files split trim and cut with ease,avi file trimming and splitting simplified a 2023 update,the easiest way to edit avi files split cut and trim in minutes,the simple way to edit avi files split trim and cut with ease,avi file editing simplified cut trim and split with these easy steps
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## AVI File Editing Simplified: Cut, Trim, and Split with These Easy Steps

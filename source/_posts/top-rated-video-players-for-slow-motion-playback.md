@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Video Players for Slow Motion Playback
-date: 2024-05-19T05:47:17.914Z
-updated: 2024-05-20T05:47:17.914Z
+date: 2024-06-08T09:07:47.101Z
+updated: 2024-06-09T09:07:47.101Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top-Rated Video Players for Slow Motion Playback
 excerpt: This Article Describes Top-Rated Video Players for Slow Motion Playback
 keywords: s top video players for smooth slow motion playback,slow down the action top 10 video players for smooth playback,top 10 video players for slow motion,ai animation top 10 video players for slow motion,top rated video players for slow motion playback,top rated slow motion video players you need,discover the best top 10 video players for slow motion playback
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Top-Rated Video Players for Slow Motion Playback

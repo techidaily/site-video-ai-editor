@@ -1,7 +1,7 @@
 ---
 title: New Yosemite Video Editing Essentials Tips and Tricks
-date: 2024-05-19T05:48:19.781Z
-updated: 2024-05-20T05:48:19.781Z
+date: 2024-06-08T09:07:43.314Z
+updated: 2024-06-09T09:07:43.314Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Yosemite Video Editing Essentials Tips and Tricks
 excerpt: This Article Describes New Yosemite Video Editing Essentials Tips and Tricks
 keywords: iphone video editing essentials top picks,video editing essentials for mac os x yosemite tips and tricks,mac video editing essentials a yosemite users handbook,yosemite video editing essentials tips and tricks,os x mavericks video editing essentials tips and tricks,ai animation os x mavericks video editing essentials tips and tricks,the ultimate yosemite video editing guide tips tricks and tutorials
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Yosemite Video Editing Essentials: Tips and Tricks

@@ -1,7 +1,7 @@
 ---
 title: New Speed Up or Slow Down A Comprehensive Camtasia Video Guide
-date: 2024-05-19T05:48:01.989Z
-updated: 2024-05-20T05:48:01.989Z
+date: 2024-06-08T09:07:52.874Z
+updated: 2024-06-09T09:07:52.874Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Speed Up or Slow Down A Comprehensive Camtasia Video Guide
 excerpt: This Article Describes New Speed Up or Slow Down A Comprehensive Camtasia Video Guide
 keywords: time saving tips how to speed up or slow down videos in camtasia,vn video editor android review a comprehensive guide,unlocking camtasias power how to speed up or slow down videos,speed up or slow down a comprehensive camtasia video guide,ai animation speed up or slow down the ultimate camtasia video editing guide,speed up or slow down the ultimate camtasia video editing guide,video editing hack speed up or slow down clips in camtasia
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Speed Up or Slow Down: A Comprehensive Camtasia Video Guide

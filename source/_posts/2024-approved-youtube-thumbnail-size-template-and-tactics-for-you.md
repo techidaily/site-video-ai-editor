@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved YouTube Thumbnail Size Template & Tactics for You
-date: 2024-04-29T02:35:16.206Z
-updated: 2024-04-30T02:35:16.206Z
+date: 2024-06-08T09:07:54.798Z
+updated: 2024-06-09T09:07:54.798Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved YouTube Thumbnail Size Template & Tactics for You
 excerpt: This Article Describes 2024 Approved YouTube Thumbnail Size Template & Tactics for You
 keywords: ai animation youtube thumbnail size template tactics for you,youtube thumbnail size template,maximize your reach youtube thumbnail best practices and templates,ai animation ai animation youtube thumbnail size template practical tactics for you,ai animation youtube thumbnail size template practical tactics for you,youtube thumbnail size template practical tactics for you,youtube thumbnail size template tactics for you
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## YouTube Thumbnail Size Template & Tactics for You

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Kids in the Directors Chair A Fun and Interactive Guide to Movie Making
-date: 2024-04-29T02:25:05.799Z
-updated: 2024-04-30T02:25:05.799Z
+date: 2024-06-08T09:07:59.321Z
+updated: 2024-06-09T09:07:59.321Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Kids in the Directors Chair A Fun and Interactive Guide to Movie Making
 excerpt: This Article Describes New In 2024, Kids in the Directors Chair A Fun and Interactive Guide to Movie Making
 keywords: the best video editing software for kids a fun and interactive list,kids in the directors chair a fun guide to making movies,little directors big ideas teaching kids to make movies,kids in the directors chair a fun and interactive guide to movie making,kids in the directors chair making movies made easy,lights camera action a kids guide to making movies,the young directors handbook teach kids to make their own movies
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Kids in the Director's Chair: A Fun and Interactive Guide to Movie Making

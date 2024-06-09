@@ -1,7 +1,7 @@
 ---
 title: FCP Effects Mastery The Art of Motion Blur Creation
-date: 2024-05-19T05:47:10.923Z
-updated: 2024-05-20T05:47:10.923Z
+date: 2024-06-08T09:07:46.817Z
+updated: 2024-06-09T09:07:46.817Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes FCP Effects Mastery The Art of Motion Blur Creation
 excerpt: This Article Describes FCP Effects Mastery The Art of Motion Blur Creation
 keywords: make motion blur effect in fcpx,fcp effects mastery the art of motion blur creation,the art of bokeh top mobile apps for creating stunning blur effects,final cut pro tutorial mastering the art of motion blur effects,the ultimate guide to creating stunning motion blur effects in fcp,blur the lines mastering motion blur effects in fcp,the art of motion blur advanced techniques for fcp editors
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## FCP Effects Mastery: The Art of Motion Blur Creation

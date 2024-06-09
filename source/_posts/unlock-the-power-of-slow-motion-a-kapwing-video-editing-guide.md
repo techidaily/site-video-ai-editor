@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Slow Motion A Kapwing Video Editing Guide
-date: 2024-05-19T05:47:18.787Z
-updated: 2024-05-20T05:47:18.787Z
+date: 2024-06-08T09:07:48.545Z
+updated: 2024-06-09T09:07:48.545Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Unlock the Power of Slow Motion A Kapwing Video Editing Guide
 excerpt: This Article Describes Unlock the Power of Slow Motion A Kapwing Video Editing Guide
 keywords: unlock the power of slow motion free video editing software filmora,unlock the power of slow motion a kapwing video editing tutorial,unlock the power of slow motion a kapwing video editing guide,ai animation unlock the power of slow motion a kapwing video editing tutorial,unlock the power of slow mo a kapwing video editing tutorial,unleash the power of slow motion best video editing tools,unlock the power of slow mo a step by step kapwing guide
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Unlock the Power of Slow Motion: A Kapwing Video Editing Guide

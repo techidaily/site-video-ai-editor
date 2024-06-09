@@ -1,7 +1,7 @@
 ---
 title: Updated Kids in the Directors Chair A Fun Guide to Making Movies
-date: 2024-05-19T05:47:51.298Z
-updated: 2024-05-20T05:47:51.298Z
+date: 2024-06-08T09:07:57.204Z
+updated: 2024-06-09T09:07:57.204Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Kids in the Directors Chair A Fun Guide to Making Movies
 excerpt: This Article Describes Updated Kids in the Directors Chair A Fun Guide to Making Movies
 keywords: the mini moviemaker a fun guide for kids to make their own movies,young filmmakers unleashed a kids guide to movie creation,kids in the directors chair a fun guide to making movies,kids in the directors chair a fun and interactive guide to movie making,the young directors handbook teach kids to make their own movies,kids in the directors chair making movies made easy,little directors big ideas teaching kids to make movies
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Kids in the Director's Chair: A Fun Guide to Making Movies

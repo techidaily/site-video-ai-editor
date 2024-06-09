@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create a Heartfelt Valentines Day Video Message for Your Special Someone
-date: 2024-05-19T05:47:37.242Z
-updated: 2024-05-20T05:47:37.242Z
+date: 2024-06-08T09:07:52.583Z
+updated: 2024-06-09T09:07:52.583Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Create a Heartfelt Valentines Day Video Message for Your Special Someone
 excerpt: This Article Describes In 2024, Create a Heartfelt Valentines Day Video Message for Your Special Someone
 keywords: show your love how to create a beautiful valentines day video montage,love in motion how to create a heartwarming valentines day video for your significant other,romantic gestures how to make a stunning valentines day video for your partner,create a heartfelt valentines day message a step by step guide,valentines day on a personal level create a customized video message,create a heartfelt valentines day video message for your special someone,how to make a valentines day video for the person you love
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Create a Heartfelt Valentine's Day Video Message for Your Special Someone

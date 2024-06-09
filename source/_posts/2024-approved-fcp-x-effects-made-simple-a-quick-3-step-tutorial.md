@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCP X Effects Made Simple A Quick 3-Step Tutorial
-date: 2024-05-19T05:47:42.751Z
-updated: 2024-05-20T05:47:42.751Z
+date: 2024-06-08T09:08:02.059Z
+updated: 2024-06-09T09:08:02.059Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved FCP X Effects Made Simple A Quick 3-Step Tutorial
 excerpt: This Article Describes 2024 Approved FCP X Effects Made Simple A Quick 3-Step Tutorial
 keywords: fcp x effects made simple a 3 step tutorial for beginners,simple guide to fcp x how to add effects in 3 steps,effortless video editing how to add effects in fcp x 3 simple steps,from basic to brilliant adding effects in fcp x with 3 simple steps,fcp x effects for beginners a quick and easy 3 step process,fcp x effects made simple a quick 3 step tutorial,fcp x effects made simple a step by step tutorial
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## FCP X Effects Made Simple: A Quick 3-Step Tutorial

@@ -1,7 +1,7 @@
 ---
 title: New Top Picks Lightweight Video Editors for Smooth Performance
-date: 2024-05-19T05:47:31.297Z
-updated: 2024-05-20T05:47:31.297Z
+date: 2024-06-08T09:07:48.682Z
+updated: 2024-06-09T09:07:48.682Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Top Picks Lightweight Video Editors for Smooth Performance
 excerpt: This Article Describes New Top Picks Lightweight Video Editors for Smooth Performance
 keywords: top video editors for smooth performance,top picks lightweight video editors for seamless editing,top picks lightweight video editors for smooth performance,ai animation top picks lightweight video editors for smooth performance,top 8 lightweight video editors for smooth performance,best 4k proxy video editors top picks for smooth editing,top picks for lightweight video editors
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## Top Picks: Lightweight Video Editors for Smooth Performance
