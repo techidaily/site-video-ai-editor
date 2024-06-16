@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Customize Video Playback Rate in Camtasia
-date: 2024-05-19T05:47:37.759Z
-updated: 2024-05-20T05:47:37.759Z
+date: 2024-06-15T21:44:04.347Z
+updated: 2024-06-16T21:44:04.347Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Customize Video Playback Rate in Camtasia
 excerpt: This Article Describes 2024 Approved Customize Video Playback Rate in Camtasia
 keywords: customize video playback rate in camtasia,ai animation adjust video playback speed in camtasia,ai animation ai animation adjust video playback speed in camtasia,camtasia video editing pro mastering playback speed and more,customize your video pace with camtasias speed controls,adjust video playback speed in camtasia,change video playback rate in camtasia a step by step guide
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Customize Video Playback Rate in Camtasia

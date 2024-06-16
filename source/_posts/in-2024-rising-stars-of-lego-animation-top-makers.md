@@ -1,7 +1,7 @@
 ---
 title: In 2024, Rising Stars of Lego Animation Top Makers
-date: 2024-05-19T05:50:09.313Z
-updated: 2024-05-20T05:50:09.313Z
+date: 2024-06-15T21:44:03.353Z
+updated: 2024-06-16T21:44:03.353Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Rising Stars of Lego Animation Top Makers
 excerpt: This Article Describes In 2024, Rising Stars of Lego Animation Top Makers
 keywords: ai animation best lego stop motion maker,top lego animators stop motion masters,lego animation all stars the top creators,rising stars of lego animation top makers,unleashing imagination the top lego stop motion makers,s leading lego animation artists,ai animation best lego stop motion makers
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Rising Stars of Lego Animation: Top Makers

@@ -1,7 +1,7 @@
 ---
 title: New Fast Forward Your Videos A Beginners Guide to Time Lapse Photography
-date: 2024-05-19T05:47:42.548Z
-updated: 2024-05-20T05:47:42.548Z
+date: 2024-06-15T21:44:08.722Z
+updated: 2024-06-16T21:44:08.722Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Fast Forward Your Videos A Beginners Guide to Time Lapse Photography
 excerpt: This Article Describes New Fast Forward Your Videos A Beginners Guide to Time Lapse Photography
 keywords: fast forward your videos a beginners guide to time lapse photography,optimize your facebook videos a beginners guide to aspect ratios,transform your videos a beginners guide to time lapse in final cut pro,flip your videos fast a beginners guide to rotation,fast forward your videos a beginners guide to time lapse software,condense your clips a beginners guide to creating time lapse videos,fast forward your memories best time lapse video apps
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## Fast Forward Your Videos: A Beginner's Guide to Time Lapse Photography

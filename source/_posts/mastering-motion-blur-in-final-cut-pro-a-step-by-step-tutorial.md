@@ -1,7 +1,7 @@
 ---
 title: Mastering Motion Blur in Final Cut Pro A Step-by-Step Tutorial
-date: 2024-05-19T05:47:08.254Z
-updated: 2024-05-20T05:47:08.254Z
+date: 2024-06-15T21:43:51.892Z
+updated: 2024-06-16T21:43:51.892Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering Motion Blur in Final Cut Pro A Step-by-Step Tutorial
 excerpt: This Article Describes Mastering Motion Blur in Final Cut Pro A Step-by-Step Tutorial
 keywords: create stunning motion blur in final cut pro a step by step guide,mastering color in final cut pro a step by step guide,final cut pro tutorial mastering the art of motion blur effects,ai animation mastering motion blur in final cut pro a step by step tutorial,from zero to hero mastering motion blur in final cut pro,mastering motion blur in final cut pro a step by step tutorial,mastering motion blur a step by step fcp tutorial
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Mastering Motion Blur in Final Cut Pro: A Step-by-Step Tutorial

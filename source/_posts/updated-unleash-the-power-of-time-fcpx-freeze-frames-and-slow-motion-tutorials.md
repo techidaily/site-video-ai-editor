@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash the Power of Time FCPX Freeze Frames and Slow Motion Tutorials
-date: 2024-05-19T05:48:13.957Z
-updated: 2024-05-20T05:48:13.957Z
+date: 2024-06-15T21:43:52.114Z
+updated: 2024-06-16T21:43:52.114Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unleash the Power of Time FCPX Freeze Frames and Slow Motion Tutorials
 excerpt: This Article Describes Updated Unleash the Power of Time FCPX Freeze Frames and Slow Motion Tutorials
 keywords: time warp unlocking freeze frames and slow motion in fcpx,fcpx power user mastering freeze frames slow motion and beyond,the art of time control fcpx freeze frames and slow motion,creative time manipulation in fcpx freeze frames and slow motion,unleash the power of time fcpx freeze frames and slow motion tutorials,final cut pro x the art of freeze frames and slow motion storytelling,mastering time in fcpx freeze frames slow mo and more
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Unleash the Power of Time: FCPX Freeze Frames and Slow Motion Tutorials

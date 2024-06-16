@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCP X Pro Tutorials Creating Realistic Green Screen Effects
-date: 2024-04-29T02:22:13.392Z
-updated: 2024-04-30T02:22:13.392Z
+date: 2024-06-15T21:43:51.793Z
+updated: 2024-06-16T21:43:51.793Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, FCP X Pro Tutorials Creating Realistic Green Screen Effects
 excerpt: This Article Describes New In 2024, FCP X Pro Tutorials Creating Realistic Green Screen Effects
 keywords: fcp x green screen tutorial remove backgrounds like a pro,fcp x the ultimate guide to creating realistic green screen composites,fcp x create a chroma key green screen effect,mastering fcp x green screen magic in minutes,fcp x pro tutorials creating realistic green screen effects,fcp x visual effects how to create seamless green screen composites,fcp x essentials how to achieve flawless green screen effects
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## FCP X Pro Tutorials: Creating Realistic Green Screen Effects

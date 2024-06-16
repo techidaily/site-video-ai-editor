@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Speed Up/Down Videos in Camtasia
-date: 2024-05-19T05:48:22.222Z
-updated: 2024-05-20T05:48:22.222Z
+date: 2024-06-15T21:43:58.144Z
+updated: 2024-06-16T21:43:58.144Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Speed Up/Down Videos in Camtasia
 excerpt: This Article Describes New In 2024, Speed Up/Down Videos in Camtasia
 keywords: time saving tips how to speed up or slow down videos in camtasia,video editing hack speed up or slow down clips in camtasia,the art of time manipulation speeding updown videos in camtasia,ai animation useful guide to speed updown videos in camtasia,speed updown videos in camtasia,useful guide to speed updown videos in camtasia,ai animation speed updown videos in camtasia
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Speed Up/Down Videos in Camtasia

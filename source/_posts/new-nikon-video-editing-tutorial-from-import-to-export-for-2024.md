@@ -1,7 +1,7 @@
 ---
 title: New Nikon Video Editing Tutorial From Import to Export for 2024
-date: 2024-04-29T02:26:27.156Z
-updated: 2024-04-30T02:26:27.156Z
+date: 2024-06-15T21:43:59.953Z
+updated: 2024-06-16T21:43:59.953Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Nikon Video Editing Tutorial From Import to Export for 2024
 excerpt: This Article Describes New Nikon Video Editing Tutorial From Import to Export for 2024
 keywords: the ultimate nikon video editing tutorial for beginners and pros,final cut pro 2024 essential tutorials for video editors,nikon video editing tutorial from import to export,from import to export video editing on mac os x yosemite explained,best video editing apps for mac from novice to expert,mac gopro video editing 101 from import to export,mac gopro editing 101 from import to export
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Nikon Video Editing Tutorial: From Import to Export

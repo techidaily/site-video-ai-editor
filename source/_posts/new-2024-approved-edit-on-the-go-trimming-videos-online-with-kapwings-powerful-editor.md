@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Edit on the Go Trimming Videos Online with Kapwings Powerful Editor
-date: 2024-04-29T02:21:33.697Z
-updated: 2024-04-30T02:21:33.697Z
+date: 2024-06-15T21:43:59.132Z
+updated: 2024-06-16T21:43:59.132Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Edit on the Go Trimming Videos Online with Kapwings Powerful Editor
 excerpt: This Article Describes New 2024 Approved Edit on the Go Trimming Videos Online with Kapwings Powerful Editor
 keywords: discover the power of kapwing trim and edit videos online,how to trim and edit videos like a pro with kapwing editor,trim cut and edit videos online with kapwings free editor,edit on the go trimming videos online with kapwings powerful editor,master video trimming with kapwings online editor,the ultimate guide to trimming videos online with kapwing editor,the ultimate guide to trimming videos with kapwings online editor
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Edit on the Go: Trimming Videos Online with Kapwing's Powerful Editor

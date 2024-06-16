@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Slow Down Time Add Free Slow-Mo Effects to Your Videos with Filmora
-date: 2024-05-19T05:48:27.802Z
-updated: 2024-05-20T05:48:27.802Z
+date: 2024-06-15T21:44:11.208Z
+updated: 2024-06-16T21:44:11.208Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Slow Down Time Add Free Slow-Mo Effects to Your Videos with Filmora
 excerpt: This Article Describes New In 2024, Slow Down Time Add Free Slow-Mo Effects to Your Videos with Filmora
 keywords: add a slow motion effect to your videos for free filmora,ai animation slow down time add free slow mo effects to your videos with filmora,take it down a notch how to add slow motion effects to your kapwing videos,from fast to furious add slow motion effects to your videos for free with filmora,slow down time free slow motion video editing with filmora,make your videos epic add slow motion effects for free with filmora,slow down time add free slow mo effects to your videos with filmora
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Slow Down Time: Add Free Slow-Mo Effects to Your Videos with Filmora

@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy Yosemite Edition for 2024
-date: 2024-04-29T02:25:30.235Z
-updated: 2024-04-30T02:25:30.235Z
+date: 2024-06-15T21:43:52.326Z
+updated: 2024-06-16T21:43:52.326Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mac Video Editing Made Easy Yosemite Edition for 2024
 excerpt: This Article Describes New Mac Video Editing Made Easy Yosemite Edition for 2024
 keywords: pc video editing made easy vn editor review,mac video editing made easy yosemite edition,mac video editing made easy avs editor,pc video editing made easy a vn editor review,mac video editing made easy vn editor and its alternatives,edit like a pro video file editing on mac os x yosemite made easy,mac video editing made easy a yosemite users handbook
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Mac Video Editing Made Easy: Yosemite Edition

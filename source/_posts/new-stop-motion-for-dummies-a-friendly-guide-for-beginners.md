@@ -1,7 +1,7 @@
 ---
 title: New Stop Motion for Dummies A Friendly Guide for Beginners
-date: 2024-05-19T05:48:02.740Z
-updated: 2024-05-20T05:48:02.740Z
+date: 2024-06-15T21:44:10.088Z
+updated: 2024-06-16T21:44:10.088Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Stop Motion for Dummies A Friendly Guide for Beginners
 excerpt: This Article Describes New Stop Motion for Dummies A Friendly Guide for Beginners
 keywords: stop motion for dummies a friendly guide for beginners,stop motion for beginners a comprehensive guide and alternatives,stop motion basics a friendly guide for first timers,stop motion mastery a beginners guide to freeze frames,learn stop motion animation a beginner friendly guide and software options,free video editing for dummies top picks for beginners,beginners guideline for stop motion studio and its alternatives
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Stop Motion for Dummies: A Friendly Guide for Beginners

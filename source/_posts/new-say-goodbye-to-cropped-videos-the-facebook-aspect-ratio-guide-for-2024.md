@@ -1,7 +1,7 @@
 ---
 title: New Say Goodbye to Cropped Videos The Facebook Aspect Ratio Guide for 2024
-date: 2024-04-29T02:27:54.065Z
-updated: 2024-04-30T02:27:54.065Z
+date: 2024-06-15T21:43:49.434Z
+updated: 2024-06-16T21:43:49.434Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Say Goodbye to Cropped Videos The Facebook Aspect Ratio Guide for 2024
 excerpt: This Article Describes New Say Goodbye to Cropped Videos The Facebook Aspect Ratio Guide for 2024
 keywords: say goodbye to cropping the definitive facebook video aspect ratio guide,the one stop shop for facebook video aspect ratios a beginners guide,the last aspect ratio guide youll ever need for facebook videos,say goodbye to aspect ratio confusion the ultimate facebook video guide,the only guide facebook video aspect ratios youll ever need to know,say goodbye to cropping the definitive guide to facebook video aspect ratios,say goodbye to cropped videos the facebook aspect ratio guide
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Say Goodbye to Cropped Videos: The Facebook Aspect Ratio Guide

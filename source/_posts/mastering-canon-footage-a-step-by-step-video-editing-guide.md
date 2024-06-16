@@ -1,7 +1,7 @@
 ---
 title: Mastering Canon Footage A Step-by-Step Video Editing Guide
-date: 2024-05-19T05:47:13.929Z
-updated: 2024-05-20T05:47:13.929Z
+date: 2024-06-15T21:43:50.600Z
+updated: 2024-06-16T21:43:50.600Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering Canon Footage A Step-by-Step Video Editing Guide
 excerpt: This Article Describes Mastering Canon Footage A Step-by-Step Video Editing Guide
 keywords: mastering canon footage a step by step guide to video editing,unlock canon footage a step by step video editing guide,mastering canon footage a step by step video editing guide,mastering nikon footage a step by step video editing guide,mastering nikon footage a step by step guide to video editing,ai animation mastering nikon footage a step by step guide to video editing,mastering sony camcorder footage a step by step editing guide
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Mastering Canon Footage: A Step-by-Step Video Editing Guide

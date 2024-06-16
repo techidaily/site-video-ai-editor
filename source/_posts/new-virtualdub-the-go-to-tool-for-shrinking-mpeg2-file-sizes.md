@@ -1,7 +1,7 @@
 ---
 title: New VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes
-date: 2024-05-19T05:48:17.261Z
-updated: 2024-05-20T05:48:17.261Z
+date: 2024-06-15T21:43:58.476Z
+updated: 2024-06-16T21:43:58.476Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes
 excerpt: This Article Describes New VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes
 keywords: virtualdub mpeg2 the secret to smaller faster video files,virtualdub the go to tool for shrinking mpeg2 file sizes,virtualdub the ultimate tool for mpeg2 video shrinking,shrink mpeg2 files download virtualdub for video compression,shrink mpeg2 files get virtualdub for video compression,reduce mpeg2 file size a guide to using virtualdub,reduce file size download virtualdub for mpeg2 compression
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## VirtualDub: The Go-To Tool for Shrinking MPEG2 File Sizes

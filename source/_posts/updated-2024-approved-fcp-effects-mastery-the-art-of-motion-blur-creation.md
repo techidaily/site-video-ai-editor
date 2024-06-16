@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCP Effects Mastery The Art of Motion Blur Creation
-date: 2024-04-29T02:22:10.661Z
-updated: 2024-04-30T02:22:10.661Z
+date: 2024-06-15T21:44:00.733Z
+updated: 2024-06-16T21:44:00.733Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved FCP Effects Mastery The Art of Motion Blur Creation
 excerpt: This Article Describes Updated 2024 Approved FCP Effects Mastery The Art of Motion Blur Creation
 keywords: bokeh magic the best ios and android apps for creative blur effects,the art of motion blur advanced techniques for fcp editors,the ultimate guide to creating stunning motion blur effects in fcp,the art of bokeh top mobile apps for creating stunning blur effects,final cut pro tutorial mastering the art of motion blur effects,fcp effects mastery the art of motion blur creation,blur the lines mastering motion blur effects in fcp
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## FCP Effects Mastery: The Art of Motion Blur Creation

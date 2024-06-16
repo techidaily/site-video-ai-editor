@@ -1,7 +1,7 @@
 ---
 title: New Free Online Video Editors Like iMovie Top Picks
-date: 2024-05-19T05:47:44.795Z
-updated: 2024-05-20T05:47:44.795Z
+date: 2024-06-15T21:43:50.795Z
+updated: 2024-06-16T21:43:50.795Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Online Video Editors Like iMovie Top Picks
 excerpt: This Article Describes New Free Online Video Editors Like iMovie Top Picks
 keywords: merge like a pro the top 5 free online video editors,free mov video editors top picks,free online video editors like imovie top picks,free video editors like windows movie maker top 10 picks,no imovie no problem top 5 free online video editors,imovie free alternatives top 5 online video editors,no cost movie magic top free online video editors
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Free Online Video Editors Like iMovie: Top Picks

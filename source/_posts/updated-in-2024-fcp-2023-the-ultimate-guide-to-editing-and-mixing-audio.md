@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCP 2023 The Ultimate Guide to Editing and Mixing Audio
-date: 2024-04-29T02:22:09.400Z
-updated: 2024-04-30T02:22:09.400Z
+date: 2024-06-15T21:44:06.376Z
+updated: 2024-06-16T21:44:06.376Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, FCP 2023 The Ultimate Guide to Editing and Mixing Audio
 excerpt: This Article Describes Updated In 2024, FCP 2023 The Ultimate Guide to Editing and Mixing Audio
 keywords: fcp 2023 the ultimate guide to editing and mixing audio for video,fcp 2023 the ultimate guide to editing and mixing audio,the ultimate guide to mkv trimming on mac 2023 edition,the ultimate fcpx 2024 guide to syncing audio and video tracks,the ultimate guide to editing gopro footage on mac 2023 edition,the ultimate guide to rapid video trimming on mac updated 2023,ai animation the ultimate guide to mkv trimming on mac 2023 edition
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## FCP 2023: The Ultimate Guide to Editing and Mixing Audio

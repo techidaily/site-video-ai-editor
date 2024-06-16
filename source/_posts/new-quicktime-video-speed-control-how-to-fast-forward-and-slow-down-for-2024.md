@@ -1,7 +1,7 @@
 ---
 title: New QuickTime Video Speed Control How to Fast Forward and Slow Down for 2024
-date: 2024-04-29T02:27:12.327Z
-updated: 2024-04-30T02:27:12.327Z
+date: 2024-06-15T21:44:03.058Z
+updated: 2024-06-16T21:44:03.058Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New QuickTime Video Speed Control How to Fast Forward and Slow Down for 2024
 excerpt: This Article Describes New QuickTime Video Speed Control How to Fast Forward and Slow Down for 2024
 keywords: how to fast forward or slow down videos in camtasia,fast forward how to increase video playback speed in quicktime,quicktime speed hack how to fast forward your videos,ai animation how to fast forward or slow down videos in camtasia,fast forward to fun top 10 free video speed controller apps,quicktime video speed control how to fast forward and slow down,quicktime video editing how to speed up or slow down footage
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## QuickTime Video Speed Control: How to Fast Forward and Slow Down

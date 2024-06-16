@@ -1,7 +1,7 @@
 ---
 title: From Import to Export Working with XML Files in FCPX for 2024
-date: 2024-05-19T05:48:58.662Z
-updated: 2024-05-20T05:48:58.662Z
+date: 2024-06-15T21:43:52.729Z
+updated: 2024-06-16T21:43:52.729Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Import to Export Working with XML Files in FCPX for 2024
 excerpt: This Article Describes From Import to Export Working with XML Files in FCPX for 2024
 keywords: nikon video editing tutorial from import to export,unlocking adobe premiere pro 2023 import edit and export video files with ease,from zero to hero mastering xml files in fcpx,taking control of your workflow xml files in fcpx explained,from scratch to pro understanding xml files in fcpx,the complete handbook to working with xml files in fcpx,from import to export working with xml files in fcpx
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## From Import to Export: Working with XML Files in FCPX

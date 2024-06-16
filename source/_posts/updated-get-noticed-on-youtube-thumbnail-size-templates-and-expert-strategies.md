@@ -1,7 +1,7 @@
 ---
 title: Updated Get Noticed on YouTube Thumbnail Size Templates and Expert Strategies
-date: 2024-05-19T05:47:47.685Z
-updated: 2024-05-20T05:47:47.685Z
+date: 2024-06-15T21:43:48.411Z
+updated: 2024-06-16T21:43:48.411Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Get Noticed on YouTube Thumbnail Size Templates and Expert Strategies
 excerpt: This Article Describes Updated Get Noticed on YouTube Thumbnail Size Templates and Expert Strategies
 keywords: the science of youtube thumbnails sizes templates and psychological triggers,get noticed on youtube thumbnail size templates and expert advice,optimize your thumbnails sizes templates and proven strategies,design to convert youtube thumbnail size guidelines and effective strategies,get noticed on youtube effective thumbnail sizes and designs,get noticed on youtube thumbnail size templates and expert strategies,get noticed on youtube thumbnail size design and optimization techniques
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Get Noticed on YouTube: Thumbnail Size Templates and Expert Strategies

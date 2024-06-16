@@ -1,7 +1,7 @@
 ---
 title: FCPX Subtitle Tutorial How to Create and Edit Captions
-date: 2024-05-19T05:48:43.741Z
-updated: 2024-05-20T05:48:43.741Z
+date: 2024-06-15T21:43:52.017Z
+updated: 2024-06-16T21:43:52.017Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes FCPX Subtitle Tutorial How to Create and Edit Captions
 excerpt: This Article Describes FCPX Subtitle Tutorial How to Create and Edit Captions
 keywords: how to add subtitlescaptions in final cut pro x,timer tutorial how to create a countdown in fcpx fast,fcpx subtitle tutorial adding captions for better video engagement,final cut pro x subtitle editing tips and tricks,fcpx captioning 101 how to add subtitles to your videos,fcpx subtitle tutorial how to create and edit captions,fcpx subtitle tutorial how to add captions like a pro
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## FCPX Subtitle Tutorial: How to Create and Edit Captions

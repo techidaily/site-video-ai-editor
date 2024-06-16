@@ -1,7 +1,7 @@
 ---
 title: 3D Video Magic A Beginners Guide to Windows Video Editing
-date: 2024-04-29T02:35:17.156Z
-updated: 2024-04-30T02:35:17.156Z
+date: 2024-06-15T21:44:12.422Z
+updated: 2024-06-16T21:44:12.422Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 3D Video Magic A Beginners Guide to Windows Video Editing
 excerpt: This Article Describes 3D Video Magic A Beginners Guide to Windows Video Editing
 keywords: editing videos like a pro a beginners guide to windows movie maker,3d video magic a beginners guide to windows video editing,unlock 3d magic a beginners guide to video effects on windows pc,mp4 video editing made easy a beginners guide for mac and windows,windows video editor a beginners guide to microsoft video editor,download windows movie maker for free a beginners guide to video editing,free download windows movie maker a beginners guide to video editing
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## 3D Video Magic: A Beginner's Guide to Windows Video Editing

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Add a Timer in Minutes A Quick FCPX Tutorial
-date: 2024-05-19T05:49:16.120Z
-updated: 2024-05-20T05:49:16.120Z
+date: 2024-06-15T21:44:01.522Z
+updated: 2024-06-16T21:44:01.522Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Add a Timer in Minutes A Quick FCPX Tutorial
 excerpt: This Article Describes In 2024, Add a Timer in Minutes A Quick FCPX Tutorial
 keywords: adding subtitles in fcpx a beginners tutorial,ken burns effect in minutes quick and easy tutorial,countdown in minutes a 3 part guide to fcpx timers,add a timer in minutes a quick fcpx tutorial,adding subtitles in fcpx a beginners tutorial updated 2023,smoother skin in minutes a step by step fcpx tutorial,resize your video in minutes a quick tutorial
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Add a Timer in Minutes: A Quick FCPX Tutorial

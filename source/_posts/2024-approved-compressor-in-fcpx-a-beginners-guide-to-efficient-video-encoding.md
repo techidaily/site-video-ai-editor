@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Compressor in FCPX A Beginners Guide to Efficient Video Encoding
-date: 2024-05-19T05:47:36.738Z
-updated: 2024-05-20T05:47:36.738Z
+date: 2024-06-15T21:44:04.924Z
+updated: 2024-06-16T21:44:04.924Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Compressor in FCPX A Beginners Guide to Efficient Video Encoding
 excerpt: This Article Describes 2024 Approved Compressor in FCPX A Beginners Guide to Efficient Video Encoding
 keywords: compressor essentials a beginners guide to video compression in fcpx,compressor in fcpx a beginners guide to efficient video encoding,cropping videos in avidemux a comprehensive guide for beginners and pros,sony camcorder video editing essentials a beginners guide to pro results,the best mac video editing tools for beginners a comprehensive guide,the vhs effect in fcp a beginners guide to retro editing,solving sync issues in fcpx 2024 a beginners guide to audio video sync
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Compressor in FCPX: A Beginner's Guide to Efficient Video Encoding

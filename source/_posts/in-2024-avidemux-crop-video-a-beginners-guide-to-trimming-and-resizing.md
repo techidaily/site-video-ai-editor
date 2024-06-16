@@ -1,7 +1,7 @@
 ---
 title: In 2024, Avidemux Crop Video A Beginners Guide to Trimming and Resizing
-date: 2024-05-19T05:47:32.753Z
-updated: 2024-05-20T05:47:32.753Z
+date: 2024-06-15T21:44:08.599Z
+updated: 2024-06-16T21:44:08.599Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Avidemux Crop Video A Beginners Guide to Trimming and Resizing
 excerpt: This Article Describes In 2024, Avidemux Crop Video A Beginners Guide to Trimming and Resizing
 keywords: trimming made easy a step by step guide to cropping videos in avidemux,cropping videos in avidemux a comprehensive guide for beginners and pros,free video trimming and merging tools for beginners a comprehensive guide,avidemux video editing a beginners guide to cropping and resizing,trim and refine a step by step guide to cropping videos in avidemux,avidemux crop video a beginners guide to trimming and resizing,video cropping 101 a beginners guide to using avidemux
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Avidemux Crop Video: A Beginner's Guide to Trimming and Resizing

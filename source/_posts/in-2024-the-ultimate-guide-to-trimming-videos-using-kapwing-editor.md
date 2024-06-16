@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Trimming Videos Using Kapwing Editor
-date: 2024-05-19T05:48:07.657Z
-updated: 2024-05-20T05:48:07.657Z
+date: 2024-06-15T21:43:58.243Z
+updated: 2024-06-16T21:43:58.243Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate Guide to Trimming Videos Using Kapwing Editor
 excerpt: This Article Describes In 2024, The Ultimate Guide to Trimming Videos Using Kapwing Editor
 keywords: the ultimate guide to trimming videos online with kapwing editor,the ultimate guide to trimming videos using kapwing editor,video trimming 101 a beginners guide to using kapwing editor,a beginners guide to trimming videos using kapwings online editor,ai animation the ultimate guide to trimming videos online with kapwing,the ultimate guide to trimming videos with kapwings online editor,the ultimate guide to trimming videos online with kapwing
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## The Ultimate Guide to Trimming Videos Using Kapwing Editor

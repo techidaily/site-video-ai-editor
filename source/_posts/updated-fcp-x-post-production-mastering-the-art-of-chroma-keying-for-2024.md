@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Post-Production Mastering the Art of Chroma Keying for 2024
-date: 2024-04-29T02:22:13.186Z
-updated: 2024-04-30T02:22:13.186Z
+date: 2024-06-15T21:44:11.977Z
+updated: 2024-06-16T21:44:11.977Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated FCP X Post-Production Mastering the Art of Chroma Keying for 2024
 excerpt: This Article Describes Updated FCP X Post-Production Mastering the Art of Chroma Keying for 2024
 keywords: unlocking the power of chroma keying in final cut pro x,from footage to film mastering the art of cinematic editing in final cut pro x,chroma keying mastery advanced fcp x tutorials for professionals,spring into action limited time filmora coupon code for march 2024,fcp x post production expert chroma keying and color grading,the art of chroma keying in fcp x expert techniques for stunning results,fcp x post production mastering the art of chroma keying
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## FCP X Post-Production: Mastering the Art of Chroma Keying

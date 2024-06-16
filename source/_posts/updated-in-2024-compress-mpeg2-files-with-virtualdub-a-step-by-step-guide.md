@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
-date: 2024-04-29T02:20:09.873Z
-updated: 2024-04-30T02:20:09.873Z
+date: 2024-06-15T21:43:56.725Z
+updated: 2024-06-16T21:43:56.725Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
 excerpt: This Article Describes Updated In 2024, Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
 keywords: compress mpeg2 files with virtualdub a step by step guide,ai animation compress mpeg2 videos with free virtualdub software,shrink mpeg2 files get virtualdub for video compression,make mpeg2 files smaller a step by step guide with virtualdub,reduce mpeg2 file size with virtualdub a beginners guide,streamline your videos compress mpeg2 with virtualdub,compress mpeg2 videos with free virtualdub software
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## Compress MPEG2 Files with VirtualDub: A Step-by-Step Guide

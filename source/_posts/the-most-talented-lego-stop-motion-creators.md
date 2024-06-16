@@ -1,7 +1,7 @@
 ---
 title: The Most Talented Lego Stop Motion Creators
-date: 2024-05-19T05:47:16.625Z
-updated: 2024-05-20T05:47:16.625Z
+date: 2024-06-15T21:44:01.007Z
+updated: 2024-06-16T21:44:01.007Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Most Talented Lego Stop Motion Creators
 excerpt: This Article Describes The Most Talented Lego Stop Motion Creators
 keywords: the best of the best lego stop motion creators,lego animation all stars the top creators,the most talented lego stop motion artists this year,the most talented lego stop motion creators,the most talented lego stop motion creators of the year,meet the top lego stop motion talent,lego stop motion mavens the top creators
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## The Most Talented Lego Stop Motion Creators

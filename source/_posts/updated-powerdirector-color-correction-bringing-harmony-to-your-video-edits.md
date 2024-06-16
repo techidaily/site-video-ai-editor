@@ -1,7 +1,7 @@
 ---
 title: Updated PowerDirector Color Correction Bringing Harmony to Your Video Edits
-date: 2024-05-19T05:47:58.090Z
-updated: 2024-05-20T05:47:58.090Z
+date: 2024-06-15T21:43:54.288Z
+updated: 2024-06-16T21:43:54.288Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated PowerDirector Color Correction Bringing Harmony to Your Video Edits
 excerpt: This Article Describes Updated PowerDirector Color Correction Bringing Harmony to Your Video Edits
 keywords: powerdirector color correction bringing harmony to your video edits,powerdirector color correction a step by step guide to perfecting your footage,color correction mastery blending video clips seamlessly in powerdirector,mastering color consistency a powerdirector tutorial for video editors,unifying your visuals how to color match video clips in powerdirector,powerdirector color grading unifying your video clips look,color harmony in powerdirector a beginners guide to clip color matching
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## PowerDirector Color Correction: Bringing Harmony to Your Video Edits

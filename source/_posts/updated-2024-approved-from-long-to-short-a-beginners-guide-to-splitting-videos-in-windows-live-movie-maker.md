@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker
-date: 2024-04-29T02:23:28.604Z
-updated: 2024-04-30T02:23:28.604Z
+date: 2024-06-15T21:43:48.514Z
+updated: 2024-06-16T21:43:48.514Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker
 excerpt: This Article Describes Updated 2024 Approved From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker
 keywords: editing videos like a pro a beginners guide to windows movie maker,the ultimate guide to splitting videos in windows live movie maker 2023 edition,from long to short a simple guide to splitting videos in windows live movie maker,cutting it up a beginners guide to splitting videos in windows live movie maker,create dramatic videos a beginners guide to slow motion in windows live movie maker,the ultimate guide to splitting videos in windows live movie maker for beginners,from long to short a beginners guide to splitting videos in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## From Long to Short: A Beginner's Guide to Splitting Videos in Windows Live Movie Maker

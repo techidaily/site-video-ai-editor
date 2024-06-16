@@ -1,7 +1,7 @@
 ---
 title: Updated Sony Camcorder Video Post-Production Made Easy A Beginners Guide
-date: 2024-05-19T05:47:29.943Z
-updated: 2024-05-20T05:47:29.943Z
+date: 2024-06-15T21:44:06.087Z
+updated: 2024-06-16T21:44:06.087Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Sony Camcorder Video Post-Production Made Easy A Beginners Guide
 excerpt: This Article Describes Updated Sony Camcorder Video Post-Production Made Easy A Beginners Guide
 keywords: online video editing made easy a practical guide for beginners and pros,ai animation sony camcorder video post production made easy a beginners guide,video to cartoon conversion made easy a beginners guide,sony camcorder video post production made easy a beginners guide,gopro video editing made easy a step by step guide for beginners,tiktok video reversal made easy a beginners guide updated,sony digital camcorder video post production made easy
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Sony Camcorder Video Post-Production Made Easy: A Beginner's Guide

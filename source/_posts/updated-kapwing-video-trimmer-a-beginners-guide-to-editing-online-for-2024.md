@@ -1,7 +1,7 @@
 ---
 title: Updated Kapwing Video Trimmer A Beginners Guide to Editing Online for 2024
-date: 2024-04-29T02:25:04.321Z
-updated: 2024-04-30T02:25:04.321Z
+date: 2024-06-15T21:43:49.043Z
+updated: 2024-06-16T21:43:49.043Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Kapwing Video Trimmer A Beginners Guide to Editing Online for 2024
 excerpt: This Article Describes Updated Kapwing Video Trimmer A Beginners Guide to Editing Online for 2024
 keywords: the ultimate guide to trimming videos online with kapwing editor,free video trimming and merging tools for beginners updated 2023,video trimming 101 a beginners guide to using kapwing editor,free video trimming and merging tools for beginners 2023 update,a beginners guide to trimming videos using kapwings online editor,kapwing video trimmer a beginners guide to editing online,avi file cutting made simple a beginners guide to video editing updated 2023
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## Kapwing Video Trimmer: A Beginner's Guide to Editing Online

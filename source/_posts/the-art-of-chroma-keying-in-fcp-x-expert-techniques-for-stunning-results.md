@@ -1,7 +1,7 @@
 ---
 title: The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results
-date: 2024-05-19T05:47:16.129Z
-updated: 2024-05-20T05:47:16.129Z
+date: 2024-06-15T21:43:59.050Z
+updated: 2024-06-16T21:43:59.050Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results
 excerpt: This Article Describes The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results
 keywords: create stunning composites fcp x chroma keying guide,fcp x post production mastering the art of chroma keying,the art of chroma keying in fcp x expert techniques for stunning results,jump cutting like a pro in fcpx expert techniques revealed,unlock fcp x advanced chroma keying techniques for video editors,the art of time stopping freeze frame techniques for stunning videos,compressor in fcpx expert techniques for professional results
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## The Art of Chroma Keying in FCP X: Expert Techniques for Stunning Results

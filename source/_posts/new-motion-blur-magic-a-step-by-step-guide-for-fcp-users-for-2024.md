@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Magic A Step-by-Step Guide for FCP Users for 2024
-date: 2024-04-29T02:26:15.841Z
-updated: 2024-04-30T02:26:15.841Z
+date: 2024-06-15T21:44:04.434Z
+updated: 2024-06-16T21:44:04.434Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Motion Blur Magic A Step-by-Step Guide for FCP Users for 2024
 excerpt: This Article Describes New Motion Blur Magic A Step-by-Step Guide for FCP Users for 2024
 keywords: stop motion 101 a step by step guide for newbies,stop motion for dummies a friendly guide for beginners,kinemaster for mac a step by step installation guide,movie magic for kids a step by step guide,mastering compressor a step by step guide for fcpx users,motion blur magic a step by step guide for fcp users,motion blur made easy a step by step guide for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Motion Blur Magic: A Step-by-Step Guide for FCP Users
