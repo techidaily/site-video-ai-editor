@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Maximize Your Reach YouTube Thumbnail Size, Best Practices, and Hacks
-date: 2024-06-15T21:44:03.498Z
-updated: 2024-06-16T21:44:03.498Z
+date: 2024-07-01T13:46:49.149Z
+updated: 2024-07-02T13:46:49.149Z
 tags: 
   - video editing software
   - video editing
@@ -34,7 +34,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -140,7 +140,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -246,7 +246,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 
@@ -352,7 +352,7 @@ More in detail about **Youtube thumbnail size template**, tips, and others can b
 
 #### In this article
 
-01 [Youtube Thumbnail Specifications ](#Part 1)
+01 [Youtube Thumbnail Specifications](#Part 1)
 
 02 [Youtube Thumbnail Templates](#Part 2)
 

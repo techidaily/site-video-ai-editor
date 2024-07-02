@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering VLC How to Play Videos in Slow Motion on Desktop and Mobile
-date: 2024-05-19T05:49:59.463Z
-updated: 2024-05-20T05:49:59.463Z
+date: 2024-07-01T13:46:37.611Z
+updated: 2024-07-02T13:46:37.611Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mastering VLC How to Play Videos in Slow Motion on Desktop and Mobile
 excerpt: This Article Describes In 2024, Mastering VLC How to Play Videos in Slow Motion on Desktop and Mobile
 keywords: get slo mo on vlc how to play videos in slow motion on desktop and mobile,ai animation how to play video in slow motion on vlc,how to play video in slow motion effects on vlc desktopmobile,mastering vlc how to play videos in slow motion with ease,ai animation how to play video in slow motion effects on vlc desktopmobile,master vlc how to play videos in slow motion on desktop and mobile,mastering vlc how to play videos in slow motion on desktop and mobile
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Mastering VLC: How to Play Videos in Slow Motion on Desktop and Mobile

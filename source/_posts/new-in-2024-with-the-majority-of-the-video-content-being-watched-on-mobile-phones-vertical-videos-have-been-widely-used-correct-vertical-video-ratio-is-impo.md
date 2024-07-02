@@ -1,7 +1,7 @@
 ---
 title: New In 2024, With the Majority of the Video Content Being Watched on Mobile Phones, Vertical Videos Have Been Widely Used. Correct Vertical Video Ratio Is Important for the Right Display of the Content. Learn in Detail About Vertical Video and Its Resizing
-date: 2024-06-15T21:44:13.381Z
-updated: 2024-06-16T21:44:13.381Z
+date: 2024-07-01T13:46:40.284Z
+updated: 2024-07-02T13:46:40.284Z
 tags: 
   - video editing software
   - video editing
@@ -656,7 +656,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -820,7 +820,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -984,7 +984,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -1148,7 +1148,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 

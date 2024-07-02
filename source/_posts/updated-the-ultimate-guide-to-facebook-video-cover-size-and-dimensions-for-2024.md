@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Facebook Video Cover Size and Dimensions for 2024
-date: 2024-04-29T02:30:02.397Z
-updated: 2024-04-30T02:30:02.397Z
+date: 2024-07-01T13:46:58.146Z
+updated: 2024-07-02T13:46:58.146Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate Guide to Facebook Video Cover Size and Dimensions for 2024
 excerpt: This Article Describes Updated The Ultimate Guide to Facebook Video Cover Size and Dimensions for 2024
 keywords: ai animation tiktok video dimensions the ultimate 2024 guide,the ultimate guide to facebook video cover size and dimensions,tiktok video dimensions the ultimate 2024 guide,the ultimate guide to facebook video cover size and resolution,the ideal facebook video cover size and dimensions revealed,get noticed the ideal facebook video cover size and dimensions,tiktok video dimensions 2024 the ultimate aspect ratio guide
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## The Ultimate Guide to Facebook Video Cover Size and Dimensions
