@@ -1,7 +1,7 @@
 ---
 title: Stop Motion Mastery Top 10 Software for Mac and PC Users for 2024
-date: 2024-05-19T05:48:02.788Z
-updated: 2024-05-20T05:48:02.788Z
+date: 2024-07-09T11:00:48.079Z
+updated: 2024-07-10T11:00:48.079Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Stop Motion Mastery Top 10 Software for Mac and PC Users for 2024
 excerpt: This Article Describes Stop Motion Mastery Top 10 Software for Mac and PC Users for 2024
 keywords: create stunning animations top stop motion software for mac and pc,stop motion mastery top 10 software for mac and pc users,stop motion mastery top software picks for mac and pc users,animation mastery the 10 best 2d software for creators free paid,top 8 stop motion animation software for mac and pc,stop motion animation made easy top picks for mac and pc users,stop motion animation made easy top software for mac and pc
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Stop Motion Mastery: Top 10 Software for Mac and PC Users
@@ -48,7 +48,7 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1. Filmora
 
 Filmora is one of the most well-known options for stop motion animation and other types of filmmaking. This video-making software has easy-to-use tools for any type of animation project that you may be sorting out. It also offers an option called [keyframing](https://tools.techidaily.com/wondershare/filmora/download/), which helps your stop-motion animation to look a lot smoother. You can use this for free if you are okay with Filmora’s watermark. They have perpetual and yearly packages, too.
 
@@ -70,43 +70,43 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 2. [Dragonframe](https://www.dragonframe.com/)
+### 2. Dragonframe
 
 Dragonframe has been built especially for stop-motion animation, so it’s handy if that’s all that you plan on doing. If you’re looking to do any other type of filmmaking, you may want to consider some of the other options on this list. Dragonframe has a number of simple-to-use tools and has been used for top stop motion animation features like Kubo & The Two Strings and Isle of Dogs.
 
 ![Dragonframe](https://images.wondershare.com/filmora/filmorapro/Dragonframe.jpg)
 
-### 3. [Stop Motion Studio](https://www.cateater.com/)
+### 3. Stop Motion Studio
 
 Stop Motion Studio is, perhaps, the most versatile of all of these selections. It’s not just for Mac – you can also use it on your smartphone or your tablet if you’re editing on the go. The Stop Motion Studio does everything from helping you to take great pictures to making a live green screen while you’re out and about. There’s a free trial, and the prices are reasonable.
 
 ![Stop Motion Studio](https://images.wondershare.com/filmora/article-images/Stop-Motion-Studio.JPG)
 
-### 4. [Boinx iStopMotion](https://boinx.com/istopmotion/mac/)
+### 4. Boinx iStopMotion
 
 iStopMotion from Boinx has everything that you need in order to learn how to do stop motion animation on your own. They have easy-to-use settings and many schools are using iStopMotion to teach their students about video editing because of its simple, yet complete, system. It’s got the most affordable licensing cost out of all of these choices, and they can work with you if you need to get multiple licenses for classrooms.
 
 ![Boinx iStopMotion](https://images.wondershare.com/filmora/filmorapro/Boinx-iStopMotion.jpg)
 
-### 5. Eclipse - [Stop Motion Pro](https://www.stopmotionpro.com/index.php)
+### 5. Eclipse - Stop Motion Pro
 
 Stop Motion Pro has some of the top software in the world for making animated films of all types, and it’s easy to connect it to your webcam or digital camera. Not only can it make and edit videos, but, when you connect it to your camera, you can control angles, zoom, and more. It even has lip-syncing capabilities and a multi-track editor, which makes it easy to add music and voices.
 
 ![Stop Motion Pro](https://images.wondershare.com/filmora/filmorapro/Stop-Motion-Pro.jpg)
 
-### 6. [Frames](https://www.tech4learning.com/frames/)
+### 6. Frames
 
 Frames is an animation powerhouse when it comes to offering the necessary tools for every sort of animation. From traditional cartoons to stop-motion animation options, Frames has it all and it’s really easy to navigate and learn the software quickly. Frames have won a number of awards and are available in multiple languages. It does have a one-time licensing fee (which is fairly reasonable for what is included), so keep that in mind when you’re considering it as an option.
 
 ![Frames](https://images.wondershare.com/filmora/filmorapro/frames.jpg)
 
-### 7. [iKITMovie](https://www.microsoft.com/en-us/p/stop-motion-studio/9wzdncrdk52q)
+### 7. iKITMovie
 
 iKITMovie runs pretty well on Windows 7/8/10\. It has more than 2000 music effects to use. You can use HD-quality images to start making stop motion videos. You can also use green-screen effects to unleash more imagination if you are an advanced user. The system requirement is low with only 2GB RAM. After making the stop motion animation, directly upload it to YouTube.
 
 ![iKITMovie](https://images.wondershare.com/filmora/filmorapro/iKITMovie.jpg)
 
-### 8. [MonkeyJam](https://monkeyjam.en.softonic.com/)
+### 8. MonkeyJam
 
 MonkeyJam is an open-source, free option for people who are looking to dip their toes into stop-motion animation for the first time. While it doesn’t have quite as many features as what you may find in the other options we have in this article, you’ll find that it can be a great start for people that aren’t completely sure as to whether or not they want to dive head-first into it. It’s really easy to navigate and it takes next to no time to go from taking your pictures to putting together that first glance at your new and unique stop-motion animation.
 
@@ -160,7 +160,7 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1. Filmora
 
 Filmora is one of the most well-known options for stop motion animation and other types of filmmaking. This video-making software has easy-to-use tools for any type of animation project that you may be sorting out. It also offers an option called [keyframing](https://tools.techidaily.com/wondershare/filmora/download/), which helps your stop-motion animation to look a lot smoother. You can use this for free if you are okay with Filmora’s watermark. They have perpetual and yearly packages, too.
 
@@ -182,43 +182,43 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 2. [Dragonframe](https://www.dragonframe.com/)
+### 2. Dragonframe
 
 Dragonframe has been built especially for stop-motion animation, so it’s handy if that’s all that you plan on doing. If you’re looking to do any other type of filmmaking, you may want to consider some of the other options on this list. Dragonframe has a number of simple-to-use tools and has been used for top stop motion animation features like Kubo & The Two Strings and Isle of Dogs.
 
 ![Dragonframe](https://images.wondershare.com/filmora/filmorapro/Dragonframe.jpg)
 
-### 3. [Stop Motion Studio](https://www.cateater.com/)
+### 3. Stop Motion Studio
 
 Stop Motion Studio is, perhaps, the most versatile of all of these selections. It’s not just for Mac – you can also use it on your smartphone or your tablet if you’re editing on the go. The Stop Motion Studio does everything from helping you to take great pictures to making a live green screen while you’re out and about. There’s a free trial, and the prices are reasonable.
 
 ![Stop Motion Studio](https://images.wondershare.com/filmora/article-images/Stop-Motion-Studio.JPG)
 
-### 4. [Boinx iStopMotion](https://boinx.com/istopmotion/mac/)
+### 4. Boinx iStopMotion
 
 iStopMotion from Boinx has everything that you need in order to learn how to do stop motion animation on your own. They have easy-to-use settings and many schools are using iStopMotion to teach their students about video editing because of its simple, yet complete, system. It’s got the most affordable licensing cost out of all of these choices, and they can work with you if you need to get multiple licenses for classrooms.
 
 ![Boinx iStopMotion](https://images.wondershare.com/filmora/filmorapro/Boinx-iStopMotion.jpg)
 
-### 5. Eclipse - [Stop Motion Pro](https://www.stopmotionpro.com/index.php)
+### 5. Eclipse - Stop Motion Pro
 
 Stop Motion Pro has some of the top software in the world for making animated films of all types, and it’s easy to connect it to your webcam or digital camera. Not only can it make and edit videos, but, when you connect it to your camera, you can control angles, zoom, and more. It even has lip-syncing capabilities and a multi-track editor, which makes it easy to add music and voices.
 
 ![Stop Motion Pro](https://images.wondershare.com/filmora/filmorapro/Stop-Motion-Pro.jpg)
 
-### 6. [Frames](https://www.tech4learning.com/frames/)
+### 6. Frames
 
 Frames is an animation powerhouse when it comes to offering the necessary tools for every sort of animation. From traditional cartoons to stop-motion animation options, Frames has it all and it’s really easy to navigate and learn the software quickly. Frames have won a number of awards and are available in multiple languages. It does have a one-time licensing fee (which is fairly reasonable for what is included), so keep that in mind when you’re considering it as an option.
 
 ![Frames](https://images.wondershare.com/filmora/filmorapro/frames.jpg)
 
-### 7. [iKITMovie](https://www.microsoft.com/en-us/p/stop-motion-studio/9wzdncrdk52q)
+### 7. iKITMovie
 
 iKITMovie runs pretty well on Windows 7/8/10\. It has more than 2000 music effects to use. You can use HD-quality images to start making stop motion videos. You can also use green-screen effects to unleash more imagination if you are an advanced user. The system requirement is low with only 2GB RAM. After making the stop motion animation, directly upload it to YouTube.
 
 ![iKITMovie](https://images.wondershare.com/filmora/filmorapro/iKITMovie.jpg)
 
-### 8. [MonkeyJam](https://monkeyjam.en.softonic.com/)
+### 8. MonkeyJam
 
 MonkeyJam is an open-source, free option for people who are looking to dip their toes into stop-motion animation for the first time. While it doesn’t have quite as many features as what you may find in the other options we have in this article, you’ll find that it can be a great start for people that aren’t completely sure as to whether or not they want to dive head-first into it. It’s really easy to navigate and it takes next to no time to go from taking your pictures to putting together that first glance at your new and unique stop-motion animation.
 
@@ -272,7 +272,7 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1. Filmora
 
 Filmora is one of the most well-known options for stop motion animation and other types of filmmaking. This video-making software has easy-to-use tools for any type of animation project that you may be sorting out. It also offers an option called [keyframing](https://tools.techidaily.com/wondershare/filmora/download/), which helps your stop-motion animation to look a lot smoother. You can use this for free if you are okay with Filmora’s watermark. They have perpetual and yearly packages, too.
 
@@ -294,43 +294,43 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 2. [Dragonframe](https://www.dragonframe.com/)
+### 2. Dragonframe
 
 Dragonframe has been built especially for stop-motion animation, so it’s handy if that’s all that you plan on doing. If you’re looking to do any other type of filmmaking, you may want to consider some of the other options on this list. Dragonframe has a number of simple-to-use tools and has been used for top stop motion animation features like Kubo & The Two Strings and Isle of Dogs.
 
 ![Dragonframe](https://images.wondershare.com/filmora/filmorapro/Dragonframe.jpg)
 
-### 3. [Stop Motion Studio](https://www.cateater.com/)
+### 3. Stop Motion Studio
 
 Stop Motion Studio is, perhaps, the most versatile of all of these selections. It’s not just for Mac – you can also use it on your smartphone or your tablet if you’re editing on the go. The Stop Motion Studio does everything from helping you to take great pictures to making a live green screen while you’re out and about. There’s a free trial, and the prices are reasonable.
 
 ![Stop Motion Studio](https://images.wondershare.com/filmora/article-images/Stop-Motion-Studio.JPG)
 
-### 4. [Boinx iStopMotion](https://boinx.com/istopmotion/mac/)
+### 4. Boinx iStopMotion
 
 iStopMotion from Boinx has everything that you need in order to learn how to do stop motion animation on your own. They have easy-to-use settings and many schools are using iStopMotion to teach their students about video editing because of its simple, yet complete, system. It’s got the most affordable licensing cost out of all of these choices, and they can work with you if you need to get multiple licenses for classrooms.
 
 ![Boinx iStopMotion](https://images.wondershare.com/filmora/filmorapro/Boinx-iStopMotion.jpg)
 
-### 5. Eclipse - [Stop Motion Pro](https://www.stopmotionpro.com/index.php)
+### 5. Eclipse - Stop Motion Pro
 
 Stop Motion Pro has some of the top software in the world for making animated films of all types, and it’s easy to connect it to your webcam or digital camera. Not only can it make and edit videos, but, when you connect it to your camera, you can control angles, zoom, and more. It even has lip-syncing capabilities and a multi-track editor, which makes it easy to add music and voices.
 
 ![Stop Motion Pro](https://images.wondershare.com/filmora/filmorapro/Stop-Motion-Pro.jpg)
 
-### 6. [Frames](https://www.tech4learning.com/frames/)
+### 6. Frames
 
 Frames is an animation powerhouse when it comes to offering the necessary tools for every sort of animation. From traditional cartoons to stop-motion animation options, Frames has it all and it’s really easy to navigate and learn the software quickly. Frames have won a number of awards and are available in multiple languages. It does have a one-time licensing fee (which is fairly reasonable for what is included), so keep that in mind when you’re considering it as an option.
 
 ![Frames](https://images.wondershare.com/filmora/filmorapro/frames.jpg)
 
-### 7. [iKITMovie](https://www.microsoft.com/en-us/p/stop-motion-studio/9wzdncrdk52q)
+### 7. iKITMovie
 
 iKITMovie runs pretty well on Windows 7/8/10\. It has more than 2000 music effects to use. You can use HD-quality images to start making stop motion videos. You can also use green-screen effects to unleash more imagination if you are an advanced user. The system requirement is low with only 2GB RAM. After making the stop motion animation, directly upload it to YouTube.
 
 ![iKITMovie](https://images.wondershare.com/filmora/filmorapro/iKITMovie.jpg)
 
-### 8. [MonkeyJam](https://monkeyjam.en.softonic.com/)
+### 8. MonkeyJam
 
 MonkeyJam is an open-source, free option for people who are looking to dip their toes into stop-motion animation for the first time. While it doesn’t have quite as many features as what you may find in the other options we have in this article, you’ll find that it can be a great start for people that aren’t completely sure as to whether or not they want to dive head-first into it. It’s really easy to navigate and it takes next to no time to go from taking your pictures to putting together that first glance at your new and unique stop-motion animation.
 
@@ -384,7 +384,7 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 1. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1. Filmora
 
 Filmora is one of the most well-known options for stop motion animation and other types of filmmaking. This video-making software has easy-to-use tools for any type of animation project that you may be sorting out. It also offers an option called [keyframing](https://tools.techidaily.com/wondershare/filmora/download/), which helps your stop-motion animation to look a lot smoother. You can use this for free if you are okay with Filmora’s watermark. They have perpetual and yearly packages, too.
 
@@ -406,43 +406,43 @@ For macOS 10.14 or later
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-### 2. [Dragonframe](https://www.dragonframe.com/)
+### 2. Dragonframe
 
 Dragonframe has been built especially for stop-motion animation, so it’s handy if that’s all that you plan on doing. If you’re looking to do any other type of filmmaking, you may want to consider some of the other options on this list. Dragonframe has a number of simple-to-use tools and has been used for top stop motion animation features like Kubo & The Two Strings and Isle of Dogs.
 
 ![Dragonframe](https://images.wondershare.com/filmora/filmorapro/Dragonframe.jpg)
 
-### 3. [Stop Motion Studio](https://www.cateater.com/)
+### 3. Stop Motion Studio
 
 Stop Motion Studio is, perhaps, the most versatile of all of these selections. It’s not just for Mac – you can also use it on your smartphone or your tablet if you’re editing on the go. The Stop Motion Studio does everything from helping you to take great pictures to making a live green screen while you’re out and about. There’s a free trial, and the prices are reasonable.
 
 ![Stop Motion Studio](https://images.wondershare.com/filmora/article-images/Stop-Motion-Studio.JPG)
 
-### 4. [Boinx iStopMotion](https://boinx.com/istopmotion/mac/)
+### 4. Boinx iStopMotion
 
 iStopMotion from Boinx has everything that you need in order to learn how to do stop motion animation on your own. They have easy-to-use settings and many schools are using iStopMotion to teach their students about video editing because of its simple, yet complete, system. It’s got the most affordable licensing cost out of all of these choices, and they can work with you if you need to get multiple licenses for classrooms.
 
 ![Boinx iStopMotion](https://images.wondershare.com/filmora/filmorapro/Boinx-iStopMotion.jpg)
 
-### 5. Eclipse - [Stop Motion Pro](https://www.stopmotionpro.com/index.php)
+### 5. Eclipse - Stop Motion Pro
 
 Stop Motion Pro has some of the top software in the world for making animated films of all types, and it’s easy to connect it to your webcam or digital camera. Not only can it make and edit videos, but, when you connect it to your camera, you can control angles, zoom, and more. It even has lip-syncing capabilities and a multi-track editor, which makes it easy to add music and voices.
 
 ![Stop Motion Pro](https://images.wondershare.com/filmora/filmorapro/Stop-Motion-Pro.jpg)
 
-### 6. [Frames](https://www.tech4learning.com/frames/)
+### 6. Frames
 
 Frames is an animation powerhouse when it comes to offering the necessary tools for every sort of animation. From traditional cartoons to stop-motion animation options, Frames has it all and it’s really easy to navigate and learn the software quickly. Frames have won a number of awards and are available in multiple languages. It does have a one-time licensing fee (which is fairly reasonable for what is included), so keep that in mind when you’re considering it as an option.
 
 ![Frames](https://images.wondershare.com/filmora/filmorapro/frames.jpg)
 
-### 7. [iKITMovie](https://www.microsoft.com/en-us/p/stop-motion-studio/9wzdncrdk52q)
+### 7. iKITMovie
 
 iKITMovie runs pretty well on Windows 7/8/10\. It has more than 2000 music effects to use. You can use HD-quality images to start making stop motion videos. You can also use green-screen effects to unleash more imagination if you are an advanced user. The system requirement is low with only 2GB RAM. After making the stop motion animation, directly upload it to YouTube.
 
 ![iKITMovie](https://images.wondershare.com/filmora/filmorapro/iKITMovie.jpg)
 
-### 8. [MonkeyJam](https://monkeyjam.en.softonic.com/)
+### 8. MonkeyJam
 
 MonkeyJam is an open-source, free option for people who are looking to dip their toes into stop-motion animation for the first time. While it doesn’t have quite as many features as what you may find in the other options we have in this article, you’ll find that it can be a great start for people that aren’t completely sure as to whether or not they want to dive head-first into it. It’s really easy to navigate and it takes next to no time to go from taking your pictures to putting together that first glance at your new and unique stop-motion animation.
 
@@ -727,7 +727,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -741,13 +741,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1004,7 +1004,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1018,13 +1018,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1281,7 +1281,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1295,13 +1295,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1558,7 +1558,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1572,13 +1572,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1989,7 +1989,7 @@ If you’re an iMovie '09 or later user or you bought your Mac on or after Octob
 
 [Find more details about how to composite a green screen video in Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
 
 Compared with Final Cut Pro($299), Filmora as an advanced video editing software for Mac is pretty affordable ($79.99/perpetual license). But trust me, it’s worth every penny as a professional video editor and high-end movie production. What you need is just more practices.
 
@@ -2018,7 +2018,7 @@ If you’re an iMovie '09 or later user or you bought your Mac on or after Octob
 
 [Find more details about how to composite a green screen video in Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
 
 Compared with Final Cut Pro($299), Filmora as an advanced video editing software for Mac is pretty affordable ($79.99/perpetual license). But trust me, it’s worth every penny as a professional video editor and high-end movie production. What you need is just more practices.
 
@@ -2047,7 +2047,7 @@ If you’re an iMovie '09 or later user or you bought your Mac on or after Octob
 
 [Find more details about how to composite a green screen video in Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
 
 Compared with Final Cut Pro($299), Filmora as an advanced video editing software for Mac is pretty affordable ($79.99/perpetual license). But trust me, it’s worth every penny as a professional video editor and high-end movie production. What you need is just more practices.
 
@@ -2076,7 +2076,7 @@ If you’re an iMovie '09 or later user or you bought your Mac on or after Octob
 
 [Find more details about how to composite a green screen video in Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Mac (Latest version 9) is not only a green screen software, but also an all-in-one powerful, fun and easy video editing software. It is a better solution for prosumers (amateurs that want to look professional). With hundreds of effects and filters built-in, you could finish any advanced video editing with limitless possibilities within minutes. Download it to get started with your project now, here’s the free trial version!
 
 Compared with Final Cut Pro($299), Filmora as an advanced video editing software for Mac is pretty affordable ($79.99/perpetual license). But trust me, it’s worth every penny as a professional video editor and high-end movie production. What you need is just more practices.
 

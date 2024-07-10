@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro 2 Simple Ways to Fade Audio In and Out for 2024
-date: 2024-04-29T02:22:26.842Z
-updated: 2024-04-30T02:22:26.842Z
+date: 2024-07-09T11:00:41.011Z
+updated: 2024-07-10T11:00:41.011Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Final Cut Pro 2 Simple Ways to Fade Audio In and Out for 2024
 excerpt: This Article Describes Updated Final Cut Pro 2 Simple Ways to Fade Audio In and Out for 2024
 keywords: ai animation two ways to fade inout audio in final cut pro,final cut pro 2 simple ways to fade audio in and out,final cut pro 2 simple ways to add professional audio fades,two ways to fade inout audio in final cut pro,from silence to sound two ways to fade in and out of audio in final cut pro,the simple way to reverse a video in final cut pro 2023 edition,audio fade ins and outs made easy 2 final cut pro techniques
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Final Cut Pro : 2 Simple Ways to Fade Audio In and Out
@@ -50,7 +50,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -78,13 +78,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -135,7 +135,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -163,13 +163,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -220,7 +220,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -248,13 +248,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -305,7 +305,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -333,13 +333,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -441,7 +441,7 @@ Filmora is a complete video editing tool that will meet every requirement of you
 
 * The premium version is needed to use all features.
 
-#### **_2._**[**_Magix_**](http://www.magix.com/)
+#### **_2._** **_Magix_**
 
 Magix is another reliable video dubbing software for PC with a free download option that you can explore. Though, if you want to experience its premium features, you must buy the Magix Pro version.
 
@@ -459,7 +459,7 @@ Magix is another reliable video dubbing software for PC with a free download opt
 
 * The Pro version is not available for free.
 
-#### **_3._**[**_CamStudio_**](https://camstudio.org/)
+#### **_3._** **_CamStudio_**
 
 If you are looking for video dubbing software for a PC free download option, then CamStudio would be an ideal pick. Since this is an open-source desktop application, you can use it without paying anything.
 
@@ -478,7 +478,7 @@ If you are looking for video dubbing software for a PC free download option, the
 * Only supports AVI files.
 * Not as user-friendly as other tools.
 
-#### **_4._**[**_Free Audio Dub_**](https://qpdownload.com/free-audio-dub/)
+#### **_4._** **_Free Audio Dub_**
 
 This is another resourceful video dubbing software for PC with a free download that you can consider. While the video dubbing software does not have a lot of features, it will meet your basic post-production needs.
 
@@ -495,7 +495,7 @@ This is another resourceful video dubbing software for PC with a free download t
 
 * Limited features.
 
-#### **_5._**[**_Audacity_**](https://www.audacityteam.org/)
+#### **_5._** **_Audacity_**
 
 Audacity is one of the most popular audio editing tools available for leading platforms. Since it is an open-source application, it can also be used as video dubbing software for free.
 
@@ -514,7 +514,7 @@ Audacity is one of the most popular audio editing tools available for leading pl
 * There are no video editing options.
 * You can only record and edit audio, but later, you will need another tool for merging with videos.
 
-#### **_6._**[**_ApowerSoft Video Editor_**](https://www.apowersoft.com/)
+#### **_6._** **_ApowerSoft Video Editor_**
 
 Lastly, you can also use the ApowerSoft video editor as a video dubbing software as it has built-in features to record and edit audio.
 
@@ -629,7 +629,7 @@ Filmora is a complete video editing tool that will meet every requirement of you
 
 * The premium version is needed to use all features.
 
-#### **_2._**[**_Magix_**](http://www.magix.com/)
+#### **_2._** **_Magix_**
 
 Magix is another reliable video dubbing software for PC with a free download option that you can explore. Though, if you want to experience its premium features, you must buy the Magix Pro version.
 
@@ -647,7 +647,7 @@ Magix is another reliable video dubbing software for PC with a free download opt
 
 * The Pro version is not available for free.
 
-#### **_3._**[**_CamStudio_**](https://camstudio.org/)
+#### **_3._** **_CamStudio_**
 
 If you are looking for video dubbing software for a PC free download option, then CamStudio would be an ideal pick. Since this is an open-source desktop application, you can use it without paying anything.
 
@@ -666,7 +666,7 @@ If you are looking for video dubbing software for a PC free download option, the
 * Only supports AVI files.
 * Not as user-friendly as other tools.
 
-#### **_4._**[**_Free Audio Dub_**](https://qpdownload.com/free-audio-dub/)
+#### **_4._** **_Free Audio Dub_**
 
 This is another resourceful video dubbing software for PC with a free download that you can consider. While the video dubbing software does not have a lot of features, it will meet your basic post-production needs.
 
@@ -683,7 +683,7 @@ This is another resourceful video dubbing software for PC with a free download t
 
 * Limited features.
 
-#### **_5._**[**_Audacity_**](https://www.audacityteam.org/)
+#### **_5._** **_Audacity_**
 
 Audacity is one of the most popular audio editing tools available for leading platforms. Since it is an open-source application, it can also be used as video dubbing software for free.
 
@@ -702,7 +702,7 @@ Audacity is one of the most popular audio editing tools available for leading pl
 * There are no video editing options.
 * You can only record and edit audio, but later, you will need another tool for merging with videos.
 
-#### **_6._**[**_ApowerSoft Video Editor_**](https://www.apowersoft.com/)
+#### **_6._** **_ApowerSoft Video Editor_**
 
 Lastly, you can also use the ApowerSoft video editor as a video dubbing software as it has built-in features to record and edit audio.
 
@@ -817,7 +817,7 @@ Filmora is a complete video editing tool that will meet every requirement of you
 
 * The premium version is needed to use all features.
 
-#### **_2._**[**_Magix_**](http://www.magix.com/)
+#### **_2._** **_Magix_**
 
 Magix is another reliable video dubbing software for PC with a free download option that you can explore. Though, if you want to experience its premium features, you must buy the Magix Pro version.
 
@@ -835,7 +835,7 @@ Magix is another reliable video dubbing software for PC with a free download opt
 
 * The Pro version is not available for free.
 
-#### **_3._**[**_CamStudio_**](https://camstudio.org/)
+#### **_3._** **_CamStudio_**
 
 If you are looking for video dubbing software for a PC free download option, then CamStudio would be an ideal pick. Since this is an open-source desktop application, you can use it without paying anything.
 
@@ -854,7 +854,7 @@ If you are looking for video dubbing software for a PC free download option, the
 * Only supports AVI files.
 * Not as user-friendly as other tools.
 
-#### **_4._**[**_Free Audio Dub_**](https://qpdownload.com/free-audio-dub/)
+#### **_4._** **_Free Audio Dub_**
 
 This is another resourceful video dubbing software for PC with a free download that you can consider. While the video dubbing software does not have a lot of features, it will meet your basic post-production needs.
 
@@ -871,7 +871,7 @@ This is another resourceful video dubbing software for PC with a free download t
 
 * Limited features.
 
-#### **_5._**[**_Audacity_**](https://www.audacityteam.org/)
+#### **_5._** **_Audacity_**
 
 Audacity is one of the most popular audio editing tools available for leading platforms. Since it is an open-source application, it can also be used as video dubbing software for free.
 
@@ -890,7 +890,7 @@ Audacity is one of the most popular audio editing tools available for leading pl
 * There are no video editing options.
 * You can only record and edit audio, but later, you will need another tool for merging with videos.
 
-#### **_6._**[**_ApowerSoft Video Editor_**](https://www.apowersoft.com/)
+#### **_6._** **_ApowerSoft Video Editor_**
 
 Lastly, you can also use the ApowerSoft video editor as a video dubbing software as it has built-in features to record and edit audio.
 
@@ -1005,7 +1005,7 @@ Filmora is a complete video editing tool that will meet every requirement of you
 
 * The premium version is needed to use all features.
 
-#### **_2._**[**_Magix_**](http://www.magix.com/)
+#### **_2._** **_Magix_**
 
 Magix is another reliable video dubbing software for PC with a free download option that you can explore. Though, if you want to experience its premium features, you must buy the Magix Pro version.
 
@@ -1023,7 +1023,7 @@ Magix is another reliable video dubbing software for PC with a free download opt
 
 * The Pro version is not available for free.
 
-#### **_3._**[**_CamStudio_**](https://camstudio.org/)
+#### **_3._** **_CamStudio_**
 
 If you are looking for video dubbing software for a PC free download option, then CamStudio would be an ideal pick. Since this is an open-source desktop application, you can use it without paying anything.
 
@@ -1042,7 +1042,7 @@ If you are looking for video dubbing software for a PC free download option, the
 * Only supports AVI files.
 * Not as user-friendly as other tools.
 
-#### **_4._**[**_Free Audio Dub_**](https://qpdownload.com/free-audio-dub/)
+#### **_4._** **_Free Audio Dub_**
 
 This is another resourceful video dubbing software for PC with a free download that you can consider. While the video dubbing software does not have a lot of features, it will meet your basic post-production needs.
 
@@ -1059,7 +1059,7 @@ This is another resourceful video dubbing software for PC with a free download t
 
 * Limited features.
 
-#### **_5._**[**_Audacity_**](https://www.audacityteam.org/)
+#### **_5._** **_Audacity_**
 
 Audacity is one of the most popular audio editing tools available for leading platforms. Since it is an open-source application, it can also be used as video dubbing software for free.
 
@@ -1078,7 +1078,7 @@ Audacity is one of the most popular audio editing tools available for leading pl
 * There are no video editing options.
 * You can only record and edit audio, but later, you will need another tool for merging with videos.
 
-#### **_6._**[**_ApowerSoft Video Editor_**](https://www.apowersoft.com/)
+#### **_6._** **_ApowerSoft Video Editor_**
 
 Lastly, you can also use the ApowerSoft video editor as a video dubbing software as it has built-in features to record and edit audio.
 

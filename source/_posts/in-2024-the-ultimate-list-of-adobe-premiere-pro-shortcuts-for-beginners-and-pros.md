@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
-date: 2024-05-19T05:48:08.562Z
-updated: 2024-05-20T05:48:08.562Z
+date: 2024-07-09T11:00:51.495Z
+updated: 2024-07-10T11:00:51.495Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
 excerpt: This Article Describes In 2024, The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
 keywords: the ultimate list 15 best adobe premiere pro plugins to download,the ultimate list of adobe premiere pro plugins free downloads inside,the ultimate list of android video editing apps for beginners,the ultimate adobe premiere shortcut guide 20 tips and tricks,the ultimate list of free video cutter and joiner software for beginners,the ultimate list 10 best premiere pro transition plugins for creators,the ultimate list of adobe premiere pro shortcuts for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros
@@ -1688,7 +1688,7 @@ Both Mac and PC users have a broad range of free software products at their disp
 
 Filmora is a powerful video editing software that is compatible with both macOS and Windows operating systems. Besides offering a plethora of video editing tools you can use to create green-screen videos, stabilize shaky footage captured with action cameras or make the Picture-in-Picture effect, Filmora also lets you edit audio files with ease. The built-in library of royalty-free music and audio effects enables you to create compelling soundtracks for each of your videos, while its Denoise feature helps you reduce background noise in audio files. Converting an MP4 to MP3 in Filmora is a quick process that won’t take much longer than a couple of minutes. Here’s how you can convert an MP4 to MP3 with Filmora.
 
-![Filmora9 Export MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
+![Filmora9 Export MP4 as MP3](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
 
 After you’ve created a new project, you should head over to the editor’s **Media Panel** to import the MP4 video file you’d like to turn into an MP3 audio file. The file you imported into a project in Filmora will be displayed in the Media Panel and you should simply **drag and drop it to the timeline**. After you’ve placed the MP4 file to the video track on the timeline, you should click on **the Export button**.
 
@@ -1711,7 +1711,7 @@ All recent versions of the Windows OS come bundled with the Windows Media Player
 
 Once the home screen loads, you should click on the **Organize drop-down** menu that is located in the upper left corner of the screen and **select Options**. Click on the **Rip Music tab** in the Options window that appeared on the screen and then use **the Change icon** to select the destination on your hard drive where the converted file is going to be saved.
 
-![Windows Media Player Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Windows Media Player Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Directly below you will be able to see the **Rip Settings section of the tab**, click on the **Format drop-down menu** and select the **MP3 option**. Hit the **OK button** to commence the conversion process, and wait for your MP4 file to be converted into an MP3 file.
 
@@ -1760,9 +1760,9 @@ Go to the **Media menu** and click on the **Convert/Save option** or use the **C
 
 Besides using MP4 to MP3 converters for Mac and PC computers, you can also try converting MP4 to MP3 with web-based tools. Let’s take a look at some of the best online MP4 to MP3 converters you can use for free.
 
-#### 1. [Online Audio Converter](https://online-audio-converter.com/)
+#### 1. Online Audio Converter
 
-![Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Online Audio Converter lets you convert more than **300 different file formats** into MP3, WAV, Ogg and other audio file formats in just three easy steps. Simply **upload a file**, **set the output format to MP3** and adjust the **Quality settings**. Optionally, you can click on the **Advanced Settings button** if you want to apply **fade-in and fadeout** effects, alter the Bitrate and Sample Rate or specify the number of channels. The platform also lets you edit the track info so you can add the name of the artist or the title of a song. In addition, you can also **use the batch conversion option** if you want to convert multiple MP4 files to MP3 at the same time. Click on the Convert button when ready to complete the file conversion process.
 
@@ -1775,9 +1775,9 @@ Online Audio Converter lets you convert more than **300 different file formats**
 
 * Uploading large MP4 files can take a while
 
-#### 2. [Convertio](https://convertio.co/mp4-mp3/)
+#### 2. Convertio
 
-![ Convertio Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
+![Convertio Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
 
 There is nothing complicated about converting MP4 to MP3 with this online platform. You can just upload an MP4 file from your computer, Dropbox or Google Drive and hit the **convert button**. The **lite version** of Convertio doesn’t let you upload files larger than **500MB** and it allows you to **make 25 concurrent conversions**. Uploading MP4 files up to **1GB** requires you to purchase the **Basic subscription plan**, but you can also use the Convertio platform for free if you are not planning on using it frequently to convert MP4 to MP3 files.
 
@@ -1789,9 +1789,9 @@ There is nothing complicated about converting MP4 to MP3 with this online platfo
 
 * Choosing a subscription is necessary if you want to convert files larger than 500MB
 
-#### 3. [Zamzar](https://www.zamzar.com/convert/mp4-to-mp3/)
+#### 3. Zamzar
 
-![Zamzar Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
+![Zamzar Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
 
 Zamzar is a powerful file converter that lets you convert MP4 files to a broad range of audio and image file formats. The best part is that you can complete the file conversion process effortlessly. **Upload a file, select the output file format and click on the Convert Now button**. However, before you can start converting MP4 to MP3 you will have to agree to the platform’s terms and conditions. The **maximum size** of an MP4 file, you can convert to MP3 or any other file format with the free version of the platform can’t exceed **150MB**.
 
@@ -1835,7 +1835,7 @@ Both Mac and PC users have a broad range of free software products at their disp
 
 Filmora is a powerful video editing software that is compatible with both macOS and Windows operating systems. Besides offering a plethora of video editing tools you can use to create green-screen videos, stabilize shaky footage captured with action cameras or make the Picture-in-Picture effect, Filmora also lets you edit audio files with ease. The built-in library of royalty-free music and audio effects enables you to create compelling soundtracks for each of your videos, while its Denoise feature helps you reduce background noise in audio files. Converting an MP4 to MP3 in Filmora is a quick process that won’t take much longer than a couple of minutes. Here’s how you can convert an MP4 to MP3 with Filmora.
 
-![Filmora9 Export MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
+![Filmora9 Export MP4 as MP3](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
 
 After you’ve created a new project, you should head over to the editor’s **Media Panel** to import the MP4 video file you’d like to turn into an MP3 audio file. The file you imported into a project in Filmora will be displayed in the Media Panel and you should simply **drag and drop it to the timeline**. After you’ve placed the MP4 file to the video track on the timeline, you should click on **the Export button**.
 
@@ -1858,7 +1858,7 @@ All recent versions of the Windows OS come bundled with the Windows Media Player
 
 Once the home screen loads, you should click on the **Organize drop-down** menu that is located in the upper left corner of the screen and **select Options**. Click on the **Rip Music tab** in the Options window that appeared on the screen and then use **the Change icon** to select the destination on your hard drive where the converted file is going to be saved.
 
-![Windows Media Player Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Windows Media Player Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Directly below you will be able to see the **Rip Settings section of the tab**, click on the **Format drop-down menu** and select the **MP3 option**. Hit the **OK button** to commence the conversion process, and wait for your MP4 file to be converted into an MP3 file.
 
@@ -1907,9 +1907,9 @@ Go to the **Media menu** and click on the **Convert/Save option** or use the **C
 
 Besides using MP4 to MP3 converters for Mac and PC computers, you can also try converting MP4 to MP3 with web-based tools. Let’s take a look at some of the best online MP4 to MP3 converters you can use for free.
 
-#### 1. [Online Audio Converter](https://online-audio-converter.com/)
+#### 1. Online Audio Converter
 
-![Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Online Audio Converter lets you convert more than **300 different file formats** into MP3, WAV, Ogg and other audio file formats in just three easy steps. Simply **upload a file**, **set the output format to MP3** and adjust the **Quality settings**. Optionally, you can click on the **Advanced Settings button** if you want to apply **fade-in and fadeout** effects, alter the Bitrate and Sample Rate or specify the number of channels. The platform also lets you edit the track info so you can add the name of the artist or the title of a song. In addition, you can also **use the batch conversion option** if you want to convert multiple MP4 files to MP3 at the same time. Click on the Convert button when ready to complete the file conversion process.
 
@@ -1922,9 +1922,9 @@ Online Audio Converter lets you convert more than **300 different file formats**
 
 * Uploading large MP4 files can take a while
 
-#### 2. [Convertio](https://convertio.co/mp4-mp3/)
+#### 2. Convertio
 
-![ Convertio Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
+![Convertio Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
 
 There is nothing complicated about converting MP4 to MP3 with this online platform. You can just upload an MP4 file from your computer, Dropbox or Google Drive and hit the **convert button**. The **lite version** of Convertio doesn’t let you upload files larger than **500MB** and it allows you to **make 25 concurrent conversions**. Uploading MP4 files up to **1GB** requires you to purchase the **Basic subscription plan**, but you can also use the Convertio platform for free if you are not planning on using it frequently to convert MP4 to MP3 files.
 
@@ -1936,9 +1936,9 @@ There is nothing complicated about converting MP4 to MP3 with this online platfo
 
 * Choosing a subscription is necessary if you want to convert files larger than 500MB
 
-#### 3. [Zamzar](https://www.zamzar.com/convert/mp4-to-mp3/)
+#### 3. Zamzar
 
-![Zamzar Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
+![Zamzar Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
 
 Zamzar is a powerful file converter that lets you convert MP4 files to a broad range of audio and image file formats. The best part is that you can complete the file conversion process effortlessly. **Upload a file, select the output file format and click on the Convert Now button**. However, before you can start converting MP4 to MP3 you will have to agree to the platform’s terms and conditions. The **maximum size** of an MP4 file, you can convert to MP3 or any other file format with the free version of the platform can’t exceed **150MB**.
 
@@ -1982,7 +1982,7 @@ Both Mac and PC users have a broad range of free software products at their disp
 
 Filmora is a powerful video editing software that is compatible with both macOS and Windows operating systems. Besides offering a plethora of video editing tools you can use to create green-screen videos, stabilize shaky footage captured with action cameras or make the Picture-in-Picture effect, Filmora also lets you edit audio files with ease. The built-in library of royalty-free music and audio effects enables you to create compelling soundtracks for each of your videos, while its Denoise feature helps you reduce background noise in audio files. Converting an MP4 to MP3 in Filmora is a quick process that won’t take much longer than a couple of minutes. Here’s how you can convert an MP4 to MP3 with Filmora.
 
-![Filmora9 Export MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
+![Filmora9 Export MP4 as MP3](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
 
 After you’ve created a new project, you should head over to the editor’s **Media Panel** to import the MP4 video file you’d like to turn into an MP3 audio file. The file you imported into a project in Filmora will be displayed in the Media Panel and you should simply **drag and drop it to the timeline**. After you’ve placed the MP4 file to the video track on the timeline, you should click on **the Export button**.
 
@@ -2005,7 +2005,7 @@ All recent versions of the Windows OS come bundled with the Windows Media Player
 
 Once the home screen loads, you should click on the **Organize drop-down** menu that is located in the upper left corner of the screen and **select Options**. Click on the **Rip Music tab** in the Options window that appeared on the screen and then use **the Change icon** to select the destination on your hard drive where the converted file is going to be saved.
 
-![Windows Media Player Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Windows Media Player Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Directly below you will be able to see the **Rip Settings section of the tab**, click on the **Format drop-down menu** and select the **MP3 option**. Hit the **OK button** to commence the conversion process, and wait for your MP4 file to be converted into an MP3 file.
 
@@ -2054,9 +2054,9 @@ Go to the **Media menu** and click on the **Convert/Save option** or use the **C
 
 Besides using MP4 to MP3 converters for Mac and PC computers, you can also try converting MP4 to MP3 with web-based tools. Let’s take a look at some of the best online MP4 to MP3 converters you can use for free.
 
-#### 1. [Online Audio Converter](https://online-audio-converter.com/)
+#### 1. Online Audio Converter
 
-![Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Online Audio Converter lets you convert more than **300 different file formats** into MP3, WAV, Ogg and other audio file formats in just three easy steps. Simply **upload a file**, **set the output format to MP3** and adjust the **Quality settings**. Optionally, you can click on the **Advanced Settings button** if you want to apply **fade-in and fadeout** effects, alter the Bitrate and Sample Rate or specify the number of channels. The platform also lets you edit the track info so you can add the name of the artist or the title of a song. In addition, you can also **use the batch conversion option** if you want to convert multiple MP4 files to MP3 at the same time. Click on the Convert button when ready to complete the file conversion process.
 
@@ -2069,9 +2069,9 @@ Online Audio Converter lets you convert more than **300 different file formats**
 
 * Uploading large MP4 files can take a while
 
-#### 2. [Convertio](https://convertio.co/mp4-mp3/)
+#### 2. Convertio
 
-![ Convertio Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
+![Convertio Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
 
 There is nothing complicated about converting MP4 to MP3 with this online platform. You can just upload an MP4 file from your computer, Dropbox or Google Drive and hit the **convert button**. The **lite version** of Convertio doesn’t let you upload files larger than **500MB** and it allows you to **make 25 concurrent conversions**. Uploading MP4 files up to **1GB** requires you to purchase the **Basic subscription plan**, but you can also use the Convertio platform for free if you are not planning on using it frequently to convert MP4 to MP3 files.
 
@@ -2083,9 +2083,9 @@ There is nothing complicated about converting MP4 to MP3 with this online platfo
 
 * Choosing a subscription is necessary if you want to convert files larger than 500MB
 
-#### 3. [Zamzar](https://www.zamzar.com/convert/mp4-to-mp3/)
+#### 3. Zamzar
 
-![Zamzar Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
+![Zamzar Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
 
 Zamzar is a powerful file converter that lets you convert MP4 files to a broad range of audio and image file formats. The best part is that you can complete the file conversion process effortlessly. **Upload a file, select the output file format and click on the Convert Now button**. However, before you can start converting MP4 to MP3 you will have to agree to the platform’s terms and conditions. The **maximum size** of an MP4 file, you can convert to MP3 or any other file format with the free version of the platform can’t exceed **150MB**.
 
@@ -2129,7 +2129,7 @@ Both Mac and PC users have a broad range of free software products at their disp
 
 Filmora is a powerful video editing software that is compatible with both macOS and Windows operating systems. Besides offering a plethora of video editing tools you can use to create green-screen videos, stabilize shaky footage captured with action cameras or make the Picture-in-Picture effect, Filmora also lets you edit audio files with ease. The built-in library of royalty-free music and audio effects enables you to create compelling soundtracks for each of your videos, while its Denoise feature helps you reduce background noise in audio files. Converting an MP4 to MP3 in Filmora is a quick process that won’t take much longer than a couple of minutes. Here’s how you can convert an MP4 to MP3 with Filmora.
 
-![Filmora9 Export MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
+![Filmora9 Export MP4 as MP3](https://images.wondershare.com/filmora/article-images/export-mp3-9-win.jpg)
 
 After you’ve created a new project, you should head over to the editor’s **Media Panel** to import the MP4 video file you’d like to turn into an MP3 audio file. The file you imported into a project in Filmora will be displayed in the Media Panel and you should simply **drag and drop it to the timeline**. After you’ve placed the MP4 file to the video track on the timeline, you should click on **the Export button**.
 
@@ -2152,7 +2152,7 @@ All recent versions of the Windows OS come bundled with the Windows Media Player
 
 Once the home screen loads, you should click on the **Organize drop-down** menu that is located in the upper left corner of the screen and **select Options**. Click on the **Rip Music tab** in the Options window that appeared on the screen and then use **the Change icon** to select the destination on your hard drive where the converted file is going to be saved.
 
-![Windows Media Player Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Windows Media Player Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Directly below you will be able to see the **Rip Settings section of the tab**, click on the **Format drop-down menu** and select the **MP3 option**. Hit the **OK button** to commence the conversion process, and wait for your MP4 file to be converted into an MP3 file.
 
@@ -2201,9 +2201,9 @@ Go to the **Media menu** and click on the **Convert/Save option** or use the **C
 
 Besides using MP4 to MP3 converters for Mac and PC computers, you can also try converting MP4 to MP3 with web-based tools. Let’s take a look at some of the best online MP4 to MP3 converters you can use for free.
 
-#### 1. [Online Audio Converter](https://online-audio-converter.com/)
+#### 1. Online Audio Converter
 
-![Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
+![Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/windows-media-player-mp4-mp3.jpg)
 
 Online Audio Converter lets you convert more than **300 different file formats** into MP3, WAV, Ogg and other audio file formats in just three easy steps. Simply **upload a file**, **set the output format to MP3** and adjust the **Quality settings**. Optionally, you can click on the **Advanced Settings button** if you want to apply **fade-in and fadeout** effects, alter the Bitrate and Sample Rate or specify the number of channels. The platform also lets you edit the track info so you can add the name of the artist or the title of a song. In addition, you can also **use the batch conversion option** if you want to convert multiple MP4 files to MP3 at the same time. Click on the Convert button when ready to complete the file conversion process.
 
@@ -2216,9 +2216,9 @@ Online Audio Converter lets you convert more than **300 different file formats**
 
 * Uploading large MP4 files can take a while
 
-#### 2. [Convertio](https://convertio.co/mp4-mp3/)
+#### 2. Convertio
 
-![ Convertio Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
+![Convertio Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/convertio-mp4-mp3.jpg)
 
 There is nothing complicated about converting MP4 to MP3 with this online platform. You can just upload an MP4 file from your computer, Dropbox or Google Drive and hit the **convert button**. The **lite version** of Convertio doesn’t let you upload files larger than **500MB** and it allows you to **make 25 concurrent conversions**. Uploading MP4 files up to **1GB** requires you to purchase the **Basic subscription plan**, but you can also use the Convertio platform for free if you are not planning on using it frequently to convert MP4 to MP3 files.
 
@@ -2230,9 +2230,9 @@ There is nothing complicated about converting MP4 to MP3 with this online platfo
 
 * Choosing a subscription is necessary if you want to convert files larger than 500MB
 
-#### 3. [Zamzar](https://www.zamzar.com/convert/mp4-to-mp3/)
+#### 3. Zamzar
 
-![Zamzar Online Audio Converter- Save MP4 as MP3 ](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
+![Zamzar Online Audio Converter- Save MP4 as MP3](https://images.wondershare.com/filmora/article-images/zamzar-mp4-2-mp3-converter.jpg)
 
 Zamzar is a powerful file converter that lets you convert MP4 files to a broad range of audio and image file formats. The best part is that you can complete the file conversion process effortlessly. **Upload a file, select the output file format and click on the Convert Now button**. However, before you can start converting MP4 to MP3 you will have to agree to the platform’s terms and conditions. The **maximum size** of an MP4 file, you can convert to MP3 or any other file format with the free version of the platform can’t exceed **150MB**.
 
@@ -2311,7 +2311,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2323,17 +2323,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2341,15 +2341,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2402,7 +2402,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2414,17 +2414,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2432,15 +2432,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2493,7 +2493,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2505,17 +2505,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2523,15 +2523,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2584,7 +2584,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2596,17 +2596,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2614,15 +2614,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 

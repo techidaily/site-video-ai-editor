@@ -1,7 +1,7 @@
 ---
 title: What Makes the Best Lower Thirds in Final Cut Pro X
-date: 2024-05-19T05:47:08.048Z
-updated: 2024-05-20T05:47:08.048Z
+date: 2024-07-09T11:00:22.262Z
+updated: 2024-07-10T11:00:22.262Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes What Makes the Best Lower Thirds in Final Cut Pro X
 excerpt: This Article Describes What Makes the Best Lower Thirds in Final Cut Pro X
 keywords: ai animation ai animation what makes the best lower thirds in final cut pro x,taking lower thirds to the next level in final cut pro x,the art of lower thirds design in final cut pro x,unleashing the power of lower thirds in final cut pro x,ai animation what makes the best lower thirds in final cut pro x,the art of effective lower thirds in final cut pro x,what makes the best lower thirds in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## The Anatomy of Great Lower Thirds: A Guide for FCPX Editors
@@ -618,7 +618,7 @@ If you want a more powerful yet easy-to-use video editing tool, [Filmora Video E
 * [Lightworks](#tab%5F04)
 * [ZS4 Video Editor](#tab%5F05)
 
-#### 1\. [Windows Movie Make](https://www.microsoft.com/en-us/p/movie-maker-10-free/9mvfq4lmz6c9#activetab=pivot:overviewtab)
+#### 1\. Windows Movie Make
 
 Windows Movie Maker is a great free video editing tool for Windows users. It’s able to handle the least video formats: **asf, avi, .m1v, mp2, .mp2v, mpe, .mpeg, mpg, mpv2, wm, wmv.**
 
@@ -626,7 +626,7 @@ It contains features like drag-n-drop functionality, transitions, titles, credit
 
 ![free avi video editor](https://images.wondershare.com/topic/convert-video/windows-movie-maker.jpg "free avi video editor")
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a basic yet very capable video editing program. It supports various video formats such as AVI, MPEG, MP4, and ASF. With it, you can easily splice video clips or add filters. Although this may sound overly simple, it’s actually robust enough to ensure that your videos look professional.
 
@@ -634,19 +634,19 @@ Avidemux is a basic yet very capable video editing program. It supports various 
 
 ![supported-formats-fx](https://images.wondershare.com/filmora/article-images/avidemux-formats.jpg)
 
-#### 3\. [VirtualDub](http://virtualdub.sourceforge.net/)
+#### 3\. VirtualDub
 
 Virtualdub is a well-known video editing tool that allows you to capture video and perform video editing. It’s geared towards processing AVI files and able to do a variety of pre and post-processing operations on your video. With it, you can adjust the frame rate, remove audio tracks, resize, rotate, flip, adjust the brightness and contrast, and more. Reminder: while installing, it will write some preferences to the Registry.
 
 ![free avi video editor](https://images.wondershare.com/topic/video-editing/virtualdub.jpg "free avi video editor")
 
-#### 4\. [Lightworks](http://www.lwks.com/)
+#### 4\. Lightworks
 
 Lightworks is a free video editor but can handle most of what you’d expect from a professional video editing application. It supports a wide range of video formats like AVI, MOV, MPG, and more. Some of its outstanding features include video capture and import, GPU- accelerated real-time effects, color correction, autosave and media management, etc.
 
 ![free avi video editor](https://images.wondershare.com/images/multimedia/video-editor/lightworks.jpg)
 
-#### 5\. [ZS4 Video Editor](https://www.macupdate.com/app/mac/20754/zs4-video-editor)
+#### 5\. ZS4 Video Editor
 
 ZS4 Video Editor is another free video editing tool with over 150 built-in video effects including excellent color and chroma keying. Users can customize the width and height of the output video, add unlimited tracks and sub-composites, slave effects and change, compose controls to audio waveforms, and more. However, this software is lacking maintenance for long, not recommended in 2021.
 
@@ -692,7 +692,7 @@ If you want a more powerful yet easy-to-use video editing tool, [Filmora Video E
 * [Lightworks](#tab%5F04)
 * [ZS4 Video Editor](#tab%5F05)
 
-#### 1\. [Windows Movie Make](https://www.microsoft.com/en-us/p/movie-maker-10-free/9mvfq4lmz6c9#activetab=pivot:overviewtab)
+#### 1\. Windows Movie Make
 
 Windows Movie Maker is a great free video editing tool for Windows users. It’s able to handle the least video formats: **asf, avi, .m1v, mp2, .mp2v, mpe, .mpeg, mpg, mpv2, wm, wmv.**
 
@@ -700,7 +700,7 @@ It contains features like drag-n-drop functionality, transitions, titles, credit
 
 ![free avi video editor](https://images.wondershare.com/topic/convert-video/windows-movie-maker.jpg "free avi video editor")
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a basic yet very capable video editing program. It supports various video formats such as AVI, MPEG, MP4, and ASF. With it, you can easily splice video clips or add filters. Although this may sound overly simple, it’s actually robust enough to ensure that your videos look professional.
 
@@ -708,19 +708,19 @@ Avidemux is a basic yet very capable video editing program. It supports various 
 
 ![supported-formats-fx](https://images.wondershare.com/filmora/article-images/avidemux-formats.jpg)
 
-#### 3\. [VirtualDub](http://virtualdub.sourceforge.net/)
+#### 3\. VirtualDub
 
 Virtualdub is a well-known video editing tool that allows you to capture video and perform video editing. It’s geared towards processing AVI files and able to do a variety of pre and post-processing operations on your video. With it, you can adjust the frame rate, remove audio tracks, resize, rotate, flip, adjust the brightness and contrast, and more. Reminder: while installing, it will write some preferences to the Registry.
 
 ![free avi video editor](https://images.wondershare.com/topic/video-editing/virtualdub.jpg "free avi video editor")
 
-#### 4\. [Lightworks](http://www.lwks.com/)
+#### 4\. Lightworks
 
 Lightworks is a free video editor but can handle most of what you’d expect from a professional video editing application. It supports a wide range of video formats like AVI, MOV, MPG, and more. Some of its outstanding features include video capture and import, GPU- accelerated real-time effects, color correction, autosave and media management, etc.
 
 ![free avi video editor](https://images.wondershare.com/images/multimedia/video-editor/lightworks.jpg)
 
-#### 5\. [ZS4 Video Editor](https://www.macupdate.com/app/mac/20754/zs4-video-editor)
+#### 5\. ZS4 Video Editor
 
 ZS4 Video Editor is another free video editing tool with over 150 built-in video effects including excellent color and chroma keying. Users can customize the width and height of the output video, add unlimited tracks and sub-composites, slave effects and change, compose controls to audio waveforms, and more. However, this software is lacking maintenance for long, not recommended in 2021.
 
@@ -766,7 +766,7 @@ If you want a more powerful yet easy-to-use video editing tool, [Filmora Video E
 * [Lightworks](#tab%5F04)
 * [ZS4 Video Editor](#tab%5F05)
 
-#### 1\. [Windows Movie Make](https://www.microsoft.com/en-us/p/movie-maker-10-free/9mvfq4lmz6c9#activetab=pivot:overviewtab)
+#### 1\. Windows Movie Make
 
 Windows Movie Maker is a great free video editing tool for Windows users. It’s able to handle the least video formats: **asf, avi, .m1v, mp2, .mp2v, mpe, .mpeg, mpg, mpv2, wm, wmv.**
 
@@ -774,7 +774,7 @@ It contains features like drag-n-drop functionality, transitions, titles, credit
 
 ![free avi video editor](https://images.wondershare.com/topic/convert-video/windows-movie-maker.jpg "free avi video editor")
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a basic yet very capable video editing program. It supports various video formats such as AVI, MPEG, MP4, and ASF. With it, you can easily splice video clips or add filters. Although this may sound overly simple, it’s actually robust enough to ensure that your videos look professional.
 
@@ -782,19 +782,19 @@ Avidemux is a basic yet very capable video editing program. It supports various 
 
 ![supported-formats-fx](https://images.wondershare.com/filmora/article-images/avidemux-formats.jpg)
 
-#### 3\. [VirtualDub](http://virtualdub.sourceforge.net/)
+#### 3\. VirtualDub
 
 Virtualdub is a well-known video editing tool that allows you to capture video and perform video editing. It’s geared towards processing AVI files and able to do a variety of pre and post-processing operations on your video. With it, you can adjust the frame rate, remove audio tracks, resize, rotate, flip, adjust the brightness and contrast, and more. Reminder: while installing, it will write some preferences to the Registry.
 
 ![free avi video editor](https://images.wondershare.com/topic/video-editing/virtualdub.jpg "free avi video editor")
 
-#### 4\. [Lightworks](http://www.lwks.com/)
+#### 4\. Lightworks
 
 Lightworks is a free video editor but can handle most of what you’d expect from a professional video editing application. It supports a wide range of video formats like AVI, MOV, MPG, and more. Some of its outstanding features include video capture and import, GPU- accelerated real-time effects, color correction, autosave and media management, etc.
 
 ![free avi video editor](https://images.wondershare.com/images/multimedia/video-editor/lightworks.jpg)
 
-#### 5\. [ZS4 Video Editor](https://www.macupdate.com/app/mac/20754/zs4-video-editor)
+#### 5\. ZS4 Video Editor
 
 ZS4 Video Editor is another free video editing tool with over 150 built-in video effects including excellent color and chroma keying. Users can customize the width and height of the output video, add unlimited tracks and sub-composites, slave effects and change, compose controls to audio waveforms, and more. However, this software is lacking maintenance for long, not recommended in 2021.
 
@@ -840,7 +840,7 @@ If you want a more powerful yet easy-to-use video editing tool, [Filmora Video E
 * [Lightworks](#tab%5F04)
 * [ZS4 Video Editor](#tab%5F05)
 
-#### 1\. [Windows Movie Make](https://www.microsoft.com/en-us/p/movie-maker-10-free/9mvfq4lmz6c9#activetab=pivot:overviewtab)
+#### 1\. Windows Movie Make
 
 Windows Movie Maker is a great free video editing tool for Windows users. It’s able to handle the least video formats: **asf, avi, .m1v, mp2, .mp2v, mpe, .mpeg, mpg, mpv2, wm, wmv.**
 
@@ -848,7 +848,7 @@ It contains features like drag-n-drop functionality, transitions, titles, credit
 
 ![free avi video editor](https://images.wondershare.com/topic/convert-video/windows-movie-maker.jpg "free avi video editor")
 
-#### 2\. [Avidemux](http://avidemux-mswin.sourceforge.net/)
+#### 2\. Avidemux
 
 Avidemux is a basic yet very capable video editing program. It supports various video formats such as AVI, MPEG, MP4, and ASF. With it, you can easily splice video clips or add filters. Although this may sound overly simple, it’s actually robust enough to ensure that your videos look professional.
 
@@ -856,19 +856,19 @@ Avidemux is a basic yet very capable video editing program. It supports various 
 
 ![supported-formats-fx](https://images.wondershare.com/filmora/article-images/avidemux-formats.jpg)
 
-#### 3\. [VirtualDub](http://virtualdub.sourceforge.net/)
+#### 3\. VirtualDub
 
 Virtualdub is a well-known video editing tool that allows you to capture video and perform video editing. It’s geared towards processing AVI files and able to do a variety of pre and post-processing operations on your video. With it, you can adjust the frame rate, remove audio tracks, resize, rotate, flip, adjust the brightness and contrast, and more. Reminder: while installing, it will write some preferences to the Registry.
 
 ![free avi video editor](https://images.wondershare.com/topic/video-editing/virtualdub.jpg "free avi video editor")
 
-#### 4\. [Lightworks](http://www.lwks.com/)
+#### 4\. Lightworks
 
 Lightworks is a free video editor but can handle most of what you’d expect from a professional video editing application. It supports a wide range of video formats like AVI, MOV, MPG, and more. Some of its outstanding features include video capture and import, GPU- accelerated real-time effects, color correction, autosave and media management, etc.
 
 ![free avi video editor](https://images.wondershare.com/images/multimedia/video-editor/lightworks.jpg)
 
-#### 5\. [ZS4 Video Editor](https://www.macupdate.com/app/mac/20754/zs4-video-editor)
+#### 5\. ZS4 Video Editor
 
 ZS4 Video Editor is another free video editing tool with over 150 built-in video effects including excellent color and chroma keying. Users can customize the width and height of the output video, add unlimited tracks and sub-composites, slave effects and change, compose controls to audio waveforms, and more. However, this software is lacking maintenance for long, not recommended in 2021.
 

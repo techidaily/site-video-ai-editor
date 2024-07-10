@@ -1,7 +1,7 @@
 ---
 title: In 2024, Cut Video Clips Online A Step-by-Step Guide to Kapwing Editor
-date: 2024-05-19T05:49:28.705Z
-updated: 2024-05-20T05:49:28.705Z
+date: 2024-07-09T11:00:27.098Z
+updated: 2024-07-10T11:00:27.098Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Cut Video Clips Online A Step-by-Step Guide to Kapwing Editor
 excerpt: This Article Describes In 2024, Cut Video Clips Online A Step-by-Step Guide to Kapwing Editor
 keywords: cut and crop a step by step guide to trimming videos with kapwing,kapwing editor a step by step guide to trimming videos,ai animation mastering jaycut a step by step guide to free online video editing,trim videos like a pro a step by step guide to kapwing editor,cut video clips online a step by step guide to kapwing editor,mastering jaycut a step by step guide to free online video editing,cutting it down a step by step guide to trimming videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Cut Video Clips Online: A Step-by-Step Guide to Kapwing Editor
