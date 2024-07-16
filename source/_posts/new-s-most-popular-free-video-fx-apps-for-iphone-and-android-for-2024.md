@@ -1,7 +1,7 @@
 ---
 title: New S Most Popular Free Video FX Apps for iPhone and Android for 2024
-date: 2024-07-01T13:48:39.138Z
-updated: 2024-07-02T13:48:39.138Z
+date: 2024-07-15T17:30:45.424Z
+updated: 2024-07-16T17:30:45.424Z
 tags: 
   - video editing software
   - video editing
@@ -28,12 +28,18 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 For Win 7 or later (64-bit)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -58,6 +64,9 @@ We’ve find FxGuru: Movie FX Director is a special effect app which is availabl
 
 Simply put, with this app on your phone, you only have to use the device’s camera to capture video footage, and then sail away with your imagination to produce industry-standard clips for commercial promotions and/or for fun.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![best vfx apps for both iOS and Android -  FxGuru: Movie FX Director](https://images.wondershare.com/filmora/article-images/fxguru-movie-fx-director.jpg)
 
 Click to get the [Android](https://play.google.com/store/apps/details?id=com.picadelic.fxguru&hl=en%5FUS) version of this special effect app from the App Store or Google Play.
@@ -84,18 +93,27 @@ All the built-in effects that Action Movie FX is enriched with such as ALIEN BUR
 
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/action-movie-fx/id489321253)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Movie FX Maker
 
 This **video special effects app** is helpful to apply FX on the images to use them as stickers. Although the program is free to use, the in-app purchases give you access to more advanced movie stickers that would allow you to bring life to the still images without having you to transfer them to your PC and/or using an expensive and complex apps like Photoshop.
 
 All you need to do in order to apply special FX to the images is, capture photos on your iDevice, and add the effects Movie FX Maker has. Post modifications, the images can be shared on your favorite social networking site instantaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![best vfx apps for  iOS - Movie FX Maker](https://images.wondershare.com/filmora/article-images/movie-fx-maker-hollywood-style-special-effect-change.jpg)
 
 #### 4\. Effects Cam – Visual Effects
 
 Yet another **video special effects app**, Effects Cam allows you to add special effects like fire, blasts, explosions, etc. to your images in order to make them look live. The images can be captured right from your device’s camera, or imported from other sources like your PC, phone’s memory, etc. Once imported, you can pick any of the available special FX from the app’s library, and apply it to the photo(s).
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![best vfx apps for  iOS - Effects Cam - Visual Effects](https://images.wondershare.com/filmora/article-images/effects-cam-visual-effects.jpg)
 
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/effects-cam-visual-effects/id1123449586)
@@ -106,6 +124,9 @@ Videorama Text & Video Editor is an **iPhone video special effects** app that le
 
 Apart from the above, adding special video and sound effects is another lucrative feature that Videorama has because of which the app is most admired and used by majority of people across the globe.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![video special effects apps for  iOS - Videorama Text & Video Editor](https://images.wondershare.com/filmora/article-images/videorama-text-video-editor.jpg)
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/videorama-text-video-editor/id1049690233)
@@ -154,8 +175,14 @@ With this **video special effects app**, all you need to do is, record a footage
 
 [Get this special video effect app from Google Play>>](https://play.google.com/store/apps/details?id=com.kaushal.extremevfx&hl=en%5FUS)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Watch Video! Best VFX Video Effects Editor Apps for Android
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Add Special Effects to Videos in Filmora?
 
 Although all the apps listed above are good, when it comes to creating movies with special effects for commercial usage and public broadcasting, nothing can beat the efficiency and robustness of a **movie effects app** that has been designed to run on desktop computers.
@@ -172,6 +199,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -181,12 +211,39 @@ or Try Filmora App for mobile >>>
 
 The steps given below explain **how to add special effects to your recorded footages with Wondershare Filmora:**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Import Video and Add to Timeline
 
 Launch Wondershare Filmora, click anywhere inside the **Media Bin** at the upper-left section, use the **Open** box to import the video you want to add VFX to, hover mouse to the thumbnail of the clip, click the **+** icon from the middle, and click **MATCH TO MEDIA** from the **Project Setting** box when/if it appears.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import media in Filmora9](https://images.wondershare.com/filmora/article-images/filmora9-import-media.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Add Effects and Elements
 
 Place the Playhead (Skimmer) in the Timeline you want to apply effects from, click **Effects** from the standard toolbar at the top, select your preferred category from the left pane, hover mouse to the effect you want to add in the right window, and click the **+** icon from the center.
@@ -197,8 +254,14 @@ Optionally you can drag the effect in the Timeline to manage its duration. Next,
 
 Besides the included effects and elements in Filmora, you can find our more video effects on Filmstock effects store, including blockbuster, effects for holidays and vacations. Click to [check the free video effects](https://tools.techidaily.com/wondershare/filmora/download/) that you can get for free in Filmstock for Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora free video effects in Filmstock](https://images.wondershare.com/filmora/article-images/Filmstock-free-video-effects-for-filmora9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Export the Output
 
 Click **EXPORT** from the top-center section, go to the **Local** tab from the top of the **Export** box that opens up next, choose your preferred extension from the **Format** list in the left pane, select a destination location in the **Save to** field in the right window, click **SETTINGS** and make necessary adjustments (optional), and click **EXPORT** from the bottom-right corner of the box to begin rendering and to produce the video with the special effects applied to it.
@@ -242,3 +305,39 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>[New] 2024 Approved  Instagram Storytelling Mastery  Crafting a Dynamic Marketing Plan</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlabs-competitors-in-the-livestream-arena/"><u>[New] 2024 Approved  Streamlabs' Competitors in the Livestream Arena</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>[Updated] 2024 Approved  Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-steps-to-the-top-gaming-video-editing-programs/"><u>[Updated] In 2024, Easy Steps to the Top Gaming Video Editing Programs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-influencing-up-a-comprehensive-instagram-growth-strategy/"><u>[Updated] Influencing Up  A Comprehensive Instagram Growth Strategy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screenshoting-made-easy-leveraging-ezvid-video-maker-for-2024/"><u>[Updated] Screenshoting Made Easy  Leveraging Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[Updated] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>In 2024, Fine-Tuning Team Call Aesthetics  Pre & Post Customization</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12-proplus-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 12 Pro+ 5G Phones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-revolutionary-vr-app-shaping-future-of-linguistics/"><u>Mondly's Revolutionary VR App Shaping Future of Linguistics</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-script-to-screen-choosing-the-right-android-movie-maker/"><u>New 2024 Approved From Script to Screen Choosing the Right Android Movie Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-script-to-screen-the-top-explainer-video-software/"><u>New 2024 Approved From Script to Screen The Top Explainer Video Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro/"><u>New 2024 Approved From Slow to Fast How to Create Time Lapses in Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-snapshots-to-cinematic-masterpieces-5-top-photo-video-editors/"><u>New 2024 Approved From Snapshots to Cinematic Masterpieces 5 Top Photo Video Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-from-soundcloud-to-mp3-a-beginners-guide-to-music-conversion-for-2024/"><u>New From Soundcloud to MP3 A Beginners Guide to Music Conversion for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-sketch-to-screen-the-top-7-animation-software/"><u>New In 2024, From Sketch to Screen The Top 7 Animation Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-top-avchd-video-editors/"><u>New The Best of the Best Top AVCHD Video Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y56-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y56 5G Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-script-to-screen-choosing-the-right-android-movie-maker/"><u>Updated 2024 Approved From Script to Screen Choosing the Right Android Movie Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-script-to-screen-efficient-voice-over-recording-with-final-cut-pro/"><u>Updated 2024 Approved From Script to Screen Efficient Voice Over Recording with Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-script-to-screen-mastering-voice-over-recordings-in-fcp/"><u>Updated 2024 Approved From Script to Screen Mastering Voice Over Recordings in FCP</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed/"><u>Updated 2024 Approved From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-sideways-to-right-side-up-how-to-flip-videos-quickly/"><u>Updated 2024 Approved From Sideways to Right-Side Up How to Flip Videos Quickly</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro/"><u>Updated 2024 Approved From Slow to Fast How to Create Time Lapses in Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-slow-to-go-speeding-up-videos-in-quicktime-player/"><u>Updated 2024 Approved From Slow to Go Speeding Up Videos in QuickTime Player</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-snapshots-to-movies-top-photo-music-video-makers/"><u>Updated 2024 Approved From Snapshots to Movies Top Photo Music Video Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-soundcloud-to-mp3-a-beginners-guide-to-music-conversion/"><u>Updated 2024 Approved From Soundcloud to MP3 A Beginners Guide to Music Conversion</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro-for-2024/"><u>Updated From Slow to Fast How to Create Time Lapses in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-slow-mo-to-hyper-speed-the-best-free-video-speed-changer-apps-for-2024/"><u>Updated From Slow-Mo to Hyper-Speed The Best Free Video Speed Changer Apps for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-script-to-screen-top-10-movies-crafted-with-final-cut-pro/"><u>Updated In 2024, From Script to Screen Top 10 Movies Crafted with Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-sideways-to-straight-quick-video-flipping-solutions/"><u>Updated In 2024, From Sideways to Straight Quick Video Flipping Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-slow-to-fast-mastering-time-lapse-video-editing-in-final-cut-pro/"><u>Updated In 2024, From Slow to Fast Mastering Time Lapse Video Editing in Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-snap-to-story-mastering-the-art-of-vertical-mobile-video/"><u>Updated In 2024, From Snap to Story Mastering the Art of Vertical Mobile Video</u></a></li>
+</ul></div>

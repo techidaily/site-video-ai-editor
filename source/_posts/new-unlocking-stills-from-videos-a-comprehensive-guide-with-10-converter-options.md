@@ -1,7 +1,7 @@
 ---
 title: New Unlocking Stills From Videos A Comprehensive Guide with 10 Converter Options
-date: 2024-07-01T13:51:15.712Z
-updated: 2024-07-02T13:51:15.712Z
+date: 2024-07-15T17:33:36.680Z
+updated: 2024-07-16T17:33:36.680Z
 tags: 
   - video editing software
   - video editing
@@ -35,12 +35,18 @@ Even though **converting a video to a photo** is not something you can do, creat
 
 Exporting a single frame of a video clip is an easy task even amateur photo and video editors can perform effortlessly. Mac and PC users have a broad range of options at their disposal if they want to make still images from their videos. Let’s have a look at some of the best video converters you can use to capture still frames and create JPEG or PNG files.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Wondershare Filmora
 
 Filmora is a video editing software that also offers the option to capture frames of all video clips you use in your projects after you launch the Filmora video editor, import a video file that contains the frames you would like to save as still images.
 
 To extract still images with the original high quality, you can import and place these videos to Project Media and then double-click it to preview. In the preview window, click the Camera icon located in the lower right corner to take a snapshot. It is worth noting that you can only create PNG files with this video editing software, and you may need to change the photo format if PNG isn’t your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extract PNG Image from Filmora9](https://images.wondershare.com/filmora/article-images/take-snapchat-9.jpg)
 
 Alternatively, you can use the CTRL+ALT+S keyboard shortcut to take a snapshot of the frame in a video clip. The image you created will be added to the Media tab automatically, and you can proceed to right-click on it and select the Reveal in Explorer option to gain access to the original file.
@@ -59,6 +65,9 @@ This is arguably the best photo editing software ever created that grants you ac
 
 The video clip is going to be displayed on the timeline that is located at the bottom of the screen and you just have to specify the segment of that file you would like to break down into frames. You can do this by dragging the handles located above the video clip that allows you to set the start and end of the work area.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Render Video to convert to Images in PS](https://images.wondershare.com/filmora/article-images/save-video-to-images-photoshop.jpg)
 
 When done, head over to the File menu, and select the Render Video option from the Export submenu. After the Render Video window pops up on the screen, you have to change the Adobe Media Encoder option to Photoshop Image Sequence and then click on the Render button. You should keep in mind that the photo editor is going to create separate image files for all the frames that were within the work area you defined, which is why it is important to reduce the work area to the minimum in order to avoid generating hundreds of JPEG images.
@@ -73,10 +82,16 @@ Select the Preferences option from the Tools menu and then click on the Video ta
 
 Click on the Save button to confirm the changes, then go back to the Filter submenu, and this time you should click on it rather than expand it. Locate the Scene Video filter, make sure that the checkbox next to it is selected, and click OK to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Convert video to image Preferences  in VCL](https://images.wondershare.com/filmora/article-images/vcl-video-filter-video-to-image.jpg)
 
 Next time you play a video in VLC the media player will automatically capture still frames at the recording ratio you specified.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Free Video to JPEG Converter
 
 If you are looking for a quick and free way to create still images from videos, this Windows-based tool is one of the least complicated options PC users have at their disposal. After you open Free Video to JPEG Converter you just have to click on the Add Files button and import a video from which you would like to extract still frames.
@@ -89,6 +104,9 @@ You can then specify the frequency at which frames are going to be extracted and
 
 Before you can start extracting still frames from videos with Virtual Dub, you must first install the FFMpeg plugin pack because this video converter cannot open common video file formats like MP4 or MOV. Installing this plugin can get a little technical, but it is far from being complicated. Afterward, you just have to launch Virtual Dub and import the video you would like to use to create JPEG files by clicking on the File menu and selecting the Open option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Convert Video to Image Virtual Dub](https://images.wondershare.com/filmora/article-images/virtual-dub-video-to-image-control.jpg)
 
 Select the Frame Rate option from the Video menu and make sure that the checkbox next to the Decimate by setting is selected. Insert the frequency at which still frames are going to be captured into the box next to the Decimate by setting and click on the OK button. Head over to the File menu and select the Image Sequence option from the Export submenu. Before you start extracting still frames from a video you just have to select the file format of the output files, and then wait for Virtual Dub to complete the process.
@@ -97,6 +115,18 @@ Select the Frame Rate option from the Video menu and make sure that the checkbox
 
 In case you don’t have access to a video or photo editing software and the process of extracting still frames from videos with VLC Media Player or Virtual Dub is too technical for you, there are a number of online solutions you can try. Here are some of the best web-based platforms you can use to convert videos to JPEG or PNG images.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Online-Convert
 
 This file conversion platform enables you to convert audio files, documents, and eBooks, but its video to photo conversion options are not the best. You have to select the Image Converter tool and then choose the output format of the images you want to extract from the video. You can then upload a video file from Dropbox, Google Drive, or your computer’s hard drive.
@@ -109,6 +139,9 @@ Before the conversion, you can adjust the Quality Settings and choose if the com
 
 Converting virtually any type of file with AConvert is easy, which means that you won’t have much trouble extracting JPEG files from your video. After you arrive at AConvert’s home page, you just have to click on the Image option and then choose if you want to import a file from your computer or cloud storage. The maximum size of the video file you can upload to AConvert is limited to just 200MB.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Convert Video to Image Online-Convert](https://images.wondershare.com/filmora/article-images/aconvert-mp4-to-jpg.jpg)
 
 Once the video file you selected is uploaded to the platform you can choose the output file format and decide if you want to resize the images during the conversion or keep their original size. Click on the Convert Now button and then download the image files once the still frames are extracted from the video.
@@ -121,10 +154,25 @@ Online Converter offers a variety of image conversion options and it even enable
 
 The platform lets you choose if you want to cut a video clip, change its frame size or adjust its quality. Once you fine-tune all the settings click on the Convert button to start creating JPEG files from a video and then download the images to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. IMG2GO
 
 Editing or converting images with IMG2GO doesn’t require you to have any previous experience, since all the tools this platform offers are easy to use. Convert to JPEG tool can break down an entire video clip into photos in just a few moments. All you have to do is upload a file to the platform, adjust the settings and click on the Start button that is located at the bottom of the page.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IMG2GO Free Online JPG Converter](https://images.wondershare.com/filmora/article-images/free-online-jpg-converter.jpg)
 
 The number of JPEG files IMG2GO will generate depends on the duration of the clip, which is the reason why it is better to extract still frames from shorter videos. Once the conversion process is completed you can choose if you want to save the images on the cloud or to a local hard drive.
@@ -159,3 +207,49 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-budget-friendly-webinar-strategies-for-youtube/"><u>[New] 2024 Approved  Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-evaluating-the-superiority-of-splitcams-recording/"><u>[New] 2024 Approved  Evaluating the Superiority of SplitCam's Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording/"><u>[New] From Script to Airwaves  Step-by-Step Guide for iOS Audio Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-pursuit-with-panasonics-hx-a1-wearable-cameras/"><u>[New] In Pursuit with Panasonic’s HX-A1 Wearable Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-5-capture-tools-dethroning-bandicam-on-apple-devices/"><u>[New] Top 5 Capture Tools Dethroning Bandicam on Apple Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-lyric-video-crafting-with-lyric-video-maker/"><u>[Updated] Step-by-Step Lyric Video Crafting with Lyric Video Maker</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-navigating-tiktok-on-both-mac-and-windows-devices/"><u>2024 Approved  Navigating TikTok on Both Mac & Windows Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-find-x7-ultra-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>In 2024, The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement/"><u>In 2024, Unlock Laughter Traps  20 Quirky FB Detention Anecdotes for Amusement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-story-peeking-a-compre-written-in-english-but-can-be-understood-by-non-native-speakers-as-well-due-to-its-simplicity-and-universal-appeal/"><u>Instagram Story Peeking - A Compre Written in English but Can Be Understood by Non-Native Speakers as Well Due to Its Simplicity and Universal Appeal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-pc-games-screenshots-top-6-methods/"><u>Mastering PC Games Screenshots  Top 6 Methods</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/mastering-pc-speaker-capture-with-audacity-a-step-by-step-guide/"><u>Mastering PC Speaker Capture with Audacity A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker/"><u>New 2024 Approved Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-create-infinite-loops-top-10-free-video-looping-websites-for-2024/"><u>New Create Infinite Loops Top 10 Free Video Looping Websites for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-education-exclusive-get-final-cut-pro-at-an-unbeatable-price-for-2024/"><u>New Education Exclusive Get Final Cut Pro at an Unbeatable Price for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-professional-results-for-free-8-online-video-stabilizers-you-need-to-try/"><u>New Get Professional Results for Free 8 Online Video Stabilizers You Need to Try</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-gif-animation-made-easy-top-free-makers/"><u>New GIF Animation Made Easy Top Free Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-how-to-stabilize-your-video-in-the-final-cut-pro/"><u>New How to Stabilize Your Video in the Final Cut Pro?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-animated-video-makers-for-android-and-ios-updated-2023/"><u>New In 2024, Best Animated Video Makers for Android and iOS (Updated 2023)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-beyond-fcpx-10-video-editing-software-solutions-worth-exploring/"><u>New In 2024, Beyond FCPX 10 Video Editing Software Solutions Worth Exploring</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-convert-webm-to-mp3-best-tools-for-the-job/"><u>New In 2024, Convert WebM to MP3 Best Tools for the Job</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-discount-alert-4-ways-to-get-cheap-filmora-subscriptions/"><u>New In 2024, Discount Alert! 4 Ways to Get Cheap Filmora Subscriptions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>New In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-up-space-5-best-video-compression-apps-for-iphone-and-ipad/"><u>New In 2024, Free Up Space 5 Best Video Compression Apps for iPhone and iPad</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-how-to-convert-mp4-to-mp3-a-comprehensive-guide/"><u>New In 2024, How to Convert MP4 to MP3 A Comprehensive Guide</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-create-youtube-intro-animation-like-a-pro/"><u>New In 2024, How to Create YouTube Intro Animation Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers/"><u>New In 2024, Movie Mastery Unlocked Easy Tips and Tricks for Filmmakers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-guide-best-android-video-editor-apps-for-chromebook/"><u>New In 2024, The Ultimate Guide Best Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-10-best-free-online-video-looping-software/"><u>New In 2024, The Ultimate List 10 Best Free Online Video Looping Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-transform-your-videos-into-animated-masterpieces-a-step-by-step-guide/"><u>New In 2024, Transform Your Videos Into Animated Masterpieces A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-most-chromebook-owners-will-find-themselves-wondering-which-online-video-editor-is-the-best-one-lets-have-a-look-at-some-of-the-best-online-video-editor/"><u>New Most Chromebook Owners Will Find Themselves Wondering, Which Online Video Editor Is the Best One. Lets Have a Look at some of the Best Online Video Editors that Will Help You Create Visually Engaging</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-save-money-make-movies-4-simple-ways-to-get-filmora-discount-codes/"><u>New Save Money, Make Movies 4 Simple Ways to Get Filmora Discount Codes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-say-goodbye-to-clutter-how-to-convert-your-dvd-library-to-digital-files-for-2024/"><u>New Say Goodbye to Clutter How to Convert Your DVD Library to Digital Files for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-take-your-gopro-footage-to-the-next-level-best-editing-software-options-for-2024/"><u>New Take Your GoPro Footage to the Next Level Best Editing Software Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-coolest-plugins-for-final-cut-pro-x-freeandpaid-for-2024/"><u>New Top 10 Coolest Plugins for Final Cut Pro X Free&Paid for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-for-2024/"><u>New Top Meme Maker Apps for Android and iOS Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-comprehensive-guide-to-superior-recordings-in-audacity-for-2024/"><u>The Comprehensive Guide to Superior Recordings in Audacity for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+</ul></div>

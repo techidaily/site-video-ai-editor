@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Your Go-To Guide 10 Best Public Domain Image Resources
-date: 2024-07-09T12:19:10.950Z
-updated: 2024-07-10T12:19:10.950Z
+date: 2024-07-15T17:50:30.349Z
+updated: 2024-07-16T17:50:30.349Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 # 10 Best Public Domain Image Websites
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -79,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 3. Wikimedia Commons
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wikimedia commons](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
@@ -95,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 4. Flickr Commons
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Flickr commons](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
@@ -169,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 9. NYPL Digital Gallery
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NYPL Digital Gallery](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
@@ -199,6 +220,9 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -216,6 +240,9 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
  Dont worry when you forget the syntax of an HTML element, like and iframe, a link, a table, an image or anything else. [Visit HTML CheatSheet](https://htmlcheatsheet.com/) and generate the code you need.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -232,3 +259,46 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[New] 2024 Approved  Mastery Over Airwaves  Recording Techniques for Live Sounds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-awesome-free-webcam-games-for-computer/"><u>[Updated] In 2024, Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-guide-to-team-chat-apps-slack-vs-discord-showdown-for-2024/"><u>[Updated] The Ultimate Guide to Team Chat Apps  Slack Vs. Discord Showdown for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved  Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quickening-media-display-on-ppt/"><u>2024 Approved  Quickening Media Display on PPT</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-pixel-perfect-calculating-aspect-ratios-made-easy/"><u>2024 Approved Pixel Perfect Calculating Aspect Ratios Made Easy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6s-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6s Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-fiscal-outline-getting-your-podcast-off-the-ground/"><u>In 2024, Full Fiscal Outline  Getting Your Podcast Off the Ground</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2x-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo T2x 5G Phone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-mx870-support-for-classic-windows-versions/"><u>Install MX870 Support for Classic Windows Versions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-a-quick-take-on-vn-video-editors-pc-performance/"><u>New A Quick Take on VN Video Editors PC Performance</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-beginners-luck-15-free-video-editing-programs-to-get-you-started/"><u>New Beginners Luck 15 Free Video Editing Programs to Get You Started</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-zero-cost-mp4-video-editors-2023-edition-for-2024/"><u>New Best Zero-Cost MP4 Video Editors 2023 Edition for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-bring-your-ideas-to-life-best-3d-animation-apps-for-mobile-free-for-2024/"><u>New Bring Your Ideas to Life Best 3D Animation Apps for Mobile (Free) for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-bring-your-ideas-to-life-top-animation-makers-for-every-skill-level-for-2024/"><u>New Bring Your Ideas to Life Top Animation Makers for Every Skill Level for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-dual-screen-video-editor-top-free-online-and-offline-choices-for-2024/"><u>New Dual-Screen Video Editor Top Free Online and Offline Choices for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-clarity-in-capture-state-of-the-art-techniques-for-dampening-sound-distortion/"><u>New In 2024, Clarity in Capture State-of-the-Art Techniques for Dampening Sound Distortion</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-if-you-want-to-improve-your-animation-skills-or-look-for-professional-animation-software-this-article-will-recommend-8-best-tools-on-mac-and-win/"><u>New In 2024, If You Want to Improve Your Animation Skills or Look for Professional Animation Software, This Article Will Recommend 8 Best Tools on Mac and Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-quick-fix-how-to-reverse-a-video-clip-in-final-cut-pro-4-simple-steps/"><u>New In 2024, Quick Fix How to Reverse a Video Clip in Final Cut Pro (4 Simple Steps)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-ranking-the-best-top-10-video-editing-software-options/"><u>New In 2024, Ranking the Best Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-avi-editor-for-windows-8-powerful-video-editing-tools/"><u>New In 2024, The Ultimate AVI Editor for Windows 8 Powerful Video Editing Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-10plus-free-video-rotators-to-rotate-or-flip-videos/"><u>New In 2024, Top 10+ Free Video Rotators to Rotate or Flip Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-transform-into-a-cartoon-16-essential-apps-for-mobile/"><u>New In 2024, Transform Into a Cartoon 16 Essential Apps for Mobile</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts/"><u>New In 2024, Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-windows-10-webcam-recording-top-10-software-options/"><u>New In 2024, Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-take-your-gaming-to-the-next-level-sharing-ps4-screenshots-online/"><u>New Take Your Gaming to the Next Level Sharing PS4 Screenshots Online</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-free-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Free Public Domain Video Downloads for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-video-editing-in-windows-tips-tricks-and-techniques-for-2024/"><u>New The Ultimate Guide to Video Editing in Windows Tips, Tricks, and Techniques for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-time-lapse-video-editing-made-easy-top-software-picks/"><u>New Time-Lapse Video Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-music-video-creation-tools-for-stunning-visuals/"><u>New Top 10 Music Video Creation Tools for Stunning Visuals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-10-online-rotators-to-try/"><u>New Transform Your Videos 10 Online Rotators to Try</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-troubleshoot-avidemux-no-sound-error-causes-and-solutions-for-2024/"><u>New Troubleshoot Avidemux No Sound Error Causes and Solutions for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unhappy-with-vsdc-explore-these-top-mac-video-editing-options-for-2024/"><u>New Unhappy with VSDC? Explore These Top Mac Video Editing Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-inner-filmmaker-a-step-by-step-guide-to-professional-movie-making-for-2024/"><u>New Unleash Your Inner Filmmaker A Step-by-Step Guide to Professional Movie Making for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlimited-fake-faces-best-free-online-face-generation-tools/"><u>New Unlimited Fake Faces Best Free Online Face Generation Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlocking-stills-from-videos-a-comprehensive-guide-with-10-converter-options/"><u>New Unlocking Stills From Videos A Comprehensive Guide with 10 Converter Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/smooth-path-to-crafting-unique-video-shorts-thumbnail-credits/"><u>Smooth Path to Crafting Unique Video Shorts Thumbnail Credits</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G04</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-animate-photo-online-with-these-awesome-tools/"><u>Updated In 2024, Animate Photo Online with These Awesome Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-how-to-change-video-playback-speed-in-quicktime-player/"><u>Updated In 2024, How to Change Video Playback Speed in QuickTime Player</u></a></li>
+</ul></div>

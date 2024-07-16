@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Mastery Freeze Frames, Slow Motion, and Beyond
-date: 2024-07-01T13:52:59.821Z
-updated: 2024-07-02T13:52:59.821Z
+date: 2024-07-15T17:35:37.410Z
+updated: 2024-07-16T17:35:37.410Z
 tags: 
   - video editing software
   - video editing
@@ -34,12 +34,18 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 #### 1\.  STILL FRAMES
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
@@ -48,6 +54,9 @@ This creates a two-second freeze-frame at the position of the playhead.
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
@@ -60,6 +69,18 @@ So, here's another way to do this.
 
 Put the playhead (or skimmer, but I prefer the playhead) on the frame you want to freeze, select the clip, then type Shift+F.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Playhead](https://images.wondershare.com/multimedia/speed005.jpg)
 
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
@@ -80,6 +101,9 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
@@ -88,6 +112,9 @@ This displays the orange Retime editor bar above the clip, with a small red port
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
@@ -100,6 +127,9 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 #### 3\.  SLOW (or FAST) MOTION
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
@@ -126,6 +156,9 @@ To reset the speed back to normal (100%), click the downward-pointing arrow in t
 
 There are two ways to change the speed of a clip.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
@@ -187,3 +220,68 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[New] 2024 Approved  All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-beats-and-banners-discovering-premium-dj-templates/"><u>[New] Beats & Banners  Discovering Premium DJ Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-techniques-for-capturing-and-recording-streamed-content-for-2024/"><u>[New] Expert Techniques for Capturing & Recording Streamed Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-earnings-average-income-per-video-ad/"><u>[New] YouTube Earnings  Average Income per Video Ad?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-tiktok-score-with-these-10-key-tools/"><u>[Updated] Elevate Your TikTok Score with These 10 Key Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-share-vimeo-video-in-instagram-stories-for-2024/"><u>[Updated] How to Share Vimeo Video in Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>[Updated] YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intriguing-book-trailers-on-display/"><u>2024 Approved  Intriguing Book Trailers on Display</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-learn-how-to-control-video-speed-on-snapchat-effectively/"><u>2024 Approved  Learn How to Control Video Speed on Snapchat Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>2024 Approved  Pushing Imagery Boundaries  Mastering PS Distortion Methods</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-easy-cartoon-making-top-10-online-and-offline-solutions/"><u>2024 Approved Easy Cartoon Making Top 10 Online and Offline Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-easy-online-video-editing-platforms-with-music-libraries/"><u>2024 Approved Easy Online Video Editing Platforms with Music Libraries</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-edit-flv-videos-like-a-pro-top-5-free-tools/"><u>2024 Approved Edit FLV Videos Like a Pro Top 5 Free Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-8-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 8</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/chrome-video-errors-a-step-by-step-fix-guide-for-2024/"><u>Chrome Video Errors  A Step-by-Step Fix Guide for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-hp-not-found-for-windows-os/"><u>Driver Issue: HP Not Found for Windows OS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/dub-like-a-pro-top-6-video-dubbing-apps-for-android-and-ios-for-2024/"><u>Dub Like a Pro Top 6 Video Dubbing Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easily-create-stunning-home-dvds-with-the-best-video-editing-tools-for-2024/"><u>Easily Create Stunning Home DVDs with the Best Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-video-editing-top-free-cutters-and-joiners-for-starters-for-2024/"><u>Easy Video Editing Top Free Cutters and Joiners for Starters for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-video-tagging-on-mac-discover-the-8-best-metadata-editors-for-2024/"><u>Easy Video Tagging on Mac Discover the 8 Best Metadata Editors for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/edit-flv-files-with-ease-top-windows-8-video-editing-software-for-2024/"><u>Edit FLV Files with Ease Top Windows 8 Video Editing Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/edit-flv-videos-on-windows-8-with-ease-a-beginner-friendly-editor-for-2024/"><u>Edit FLV Videos on Windows 8 with Ease A Beginner-Friendly Editor for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-a-stroke-on-your-youtube-channel-for-2024/"><u>Escaping a Stroke on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-dual-display-video-editing-top-free-online-and-offline-apps/"><u>In 2024, Dual-Display Video Editing Top Free Online and Offline Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-dual-screen-video-editor-top-free-online-and-offline-choices/"><u>In 2024, Dual-Screen Video Editor Top Free Online and Offline Choices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easily-blur-photo-backgrounds-online-with-these-free-web-tools/"><u>In 2024, Easily Blur Photo Backgrounds Online with These Free Web Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easter-eggstravaganza-wondershare-filmora-promo-code-inside/"><u>In 2024, Easter Eggstravaganza Wondershare Filmora Promo Code Inside</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easter-treat-for-creators-wondershare-filmora-exclusive-offer/"><u>In 2024, Easter Treat for Creators Wondershare Filmora Exclusive Offer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easy-peasy-animation-8-best-tools-for-animated-photos/"><u>In 2024, Easy Peasy Animation 8 Best Tools for Animated Photos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easy-tone-generation-5-best-free-online-tools-you-need/"><u>In 2024, Easy Tone Generation 5 Best Free Online Tools You Need</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-easy-video-creation-best-apps-for-photos-and-music-lovers/"><u>In 2024, Easy Video Creation Best Apps for Photos and Music Lovers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y100-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y100 Without PUK Codes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-image-isolation-pro-eliminate-backgrounds-in-affinity/"><u>In 2024, Image Isolation Pro  Eliminate Backgrounds in Affinity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-rapid-tiktok-downloads-flawless-mp4-format-conversions/"><u>In 2024, Rapid TikTok Downloads  Flawless MP4 Format Conversions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-softening-audio-routine/"><u>In 2024, Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>In 2024, Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-editing-tips-with-fcpx/"><u>Mastering Instagram  Video Editing Tips with FCPX</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-two-os-worlds-the-essential-steam-deck-guide/"><u>Navigating Two OS Worlds: The Essential Steam Deck Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro/"><u>New 2024 Approved From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-download-windows-movie-maker-for-free-a-quick-and-easy-guide/"><u>New Download Windows Movie Maker for Free A Quick and Easy Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-dual-display-video-editing-top-apps-for-iphone-and-android/"><u>New Dual-Display Video Editing Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-dvdmacpro/"><u>New DVDMacPro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easter-eggstravaganza-get-your-wondershare-filmora-promo-code-now/"><u>New Easter Eggstravaganza Get Your Wondershare Filmora Promo Code Now</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easy-video-editing-software-for-newbies/"><u>New Easy Video Editing Software for Newbies</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>New Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easy-video-joiner-is-free-software-that-is-created-to-help-users-to-join-merge-and-combine-different-video-clips-to-form-a-single-movie/"><u>New Easy Video Joiner Is Free Software that Is Created to Help Users to Join, Merge and Combine Different Video Clips to Form a Single Movie</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-edit-and-organize-your-mp4-videos-with-these-tag-editors/"><u>New Edit and Organize Your MP4 Videos with These Tag Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-edit-avi-videos-for-free-top-editor-choices/"><u>New Edit AVI Videos for Free Top Editor Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ios-gaming-awaits-with-these-top-4-emulators/"><u>Superior iOS Gaming Awaits With These Top 4 Emulators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-importance-of-channel-consistency-on-youtube/"><u>The Importance of Channel Consistency on YouTube</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-dual-display-video-editing-top-apps-for-iphone-and-android/"><u>Updated Dual-Display Video Editing Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-dual-screen-video-editor-top-free-online-and-offline-choices/"><u>Updated Dual-Screen Video Editor Top Free Online and Offline Choices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easiest-video-metadata-editing-software-for-mac-users-2023-update/"><u>Updated Easiest Video Metadata Editing Software for Mac Users 2023 Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easily-blur-photo-backgrounds-with-these-free-online-tools/"><u>Updated Easily Blur Photo Backgrounds with These Free Online Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easy-avi-file-splitting-and-trimming-a-comprehensive-guide/"><u>Updated Easy AVI File Splitting and Trimming A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easy-online-video-editors-with-music-and-audio-features/"><u>Updated Easy Online Video Editors with Music and Audio Features</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easy-peasy-reaction-videos-a-beginners-guide-to-filmora/"><u>Updated Easy Peasy Reaction Videos A Beginners Guide to Filmora</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easy-video-editor-for-mac-mkvtoolnix-review/"><u>Updated Easy Video Editor for Mac MKVtoolnix Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-avatars-online/"><u>Updated In 2024, AI Avatars | Online</u></a></li>
+</ul></div>

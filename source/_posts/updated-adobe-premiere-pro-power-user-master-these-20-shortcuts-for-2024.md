@@ -1,7 +1,7 @@
 ---
 title: Updated Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024
-date: 2024-07-09T11:12:47.282Z
-updated: 2024-07-10T11:12:47.283Z
+date: 2024-07-15T17:45:10.433Z
+updated: 2024-07-16T17:45:10.433Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -75,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -167,6 +182,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,3 +233,48 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-operational-update-troubled-obs-camera-for-2024/"><u>[New] Operational Update  Troubled OBS Camera for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-heartstrings-harmony-best-music-to-accompany-your-engagement/"><u>[Updated] 2024 Approved  Heartstrings Harmony  Best Music to Accompany Your Engagement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-keep-your-feed-free-no-fb-vids-here/"><u>[Updated] 2024 Approved  Keep Your Feed Free  No FB Vids Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology/"><u>[Updated] In 2024, Digital Stagecraft  Unlocking Voice Manipulation with Affordable Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tactical-guide-to-screening-meetings-on-mobilepc/"><u>[Updated] In 2024, Tactical Guide to Screening Meetings on Mobile/PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-memetic-masterpieces-behind-the-scenes/"><u>2024 Approved  Memetic Masterpieces  Behind the Scenes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-camtasia-video-editing-pro-mastering-playback-speed-and-more/"><u>2024 Approved Camtasia Video Editing Pro Mastering Playback Speed and More</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-shrink-your-videos-10-best-free-online-compression-tools/"><u>2024 Approved Shrink Your Videos 10 Best Free Online Compression Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>2024 Approved Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-simple-and-free-the-best-online-tone-creators/"><u>2024 Approved Simple and Free The Best Online Tone Creators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>2024 Approved Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-simplify-video-editing-on-mac-mkvtoolnix-2023-guide/"><u>2024 Approved Simplify Video Editing on Mac MKVtoolnix 2023 Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/annual-2022-in-depth-analysis-of-popular-podcasts/"><u>Annual 2022: In-Depth Analysis of Popular Podcasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-prime-video-editors-for-excellent-webcam-videos/"><u>In 2024, Prime Video Editors for Excellent Webcam Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-shrink-your-videos-10-free-online-compressors-with-no-installation/"><u>In 2024, Shrink Your Videos 10 Free Online Compressors with No Installation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-simplify-your-designs-the-best-aspect-ratio-calculators/"><u>In 2024, Simplify Your Designs The Best Aspect Ratio Calculators</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-essential-guide-to-mastering-your-auditory-projects-using-twistedwave/"><u>New 2024 Approved The Essential Guide to Mastering Your Auditory Projects Using TwistedWave</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-shaky-no-more-best-free-video-stabilizer-apps-for-android-users/"><u>New Shaky No More Best Free Video Stabilizer Apps for Android Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-should-you-choose-vn-video-editor-pro-for-your-video-editing-needs/"><u>New Should You Choose VN Video Editor Pro for Your Video Editing Needs?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-simple-and-free-the-best-online-tone-creators/"><u>New Simple and Free The Best Online Tone Creators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>New Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-simplify-video-editing-on-mac-mkvtoolnix-2023-guide/"><u>New Simplify Video Editing on Mac MKVtoolnix 2023 Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-simplify-your-design-the-best-aspect-ratio-calculation-tools/"><u>New Simplify Your Design The Best Aspect Ratio Calculation Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/show-off-your-gaming-skills-a-beginners-guide-to-sharing-ps4-screenshots-for-2024/"><u>Show Off Your Gaming Skills A Beginners Guide to Sharing PS4 Screenshots for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/shrink-your-files-9-best-free-video-compression-tools-for-windows-10-for-2024/"><u>Shrink Your Files 9 Best Free Video Compression Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/shrink-your-mpeg2-videos-download-and-use-virtualdub-today-for-2024/"><u>Shrink Your MPEG2 Videos Download and Use VirtualDub Today for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx-for-2024/"><u>Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/simple-yet-powerful-video-editing-programs-for-2024/"><u>Simple Yet Powerful Video Editing Programs for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/simplify-your-conversion-process-5-rules-for-picking-the-right-video-to-audio-converter-for-2024/"><u>Simplify Your Conversion Process 5 Rules for Picking the Right Video to Audio Converter for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/simplify-your-edit-the-top-video-editing-apps-for-4k-proxy-videos-this-year-for-2024/"><u>Simplify Your Edit The Top Video Editing Apps for 4K Proxy Videos This Year for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-discord-rivals-worth-exploring/"><u>Top Discord Rivals Worth Exploring</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-retrieval-suite-the-premier-choice-for-retrieving-lost-or-deleted-digital-files/"><u>Universal Data Retrieval Suite: The Premier Choice for Retrieving Lost or Deleted Digital Files</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-crash-free-editing-tips-for-a-stable-final-cut-pro-x-experience/"><u>Updated Crash-Free Editing Tips for a Stable Final Cut Pro X Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-instagram-stop-motion-tutorial-bring-your-posts-to-life/"><u>Updated In 2024, Instagram Stop Motion Tutorial Bring Your Posts to Life</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-remove-unwanted-elements-top-video-blur-apps-for-mobile/"><u>Updated In 2024, Remove Unwanted Elements Top Video Blur Apps for Mobile</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-shooting-up-expert-advice-for-creating-vertical-content-on-your-phone/"><u>Updated Shooting Up Expert Advice for Creating Vertical Content on Your Phone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-silence-is-golden-removing-background-noise-in-final-cut-pro-x-made-easy/"><u>Updated Silence Is Golden Removing Background Noise in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Updated Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting/"><u>Updated Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-simplify-video-editing-on-mac-with-mkvtoolnix/"><u>Updated Simplify Video Editing on Mac with MKVtoolnix</u></a></li>
+</ul></div>

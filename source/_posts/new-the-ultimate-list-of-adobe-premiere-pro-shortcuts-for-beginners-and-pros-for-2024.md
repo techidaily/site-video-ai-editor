@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros for 2024
-date: 2024-07-01T13:49:10.597Z
-updated: 2024-07-02T13:49:10.597Z
+date: 2024-07-15T17:31:19.415Z
+updated: 2024-07-16T17:31:19.415Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -75,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -127,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -215,3 +233,43 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved  Dynamic and Simple  Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-comprehensively-reviewed-list-of-youtube-video-extractor-apps-android-for-2024/"><u>[New] A Comprehensively Reviewed List of YouTube Video Extractor Apps (Android) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-worlds-a-deep-dive-into-vr-developments/"><u>[Updated] Bridging Worlds  A Deep Dive Into VR Developments</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-expert-font-design-services-for-discord-app-androidios-for-2024/"><u>[Updated] Expert Font Design Services for Discord App (Android/iOS) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[Updated] Top Mobile Experiences  IOS & Android's VR Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-the-best-video-monitors-for-ps5/"><u>2024 Approved  Selecting the Best Video Monitors for PS5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-amplification-for-online-photo-archiving-for-2024/"><u>Audio Amplification for Online Photo Archiving for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/confirming-youtube-pro-rated-earnings/"><u>Confirming YouTube Pro-Rated Earnings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-sound-recording-tools-11-selection-for-2024/"><u>Elite Sound Recording Tools - #11 Selection for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-webm-viewers-the-ultimate-comparison-of-options/"><u>Free WebM Viewers  The Ultimate Comparison of Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways/"><u>How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-g24-power-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola G24 Power Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no-more-reddit-roulette-reliable-filmora-discounts-here/"><u>New 2024 Approved No More Reddit Roulette Reliable Filmora Discounts Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no-more-searching-the-best-filmora-coupon-codes-revealed/"><u>New 2024 Approved No More Searching The Best Filmora Coupon Codes Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no-watermark-no-problem-top-10-free-video-editors-for-android/"><u>New 2024 Approved No Watermark, No Problem Top 10 Free Video Editors for Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no-watermark-video-cutting-top-7-free-tools/"><u>New 2024 Approved No-Watermark Video Cutting Top 7 Free Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-watermark-no-problem-top-10-free-android-video-editors/"><u>New In 2024, No Watermark, No Problem Top 10 Free Android Video Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-watermark-video-merger-tools-our-top-7-picks/"><u>New In 2024, No-Watermark Video Merger Tools Our Top 7 Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-noise-reduction-mastery-tips-and-tricks-for-final-cut-pro-x-users/"><u>New In 2024, Noise Reduction Mastery Tips and Tricks for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors/"><u>New In 2024, Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-no-watermark-no-problem-top-video-merger-tools-for-2024/"><u>New No Watermark, No Problem Top Video Merger Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>New Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-live-streaming-and-conferencing-apps/"><u>Superior Live Streaming & Conferencing Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-more-reddit-roulette-reliable-filmora-discounts-here/"><u>Updated 2024 Approved No More Reddit Roulette Reliable Filmora Discounts Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-more-shaky-cam-free-video-stabilization-software-for-windows-and-macos/"><u>Updated 2024 Approved No More Shaky Cam Free Video Stabilization Software for Windows and macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-more-shaky-cam-the-best-free-video-stabilizers/"><u>Updated 2024 Approved No More Shaky Cam The Best Free Video Stabilizers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-sound-in-avidemux-dont-panic-weve-got-you-covered/"><u>Updated 2024 Approved No Sound in Avidemux? Dont Panic, Weve Got You Covered</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-watermark-no-problem-7-best-video-merger-software/"><u>Updated 2024 Approved No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-experience-necessary-video-editing-free-cutting-and-joining-software/"><u>Updated 2024 Approved No-Experience-Necessary Video Editing Free Cutting and Joining Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-more-shaky-videos-discover-the-best-free-android-video-stabilizers/"><u>Updated In 2024, No More Shaky Videos Discover the Best Free Android Video Stabilizers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-sound-in-avidemux-dont-panic-weve-got-you-covered/"><u>Updated In 2024, No Sound in Avidemux? Dont Panic, Weve Got You Covered</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-no-watermark-no-problem-free-and-paid-solutions-for-filmora/"><u>Updated In 2024, No Watermark, No Problem Free and Paid Solutions for Filmora</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-no-watermark-no-problem-7-video-merger-solutions-for-2024/"><u>Updated No Watermark, No Problem 7 Video Merger Solutions for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-no-watermark-video-merger-tools-our-top-7-picks-for-2024/"><u>Updated No-Watermark Video Merger Tools Our Top 7 Picks for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+</ul></div>

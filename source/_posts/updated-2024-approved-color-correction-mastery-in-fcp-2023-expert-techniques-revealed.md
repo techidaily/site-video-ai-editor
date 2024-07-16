@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Color Correction Mastery in FCP 2023 Expert Techniques Revealed
-date: 2024-07-09T11:02:36.970Z
-updated: 2024-07-10T11:02:36.970Z
+date: 2024-07-15T17:42:15.680Z
+updated: 2024-07-16T17:42:15.680Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 # Color Correction in Final Cut Pro
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -36,6 +39,9 @@ No matter what you want to do for the customization of your videos, Final Cut Pr
 
 The steps below can help all beginners to develop easy video edited projects using Final Cut Pro, but if some of you find this platform a little difficult then it is good to start practicing as a beginner on [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a well-known video editor tool for Mac users that contains all powerful features and an interactive user interface to facilitate all beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -67,12 +73,18 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
@@ -85,6 +97,9 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
@@ -93,6 +108,9 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
@@ -119,3 +137,47 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-step-by-step-approach-to-professional-ps4-gaming-recordings/"><u>[New] A Step-by-Step Approach to Professional PS4 Gaming Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-androids-video-reversion-secrets-unveiled/"><u>[New] Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-tech-for-new-channel-launches-for-2024/"><u>[New] Essential Tech for New Channel Launches for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-user-friendly-srt-services-ranked-1-to-8/"><u>[New] Free, User-Friendly SRT Services – Ranked #1 to #8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-ranker-top-15-free-online-photo-enhancement-tools/"><u>[New] The Ultimate Ranker  Top 15 Free Online Photo Enhancement Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-tech-whizs-guide-to-recording-games-on-win10/"><u>[Updated] The Tech Whiz's Guide to Recording Games on Win10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits/"><u>[Updated] Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-the-moment-no-cost-cross-platform-screen-recorders-for-pcmac-for-2024/"><u>Capture the Moment - No-Cost, Cross-Platform Screen Recorders for PC/Mac for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-camon-20-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Camon 20 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-best-front-row-non-sports-options/"><u>In 2024, Best Front Row Non-Sports Options</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-poco-c65-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco C65 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Pro Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-screen-snapper-unlocking-zd-softwares-potential/"><u>In 2024, Ultimate Screen Snapper  Unlocking ZD Software's Potential</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/snapshots-from-videos-top-10-converters-to-extract-images/"><u>Snapshots From Videos Top 10 Converters to Extract Images</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks-for-2024/"><u>Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-definitive-guide-to-superior-hdr-photography-gear/"><u>The Definitive Guide to Superior HDR Photography Gear</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-5-reaction-video-makers-for-2024/"><u>Top 5 Reaction Video Makers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/trim-your-videos-for-free-on-windows-10-the-best-online-and-offline-tools-for-2024/"><u>Trim Your Videos for Free on Windows 10 The Best Online and Offline Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-melodies-safe-free-extraction-methods-for-2024/"><u>Unlocking YouTube Melodies  Safe, Free Extraction Methods for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-of-the-best-5-free-avi-video-rotation-tools/"><u>Updated 2024 Approved Best of the Best 5 Free AVI Video Rotation Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated 2024 Approved Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Updated 2024 Approved Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-rotate-your-iphone-videos-without-spending-a-dime-top-free-options/"><u>Updated 2024 Approved Rotate Your iPhone Videos Without Spending a Dime Top Free Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-seamless-video-editing-on-arm-devices-filmora-x-makes-it-happen/"><u>Updated 2024 Approved Seamless Video Editing on ARM Devices Filmora X Makes It Happen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-guide-to-motion-tracking-on-android-and-iphone/"><u>Updated 2024 Approved The Ultimate Guide to Motion Tracking on Android and iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-video-blur-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Top Video Blur Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-adobe-premieres-full-potential-top-15-plugins-free-download/"><u>Updated 2024 Approved Unlock Adobe Premieres Full Potential Top 15 Plugins (Free Download)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-compression-made-easy-top-5-free-iphone-and-ipad-apps/"><u>Updated 2024 Approved Video Compression Made Easy Top 5 Free iPhone and iPad Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-10-mind-blowing-video-collage-maker-for-pc/"><u>Updated Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-in-class-text-animation-solutions-for-2024/"><u>Updated Best-in-Class Text Animation Solutions for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-easily-edit-avi-files-a-step-by-step-guide-to-trimming-and-splitting/"><u>Updated Easily Edit AVI Files A Step-by-Step Guide to Trimming and Splitting</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-filmora-torrent-download-a-step-by-step-virus-free-guide/"><u>Updated Filmora Torrent Download A Step-by-Step Virus-Free Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-still-to-motion-10-top-image-to-video-maker-tools-for-2024/"><u>Updated From Still to Motion 10 Top Image to Video Maker Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-get-started-with-mp4-video-editing-a-friendly-tutorial-for-mac-and-windows-beginners/"><u>Updated Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-get-vllo-on-mac-plus-top-alternative-options-for-2024/"><u>Updated Get VLLO on Mac + Top Alternative Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-10-essential-video-editing-programs-for-professionals/"><u>Updated In 2024, 10 Essential Video Editing Programs for Professionals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-video-editing-for-gamers-the-best-options/"><u>Updated In 2024, Free Video Editing for Gamers The Best Options</u></a></li>
+</ul></div>

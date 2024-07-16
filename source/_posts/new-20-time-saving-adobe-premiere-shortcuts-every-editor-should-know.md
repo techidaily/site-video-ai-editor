@@ -1,7 +1,7 @@
 ---
 title: New 20 Time-Saving Adobe Premiere Shortcuts Every Editor Should Know
-date: 2024-06-15T21:44:30.770Z
-updated: 2024-06-16T21:44:30.770Z
+date: 2024-07-15T17:27:08.438Z
+updated: 2024-07-16T17:27:08.438Z
 tags: 
   - video editing software
   - video editing
@@ -30,12 +30,18 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -127,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -199,6 +214,9 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -215,3 +233,49 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capture-screenshots-of-a-full-page/"><u>[New] 2024 Approved  Capture Screenshots of a Full Page</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-hidden-screenshotters-concealed-photography-on-the-snapchat-app/"><u>[New] In 2024, Hidden ScreenShotters  Concealed Photography on the Snapchat App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-screencast-savvy-a-comprehensive-examination-of-techniques-and-tools/"><u>[New] In 2024, Screencast Savvy  A Comprehensive Examination of Techniques & Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-scale-up-snaps-no-loss-in-detail/"><u>[New] Scale Up Snaps - No Loss in Detail</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-pc-strategies-for-acquiring-twitter-jokes-gifs-for-2024/"><u>[Updated] PC Strategies for Acquiring Twitter Jokes (GIFs) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-gif-designers-choice-list/"><u>[Updated] Professional GIF Designers' Choice List</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-top-15-must-see-tiktok-innovations/"><u>2024 Approved  Top 15 Must-See TikTok Innovations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-instagram-video-dimensions-what-you-need-to-know-for-maximum-engagement/"><u>2024 Approved Instagram Video Dimensions What You Need to Know for Maximum Engagement</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-key-factors-to-keep-in-mind-when-converting-audio-to-video/"><u>2024 Approved Key Factors to Keep in Mind When Converting Audio to Video</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-mastering-video-rotation-a-simple-and-efficient-process/"><u>2024 Approved Mastering Video Rotation A Simple and Efficient Process</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-unlock-the-potential-of-your-macs-audio-recording-top-tips-and-tricks-revealed/"><u>2024 Approved Unlock the Potential of Your Macs Audio Recording - Top Tips and Tricks Revealed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-chatgpt-wondershare-virbo-glossary/"><u>2024 Approved What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-z-fold-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy Z Fold 5 PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-k70-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi K70 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/how-to-choose-the-best-mac-mp3-tag-editor-for-2024/"><u>How To Choose the Best Mac MP3 Tag Editor for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-11-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-image-size-made-easy-calculating-and-adjusting-ratios/"><u>In 2024, Image Size Made Easy Calculating and Adjusting Ratios</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>In 2024, Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-linux-on-chrome-os-a-step-by-step-guide/"><u>In 2024, Linux on Chrome OS A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-mastering-image-proportions-a-step-by-step-ratio-guide/"><u>In 2024, Mastering Image Proportions A Step-by-Step Ratio Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-microsoft-video-editor-easily-edit-videos-in-windows-1087/"><u>In 2024, Microsoft Video Editor Easily Edit Videos in Windows 10/8/7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-x100-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo X100 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-roadmap-to-accessing-costless-frame-videos/"><u>In 2024, The Roadmap to Accessing Costless Frame Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ipad-video-editing-made-easy-top-5-apps-for-2024/"><u>IPad Video Editing Made Easy Top 5 Apps for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/master-adobe-premiere-with-these-20-must-know-shortcuts-for-2024/"><u>Master Adobe Premiere with These 20 Must-Know Shortcuts for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-fcpx-expert-solutions-to-common-issues-for-2024/"><u>Mastering FCPX Expert Solutions to Common Issues for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-insta-reels-with-tiktok-techniques-for-massive-shares/"><u>Mastering Insta Reels with TikTok Techniques for Massive Shares</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-video-import-and-export-in-adobe-premiere-pro-2023-for-2024/"><u>Mastering Video Import and Export in Adobe Premiere Pro 2023 for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/minitool-movie-maker-in-depth-review-tutorial-and-top-alternatives-for-2024/"><u>Minitool Movie Maker In-Depth Review, Tutorial, and Top Alternatives for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-beyond-wmm-top-picks-for-video-editing-software/"><u>New In 2024, Beyond WMM Top Picks for Video Editing Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-instagram-stop-motion-tutorial-bring-your-posts-to-life/"><u>New Instagram Stop Motion Tutorial Bring Your Posts to Life</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-make-a-lasting-impression-customizing-linkedin-video-thumbnails/"><u>New Make a Lasting Impression Customizing LinkedIn Video Thumbnails</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mastering-fcpx-expert-solutions-to-common-issues/"><u>New Mastering FCPX Expert Solutions to Common Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-minitool-movie-maker-review-is-it-the-best-video-editor-for-you/"><u>New Minitool Movie Maker Review Is It the Best Video Editor for You?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-s-hottest-explainer-video-creation-platforms-revealed-for-2024/"><u>New S Hottest Explainer Video Creation Platforms Revealed for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>Updated How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-instagram-video-dimensions-what-you-need-to-know/"><u>Updated Instagram Video Dimensions What You Need to Know</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-instagram-video-dimensions-what-you-need-to-know-for-maximum-engagement/"><u>Updated Instagram Video Dimensions What You Need to Know for Maximum Engagement</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-latest-picks-top-10-2d-animation-tools-free-and-paid-options/"><u>Updated Latest Picks Top 10 2D Animation Tools Free & Paid Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-m4r-conversion-essentials-dont-start-without-reading-this/"><u>Updated M4R Conversion Essentials Dont Start Without Reading This</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mastering-fcp-the-ultimate-2024-tutorial-bundle/"><u>Updated Mastering FCP The Ultimate 2024 Tutorial Bundle</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mastering-soundcloud-downloads-a-step-by-step-guide/"><u>Updated Mastering Soundcloud Downloads A Step-by-Step Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Updated Adobe Premiere 2023 A Step-by-Step Guide to Importing and Exporting Videos for 2024
-date: 2024-07-09T11:13:48.844Z
-updated: 2024-07-10T11:13:48.844Z
+date: 2024-07-15T17:45:20.132Z
+updated: 2024-07-16T17:45:20.132Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 # How to Import and Export Videos in Adobe Premiere
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -34,6 +37,9 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -44,6 +50,9 @@ This is a straightforward command that works like most other programs, and is ac
 
 Whichever way you access it, you get the standard for the platform import dialogue box we see here.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
@@ -52,6 +61,18 @@ This method of importing is best suited to self-contained media such as audio or
 
 Whilst on the surface media browser appears to do the same job as the import command the way they carry out the task is somewhat different, media browser is designed to let you see the media created by cameras, and show you easy to understand icons and metadata rather than the intricate pattern of files and folders they use. This makes picking the correct clip from a selection much easier, with metadata showing you date and duration as well as file type.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
@@ -82,10 +103,16 @@ Selecting 'Match Sequence Settings' here creates a finished file that matches th
 
 Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequence Settings' within export dialogue, you can click on the 'Format' field to change the type of file that is produced. What options here can vary depending on codecs installed, this screenshot shows only those that are included with the product for clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
 
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
@@ -110,3 +137,52 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mac-acoustic-arena-deep-dive/"><u>[New] 2024 Approved  Mac Acoustic Arena  Deep Dive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-invisible-dimensions-of-instagram-story-fans/"><u>[New] In 2024, The Invisible Dimensions of Instagram Story Fans</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-5-choice-of-online-meeting-recorder-gadgets/"><u>[New] In 2024, Ultimate 5 Choice of Online Meeting Recorder Gadgets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-gurus-summit-expedition/"><u>[New] YouTube Gurus Summit Expedition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed-for-2024/"><u>[Updated] Stay Ahead in the Stream  Top 5 Video Capture Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-go-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark Go (2023) Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-techniques-to-improve-visibility-during-youtube-playback/"><u>2024 Approved  Techniques to Improve Visibility During YouTube Playback</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-bring-your-ideas-to-life-best-video-animation-apps-for-mobile-devices/"><u>2024 Approved Bring Your Ideas to Life Best Video Animation Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>2024 Approved The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-art-of-video-enhancement-expert-guidance/"><u>2024 Approved The Art of Video Enhancement Expert Guidance</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-article-below-will-help-you-find-the-best-game-video-editors/"><u>2024 Approved The Article Below Will Help You Find the Best Game Video Editors</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-content-with-these-10-reaction-wonders-for-2024/"><u>Elevate Your Content with These 10 Reaction Wonders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fostering-creativity-the-most-innovative-6-nft-services-for-2024/"><u>Fostering Creativity  The Most Innovative 6 NFT Services for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/full-insight-demystifying-dji-inspire-2/"><u>Full Insight  Demystifying DJI Inspire 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seamless-music-addition-for-social-media-iphoneandroid/"><u>In 2024, Seamless Music Addition for Social Media  IPhone/Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-art-of-storytelling-creating-compelling-slideshows-in-final-cut-pro/"><u>In 2024, The Art of Storytelling Creating Compelling Slideshows in Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-art-of-transcribing-audio-to-text/"><u>In 2024, The Art of Transcribing Audio to Text</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-platforms-for-accessing-professional-montage-music-tracks/"><u>In 2024, Top 10 Platforms for Accessing Professional Montage Music Tracks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-xr-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone XR</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/innovative-strategies-for-sharing-on-instagram-stories/"><u>Innovative Strategies for Sharing on Instagram Stories</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-convert-audio-files-with-ease-top-12-converter-options-for-2024/"><u>New Convert Audio Files with Ease Top 12 Converter Options for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-discovering-the-easiest-online-free-speech-recorders-for-2024/"><u>New Discovering the Easiest Online Free Speech Recorders for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-unveiling-the-premier-10-windows-and-apple-devices-compatible-daws-of-today/"><u>New In 2024, Unveiling the Premier 10 Windows & Apple Devices-Compatible DAWs of Today</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-art-of-lower-thirds-design-in-final-cut-pro-x/"><u>New The Art of Lower Thirds Design in Final Cut Pro X</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-art-of-smooth-transitions-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>New The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-art-of-the-ken-burns-effect-tips-and-tricks-for-stunning-results/"><u>New The Art of the Ken Burns Effect Tips and Tricks for Stunning Results</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-art-of-time-stopping-freeze-frame-techniques-for-stunning-videos/"><u>New The Art of Time-Stopping Freeze Frame Techniques for Stunning Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-article-coming-ahead-is-a-complete-pack-of-information-you-will-get-to-learn-about-6-different-movie-maker-software-for-windows/"><u>New The Article Coming Ahead Is a Complete Pack of Information. You Will Get to Learn About 6 Different Movie Maker Software for Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-article-introduces-some-of-the-best-free-online-video-loopers-for-windows-mac-and-linux/"><u>New The Article Introduces some of the Best Free Online Video Loopers for Windows, Mac and Linux</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-art-of-screenshot-sharing-tips-and-tricks-for-ps4-gamers-for-2024/"><u>The Art of Screenshot Sharing Tips and Tricks for PS4 Gamers for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life-for-2024/"><u>The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-art-of-visual-storytelling-a-beginners-guide-to-professional-movie-making-for-2024/"><u>The Art of Visual Storytelling A Beginners Guide to Professional Movie Making for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-article-below-will-help-you-find-the-best-game-video-editors-for-2024/"><u>The Article Below Will Help You Find the Best Game Video Editors for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-article-coming-ahead-is-a-complete-pack-of-information-you-will-get-to-learn-about-6-different-movie-maker-software-for-windows-for-2024/"><u>The Article Coming Ahead Is a Complete Pack of Information. You Will Get to Learn About 6 Different Movie Maker Software for Windows for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-audio-converter-roundup-12-top-picks-for-every-music-lover-for-2024/"><u>The Audio Converter Roundup 12 Top Picks for Every Music Lover for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learn-how-to-use-3d-camera-tracking-in-adobe-after-effects-and-take-your-skills-to-the-next-level/"><u>Updated Learn How to Use 3D Camera Tracking in Adobe After Effects and Take Your Skills to the Next Level</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-lossless-conversion-video-to-mp3-without-compromise/"><u>Updated The Art of Lossless Conversion Video to MP3 without Compromise</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>Updated The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-slow-motion-how-to-create-breathtaking-videos-on-kapwing/"><u>Updated The Art of Slow Motion How to Create Breathtaking Videos on Kapwing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-speech-to-text-conversion-tips-and-tools/"><u>Updated The Art of Speech-to-Text Conversion Tips and Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-text-to-audio-conversion-tips-and-tricks-for-mp3-success/"><u>Updated The Art of Text-to-Audio Conversion Tips and Tricks for MP3 Success</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-video-post-production-a-step-by-step-online-guide/"><u>Updated The Art of Video Post-Production A Step-by-Step Online Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-aspect-ratio-advantage-how-to-optimize-your-youtube-videos-for-maximum-impact/"><u>Updated The Aspect Ratio Advantage How to Optimize Your YouTube Videos for Maximum Impact</u></a></li>
+</ul></div>

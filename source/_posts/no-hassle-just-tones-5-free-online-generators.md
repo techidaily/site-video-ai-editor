@@ -1,7 +1,7 @@
 ---
 title: No Hassle, Just Tones 5 Free Online Generators
-date: 2024-07-01T13:50:57.817Z
-updated: 2024-07-02T13:50:57.817Z
+date: 2024-07-15T17:33:16.512Z
+updated: 2024-07-16T17:33:16.512Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,18 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
 # 5 Best Online Tone Generators for You
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,6 +46,9 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 5 Online Tone Generators
 
 Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
@@ -48,6 +63,9 @@ You can insert any frequency value you want or choose between **Sine, Square, Sa
 
 #### 2. Audio Test File Generators
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
@@ -60,6 +78,9 @@ In the upper left corner of the new webpage, you’ll be able to see the **Play*
 
 Making tones on this online platform doesn’t require any effort at all since you can easily control the frequency of the tone using a large slider that is displayed across the entire page. Clicking on the **Play** button will play the tone under the current settings so you can make the necessary adjustments if you’re not happy with the results you’re getting. Several options that let you fine-tune the settings of the tone you’re generating can be found below the frequency slider.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/szynalski-online-tone-generator.jpg)
 
 The **volume and balance** are located on the right side of the screen and they allow you to determine how loud the tone is going to be or to choose to which channel the majority of the signal is going to be sent. The value in the middle of the screen displays the current frequency of the tone. The arrows also allow you to change the frequency value, while clicking on the wave type selector lets you choose between Sawtooth, Sine, Triangle, and Square options.
@@ -80,6 +101,9 @@ If you are looking for an easy way to generate tones from your browser this may 
 
 There are **four wave types** you can choose from that generate different types of tones and you can change their tonality by clicking on one of the buttons located near the bottom of the tone generator.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
@@ -90,6 +114,9 @@ The scope of options different online tone generators provide can vary. That is 
 
 What is your favorite method of generating tones? Leave a comment below and let us know.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -106,3 +133,48 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-expert-window-record-for-10-users/"><u>[Updated] 2024 Approved  Expert Window Record for 10 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tracking-and-boosting-identifying-the-best-tools-for-instagram-analysis/"><u>[Updated] 2024 Approved  Tracking and Boosting  Identifying the Best Tools for Instagram Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-snapshotwiz-10-pro-windows-screen-master/"><u>[Updated] In 2024, SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-video-sequencing-synergy-mastering-blend-modes/"><u>[Updated] In 2024, Video Sequencing Synergy  Mastering Blend Modes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adding-apple-music-a-guide-to-enhanced-videos/"><u>2024 Approved  Adding Apple Music  A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-realm-of-video-production-obs-and-free-luts/"><u>2024 Approved  Exploring the Realm of Video Production  OBS & Free LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-pioneering-portals-to-streamline-your-text-effects-search/"><u>5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-ringtones-roundup-essential-sites-for-2024/"><u>Best Ringtones Roundup  Essential Sites for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-gaming-memories-start-recording-now-for-2024/"><u>Easy Gaming Memories  Start Recording Now for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-your-igtv-presence-with-stunning-covers/"><u>Elevating Your IGTV Presence with Stunning Covers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-turnback-a-twitch-broadcast-top-ten-approaches/"><u>In 2024, How to Turnback a Twitch Broadcast  Top Ten Approaches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-guide-to-dji-phantom-3-testing/"><u>In 2024, The Comprehensive Guide to DJI Phantom 3 Testing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-unlock-pro-level-editing-top-5-final-cut-pro-secrets-revealed/"><u>In 2024, Unlock Pro-Level Editing Top 5 Final Cut Pro Secrets Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-unlock-professional-color-in-fcp-tips-and-tricks/"><u>In 2024, Unlock Professional Color in FCP Tips and Tricks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-unlocking-youtube-audio-downloading-made-easy/"><u>In 2024, Unlocking YouTube Audio Downloading Made Easy</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-vertical-vision-a-step-by-step-guide-to-smartphone-video-creation/"><u>In 2024, Vertical Vision A Step-by-Step Guide to Smartphone Video Creation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-editing-essentials-how-to-crop-videos-using-avidemux/"><u>In 2024, Video Editing Essentials How to Crop Videos Using Avidemux</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-editing-essentials-how-to-split-clips-in-windows-live-movie-maker-2023-update/"><u>In 2024, Video Editing Essentials How to Split Clips in Windows Live Movie Maker (2023 Update)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users/"><u>In 2024, Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-editing-on-a-mac-here-are-the-best-options-for/"><u>In 2024, Video Editing on a Mac? Here Are the Best Options For</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-stabilization-on-a-budget-8-free-online-tools-to-get-you-started/"><u>In 2024, Video Stabilization on a Budget 8 Free Online Tools to Get You Started</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-video-to-audio-conversion-made-easy-my-selection-criteria/"><u>In 2024, Video to Audio Conversion Made Easy My Selection Criteria</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-vn-video-editor-app-analysis-strengths-and-weaknesses/"><u>In 2024, VN Video Editor App Analysis Strengths and Weaknesses</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-vn-video-editor-pc-version-a-compact-review/"><u>In 2024, VN Video Editor PC Version A Compact Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-vn-video-editor-pro-does-it-deliver-on-its-promises/"><u>In 2024, VN Video Editor Pro Does It Deliver on Its Promises?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>In 2024, Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>In 2024, Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-watermark-free-videos-how-to-remove-filmora-branding/"><u>In 2024, Watermark-Free Videos How to Remove Filmora Branding</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-webm-to-mp3-conversion-made-simple-top-tools/"><u>In 2024, WebM to MP3 Conversion Made Simple Top Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-webm-to-mp4-conversion-made-simple-top-10-software/"><u>In 2024, WebM to MP4 Conversion Made Simple Top 10 Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-whats-the-best-video-editor-for-mac-in-weve-got-you-covered/"><u>In 2024, Whats the Best Video Editor for Mac in ? Weve Got You Covered</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-which-video-editor-reigns-supreme-final-cut-pro-vs-lumafusion-review/"><u>In 2024, Which Video Editor Reigns Supreme? Final Cut Pro vs LumaFusion Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/installing-videoleap-on-mac-a-step-by-step-guide/"><u>Installing Videoleap on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/join-avi-files-for-free-top-picks-for-video-merging-software-for-2024/"><u>Join AVI Files for Free Top Picks for Video Merging Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/make-an-impact-top-vertical-video-editing-apps-for-mobile-devices-for-2024/"><u>Make an Impact Top Vertical Video Editing Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx-for-2024/"><u>Master the Art of File Conversion  Selecting Best Free Tools for Instagram Videos [Windows/OSX] for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-video-editing-on-mac-fast-and-easy-techniques-for-cutting-large-files/"><u>Mastering Video Editing on Mac Fast and Easy Techniques for Cutting Large Files</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/merge-mov-files-for-free-5-best-options-for-2024/"><u>Merge MOV Files for Free 5 Best Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mobile-video-to-audio-conversion-made-easy-top-apps-reviewed-for-2024/"><u>Mobile Video to Audio Conversion Made Easy Top Apps Reviewed for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco M6 5G? | Dr.fone</u></a></li>
+</ul></div>

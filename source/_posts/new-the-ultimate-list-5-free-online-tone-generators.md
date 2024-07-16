@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate List 5 Free Online Tone Generators
-date: 2024-07-01T13:53:07.009Z
-updated: 2024-07-02T13:53:07.009Z
+date: 2024-07-15T17:35:45.780Z
+updated: 2024-07-16T17:35:45.780Z
 tags: 
   - video editing software
   - video editing
@@ -42,16 +42,25 @@ Each of the online generators listed below will enable you to **hear a pure tone
 
 You can find a number of different options on this website that range from the Pitch Shifter that allows you to change the Pitch of the files you upload to the Online Tone Generator platform to Binaural Beats and DTMF Signals. After you land on the website’s homepage, you’ll be able to see a tone generator that lets you **select the frequency, volume and the waveform of a tone**. The frequency will be set to 44.1 kHz and the wave type will be set to **Sine by default**.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. Audio Test File Generators
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
@@ -70,6 +79,9 @@ The tones you generate on this website **can’t be downloaded to your computer*
 
 The free version of this website offers only a **limited amount of tones** that have a maximum **duration of 5 seconds**. Purchasing Basic, Pro or Corporate packages will grant you access to all types of tones this online tone generator offers, and the tones you download can last up to 300 seconds depending on the sample rate.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/wavtones-online-tone-generator.jpg)
 
 The **WavtonesAudio Frequency Signal Generator** allows you to alter the properties of each tone it offers, even if you’re using the free version, but you can’t listen to any of the available tones before you download them. This makes it a bit more difficult to generate a tone in accordance with your current demands. Furthermore, the **Bit Depth** of all tones the free version of this online tone generator provides is limited to 16-bit.
@@ -84,12 +96,18 @@ There are **four wave types** you can choose from that generate different types 
 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The scope of options different online tone generators provide can vary. That is the reason why your decision which of the tone-generating tools we covered in this article you are going to use depends on the reason why you’re creating a tone.
 
 What is your favorite method of generating tones? Leave a comment below and let us know.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -106,3 +124,43 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>[New] 2024 Approved  Unseen Streamer  How to Live-Stream Privately on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>[New] In 2024, A Treasure Trove  Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-iphone-7-live-view-recording-tutorial/"><u>[New] In 2024, IPhone 7 Live View Recording Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-vsdcs-features-and-its-best-software-rival/"><u>[Updated] 2024 Approved  In-Depth Analysis of VSDC's Features and Its Best Software Rival</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-talker-alteration-tech-for-bloggers-and-streamers/"><u>2024 Approved  Premium Talker Alteration Tech for Bloggers and Streamers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-fcp-mastery-expert-led-tutorials-and-training/"><u>2024 Approved FCP Mastery Expert-Led Tutorials and Training</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-fcp-x-effects-made-simple-a-quick-3-step-tutorial/"><u>2024 Approved FCP X Effects Made Simple A Quick 3-Step Tutorial</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-fcpx-essential-adding-a-countdown-timer-in-just-3-clicks/"><u>2024 Approved FCPX Essential Adding a Countdown Timer in Just 3 Clicks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-fcpx-essentials-the-ultimate-guide-to-learning-final-cut-pro-x/"><u>2024 Approved FCPX Essentials The Ultimate Guide to Learning Final Cut Pro X</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software-for-2024/"><u>FCP or LumaFusion The Pros and Cons of Each Video Editing Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fcp-transition-tutorial-3-easy-steps-to-enhance-your-footage-for-2024/"><u>FCP Transition Tutorial 3 Easy Steps to Enhance Your Footage for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fcp-voice-over-mastery-top-tips-for-beginners-for-2024/"><u>FCP Voice Over Mastery Top Tips for Beginners for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fcp-x-tutorial-how-to-achieve-flawless-chroma-keying-for-2024/"><u>FCP X Tutorial How to Achieve Flawless Chroma Keying for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fcpx-mastery-creating-professional-looking-lower-thirds-for-2024/"><u>FCPX Mastery Creating Professional-Looking Lower Thirds for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-frameworks-exclusive-list-of-top-cameras-for-2024/"><u>Future Frameworks  Exclusive List of Top Cameras for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-fcp-x-the-ultimate-guide-to-creating-realistic-green-screen-composites/"><u>In 2024, FCP X The Ultimate Guide to Creating Realistic Green Screen Composites</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-fcpx-audio-cleanup-tips-and-tricks-for-removing-unwanted-sounds/"><u>In 2024, FCPX Audio Cleanup Tips and Tricks for Removing Unwanted Sounds</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-fcpx-education-center-top-tutorials-channels-and-websites/"><u>In 2024, FCPX Education Center Top Tutorials, Channels, and Websites</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-fcpx-essentials-the-ultimate-guide-to-learning-final-cut-pro-x/"><u>In 2024, FCPX Essentials The Ultimate Guide to Learning Final Cut Pro X</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-fcpx-image-cropping-tutorial-tips-and-tricks-for-professionals/"><u>In 2024, FCPX Image Cropping Tutorial Tips and Tricks for Professionals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Flip 5 Bootloader Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-infinix-hot-40i-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix Hot 40i ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-c22-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia C22 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>In 2024, S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>In 2024, The Ultimate List  10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-fcp-transition-tutorial-3-easy-steps-to-enhance-your-footage/"><u>New FCP Transition Tutorial 3 Easy Steps to Enhance Your Footage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-fcpx-hacks-smooth-skin-without-breaking-the-bank-or-using-plugins/"><u>New FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-over-for-2024/"><u>New What Is AI Voice Over for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/turning-videos-backward-iphone-methods/"><u>Turning Videos Backward  IPhone Methods</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>Updated FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcp-x-tutorial-how-to-achieve-flawless-chroma-keying/"><u>Updated FCP X Tutorial How to Achieve Flawless Chroma Keying</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-2024-essentials-how-to-sync-audio-and-video-like-a-pro/"><u>Updated FCPX 2024 Essentials How to Sync Audio and Video Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-essential-adding-a-countdown-timer-in-just-3-clicks/"><u>Updated FCPX Essential Adding a Countdown Timer in Just 3 Clicks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-essentials-mastering-time-manipulation/"><u>Updated FCPX Essentials Mastering Time Manipulation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-image-editing-101-cropping-rotating-and-more/"><u>Updated FCPX Image Editing 101 Cropping, Rotating, and More</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-mastery-40-essential-keyboard-shortcuts-to-improve-your-skills/"><u>Updated FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills</u></a></li>
+</ul></div>
