@@ -1,0 +1,254 @@
+---
+title: Understanding and Correcting the New World Connection Mistake
+date: 2024-08-09T07:47:48.796Z
+updated: 2024-08-10T07:47:48.796Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Understanding and Correcting the New World Connection Mistake
+excerpt: This Article Describes Understanding and Correcting the New World Connection Mistake
+thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3bf7e355bd7f5437be375738.jpg
+---
+
+## Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found
+
+Specially designed for split-screen cooperative muliplayer,**It Takes Two** is definitely a great action-advanture game in 2021\. However, just like any other games released recently, for many players, the game still has some performance issues. **If It Takes Two FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix this issue on your own easily after reading this article!
+
+## Try these fixes
+
+ Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Turn off Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Optimize the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+## Fix 1: Install the latest game patch
+
+ The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
+
+## Fix 2: Update your graphics driver
+
+ If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing It Takes Two FPS dropping issue.
+
+There are mainly two methods for you to update the graphics driver:
+
+**Manually –** To update your graphics driver to the latest version, you’ll need to visit the manufacturer’s website, download the exact driver, and then install it manually.
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/)**
+
+**Automatically –**  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
+4. Once the driver is updated, reboot your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Fix 3: Turn off Steam Overlay
+
+ Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
+
+1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _It Takes Two_ . Then select **Properties** .
+2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+ Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+## Fix 4: Optimize the graphics settings
+
+ Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
+
+To optimize the graphics settings, follow the steps below:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 1: modify your graphics settings
+
+ Firstly, you need to modify your graphics card settings. Just click on the graphics card you’re using to follow the step-by-step instruction:
+
+1. **[NVIDIA graphics card](https://tools.techidaily.com/drivereasy/download/)**
+2. **[AMD graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Modify NVIDIA graphics card settings
+
+1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
+2. View Control Panel by **Large icons** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Select **NVIDIA Control Panel**  to open it.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
+4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+5. In the **Specify the settings for this program** : part, modify following settings:  
+
+`**CUDA – GPUs** : set it to _your dedicated GPU_  
+**Power management mode** : set it to _Prefer maximum performance_  
+**Texture filtering** : set it to _Performance_`
+6. Click **Apply** to save the changes.
+
+#### Modify AMD graphics card settings
+
+1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
+2. View Control Panel by **Large icons** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Select your **AMD Radeon Settings** to open it.
+4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 2: Lower in-game graphics settings
+
+ By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
+
+ Normally, the in-game PFS will increase after you lower some in-game graphics settings.
+
+ If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+## Fix 5: Disable background recording and Xbox Game Bar
+
+ Microsoft introduces many gaming features to Windows 10, such as background recording, Xbox Game Bar, etc.. Once enabled, they’ll constantly run in the background, hogging a ton of resources.
+
+ If you’ve enabled background recording and Xbox Game Bar, try disabling them to see if the in-game FPS will improve. Here’s how to do it:
+
+1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Click**Gaming** to open Windows 10 gaming settings.  
+![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
+2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
+3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+ Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+## Fix 6: Close other demanding apps running in the background
+
+ The It Takes Two FPS dropping issue may occur if too many applications or programs are running at the same time in the background. So **try restricting applications and downloads in the background** before playing the game to see if the game would run smoothly. Here is how to do it:
+
+1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
+2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
+![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
+
+ Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
+
+## Fix 7: Set the Power Plan of your PC for Best Performance
+
+ A power plan is a collection of hardware and system settings that manages how your computer use power. In most cases, the power plan on PCs are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU.
+
+ Windows 10 allows you to customize the power plan on your PC. If the power plan of your PC is **Power saver**  or **Balanced** and you’re experiencing the FPS dropping issue, try setting the Power Plan of your PC for Best Performance. Here is how to do it:
+
+1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
+![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
+2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+Launch It Takes Two to see if you would get a better FPS.
+
+---
+
+ Hopefully, this article helped you fix the FPS dropping issue in It Takes Two. If you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below. Thanks for reading!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-captivating-hearts-and-minds-top-20-innovative-tiktok-captions/"><u>[New] Captivating Hearts and Minds  Top 20 Innovative TikTok Captions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-find-muted-conversations-on-snapchat/"><u>[New] In 2024, How to Find Muted Conversations on Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-video-editing-the-essentials-of-cropping-and-exporting-to-instagram/"><u>[New] In 2024, Navigating Video Editing  The Essentials of Cropping and Exporting to Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leading-talents-premier-instragram-hlv-creators/"><u>[Updated] In 2024, Leading Talents  Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-teaching-technology-trends-the-top-10-audio-visual-devices-for-classrooms-for-2024/"><u>[Updated] Teaching Technology Trends  The Top 10 Audio-Visual Devices for Classrooms for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>2024 Approved  Keep Your Digital Life Streamlined  Blocking Youtube Channels Smartly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-laptop-firmware-and-driver-updates-secure-your-system-now/"><u>ASUS Laptop Firmware and Driver Updates – Secure Your System Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-the-modern-content-creators-dilemma-for-2024/"><u>Decoding the Modern Content Creator's Dilemma for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-netflix-adjust-speed-settings/"><u>In 2024, Navigating Netflix  Adjust Speed Settings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-syncing-colors-across-clips-the-ultimate-powerdirector-tutorial/"><u>New In 2024, Syncing Colors Across Clips The Ultimate PowerDirector Tutorial</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-videopad-review-is-it-the-best-video-editing-software-for-you/"><u>New In 2024, Videopad Review Is It the Best Video Editing Software for You ?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-this-article-tells-you-several-tips-to-make-a-better-home-movie-master-the-home-movie-making-tips-and-obey-the-rules-so-that-you-can-make-a-great-movie./"><u>New This Article Tells You Several Tips to Make a Better Home Movie. Master the Home Movie Making Tips and Obey the Rules so that You Can Make a Great Movie</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-guide-to-netflix-screen-capture-discover-six-efficient-ways-on-macos/"><u>The Complete Guide to Netflix Screen Capture - Discover Six Efficient Ways on macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-simple-way-to-reverse-a-video-in-final-cut-pro-2023-edition/"><u>The Simple Way to Reverse a Video in Final Cut Pro 2023 Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-calculate-timecodes-like-a-pro-9-essential-tools/"><u>Updated 2024 Approved Calculate Timecodes Like a Pro 9 Essential Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-free-trial-vs-full-version-which-one-to-choose/"><u>Updated 2024 Approved Filmora Free Trial Vs. Full Version Which One to Choose?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-s-top-free-video-editing-software-simplified-for-beginners/"><u>Updated 2024 Approved S Top Free Video Editing Software Simplified for Beginners</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-pro-cs6-mac-free-download-unleash-your-creativity-for-2024/"><u>Updated Adobe Premiere Pro CS6 Mac Free Download Unleash Your Creativity for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-steps-to-strides-the-best-motion-tracking-apps/"><u>Updated From Steps to Strides The Best Motion Tracking Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>Updated In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-create-jaw-dropping-glitches-with-these-free-online-generators/"><u>Updated In 2024, Create Jaw-Dropping Glitches with These Free Online Generators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated In 2024, From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>Updated In 2024, From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>Updated In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>Updated In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-reverse-your-videos-with-the-best-online-tools/"><u>Updated In 2024, Reverse Your Videos with the Best Online Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-no-cost-video-editing-top-online-solutions-ranked-for-2024/"><u>Updated No-Cost Video Editing Top Online Solutions Ranked for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-top-video-animation-apps-for-mobile-devices-2024/"><u>Updated Unleash Your Creativity Top Video Animation Apps for Mobile Devices 2024</u></a></li>
+</ul></div>
