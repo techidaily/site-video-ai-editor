@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fortnite Error Code 84 ‘Unable to Join a Party’
-date: 2024-09-09T00:34:26.914Z
-updated: 2024-09-10T00:34:26.914Z
+date: 2024-09-12T23:01:00.762Z
+updated: 2024-09-14T19:28:19.512Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Fix Fortnite Error Code 84 ‘Unable to J
 thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfcc73dd50c99f11aa454f80c7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolved: 'You Do Not Have Permission to Play' Error in Fortnite - How to Fix It
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/permission-1024x569.jpg)
@@ -27,35 +21,11 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
  💗If you like this post, please enter**DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try the 2 fixes
 
 1. [Unlink the email you’ve used previously](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your game](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Unlink the email you’ve used previously
 
  The error could be related to your previous account. If your Epic Games account has linked to other accounts, you may meet this “You do not have permission to play Fortnite” error. The issue seems to come from a mismatch between accounts.
@@ -70,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 4. Sign in when you find the email and unlink from the long-forgotten Epic account.
 5. Log in to the Epic Games account you want it associated with and connect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your game
 
  If you haven’t updated the game for ages and you meet this issue, you may update your game patches. Since it is more than likely a server problem and there’s also have some problem that prevents users’ login, the Fortnite developer group would solve the issue in the latest version.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -108,21 +85,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -140,8 +113,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,48 +122,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] 2024 Approved  Capturing Contentment  A Practical Guide to Daily Vlogging</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-professional-video-file-preservation-six-essential-steps-for-windows-11/"><u>[Updated] 2024 Approved  Professional Video File Preservation  Six Essential Steps for Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[Updated] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-links-for-acquiring-youtube-preview-templates-online/"><u>[Updated] In 2024, Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youthful-youtuber-writers-handbook-creating-channels-clutching-cash-for-2024/"><u>[Updated] Youthful Youtuber’ Writers’ Handbook  Creating Channels, Clutching Cash for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-free-youtube-outro-kings-6-top-suggestions/"><u>2024 Approved  Free YouTube Outro Kings  6 TOP Suggestions!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/breaking-down-instagrams-video-conversation-protocol/"><u>Breaking Down Instagram's Video Conversation Protocol</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/chorus-collective-recordings-downloads-and-evaluation/"><u>Chorus Collective  Recordings, Downloads & Evaluation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/deactivating-latest-os-restoring-to-mac-os-1010-for-2024/"><u>Deactivating Latest OS  Restoring to Mac OS 10.10 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-connection-failures-in-hitman-trilogys-final-installment/"><u>Expert Tips for Resolving Connection Failures in Hitman Trilogy's Final Installment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-back-on-track-correct-five-major-iphone-faults-using-dfu-method/"><u>Get Back on Track: Correct Five Major iPhone Faults Using DFU Method</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme 11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-y36i-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo Y36i Photos  An Easy Method Explained.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>In 2024, Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-jump-cuts-to-smooth-moves-3-final-cut-pro-transition-methods/"><u>New 2024 Approved From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-article-below-will-help-you-find-the-best-game-video-editors/"><u>New 2024 Approved The Article Below Will Help You Find the Best Game Video Editors</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>New 2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-cartoonize-your-selfie-top-picks-for-iphone-ipad-and-android-for-2024/"><u>New Cartoonize Your Selfie Top Picks for iPhone, iPad, and Android for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-both-worlds-10-video-editing-apps-for-kids-with-free-and-paid-features/"><u>New The Best of Both Worlds 10 Video Editing Apps for Kids with Free and Paid Features</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-the-app-store-top-iphone-apps-reviewed-and-rated/"><u>New The Best of the App Store Top iPhone Apps , Reviewed and Rated</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-free-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Free Public Domain Video Downloads for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-a-beginners-guide-to-stop-motion-animation-on-instagram-for-2024/"><u>New Unleash Your Creativity A Beginners Guide to Stop Motion Animation on Instagram for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-virtualdub-vs-the-rest-a-comprehensive-review-of-video-editing-options/"><u>New Virtualdub Vs. The Rest A Comprehensive Review of Video Editing Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/no-cost-mkv-cutting-solutions-our-top-10-picks/"><u>No-Cost MKV Cutting Solutions Our Top 10 Picks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-best-free-video-rotators-for-mov-files/"><u>The Best Free Video Rotators for MOV Files</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-fix-stop-final-cut-pro-x-from-crashing-on-your-mac/"><u>The Ultimate Fix Stop Final Cut Pro X From Crashing on Your Mac</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android/"><u>Updated 2024 Approved Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated 2024 Approved From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-y/"><u>Updated 2024 Approved The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-transform-your-videos-best-free-special-effects-apps-for-iphone-and-android/"><u>Updated 2024 Approved Transform Your Videos Best Free Special Effects Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-face-generation-software-top-online-options/"><u>Updated Free Face Generation Software Top Online Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-produce-a-professional-looking-video-from-photos-and-music/"><u>Updated How to Produce a Professional-Looking Video From Photos and Music</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-top-10-best-online-video-editors-no-watermark/"><u>Updated In 2024, FREE Top 10 Best Online Video Editors No Watermark</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-practical-guide-how-to-sync-audio-and-video-in-final-cut-pro-x-2022/"><u>Updated In 2024, Practical Guide How to Sync Audio and Video in Final Cut Pro X 2022</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-simple-way-to-edit-avi-files-split-trim-and-cut-with-ease/"><u>Updated In 2024, The Simple Way to Edit AVI Files Split, Trim, and Cut with Ease</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-video-editing-magic-unlocking-the-secrets-of-stunning-visuals/"><u>Updated In 2024, Video Editing Magic Unlocking the Secrets of Stunning Visuals</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-face-generator-websites-to-create-synthetic-identities/"><u>Updated The Best Free Face Generator Websites to Create Synthetic Identities</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>Updated Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-troubleshoot-like-a-pro-how-to-reset-final-cut-pro-x-for-optimal-performance-for-2024/"><u>Updated Troubleshoot Like a Pro How to Reset Final Cut Pro X for Optimal Performance for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide  Rift, Vive & VR PlayStation Compared</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-auditory-archive-top-resources-for-free-skype-music-files/"><u>[New] 2024 Approved Auditory Archive Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakthrough-youtube-success-essential-tips-from-creator-studio-guide-for-2024/"><u>[Updated] Breakthrough YouTube Success Essential Tips From Creator Studio Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-360-view-camera-analysis/"><u>[Updated] Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-to-stop-kurtzpel-from-crashing-an-experts-advice/"><u>Effective Techniques to Stop KurtzPel From Crashing: An Expert's Advice</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-triggered-meme/"><u>How to Make a Triggered Meme?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-professional-grade-animation-top-software-for-macwindows-creatives/"><u>New 2024 Approved Professional-Grade Animation Top Software for Mac/Windows Creatives</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos/"><u>New Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-top-10-webm-to-mp4-conversion-tools-for-2024/"><u>New Transform Your Videos Top 10 WebM to MP4 Conversion Tools for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-20-proplus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>Updated 2024 Approved Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cut-color-and-create-top-video-editing-software-for-vloggers-for-2024/"><u>Updated Cut, Color, and Create Top Video Editing Software for Vloggers for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget/"><u>Updated Elevate Your Storytelling How to Create Professional-Looking Films on a Budget</u></a></li>
 </ul></div>
+

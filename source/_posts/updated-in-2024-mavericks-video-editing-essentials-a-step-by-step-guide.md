@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mavericks Video Editing Essentials A Step-by-Step Guide
-date: 2024-09-09T00:34:29.534Z
-updated: 2024-09-10T00:34:29.534Z
+date: 2024-09-13T23:12:57.358Z
+updated: 2024-09-15T00:16:30.268Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -34,12 +28,6 @@ As Mac OS X 10.14.3 Mavericks will become a popular and household operating syst
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Edit Videos in OS X Mavericks
 
 #### 1 Download this Video Editor for Mavericks and add files
@@ -48,18 +36,6 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 2 Edit videos in OS X Mavericks
 
  **Trim, crop, rotate video, and add titles, filters, video effect etc.**
@@ -68,24 +44,12 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
 
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3 Save the edited videos
 
 Click the **EXPORT** button on the primary window to reveal the output window. There are several options for you: Device, Format, YouTube and DVD. Select a way you want to save or share the edited videos. Just have a try.
@@ -98,19 +62,11 @@ Now download this video resizer for Mavericks and explore more video editing fun
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,49 +74,31 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters/"><u>[New] YouTube to AVI  Tutorial + 8 Best YouTube to AVI Converters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-process-making-high-impact-educational-videos-on-youtube/"><u>[Updated] Unveiling the Process  Making High-Impact Educational Videos on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-aural-alignments-pairing-sounds-and-visuals/"><u>2024 Approved  Aural Alignments  Pairing Sounds & Visuals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-to-mastering-zoom-win10/"><u>A Comprehensive Guide to Mastering Zoom (Win10)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-multi-core-setup-silverstones-xe360-dual-all-in-one-liquid-cooler-for-two-cpus-simultaneously/"><u>Elevate Your Multi-Core Setup: SilverStone's XE360-Dual All-in-One Liquid Cooler for Two CPUs Simultaneously</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720671634960-enhance-vlc-performance-no-delays-here/"><u>Enhance VLC Performance: No Delays Here</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-13t-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi 13T Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-5-critical-equipment-items-to-start-your-channel-right/"><u>In 2024, 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
-<li><a href="https://games-able.techidaily.com/innocn-39g1r-high-framerate-monitor-under-500/"><u>InnoCN 39G1R: High Framerate Monitor Under $500</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mac-video-editing-made-easy-a-yosemite-users-handbook-for-2024/"><u>Mac Video Editing Made Easy A Yosemite Users Handbook for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-final-cut-pro-x-on-steroids-top-plugins-to-boost-productivity/"><u>New 2024 Approved Final Cut Pro X on Steroids Top Plugins to Boost Productivity</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-green-screen-apps-you-need-to-try-on-your-android-or-ios-device/"><u>New 2024 Approved Free Green Screen Apps You Need to Try on Your Android or iOS Device</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-get-ready-to-download-best-public-domain-video-websites/"><u>New 2024 Approved Get Ready to Download Best Public Domain Video Websites</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-streamline-your-edit-efficient-color-matching-techniques-for-final-cut-pro-users/"><u>New 2024 Approved Streamline Your Edit Efficient Color Matching Techniques for Final Cut Pro Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-dynamic-text-top-motion-tracking-software/"><u>New 2024 Approved Unleash Dynamic Text Top Motion Tracking Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-fast-forward-to-success-creating-stunning-time-lapses-in-final-cut-pro/"><u>New Fast Forward to Success Creating Stunning Time Lapses in Final Cut Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>New Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-gif-looping-made-easy-best-free-software-for-2024/"><u>New GIF Looping Made Easy Best Free Software for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-up-space-5-best-video-compression-apps-for-iphone-and-ipad/"><u>New In 2024, Free Up Space 5 Best Video Compression Apps for iPhone and iPad</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-here-are-the-best-gif-loop-maker-tools-for-you-to-give-expression-to-your-creativity/"><u>New In 2024, Here Are the Best GIF Loop Maker Tools for You to Give Expression to Your Creativity</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-trim-and-edit-mp4-videos-with-these-free-tools-2023-review/"><u>New In 2024, Trim and Edit MP4 Videos with These Free Tools (2023 Review)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unbeatable-free-mp4-video-editors-top-10-list/"><u>New In 2024, Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-windows-10-webcam-recording-top-10-software-options/"><u>New In 2024, Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-seamless-transitions-how-to-match-colors-between-video-clips-in-final-cut-pro/"><u>New Seamless Transitions How to Match Colors Between Video Clips in Final Cut Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-best-free-online-movie-making-software/"><u>New The Best Free Online Movie Making Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-10-public-domain-image-sites/"><u>New Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/newhow-to-make-a-valentines-day-video-for-the-person-you-love/"><u>NewHow to Make a Valentines Day Video for the Person You Love?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/official-4-best-ways-to-get-filmora-discount-codes/"><u>Official 4 Best Ways to Get Filmora Discount Codes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-face-swap-revolution-top-apps-for-iphone-and-android/"><u>The Face Swap Revolution Top Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-edit-mp4-files-like-a-pro-mac-and-windows-tutorial-for-beginners/"><u>Updated 2024 Approved Edit MP4 Files Like a Pro Mac and Windows Tutorial for Beginners</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-x-just-got-faster-arm-support-now-available/"><u>Updated 2024 Approved Filmora X Just Got Faster ARM Support Now Available</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-freeze-time-a-step-by-step-guide-to-pausing-videos/"><u>Updated 2024 Approved Freeze Time A Step-by-Step Guide to Pausing Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-beginner-to-pro-top-vlog-video-editing-software-for-every-level/"><u>Updated 2024 Approved From Beginner to Pro Top Vlog Video Editing Software for Every Level</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-glitch-video-editors-for-mobile-devices-for-2024/"><u>Updated Best Glitch Video Editors for Mobile Devices for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-edit-on-the-go-best-android-video-editor-apps-for-chromebooks/"><u>Updated Edit on the Go Best Android Video Editor Apps for Chromebooks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-get-vllo-on-mac-plus-top-alternative-options-for-2024/"><u>Updated Get VLLO on Mac + Top Alternative Options for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-android-app-store-favorites-top-downloads-and-reviews/"><u>Updated In 2024, Android App Store Favorites Top Downloads and Reviews</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>Updated In 2024, Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>Updated In 2024, Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits-2023-for-2024/"><u>Updated The Ultimate Mac Video Editor MKVtoolnix Features and Benefits 2023 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-delaying-the-installation-of-ios-153-could-be-risky/"><u>Why Delaying the Installation of iOS 15.3 Could Be Risky</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-the-art-of-hulu-screen-capturing-windows-mac-and-mobile-edition/"><u>[New] Master the Art of Hulu Screen Capturing Windows, Mac & Mobile Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-sports-highlight-step-by-step-tutorial-for-2024/"><u>[Updated] Crafting a Sports Highlight Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2023s-leading-online-sound-recorders-ranked/"><u>2023'S Leading Online Sound Recorders Ranked</u></a></li>
+<li><a href="https://driver-download.techidaily.com/netgears-top-of-the-line-router-get-the-new-wnas3100-driver-download-and-installation-instructions/"><u>Netgear's Top-of-the-Line Router: Get the New WNAS3100 Driver Download & Installation Instructions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-vertical-video-mastery-best-editing-apps-for-iphone-and-android/"><u>New 2024 Approved Vertical Video Mastery Best Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-huawei-nova-y71-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Huawei Nova Y71 on Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-professional-1080p-video-editing-tools-for-2024/"><u>Take Your Videos to the Next Level Professional 1080P Video Editing Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010859157-twitch-streaming-issues-here-are-7-fixes-to-get-your-content-up-and-running/"><u>Twitch Streaming Issues? Here Are 7 Fixes to Get Your Content Up and Running</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>Updated 2024 Approved Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-bokeh-effects-unleashed-top-ios-and-android-apps-for-photography-for-2024/"><u>Updated Bokeh Effects Unleashed Top iOS and Android Apps for Photography for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

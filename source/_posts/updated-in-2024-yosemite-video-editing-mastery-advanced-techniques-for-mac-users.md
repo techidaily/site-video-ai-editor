@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Yosemite Video Editing Mastery Advanced Techniques for Mac Users
-date: 2024-09-09T00:34:28.575Z
-updated: 2024-09-10T00:34:28.575Z
+date: 2024-09-12T22:11:35.858Z
+updated: 2024-09-15T01:04:10.076Z
 tags: 
   - video editing software
   - video editing
@@ -36,12 +36,6 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -58,65 +52,27 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,53 +80,28 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/achieve-pro-level-control-install-the-newest-steelseries-engine-on-windows-10-free-download/"><u>[Achieve Pro-Level Control]: Install the Newest SteelSeries Engine on Windows 10 - Free Download!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2023-browser-snapshot-winners-announced-in-2024/"><u>[New] 2023 Browser Snapshot Winners Announced, In 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-eye-catching-twitter-videos-the-most-watched/"><u>[New] In 2024, Eye-Catching Twitter Videos  The Most Watched</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-video-editor-comparing-inshots-features/"><u>[New] Top Video Editor  Comparing InShot's Features</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unveiling-the-best-tiktok-to-gif-converter-software-for-2024/"><u>[New] Unveiling the Best TikTok to GIF Converter Software for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-yield-assessment-predicting-youtube-money/"><u>[New] Yield Assessment  Predicting YouTube Money</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-bridging-gaps-preventing-video-holds-in-photoshoots/"><u>[Updated] Bridging Gaps  Preventing Video Holds in Photoshoots</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069553526-updated-in-2024-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[Updated] In 2024, Screen Savvy  Secure Your Captures - Chromebook's Top 4 Techniques!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-premier-mp4-to-fb-video-transforming-tools/"><u>[Updated] Premier MP4 to FB Video Transforming Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-software-gamers-streaming-companions/"><u>2024 Approved  Exclusive Software  Gamers' Streaming Companions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-simplified-guide-effortless-ipad-screen-recording-techniques/"><u>2024 Approved  Simplified Guide  Effortless iPad Screen Recording Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-persistent-issues-in-war-thunder-avoidance-tactics-for-the-latest-crashes/"><u>Dealing with Persistent Issues in War Thunder - Avoidance Tactics for the Latest Crashes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/effortless-techniques-for-iphone-screen-recordings-for-2024/"><u>Effortless Techniques for Iphone Screen Recordings for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-missing-battery-time-estimate-in-windows-11/"><u>How to Fix a Missing Battery Time Estimate in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-defy-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Defy 2 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Vivo Phone Forgot Password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-15-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 15 Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-create-your-masterpiece-easy-film-making-for-everyone/"><u>New 2024 Approved Create Your Masterpiece Easy Film Making for Everyone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-mobile-app-roundup-best-mp4-to-mp3-converters/"><u>New 2024 Approved Mobile App Roundup Best MP4 to MP3 Converters</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-revolutionize-your-job-search-best-video-resume-software-free-templates/"><u>New 2024 Approved Revolutionize Your Job Search Best Video Resume Software (Free Templates)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios/"><u>New 2024 Approved The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker/"><u>New 2024 Approved Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-editing-10-best-trimming-tools-and-software/"><u>New Free Online Video Editing 10 Best Trimming Tools and Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-video-cutting-solutions-for-divx-files-a-2023-guide-for-2024/"><u>New Free Video Cutting Solutions for Divx Files A 2023 Guide for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>New In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>New In 2024, Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-say-goodbye-to-shaky-videos-10-best-free-online-stabilizers/"><u>New In 2024, Say Goodbye to Shaky Videos 10 Best Free Online Stabilizers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-3gp-video-cutter-tutorial-2023-edition/"><u>New In 2024, The Ultimate 3GP Video Cutter Tutorial 2023 Edition</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-rated-mts-video-editors-expert-reviews/"><u>New In 2024, Top-Rated MTS Video Editors Expert Reviews</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-start-recording-your-games-today-3-easy-steps/"><u>New Start Recording Your Games Today 3 Easy Steps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-top-10-most-jaw-dropping-4k-video-samples-for-2024/"><u>New The Top 10 Most Jaw-Dropping 4K Video Samples for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-aerial-vehicles-your-next-purchase/"><u>Optimal Aerial Vehicles  Your Next Purchase</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-free-iphone-video-flipper-tools-updated-2023/"><u>Top-Rated Free iPhone Video Flipper Tools (Updated 2023)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-cutting-avi-files-without-hassle-a-quick-and-easy-tutorial/"><u>Updated 2024 Approved Cutting AVI Files Without Hassle A Quick and Easy Tutorial</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-rotate-your-iphone-videos-without-spending-a-dime-top-free-options/"><u>Updated 2024 Approved Rotate Your iPhone Videos Without Spending a Dime Top Free Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-compression-made-easy-top-5-free-iphone-and-ipad-apps/"><u>Updated 2024 Approved Video Compression Made Easy Top 5 Free iPhone and iPad Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-free-avi-video-joiners-top-10-picks-for-seamless-merging-for-2024/"><u>Updated Best Free AVI Video Joiners Top 10 Picks for Seamless Merging for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-3d-video-software-best-free-and-paid-solutions/"><u>Updated In 2024, 3D Video Software Best Free and Paid Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated In 2024, From Download to Upload The Art of Online Video Editing</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mavericks-video-editing-essentials-a-step-by-step-guide/"><u>Updated In 2024, Mavericks Video Editing Essentials A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-10-final-cut-pro-x-competitors-you-need-to-know/"><u>Updated In 2024, The Ultimate List 10 Final Cut Pro X Competitors You Need to Know</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-simple-and-free-the-best-online-tone-creators-for-2024/"><u>Updated Simple and Free The Best Online Tone Creators for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>Updated Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-the-process-of-livestreaming-online/"><u>[New] 2024 Approved Breaking Down the Process of Livestreaming Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-bare-essentials-for-relaxation/"><u>[Updated] 2024 Approved Bare Essentials for Relaxation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-comparing-youtube-and-dailymotion-notable-contrasts/"><u>[Updated] Comparing YouTube and Dailymotion Notable Contrasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-in-class-text-tracking-and-animation-software-2023/"><u>New Best in Class Text Tracking and Animation Software 2023</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-achieve-filmic-quality-a-guide-to-cinematic-editing-in-fcpx/"><u>New In 2024, Achieve Filmic Quality A Guide to Cinematic Editing in FCPX</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-10-free-video-rotation-and-flip-software-for-perfect-orientation/"><u>New In 2024, Top 10 Free Video Rotation and Flip Software for Perfect Orientation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/satirical-snapshots-create-memes-with-kapwing/"><u>Satirical Snapshots Create Memes with Kapwing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/saving-salvaged-data-win-recovery-system/"><u>Saving Salvaged Data: WIN Recovery System</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-salvage-and-fix-video-data-errors/"><u>Techniques to Salvage and Fix VIDEO Data Errors</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-compelling-reasons-why-you-should-steer-clear-of-apps-on-your-smart-television/"><u>Top 5 Compelling Reasons Why You Should Steer Clear of Apps on Your Smart Television</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Updated 2024 Approved Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-best-video-speed-changing-apps-for-free-ios-and-android-2022/"><u>Updated Top 10 Best Video Speed Changing Apps for FREE iOS and Android, 2022</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/video-stabilization-on-a-budget-8-free-online-tools-to-get-you-started/"><u>Video Stabilization on a Budget 8 Free Online Tools to Get You Started</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
