@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-09-08T17:55:38.246Z
-updated: 2024-09-14T20:02:01.661Z
+date: 2024-09-14T20:58:46.057Z
+updated: 2024-09-19T17:51:23.033Z
 tags: 
   - video editing software
   - video editing
@@ -67,16 +67,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
@@ -98,13 +98,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -112,6 +105,13 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -128,21 +128,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[New] 2024 Approved The Best Game Video Recording and Editing Software for Beginners</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-view-comprehensively-shared-images-and-movies-by-friends-for-2024/"><u>[New] How To View Comprehensively Shared Images and Movies by Friends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-configuration-guide/"><u>[New] In 2024, Budget-Friendly OBS Configuration Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-iphones-video-fix-combat-blurry-facebook-videos/"><u>[New] IPhone's Video Fix Combat Blurry Facebook Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>[Updated] The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-catalog-of-livestreaming-cameras-review/"><u>2024 Approved The Complete Catalog of Livestreaming Cameras Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721938031128-chatgpt-desktop-app-delayed-heres-your-alternative-with-comparable-features/"><u>ChatGPT Desktop App Delayed? Here's Your Alternative with Comparable Features!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough/"><u>In 2024, Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-connectivity-fixes-no-more-disconnects/"><u>League of Legends Connectivity Fixes - No More Disconnects</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unlimited-video-merging-7-best-watermark-free-solutions/"><u>New 2024 Approved Unlimited Video Merging 7 Best Watermark-Free Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mp4-video-information-changers-top-editor-options/"><u>New In 2024, MP4 Video Information Changers Top Editor Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlocking-virtual-reality-how-to-convert-regular-videos-with-ease/"><u>New In 2024, Unlocking Virtual Reality How to Convert Regular Videos with Ease</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-10-intro-makers-for-pc-online-and-offline-filmora-for-2024/"><u>New Top 10 Intro Makers for PC Online and Offline - Filmora for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-pro-cs6-for-macos-free-download-and-install-guide-for-2024/"><u>Updated Adobe Premiere Pro CS6 for macOS Free Download and Install Guide for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-gopro-quik-reviewand-gopro-quik-pc-alternatives-for-2024/"><u>Updated GoPro Quik Review& GoPro Quik PC Alternatives for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>Updated In 2024, Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-investigating-whether-sns-hdr-offers-superior-ux/"><u>[New] 2024 Approved Investigating Whether SNS HDR Offers Superior UX</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-bridging-the-web-with-instagram-a-url-tutorial-for-2024/"><u>[New] Bridging the Web with Instagram A URL Tutorial for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills-for-2024/"><u>[New] The Secrets to Seamless Zoom Talks Mastering Online Communication Skills for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-closing-credits-collection-free-to-subscription-choices/"><u>2024 Approved Closing Credits Collection Free to Subscription Choices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mp4-video-editing-software-top-11-options-for-windows-and-mac-users/"><u>Best Free MP4 Video Editing Software: Top 11 Options for Windows and Mac Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/converting-mxf-files-for-youtube-a-comprehensive-guide-to-share-your-videos/"><u>Converting MXF Files for YouTube – A Comprehensive Guide to Share Your Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-premium-free-dvd-deciphering-applications-for-win-1011-ranked-and-reviewed/"><u>Download Premium Free DVD Deciphering Applications for Win 10/11: Ranked & Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Xiaomi 13T.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tactics-for-effortless-collage-making/"><u>Expert Tactics for Effortless Collage Making</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-htc-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a HTC Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-trusted-source-for-cutting-edge-computer-gear-toms-hardware-haven/"><u>Your Trusted Source for Cutting-Edge Computer Gear - Tom's Hardware Haven</u></a></li>
 </ul></div>
 

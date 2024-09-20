@@ -1,7 +1,7 @@
 ---
 title: Overcome Forza Horizon 4 Game Crashing Issues on Your PC with These Proven Solutions
-date: 2024-09-09T19:36:03.353Z
-updated: 2024-09-14T21:14:35.624Z
+date: 2024-09-12T20:12:47.429Z
+updated: 2024-09-20T02:35:27.388Z
 tags:
   - win11
   - win10
@@ -67,19 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -92,21 +79,7 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
@@ -151,6 +124,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -163,6 +143,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -179,23 +166,30 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -221,18 +215,19 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-retrospective-graphics-radeons-reprise/"><u>[New] In 2024, Retrospective Graphics Radeon's Reprise</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-brand-presence-through-strategic-smm/"><u>2024 Approved Building Brand Presence Through Strategic SMM</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blueprint-for-successful-metaverse-campaigns/"><u>Blueprint for Successful Metaverse Campaigns</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-video-magic-top-5-effect-tools/"><u>Free Video Magic Top 5 Effect Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-a70-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel A70?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-how-to-stabilize-your-video-in-the-final-cut-pro/"><u>New How to Stabilize Your Video in the Final Cut Pro?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-compressing-videos-in-final-cut-pro-x/"><u>New The Ultimate Guide to Compressing Videos in Final Cut Pro X</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/simplify-your-reaction-videos-a-step-by-step-guide-with-filmora-for-2024/"><u>Simplify Your Reaction Videos A Step-by-Step Guide with Filmora for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-fcp-x-visual-effects-how-to-create-seamless-green-screen-composites/"><u>Updated 2024 Approved FCP X Visual Effects How to Create Seamless Green Screen Composites</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-simple-guide-to-fcp-x-how-to-add-effects-in-3-steps/"><u>Updated Simple Guide to FCP X How To Add Effects in 3 Steps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-take-your-videos-to-the-next-level-1080p-video-editing-solutions-for-2024/"><u>Updated Take Your Videos to the Next Level 1080P Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-techniques-for-creating-and-modifying-multiple-snaps-in-snapchat/"><u>[Updated] Simplified Techniques for Creating and Modifying Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/avchdmp46/"><u>【高画質】AVCHD形式をMP4に変換できる無料ソフトウェアベスト6品種</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfect-harmony-music-in-instagram-storytelling/"><u>2024 Approved Perfect Harmony Music in Instagram Storytelling</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>2024 Approved Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-harnessing-snapchat-spotlight/"><u>2024 Approved The Ultimate Guide to Harnessing Snapchat Spotlight</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/5wmvmp4/"><u>5優れた手段で賢くフリーのWMVからMP4へ変換</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/aviutlmp3-aviutlmp3/"><u>初心者のためのAviUtlによるMP3形式の音声ファイルの出力手順: AviUtlで簡単なMP3オーディオファイル変換ガイド</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/audiophiles-guide-transform-your-surround-audio-into-crisp-stereo-with-just-three-essential-techniques/"><u>Audiophile's Guide: Transform Your Surround Audio Into Crisp Stereo with Just Three Essential Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-5-free-rmvb-players-compatible-with-windows-10-top-picks/"><u>Best 5 Free RMVB Players Compatible with Windows 10: Top Picks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-youtube-shorts-not-showing-up/"><u>Fixed YouTube Shorts Not Showing Up</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>In 2024, Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality/"><u>Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-snapchat-marketing-playbook-boosting-sales-for-2024/"><u>The SnapChat Marketing Playbook Boosting Sales for 2024</u></a></li>
 </ul></div>
 

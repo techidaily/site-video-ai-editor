@@ -1,7 +1,7 @@
 ---
 title: Resolved! How to Get Rocket League Launcher Running Smoothly Again
-date: 2024-09-13T16:06:23.877Z
-updated: 2024-09-14T23:07:18.002Z
+date: 2024-09-15T03:30:15.170Z
+updated: 2024-09-19T19:09:41.934Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
@@ -78,24 +85,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,10 +109,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
@@ -138,31 +131,37 @@ Now try reconnecting your device to check if the issue persists.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
@@ -211,6 +210,13 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
@@ -238,17 +244,19 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-leveraging-windows-11-features-for-top-notch-gaming-capture-for-2024/"><u>[New] Leveraging Windows 11 Features for Top-Notch Gaming Capture for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-speaking-with-these-17-authentic-spanish-idioms/"><u>Conquer Speaking with These 17 Authentic Spanish Idioms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Lock Screen Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetization-face-off-analyzing-dailymovement-and-youtube-profits/"><u>In 2024, Monetization Face-Off Analyzing DailyMovement and Youtube Profits</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ipad-compatible-video-types-explained-a-guide-to-seamless-file-conversions/"><u>IPad Compatible Video Types Explained: A Guide to Seamless File Conversions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-get-started-with-mp4-video-editing-a-quick-and-easy-tutorial-for-mac-and-windows-for-2024/"><u>New Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-discount-alert-4-ways-to-get-cheap-filmora-subscriptions/"><u>New In 2024, Discount Alert! 4 Ways to Get Cheap Filmora Subscriptions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-creative-with-these-free-video-special-effects-apps-for-ios-and-android/"><u>New In 2024, Get Creative with These Free Video Special Effects Apps for iOS and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-glowing-complexions-without-plugins-fcpx-video-editing-tips/"><u>Updated 2024 Approved Glowing Complexions without Plugins FCPX Video Editing Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-discover-the-top-4k-video-editing-platforms-for-professionals-for-2024/"><u>Updated Discover the Top 4K Video Editing Platforms for Professionals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-practices-for-saving-screen-and-webcam-chats/"><u>[New] 2024 Approved Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>2024 Approved Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164851824-champions-blueprint-managing-soccer-legends-at-no-cost/"><u>Champion's Blueprint: Managing Soccer Legends at No Cost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-age-inquisition-not-opening-expert-guide-to-overcome-common-startup-issues/"><u>Dragon Age Inquisition Not Opening: Expert Guide to Overcome Common Startup Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-step-by-step-guide-setting-up-last-kingdom-wizard-and-lk-addons-in-kodi/"><u>Easy Step-by-Step Guide: Setting Up Last Kingdom Wizard & LK Addons in Kodi</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effective-strategies-overcoming-no-recording-problem-in-windows-10-game-bar-top-7-fixes-explored/"><u>Effective Strategies: Overcoming 'No Recording' Problem in Windows 10 Game Bar, Top 7 Fixes Explored</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/efficient-mp4-and-swf-file-conversion-top-tools-for-online-and-offline-transformation/"><u>Efficient MP4 & SWF File Conversion: Top Tools for Online and Offline Transformation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-conversion-guide-turning-your-m4b-tracks-into-mp3-players/"><u>Effortless Conversion Guide: Turning Your M4B Tracks Into MP3 Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-conversion-of-vob-files-to-mp4-using-vlc-a-step-by-step-guide/"><u>Effortless Conversion of VOB Files to MP4 Using VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-c110-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia C110 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-purchasing-pristine-stock-images/"><u>Mastery in Purchasing Pristine Stock Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-transition-steps-to-obtain-windows-11/"><u>Seamless Transition Steps to Obtain Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-win10-interactive-drives-fastly/"><u>Update Your Win10 Interactive Drives Fastly</u></a></li>
 </ul></div>
 

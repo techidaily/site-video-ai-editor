@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fortnite Error Code 84 ‘Unable to Join a Party’
-date: 2024-09-12T23:01:00.762Z
-updated: 2024-09-14T19:28:19.512Z
+date: 2024-09-16T18:28:00.126Z
+updated: 2024-09-20T00:09:25.080Z
 tags:
   - win11
   - win10
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
  If you haven’t updated the game for ages and you meet this issue, you may update your game patches. Since it is more than likely a server problem and there’s also have some problem that prevents users’ login, the Fortnite developer group would solve the issue in the latest version.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Update your driver
@@ -87,10 +81,10 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -122,20 +116,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-auditory-archive-top-resources-for-free-skype-music-files/"><u>[New] 2024 Approved Auditory Archive Top Resources for Free Skype Music Files</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breakthrough-youtube-success-essential-tips-from-creator-studio-guide-for-2024/"><u>[Updated] Breakthrough YouTube Success Essential Tips From Creator Studio Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-360-view-camera-analysis/"><u>[Updated] Ultimate 360-View Camera Analysis</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2024-guide-understanding-and-fixing-iphone-safari-browser-crashes/"><u>2024 Guide: Understanding and Fixing iPhone Safari Browser Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-techniques-to-stop-kurtzpel-from-crashing-an-experts-advice/"><u>Effective Techniques to Stop KurtzPel From Crashing: An Expert's Advice</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-triggered-meme/"><u>How to Make a Triggered Meme?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-professional-grade-animation-top-software-for-macwindows-creatives/"><u>New 2024 Approved Professional-Grade Animation Top Software for Mac/Windows Creatives</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos/"><u>New Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-top-10-webm-to-mp4-conversion-tools-for-2024/"><u>New Transform Your Videos Top 10 WebM to MP4 Conversion Tools for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-20-proplus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>Updated 2024 Approved Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-cut-color-and-create-top-video-editing-software-for-vloggers-for-2024/"><u>Updated Cut, Color, and Create Top Video Editing Software for Vloggers for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget/"><u>Updated Elevate Your Storytelling How to Create Professional-Looking Films on a Budget</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-apex-alternatives-social-networks-beyond-twitter/"><u>[New] 2024 Approved Apex Alternatives Social Networks Beyond Twitter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[New] 2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mp4-video-editing-software-top-11-options-for-windows-and-mac-users/"><u>Best Free MP4 Video Editing Software: Top 11 Options for Windows and Mac Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102118245-complete-solution-for-driver-issues-on-devices-running-windows-10-8-or-7-install-now/"><u>Complete Solution for Driver Issues on Devices Running Windows 10, 8 or 7 – Install Now</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/converting-mxf-files-for-youtube-a-comprehensive-guide-to-share-your-videos/"><u>Converting MXF Files for YouTube – A Comprehensive Guide to Share Your Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-premium-free-dvd-deciphering-applications-for-win-1011-ranked-and-reviewed/"><u>Download Premium Free DVD Deciphering Applications for Win 10/11: Ranked & Reviewed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-tips-for-extracting-instagram-clips-using-leading-media-grabber-tools/"><u>Easy Tips for Extracting Instagram Clips Using Leading Media Grabber Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-mp4-video-transfer-to-xbox-360-ultimate-guide/"><u>Effortless MP4 Video Transfer to Xbox 360 - Ultimate Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-10t-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 10T 5G Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-11-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 11 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

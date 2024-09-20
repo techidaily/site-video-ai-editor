@@ -1,7 +1,7 @@
 ---
 title: Common Fixes for When Cortana Stops Responding – Solved
-date: 2024-09-09T00:14:23.148Z
-updated: 2024-09-14T18:30:28.122Z
+date: 2024-09-17T08:45:12.216Z
+updated: 2024-09-19T22:48:56.665Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Check your region and language settings on your computer:
 
 5) Try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -66,19 +73,6 @@ Check your region and language settings on your computer:
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -113,16 +107,10 @@ Or click  **Update All** to automatically download and install the correct versi
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -134,32 +122,26 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -181,17 +163,19 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-authoritative-periscope-users-bible/"><u>[New] The Authoritative Periscope User's Bible</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-chronicles-of-triumph-ranking-the-ultimate-game-odysseys-for-2024/"><u>[Updated] Chronicles of Triumph Ranking the Ultimate Game Odysseys for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-biggest-fifa-visuals-youtube-insights-graphed/"><u>[Updated] In 2024, Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-crafting-an-engaging-fb-timeline-memory-for-2024/"><u>[Updated] Tips for Crafting an Engaging FB Timeline Memory for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>2024 Approved Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-billionaires-pledge-5m-to-help-combat-virus/"><u>Digital Billionaire's Pledge: $5M to Help Combat Virus</u></a></li>
-<li><a href="https://win-dash.techidaily.com/msi-gs65-driver-update-improve-your-laptops-speed-and-efficiency-by-downloading-the-latest-version-for-windows/"><u>MSI GS65 Driver Update - Improve Your Laptop's Speed & Efficiency by Downloading the Latest Version for Windows</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-guide-to-cropping-and-resizing-videos/"><u>New 2024 Approved The Ultimate Guide to Cropping and Resizing Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-free-online-video-reversers/"><u>New In 2024, Best Free Online Video Reversers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-video-editing-essentials-for-mac-os-x-yosemite-tips-and-tricks/"><u>New In 2024, Video Editing Essentials for Mac OS X Yosemite Tips and Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacles-selection-of-12-motion-cameras-with-satellite-tracking/"><u>Pinnacle's Selection of 12 Motion Cameras with Satellite Tracking</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/protect-your-privacy-10-best-free-face-blurring-apps-for-images-and-clips-for-2024/"><u>Protect Your Privacy 10 Best Free Face Blurring Apps for Images and Clips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cerseis-calls-top-15-sites-for-hearing-heroes-tts-files/"><u>[Updated] Cersei's Calls Top 15 Sites for Hearing Heroes' TTS Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-crossfade-audio-in-logic-pro-x/"><u>2024 Approved Steps To Crossfade Audio In Logic Pro X</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-upload-photos-to-icloud-from-iphone-try-these-9-fixes/"><u>Can't Upload Photos to iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-visual-narratives-effective-titling/"><u>Crafting Visual Narratives Effective Titling</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/h2eb4mp4/"><u>H.2eb4動画をMP4にする：スムーズで詳細なコンバージョンガイド</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-convert-wav-audio-tracks-into-ogg-files-methods-for-both-online-tools-and-desktop-applications/"><u>How to Convert WAV Audio Tracks Into OGG Files - Methods for Both Online Tools and Desktop Applications</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-retrieve-subtitles-from-an-mkv-file-a-step-by-step-guide/"><u>How To Retrieve Subtitles From an MKV File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-successfully-upload-your-bcpf-document-on-youtube/"><u>How to Successfully Upload Your BCPF Document on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30Twith/without a PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/iphone6/"><u>IPhone上動画无法观看？解決方法包含6个关键要素！</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-tutorial-restoring-audio-input-on-windows-11-pcs/"><u>Step-by-Step Tutorial: Restoring Audio Input on Windows 11 PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-your-guide-to-effective-improvements-for-2024/"><u>Unlocking Potential Your Guide to Effective Improvements for 2024</u></a></li>
 </ul></div>
 

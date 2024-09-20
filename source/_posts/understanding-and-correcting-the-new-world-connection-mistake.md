@@ -1,7 +1,7 @@
 ---
 title: Understanding and Correcting the New World Connection Mistake
-date: 2024-09-13T18:33:29.077Z
-updated: 2024-09-15T01:46:17.646Z
+date: 2024-09-12T16:01:40.526Z
+updated: 2024-09-20T02:11:21.942Z
 tags:
   - win11
   - win10
@@ -73,20 +73,27 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -100,19 +107,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
@@ -132,6 +126,14 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -142,6 +144,13 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -167,10 +176,10 @@ To optimize the graphics settings, follow the steps below:
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
@@ -185,21 +194,7 @@ To optimize the graphics settings, follow the steps below:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -225,14 +220,16 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-music-infused-videos-perfecting-sound-with-inshot/"><u>[New] 2024 Approved Music-Infused Videos Perfecting Sound with InShot</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-8-unbeatable-zero-price-software-choices-for-online-media-makers/"><u>[Updated] 2024 Approved 8 Unbeatable Zero-Price Software Choices For Online Media Makers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-magic-6-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Magic 6 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-boundaries-understanding-its-inability-to-respond-to-certain-questions-and-requests/"><u>ChatGPT's Boundaries: Understanding Its Inability To Respond To Certain Questions And Requests</u></a></li>
-<li><a href="https://fox-http.techidaily.com/professional-perception-pioneering-hdr-art-with-photoshop/"><u>Professional Perception Pioneering HDR Art with PhotoShop</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solution-removing-liquid-sensors-in-iphones-usb-c-connector-for-safe-charging/"><u>Step-by-Step Solution: Removing Liquid Sensors in iPhone's USB-C Connector for Safe Charging</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-cut-avi-files-with-ease-top-16-video-cutters-for-windows-mac-and-android/"><u>Updated 2024 Approved Cut AVI Files with Ease Top 16 Video Cutters for Windows, MAC, and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-face-generation-software-top-online-options/"><u>Updated Free Face Generation Software Top Online Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-top-10-best-online-video-editors-no-watermark/"><u>Updated In 2024, FREE Top 10 Best Online Video Editors No Watermark</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playlist-to-share-on-fb-stories-for-2024/"><u>[New] The Ultimate Playlist to Share on FB Stories for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-approaches-for-preserving-facetime-calls/"><u>[Updated] 2024 Approved Expert Approaches for Preserving FaceTime Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-android-apks-with-a-double-click-in-windows-11/"><u>How to Install Android APKs With a Double-Click in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-diy-tips-getting-started-with-voice-over-filming/"><u>In 2024, DIY Tips Getting Started with Voice Over Filming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-selection-top-6-free-android-apps-for-endless-movie-entertainment/"><u>The Ultimate Selection: Top 6 Free Android Apps for Endless Movie Entertainment</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-11-video-transcoding-tools-for-windows-users-desktop-apps-and-web-services/"><u>Top 11 Video Transcoding Tools for Windows Users: Desktop Apps & Web Services</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/trouble-free-guide-mastering-the-art-of-playing-dvds-on-your-pc/"><u>Trouble-Free Guide: Mastering the Art of Playing DVDs on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-wit-a-guide-to-making-memes-shine/"><u>Visual Wit A Guide to Making Memes Shine</u></a></li>
 </ul></div>
 

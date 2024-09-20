@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Dark Monitor Dilemma on Discord While Screen Capturing Your Screens
-date: 2024-09-11T19:31:11.830Z
-updated: 2024-09-14T22:59:48.117Z
+date: 2024-09-14T23:52:49.097Z
+updated: 2024-09-19T20:55:30.099Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/shut-down-pc.jpg)
 2. When your PC restarts and shows the manufacturer logo,**hold down the BIOS hotkey** until you enter BIOS setup.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The hotkey is usually**F1, F2, F12, Del or Esc** depending on different models. If you’re not sure which one works on your PC, consult the manufacturer manual or search online.
 3. Find the virtualization setting in BIOS. The layout can also differ on motherboards, so you may see different terms. Look for**Virtual, Virtualization, VT-X, or SVM** .
 4. **Enable** virtualization, then**save and exit** .
@@ -117,13 +110,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-12-02.jpg)
@@ -179,22 +165,23 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your graphics card driver is up-to-date but Nox still crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Increase virtual memory size on your PC
 
@@ -212,13 +199,6 @@ If this doesn’t solve your problem, move on to the next fix.
 5. You’ll see your virtual memory (paging file) size.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-08-10_11-54-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Increase virtual memory size
 
  If you want to increase the virtual memory size to fix the Nox crashing issue, you can manually allocate the paging file size:
@@ -226,8 +206,24 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Untick the checkbox of**Automatically manage paging file size for all drives** , then select**Custom size** . It’s suggested to set your paging file size between 1.5 times and 3 times your RAM.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-27-33.jpg)
 2. If you don’t know how much RAM you have, first, press the**Windows key** and**R** to invoke the Run box. Then, type in**msinfo32** and hit**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-msinfo32.jpg)
 3. In the pop-up window, look for**Installed Physical Memory (RAM)** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you know how much RAM you have, use the following formula to calculate the values you should fill in:  
 
 _**1GB = 1024 MB**_  
@@ -251,10 +247,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 4. Save the changes and restart Nox Player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this doesn’t fix your problem, we have one more fix you can try.
@@ -290,19 +286,19 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/free-downloads-canoscan-lide-120-scan-tool-and-version-enhancements/"><u>Free Downloads: CanoScan LiDE 120 Scan Tool & Version Enhancements</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-g310-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia G310 FRP</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-redmi-note-13-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi Redmi Note 13 Pro 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mimicking-masterpieces-crafting-successful-parodies/"><u>In 2024, Mimicking Masterpieces Crafting Successful Parodies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-hd-camera-driver-for-windows-10-and-11-users/"><u>Latest Logitech BRIO HD Camera Driver for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-editing-how-to-create-professional-jump-cuts-in-final-cut-pro-x/"><u>New 2024 Approved Elevate Your Editing How to Create Professional Jump Cuts in Final Cut Pro X</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-convert-dailymotion-videos-online-for-free-no-downloads/"><u>New In 2024, Convert Dailymotion Videos Online for Free - No Downloads</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-for-beginners/"><u>New In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker for Beginners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/order-of-the-matrix-films-a-step-by-step-watchlist/"><u>Order of The Matrix Films - A Step-by-Step Watchlist</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-posting-twitter-videos-on-snapchat-for-2024/"><u>Streamline Your Content Posting Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-aural-anomaly-fixing-audacity-writes-on-wos/"><u>Tackling the Aural Anomaly: Fixing Audacity' Writes on WOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-epic-lip-syncs-top-rated-apps-for-android-and-ios/"><u>Updated 2024 Approved Create Epic Lip Syncs Top-Rated Apps for Android and iOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-virtualdub-substitutes-a-comprehensive-list-of-video-editors/"><u>Updated 2024 Approved VirtualDub Substitutes A Comprehensive List of Video Editors</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-get-started-with-cartoon-videos-top-10-beginner-friendly-tools/"><u>Updated Get Started with Cartoon Videos Top 10 Beginner-Friendly Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-navigating-the-maze-to-find-your-ideal-4k-screen/"><u>[New] In 2024, Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-team-harmony-and-efficiency-8-recommended-facebook-timers/"><u>[Updated] 2024 Approved Team Harmony and Efficiency 8 Recommended Facebook Timers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ultimate-relaxation-top-10-mobile-idle-games/"><u>[Updated] In 2024, Ultimate Relaxation Top 10 Mobile Idle Games</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/choosing-between-320kbps-and-flac-for-optimal-sound-quality-a-comparison-guide-with-conversion-tips/"><u>Choosing Between 320Kbps and FLAC for Optimal Sound Quality – A Comparison Guide with Conversion Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/complete-tutorial-capturing-video-and-sound-with-quicktime-screen-record-on-a-mac/"><u>Complete Tutorial: Capturing Video & Sound with QuickTime Screen Record on a Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decouvrez-la-signification-du-debit-binaire-video-et-tout-ce-quil-implique-pour-votre-streaming-en-ligne/"><u>Découvrez La Signification Du Débit Binaire Vidéo Et Tout Ce Qu'il Implique Pour Votre Streaming en Ligne.</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/decrease-mp3-size-fast-discover-three-user-friendly-tricks-for-effortless-mp3-reduction-on-your-pc/"><u>Decrease MP3 Size Fast: Discover Three User-Friendly Tricks for Effortless MP3 Reduction on Your PC!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-popcorn-time-v621-and-previous-updates-free-version-best-movie-streaming-app/"><u>Download Popcorn Time (v6.2.1 & Previous Updates) Free Version - Best Movie Streaming App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-conversion-techniques-for-upgrading-your-music-collection-from-cda-to-lossless-flac-files/"><u>Easy Conversion Techniques for Upgrading Your Music Collection From CDA to Lossless FLAC Files</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-online-conversion-transforming-mxf-into-mp4-without-cost-best-practices-for-windows-and-mac/"><u>Easy Online Conversion: Transforming MXF Into MP4 Without Cost - Best Practices for Windows and Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-realme-note-50-by-fonelab-android-recover-video/"><u>How to recover old videos from your Realme Note 50</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-google-pixel-fold-by-drfone-android/"><u>In 2024, How to Bypass FRP on Google Pixel Fold?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigating-virtual-board-functions-across-zoom-devices/"><u>In 2024, Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-your-program-crashes-with-these-fixes-for-the-lost-avcodecdll-errors/"><u>Resolve Your Program Crashes with These Fixes for the Lost avcodec.dll Errors</u></a></li>
 </ul></div>
 

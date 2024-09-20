@@ -1,7 +1,7 @@
 ---
 title: How to Solve Issues with Your Razer Kraken Headset Microphone
-date: 2024-09-10T02:44:59.045Z
-updated: 2024-09-15T01:39:45.772Z
+date: 2024-09-13T22:19:40.908Z
+updated: 2024-09-20T00:03:52.831Z
 tags:
   - win11
   - win10
@@ -76,36 +76,46 @@ thumbnail: https://thmb.techidaily.com/6f6094ec46399b3ab308c1c10a0d303a8a2fe57d5
 1. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
@@ -115,40 +125,28 @@ thumbnail: https://thmb.techidaily.com/6f6094ec46399b3ab308c1c10a0d303a8a2fe57d5
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -184,17 +182,17 @@ thumbnail: https://thmb.techidaily.com/6f6094ec46399b3ab308c1c10a0d303a8a2fe57d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-many-youtube-courses-together/"><u>[Updated] 2024 Approved Exploring Many YouTube Courses Together</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-business-via-beauty-vlogs/"><u>[Updated] Building Business via Beauty Vlogs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-investigating-user-experiences-with-free2x-webcam-tools/"><u>[Updated] In 2024, Investigating User Experiences with Free2X Webcam Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-skyrocket-your-game-with-these-7-14-stardew-mods-for-2024/"><u>[Updated] Skyrocket Your Game with These #7-14 Stardew Mods for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-what-gamers-must-know-about-bandicam/"><u>[Updated] What Gamers Must Know About Bandicam</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-mobile-app-roundup-best-mp4-to-mp3-converters/"><u>New 2024 Approved Mobile App Roundup Best MP4 to MP3 Converters</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-editing-10-best-trimming-tools-and-software/"><u>New Free Online Video Editing 10 Best Trimming Tools and Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>New In 2024, Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-learn-the-best-6-alternative-streaming-platforms/"><u>Updated 2024 Approved Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated In 2024, From Download to Upload The Art of Online Video Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snap-into-action-quick-tips-for-cellphone-screen-capture/"><u>[New] 2024 Approved Snap Into Action Quick Tips for Cellphone Screen Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds-for-2024/"><u>[New] Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-vr-accessories-the-top-10-countdown/"><u>[New] Leading VR Accessories The Top 10 Countdown</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-essential-tips-for-using-instagrams-sound-emojis/"><u>2024 Approved Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-retro-gpu-fixes/"><u>2024 Approved Retro GPU Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>2024 Approved The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/easy-reduction-of-footage-for-instagram-on-a-mac-for-2024/"><u>Easy Reduction of Footage for Instagram on a Mac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-the-value-of-wi-fi-mesh-network-solutions/"><u>Evaluating the Value of Wi-Fi Mesh Network Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-40-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-ripping-audio-tracks-from-a-cd-with-windows-11s-built-in-media-software/"><u>Step-by-Step Guide: Ripping Audio Tracks From a CD with Windows 11'S Built-In Media Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-transforming-audio-files-from-wav-to-mp3-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming Audio Files From WAV to MP3 Using VLC Media Player</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-transforming-avi-files-into-videots-folder/"><u>Step-by-Step Guide: Transforming AVI Files Into VIDEO_TS Folder</u></a></li>
 </ul></div>
 

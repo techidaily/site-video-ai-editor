@@ -1,7 +1,7 @@
 ---
 title: How to Solve PC Startup Problems with Battlefield 4
-date: 2024-09-08T21:48:53.477Z
-updated: 2024-09-15T03:41:04.466Z
+date: 2024-09-13T20:22:35.728Z
+updated: 2024-09-19T22:19:43.730Z
 tags:
   - win11
   - win10
@@ -86,15 +86,31 @@ If the issue remains, check out the next solution.
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if Battlefield 4 launches properly.
@@ -110,21 +126,14 @@ Check if Battlefield 4 launches properly.
 2. Right-click Battlefield 4 and select**Game Properties…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
@@ -143,18 +152,18 @@ If this fix doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-offline.jpg)
 2. Run Battlefield 4 in this instance.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the menu says you’re offline, switch windows to the Origin menu, then click**Go online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
 
 If Battlefield 4 is still not launching, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
 
@@ -165,19 +174,6 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if Battlefield 4 could launch normally.
 
@@ -203,21 +199,17 @@ Check if Battlefield 4 could launch normally.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-daydream-to-reality-a-short-vr-history/"><u>[Updated] From Daydream to Reality A Short VR History</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-preserve-the-ephemeral-magic-of-discords-streaming-world/"><u>[Updated] How to Preserve the Ephemeral Magic of Discord's Streaming World</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-hololens-review-pioneering-virtual-spacecraft/"><u>[Updated] In 2024, HoloLens Review Pioneering Virtual Spacecraft</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-constructing-home-made-vr-headgear-with-google-cards/"><u>2024 Approved Constructing Home-Made VR Headgear with Google Cards</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/beginner-friendly-approach-embracing-video-chats-on-insta/"><u>Beginner-Friendly Approach Embracing Video Chats on Insta</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 9A Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-webm-to-mp4-the-10-best-webm-to-mp4-converters/"><u>New In 2024, WebM to MP4 The 10 Best WebM to MP4 Converters</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-online-movie-editing-solutions/"><u>New The Best Free Online Movie Editing Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-free-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Free Public Domain Video Downloads for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-a-beginners-guide-to-stop-motion-animation-on-instagram-for-2024/"><u>New Unleash Your Creativity A Beginners Guide to Stop Motion Animation on Instagram for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition-for-2024/"><u>New Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snapshot-to-sequence-live-photo-to-video-journey-for-2024/"><u>Snapshot to Sequence Live Photo to Video Journey for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated 2024 Approved From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-animation-software-for-all-skill-levels-top-picks/"><u>Updated Best Animation Software for All Skill Levels Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-produce-a-professional-looking-video-from-photos-and-music/"><u>Updated How to Produce a Professional-Looking Video From Photos and Music</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-strategic-use-of-hashtags-in-gaming-vlog-production/"><u>[New] 2024 Approved Strategic Use of Hashtags in Gaming Vlog Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[New] The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-digital-identity-building-crafting-perfect-channel-images/"><u>[Updated] In 2024, Digital Identity Building Crafting Perfect Channel Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-by-step-iphone-screen-recording/"><u>[Updated] In 2024, Step-by-Step Iphone Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-screen-capture-detailed-tutorial-walkthrough-for-2024/"><u>[Updated] Master Screen Capture Detailed Tutorial Walkthrough for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-curated-8-best-4k-blu-ray-players-guide/"><u>2024 Approved Expertly Curated 8 Best 4K Blu-Ray Players Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-x90s-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo X90S Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/creating-professional-videos-with-adobe-presenter-for-2024/"><u>Creating Professional Videos with Adobe Presenter for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/creating-vector-illustrations-from-videos-at-no-cost/"><u>Creating Vector Illustrations From Videos at No Cost!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-free-windows-1011-dvd-ripper-software-no-cost/"><u>Download Free Windows 10/11 DVD Ripper Software - No Cost</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-methods-for-transforming-ac3-tracks-into-high-quality-dts-audio-files/"><u>Easy Methods for Transforming AC3 Tracks Into High-Quality DTS Audio Files</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
 
