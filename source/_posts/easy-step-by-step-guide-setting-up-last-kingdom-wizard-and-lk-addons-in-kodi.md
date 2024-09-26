@@ -1,7 +1,7 @@
 ---
 title: "Easy Step-by-Step Guide: Setting Up Last Kingdom Wizard & LK Addons in Kodi"
-date: 2024-09-12T20:09:25.428Z
-updated: 2024-09-19T16:28:07.958Z
+date: 2024-09-23T22:12:21.344Z
+updated: 2024-09-25T22:06:44.115Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d026e48a10d4a2c1cd89022d5.jpg
@@ -68,13 +68,6 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Select MP3 as the Output Format
 
 Press the format icon on the right side of the interface to open the output format library. Go to the “**Audio**” tab and select “**MP3**”. You can also choose to convert WMA to other popular formats here.  
@@ -83,6 +76,13 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2.webp) 
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Convert WMA Files to MP3 Now
 
@@ -93,10 +93,10 @@ Go back to the main interface, and click the triangle button to specify an outpu
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3-mobi.webp) 
@@ -128,12 +128,26 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
 
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
 Step 4: Click on “**Browse**” to specify an output file and hit the “**Start**” button to start the conversion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ZamZar (Online)
 
@@ -150,18 +164,18 @@ Step 2: Press “**Choose Files**" to load WMA files from local or online drive.
 Step 3: Click "**Convert To**" and choose "**MP3**" from the drop-down list.  
 Step 4: Press "**Convert Now**" to start conversion and then download the converted files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. CloudConvert (Online)
 
 If the size of your WMA files exceeds the maximum file size of ZamZar, you can also give another online WMA to MP3 converter a try. Here I recommend CloudConvert, one of the most popular online video converters. It supports 200+ format conversions, including audio, video, document, e-book, image, etc. Moreover, CloudConvert also enables you to [cut audio files](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) and [customize audio channels](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), bitrate, frequency, and volume. However, notice that its free version only allows 25 conversions per day.
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8-mobi.webp) 
 
@@ -173,16 +187,16 @@ Step 3: Choose “**MP3**” from the “**Convert to...**” list.
 Step 4: Hit on “**Convert**” button to start the conversion.  
 Then you can download the converted MP3 files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## At last...
 
 The five listed methods are all free and easy to handle. Besides WMA to MP3 conversion, you can also take them to solve other format incompatibility issues and play the video and audio files anywhere and anytime. But it is still recommended to use desktop converters to convert multiple or large files due to the file limitations of online tools. Just choose one converter compatible with your operating system and start converting now!
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs about WMA to MP3 Conversion
 
@@ -196,13 +210,6 @@ If you want to convert files without any limitations, then WonderFox Free HD Vid
 
 If you hope to convert files online, CloudConvert offers you a 1 GB file limitation and 25 conversions per day, which can be the best choice for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q3\. Does converting WMA to MP3 lose quality?
 
 Yes, MP3 is a lossy compression format for audio. But don't worry. With a professional video converter like WonderFox Free HD Video Converter Factory, you can convert files with minimal quality loss, so you won't notice the difference.
@@ -210,6 +217,13 @@ Yes, MP3 is a lossy compression format for audio. But don't worry. With a profes
 Similar Articles
 
 [![WMA to AAC](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-1.webp) WMA to AAC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Free Convert M4A to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-2.webp) Free Convert M4A to MP3](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![5 MP3 Cutters](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-sml-3.webp) 5 MP3 Cutters](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/imgs-self/box-hdpro-l.png) 
 
@@ -226,6 +240,13 @@ WonderFox HD Video Converter Factory Pro
 * Edit videos like cutting, cropping, rotating, compressing, merging…
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdpro.html?from=convert-wma-to-mp3.html-PC-Recommend) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Mobile-Recommend) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <ins class="adsbygoogle"
@@ -241,5 +262,23 @@ WonderFox HD Video Converter Factory Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-easy-steps-to-document-video-calls/"><u>[New] 2024 Approved Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unleashing-the-power-of-tales-complimentary-apps-galore-for-2024/"><u>[New] Unleashing the Power of Tales Complimentary Apps Galore for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-deciphering-authenticity-in-your-facebook-brand-community/"><u>2024 Approved Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/download-gratis-il-migliore-decodeur-dvd-compatibile-con-tutti-i-dvd-domestici/"><u>Download Gratis Il Migliore Decodeur DVD Compatibile Con Tutti I DVD Domestici</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-14-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 14 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-stop-motion-made-easy-the-best-online-tools-free-and-paid/"><u>New 2024 Approved Stop Motion Made Easy The Best Online Tools Free & Paid</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-5-reaction-video-makers-you-should-try/"><u>New In 2024, Best 5 Reaction Video Makers You Should Try</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-coolest-plugins-for-final-cut-pro-x-freeandpaid-for-2024/"><u>New Top 10 Coolest Plugins for Final Cut Pro X Free&Paid for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/"><u>New Trim VLC Videos on Mac with Ease No Quality Loss Guaranteed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premier-fifa-vids-data-visualized-for-social-media-for-2024/"><u>Premier FIFA Vids Data Visualized for Social Media for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transformative-tactics-for-impeccable-hue-correction/"><u>Transformative Tactics for Impeccable Hue Correction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-apex-legends-fixing-the-elusive-engine-glitch/"><u>Troubleshooting Apex Legends: Fixing the Elusive Engine Glitch</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts/"><u>Updated 2024 Approved Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-capture-the-moment-10-best-video-to-image-converters-for-pc-and-mac/"><u>Updated In 2024, Capture the Moment 10 Best Video to Image Converters for PC and Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-rated-video-promo-maker-websites/"><u>Updated Top-Rated Video Promo Maker Websites</u></a></li>
+</ul></div>
 
