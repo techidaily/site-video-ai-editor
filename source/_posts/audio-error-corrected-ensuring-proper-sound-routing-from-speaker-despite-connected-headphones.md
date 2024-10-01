@@ -1,7 +1,7 @@
 ---
 title: "Audio Error Corrected: Ensuring Proper Sound Routing From Speaker Despite Connected Headphones"
-date: 2024-09-12T18:55:22.423Z
-updated: 2024-09-19T20:44:14.974Z
+date: 2024-09-27T21:10:36.133Z
+updated: 2024-09-30T16:31:57.564Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ You can try these solutions to fix buzzing sound from headphones.
 3. [Replace your headphones](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Configure audio settings in the computer](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot the hardware problem
 
@@ -67,10 +74,16 @@ If not, don’t worry. We have other solutions for you.
 If the issue is coming from the PC, the next method may help you fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -94,6 +107,13 @@ If the issue is coming from the PC, the next method may help you fix it.
 
 **Note** : If you have problems when using Driver Easy, please feel free to contact our support team at **<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Configure audio settings in the computer
 
  The improper audio settings can cause the issue. You should check it out and make sure that they are configured properly. For example, you should disable audio enhancements to fix the buzzing sound issue. To do so, follow the steps below:
@@ -105,40 +125,27 @@ If the issue is coming from the PC, the next method may help you fix it.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1d7f78c8d.jpg)
 3. Click **Sound** .  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1da9de109.jpg)
 4. In the popup pane, right-click on your speaker device, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1de596e87.jpg)
 5. Click the **Enhancements** tab, and uncheck the box next to **Disable all sound effects** . Then click **Apply** and **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
-6. Try your headphones again to see if the sound works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
+6. Try your headphones again to see if the sound works.
 
  We’ll be glad if any of the fixes above helped you resolve the buzzing noise in your headphones. Please feel free to leave a comment below if you have further questions or ideas.
 
@@ -157,5 +164,26 @@ If the issue is coming from the PC, the next method may help you fix it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-innovate-visual-signatures-for-free-using-graphic-patterns-for-2024/"><u>[New] Innovate Visual Signatures for Free Using Graphic Patterns for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-record-and-relive-iphoneandroid-google-meet-sessions/"><u>[Updated] In 2024, Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-youcam-webcam-recorder-review/"><u>2024 Approved YouCam Webcam Recorder Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/eero-pro-review-elite-router-for-total-house-wi-fi-extension-insights-from-users/"><u>Eero Pro Review: Elite Router for Total House Wi-Fi Extension – Insights From Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-8-titans-of-4k-blu-ray-technology-for-2024/"><u>Foremost 8 Titans of 4K Blu-Ray Technology for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-sidetrade-opted-for-abbyy-vantage-in-upgrading-their-cash-handling-processes/"><u>How Sidetrade Opted for ABBYY Vantage in Upgrading Their Cash Handling Processes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-10-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 10 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-cinematic-slowing-discover-the-top-10-slow-motion-video-editors/"><u>New 2024 Approved Cinematic Slowing Discover the Top 10 Slow Motion Video Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-top-10-video-editing-tools-for-young-creators-free-and-paid-options/"><u>New 2024 Approved Top 10 Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unlock-chromecasts-full-potential-streaming-local-videos-on-windows-mac-android-and-ios/"><u>New 2024 Approved Unlock Chromecasts Full Potential Streaming Local Videos on Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-free-whiteboard-animation-software-for-windows-mac-and-beyond/"><u>New In 2024, The Ultimate List of Free Whiteboard Animation Software for Windows, Mac, and Beyond</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics/"><u>Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/understanding-the-distinction-between-electric-and-hybrid-vehicles/"><u>Understanding the Distinction Between Electric and Hybrid Vehicles</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-as-the-users-intention-is-to-explore-the-best-for-this-purpose-a-list-of-top-5-free-mpeg-video-splitters-are-under-discussion-for-2024/"><u>Updated As the Users Intention Is to Explore the Best; for This Purpose, a List of Top 5 Free MPEG Video Splitters Are Under Discussion for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-this-article-youll-get-the-best-free-video-hosting-sites-for-both-private-and-online-business-marketers-that-will-help-realize-your-goals/"><u>Updated In This Article, Youll Get the Best Free Video Hosting Sites for Both Private and Online Business Marketers that Will Help Realize Your Goals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-essentials-for-2024/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Essentials for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-there-we-introduce-you-3-simple-options-for-recording-video-games-with-ease-for-2024/"><u>Updated There We Introduce You 3 Simple Options for Recording Video Games with Ease for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-top-40-keyboard-shortcuts-for-final-cut-pro-x-users/"><u>Updated Unleash Your Creativity Top 40 Keyboard Shortcuts for Final Cut Pro X Users</u></a></li>
+</ul></div>
 
