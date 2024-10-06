@@ -1,7 +1,7 @@
 ---
 title: Wax 101 Learn How to Edit Videos with This Free Video Editor
-date: 2024-09-09T00:34:33.804Z
-updated: 2024-09-10T00:34:33.804Z
+date: 2024-09-28T17:50:41.109Z
+updated: 2024-10-06T08:31:05.730Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -40,18 +34,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 #### 1. Zoom, crop and pan image for video
@@ -60,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
 
 **Zoom Video**: Click the Posz clock icon to set Keyframming mode to Linear, and then change the value by hanging over mouse to ZEROs and drag to left/right.
@@ -82,41 +58,21 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,4 +80,29 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-syma-x8c-feature-analysis/"><u>[New] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-into-simulation-androids-ultimate-guide-to-the-best-15-games/"><u>[Updated] Step Into Simulation Android’s Ultimate Guide to the Best 15 Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cutting-the-clutter-eschewing-fb-video-ads/"><u>2024 Approved Cutting the Clutter Eschewing FB Video Ads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-media-player-software-for-alienware-on-windows-11-top-picks-and-downloads/"><u>Best Free Media Player Software for Alienware on Windows 11: Top Picks & Downloads</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mkv-video-player-software-for-windows-7-64-bit-systems/"><u>Best Free MKV Video Player Software for Windows 7 64-Bit Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268124165-boost-digital-growth-with-cutting-edge-insights-from-cookiebot-analytics/"><u>Boost Digital Growth with Cutting-Edge Insights From Cookiebot Analytics.</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/boosting-video-loading-times-effective-techniques-for-faster-streaming-on-pcs-and-macs/"><u>Boosting Video Loading Times: Effective Techniques for Faster Streaming on PCs & Macs</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-a-fresh-pdf-file-reader-for-os-use/"><u>Choosing a Fresh PDF File Reader for OS Use</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-endless-tunes-stream-top-rated-free-webcasters-from-the-comprehensive-internet-radio-directory/"><u>Enjoy Endless Tunes: Stream Top-Rated Free Webcasters From the Comprehensive Internet Radio Directory</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-download-optimal-video-encoding-software-for-windows-11-media-streaming/"><u>Free Download: Optimal Video Encoding Software for Windows 11 Media Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-audio-techniques-srt-conversion-mastery/"><u>In 2024, Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-visual-enhancer-cutting-edge-conversion-for-2024/"><u>Premium Visual Enhancer Cutting-Edge Conversion for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/understanding-virtual-reality-vr-essential-insights-on-the-world-of-3d-vr/"><u>Understanding Virtual Reality (VR): Essential Insights on the World of 3D VR</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to Cropping and Resizing Videos
-date: 2024-09-12T02:33:53.875Z
-updated: 2024-09-14T16:57:53.448Z
+date: 2024-09-28T16:02:05.016Z
+updated: 2024-10-05T22:13:55.453Z
 tags: 
   - video editing software
   - video editing
@@ -54,6 +54,13 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Change Video Shape by Cropping
 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
@@ -78,6 +85,13 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
 
 Another, rather better way of changing videos to custom shapes is with the help of image or shape masking.
@@ -85,6 +99,13 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -136,6 +157,13 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -149,18 +177,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-convert-with-ease-the-top-10-best-tools-for-flv-to-youtubes/"><u>[New] 2024 Approved Convert With Ease The Top 10 Best Tools for Flv to YouTubes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-10-leading-non-gamer-screen-recording-alternatives/"><u>[New] In 2024, 10 Leading Non-Gamer Screen Recording Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[New] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-the-ultimate-guide-top-3-free-players-similar-to-smplayer-for-macos-users/"><u>1. The Ultimate Guide: Top 3 Free Players Similar to SMPlayer for macOS Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensive-hulu-recording-guide-for-pcmacios-devices/"><u>2024 Approved Comprehensive Hulu Recording Guide for PC/Mac/iOS Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-explore-30-anime-concepts-dominating-tiktok-feed/"><u>2024 Approved Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-locations-for-purchasing-youtube-ringtone-content/"><u>2024 Approved Superior Locations for Purchasing YouTube Ringtone Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-understanding-and-implementing-audio-ebb-in-premiere-pro/"><u>2024 Approved Understanding and Implementing Audio Ebb in Premiere Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-best-vr-gaming-experiences-for-iphone-xs-xs-max-xr-and-ipad-on-ios-12-platforms/"><u>Discover the Best VR Gaming Experiences for iPhone XS, XS Max, XR & iPad on iOS 12 Platforms!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-solution-steps-when-mov-video-file-fails-in-windows-media-player/"><u>Easy Solution Steps When 'Mov' Video File Fails in Windows Media Player</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2010</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-video-splitter-the-ultimate-guide-with-5kplayer/"><u>Free Video Splitter: The Ultimate Guide with 5KPlayer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-your-free-itunes-media-app-on-windows-10-streamline-your-music-experience-today/"><u>Get Your FREE iTunes Media App on Windows 10 – Streamline Your Music Experience Today!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/reimagine-fuzzy-images-selecting-the-ultimate-10-internet-tools-for-2024/"><u>Reimagine Fuzzy Images Selecting the Ultimate 10 Internet Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-thorough-disposal-of-quicktime-software-on-all-windows-versions/"><u>Step-by-Step Tutorial: Thorough Disposal of QuickTime Software on All Windows Versions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-top-4-swf-media-plugins-for-cross-platform-compatibility-with-macos-and-windows-11-systems/"><u>The Top 4 SWF Media Plugins for Cross-Platform Compatibility with macOS and Windows 11 Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-top-5-free-media-player-apps-for-windows-10-and-mac-os/"><u>Ultimate Guide: Top 5 FREE Media Player Apps for Windows 10 & Mac OS</u></a></li>
+</ul></div>
 

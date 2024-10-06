@@ -1,7 +1,7 @@
 ---
 title: "Free MP4 Video Player: Download and Install on Windows 10 & Mac"
-date: 2024-09-26T17:46:07.093Z
-updated: 2024-09-30T17:13:32.552Z
+date: 2024-10-04T00:22:57.694Z
+updated: 2024-10-05T19:40:35.231Z
 tags:
   - video-music-player
 categories:
@@ -46,13 +46,6 @@ This free MP4 video player recognizes video, audio and subtitle files wrapped-up
 
 ![5KPlayer](https://www.5kplayer.com/video-music-player/img/mp4-player-5kplayer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 With 5KPlayer at hand, you no longer need to worry if the previous MP4 video player run into such problems as the user below does: It is able to render a video yet MP4 no picture, chances are that it's incompatible with the latest codecs like H.265, H.264, which are often used in HD, 4K videos.
 
 _**"**I have a .mp4 video and in MPC it only plays the sound but with no picture... I tried installing Haali but then it came back with something about pins not aligned or something missing?_ 
@@ -83,34 +76,34 @@ Besides MP4 playback, Windows Media Player 12 works on Windows 10 seamlessly to 
 
 ![Windows Media Player](https://www.5kplayer.com/video-music-player/img/wmp-mp4-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Summary: What Makes 5KPlayer A Better MP4 Player Than the Rest?
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/ic1.png) 5KPlayer is a standalone free MP4 player, it doesn't need any video codec installed to help playing MP4 video on Mac and Windows. Besides, with video converter embedded, this MP4 video player can call on itself to convert videos to MP4 directly. Better still, this MP4 player is also able to extract MP3 from MP4 file 100% free.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/ic5.png) Comparing to other MP4 players, 5KPlayer not only supports playing video in MP4, but also it plays other mainstream video formats including MKV, AVI, M2TS, WMV, M4V, M4A, WMV, etc. It is absolutely the most embracive video player when it comes to video format.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/ic6.png) 5KPlayer once ranks NO. 1 on video player chart offered by Softonic. Confirming its popularity and reliability as one of the [top 10 MP4 players](https://tools.techidaily.com/5kplayer/video-music-player/) which can both download and play MP4 video, files, movie. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Bonus You'll Get Also from 5KPlayer: Subtitle, Media Library, Playlists**
 
@@ -118,21 +111,22 @@ Besides MP4 playback, Windows Media Player 12 works on Windows 10 seamlessly to 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/ic7.png)With a handy subtitle feature, this free MP4 player can add sync subtitles and let you switch between different subtitles in the same MP4 file.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/ic8.png)5KPlayer can also archive all media files, you can easily check the detailed video information such as video codec, video resolution, metadata, etc. in 5KPlayer's Media Library, where you can add and store your MP4 video playlists. Plus, the intelligent search box in the upper-right corner of the library window makes your searching and locating the video you want to watch easier than ever. 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play MP4 Files with the Best Free MP4 Player Mac/Windows?
@@ -149,13 +143,6 @@ To play an MP4 video file, you are supposed to click on "Video" button and then 
 
 ![5KPlayer UI](https://www.5kplayer.com/video-music-player/img/youtube-0119-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **How to Sync Audio and Subtitles in MP4 Video with 5KPlayer** 
 
 **Step 1**: Right-click on 5KPlayer's playback window, and then click on Synchronization.
@@ -171,6 +158,13 @@ To play an MP4 video file, you are supposed to click on "Video" button and then 
 **Note**: In addition to free play MP4 files, this all-around powerful [video music player](https://tools.techidaily.com/5kplayer/video-music-player/) stands out as one of the best MP4 streaming media players. It is capable of playing almost all kinds of media files, including free playing music in MP3, AAC, FLAC, etc, various video file types like MKV, AVCHD, AVI, WMV, MOV, HEVC and more, regular/copy protected DVDs, etc. Plus, 5KPlayer also does well in free downloading videos from 300+ online sites, like YouTube, Dailymotion and Vimeo. And you can also utilize [DLNA streaming](https://tools.techidaily.com/5kplayer/dlna/) feature to share MP4 media files from Mac/PC to smart TV. 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wiki: What Is MP4 format?
 
@@ -193,21 +187,22 @@ With a professional MP4 player at hand, you'll find video files with the extensi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-the-season-wardrobe-top-5-winter-yt-scenes/"><u>[New] In 2024, Capture the Season' Wardrobe Top 5 Winter YT Scenes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enhanced-avi-player-ultimate-performance-pcmobile/"><u>[Updated] 2024 Approved Enhanced Avi Player Ultimate Performance PC/Mobile</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-exploring-copyright-policy-instantaneous-removal-of-personal-videos/"><u>[Updated] 2024 Approved Exploring Copyright Policy Instantaneous Removal of Personal Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>[Updated] 2024 Approved Stop the Void in Live Gaming Recordings 5 Ways to Avoid Black Screens with OBS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-wmv-en-mp4-sin-coste-con-el-servidor-online-de-movavi/"><u>Cómo Convertir Archivos WMV en MP4 Sin Coste Con El Servidor Online De Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-6-free-image-editors-that-can-replace-photoshop-effectively/"><u>Discover 6 Free Image Editors That Can Replace Photoshop Effectively</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-use-zoom-webinars-beginners-guide-for-2024/"><u>How to Use Zoom Webinars [Beginner’s Guide] for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-6-must-have-tools-for-successful-game-streaming/"><u>In 2024, 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-10-essential-animation-software-for-modern-education/"><u>New In 2024, 10 Essential Animation Software for Modern Education</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-and-fabulous-8-top-notch-online-video-stabilizers/"><u>New In 2024, Free and Fabulous 8 Top-Notch Online Video Stabilizers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-5-free-online-tone-generators-for-quick-results/"><u>New The Ultimate List 5 Free Online Tone Generators for Quick Results</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-cream-of-the-crop-top-iphone-apps-reviewed-for-2024/"><u>The Cream of the Crop Top iPhone Apps , Reviewed for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-iphone-video-editing-essentials-top-picks/"><u>Updated In 2024, IPhone Video Editing Essentials Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-art-of-freezing-time-a-comprehensive-guide-to-video-freeze-frames/"><u>Updated In 2024, The Art of Freezing Time A Comprehensive Guide to Video Freeze Frames</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-top-time-lapse-camera-apps-for-mobile-devices-2023-update/"><u>Updated In 2024, Top Time-Lapse Camera Apps for Mobile Devices (2023 Update)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-14-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Pro i Do? Get Answers here</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-drone-racing-headset-compilation/"><u>[New] The Ultimate Drone Racing Headset Compilation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-websites-for-digital-graffiti-fonts/"><u>[Updated] 2024 Approved Essential Websites for Digital Graffiti Fonts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>[Updated] In 2024, Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-constructing-visually-captivating-photo-collections/"><u>2024 Approved Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bitten-ohne-respekt-aussprechen-alternativen-in-deutsch/"><u>Bitten Ohne Respekt Aussprechen – Alternativen in Deutsch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpts-language-skills-for-non-english-conversations/"><u>Leveraging ChatGPT's Language Skills for Non-English Conversations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>New 2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-virtualdub-vs-the-rest-a-comprehensive-review-of-video-editing-options/"><u>New Virtualdub Vs. The Rest A Comprehensive Review of Video Editing Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/shutting-down-integrated-facebook-navigation/"><u>Shutting Down Integrated Facebook Navigation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-fix-stop-final-cut-pro-x-from-crashing-on-your-mac/"><u>The Ultimate Fix Stop Final Cut Pro X From Crashing on Your Mac</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unmatched-downloader-companion-for-apple-and-pc-users-explore-the-superiority-of-allavsoft/"><u>Unmatched Downloader Companion for Apple & PC Users: Explore the Superiority of Allavsoft!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-y/"><u>Updated 2024 Approved The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-simple-way-to-edit-avi-files-split-trim-and-cut-with-ease/"><u>Updated In 2024, The Simple Way to Edit AVI Files Split, Trim, and Cut with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-video-editing-magic-unlocking-the-secrets-of-stunning-visuals/"><u>Updated In 2024, Video Editing Magic Unlocking the Secrets of Stunning Visuals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-face-generator-websites-to-create-synthetic-identities/"><u>Updated The Best Free Face Generator Websites to Create Synthetic Identities</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>Updated Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
 </ul></div>
 

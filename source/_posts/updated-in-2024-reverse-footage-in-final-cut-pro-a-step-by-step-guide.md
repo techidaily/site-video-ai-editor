@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Reverse Footage in Final Cut Pro A Step-by-Step Guide
-date: 2024-09-09T00:34:33.535Z
-updated: 2024-09-10T00:34:33.535Z
+date: 2024-10-05T06:46:30.915Z
+updated: 2024-10-06T05:17:28.359Z
 tags: 
   - video editing software
   - video editing
@@ -32,12 +32,6 @@ The information above provides just basic information about Final Cut Pro X soft
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 **You May Also Like:** [How to Reverse videos in Adobe Premiere Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -54,12 +48,6 @@ On the other side rewind is also an interesting feature for video editing where 
 
 Although it is possible to get the rewind effect in videos with simple reverse option but still Apple platform supports both of these as standalone options.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to reverse a clip in Final Cut Pro
 
 You might have heard about Retiming effect in videos where we either speed up our clip or slow it down by certain time factor so that a desired effect can be achieved. There are two types of retiming effects: Variable speed type and constant speed format. FCP is capable enough to merge the reverse option with retiming effects so that something innovative can be developed even with simple editing efforts.
@@ -74,12 +62,6 @@ Now you need to go to the pop up menu where an option for reverse the clip is av
 
 ![How to reverse a clip in Final Cut Pro](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hit that reverse option.
 
 ![Reverse a video clip using FCP -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-2.png)
@@ -90,12 +72,6 @@ In case if you want to customize speed of reversed clip then use retiming handle
 
 ![Reverse a video clip using FCP -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **Step 4:**
 
 Now hit the play option to view video with reverse effect.
@@ -115,11 +91,12 @@ Now from pop-up menu select rewind option and choose desired speed limit for thi
 ![Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
@@ -129,6 +106,19 @@ Drag the retiming handler to adjust the speed as per need.
 #### **Step 4:**
 
 Play the clip to view editing effects.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An Easier Way to Reverse A Video in Filmora
 
@@ -140,34 +130,30 @@ Play the clip to view editing effects.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -176,12 +162,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss/"><u>[New] 2024 Approved Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-navigate-to-connect-with-a-tiktok-life-stream/"><u>[New] Navigate to Connect with a TikTok Life Stream</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-enhancing-video-top-10-text-techniques/"><u>[Updated] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-modern-content-curators-guide-to-branding-10-tools/"><u>[Updated] The Modern Content Curator's Guide to Branding - 10 Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-fastest-windows-11-and-7-video-player-no-cost/"><u>Download the Fastest Windows 11 and 7 Video Player - No Cost</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-top-rated-free-youtube-viewer-app-today/"><u>Download the Top-Rated Free YouTube Viewer App Today!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-premium-h264h265-media-viewer-enjoy-crisp-playback-of-4k-videos-at-no-charge/"><u>Free Premium H.264/H.265 Media Viewer - Enjoy Crisp Playback of 4K Videos at No Charge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-best-youtube-to-mp3-converters-free-download-onlinewinmac/"><u>In 2024, Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-13t-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 13T Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 4G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/master-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads-for-2024/"><u>Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/solve-your-vlc-playback-problems-for-a-seamless-experience-across-windows-and-macos-systems/"><u>Solve Your VLC Playback Problems for a Seamless Experience Across Windows & macOS Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-for-avi-video-support-on-older-and-current-macos-systems/"><u>Step-by-Step Guide for AVI Video Support on Older and Current macOS Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-solving-high-resolution-4k-playback-problems-on-desktops-laptops-and-mobile-devices/"><u>Step-by-Step Guide: Solving High-Resolution 4K Playback Problems on Desktops, Laptops and Mobile Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-4-desired-functionalities-for-leveraging-my-synthetic-voice-on-ios-devices-by-apple/"><u>Top 4 Desired Functionalities for Leveraging My Synthetic Voice on iOS Devices by Apple</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-list-of-free-codecs-and-players-enjoy-videos-and-songs-for-free-without-hassle/"><u>Ultimate List of FREE Codecs & Players - Enjoy Videos & Songs for Free Without Hassle</u></a></li>
+</ul></div>
 

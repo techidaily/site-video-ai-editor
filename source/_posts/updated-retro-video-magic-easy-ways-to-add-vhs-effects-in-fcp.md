@@ -1,7 +1,7 @@
 ---
 title: Updated Retro Video Magic Easy Ways to Add VHS Effects in FCP
-date: 2024-09-11T21:09:04.090Z
-updated: 2024-09-14T18:50:53.314Z
+date: 2024-10-04T03:07:22.959Z
+updated: 2024-10-05T18:24:16.945Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -133,6 +140,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -159,6 +173,13 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -180,6 +201,13 @@ A resources center built for Filmora. You can find all the materials and effects
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
 
@@ -208,12 +236,20 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-my-playlist-on-youtube-for-2024/"><u>[New] How to Find My Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-online-potential-top-5-strategic-approaches-to-youtube-marketing/"><u>[New] Unlocking Online Potential - Top 5 Strategic Approaches to YouTube Marketing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boosting-meeting-impact-with-simple-snap-camera-steps/"><u>[Updated] In 2024, Boosting Meeting Impact with Simple Snap Camera Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-yoga-top-10-youtube-resources-for-enlightened-living/"><u>[Updated] In 2024, Mastering Yoga Top 10 YouTube Resources for Enlightened Living</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-combo-devices-top-5-streamers-that-include-a-built-in-dvd-player/"><u>Best Combo Devices: Top 5 Streamers That Include a Built-In DVD Player</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-swf-video-reader-programs-to-enjoy-animations-and-games-on-pc-and-mac/"><u>Best SWF Video Reader Programs to Enjoy Animations and Games on PC & Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-your-free-copy-of-kmplayer-for-all-windows-versions-1087-in-64-and-32-bit-options/"><u>Get Your Free Copy of KMPlayer for All Windows Versions (10/8/7) in 64 and 32 Bit Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v30t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V30T</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-360-degree-virtual-reality-viewing-a-step-by-step-guide-using-gom-player/"><u>Mastering 360-Degree Virtual Reality Viewing: A Step-by-Step Guide Using GOM Player</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/play-anywhere-no-region-restrictions-with-this-universal-dvd-player-application/"><u>Play Anywhere: No Region Restrictions with This Universal DVD Player Application</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlining-access-to-subscriber-information/"><u>Streamlining Access to Subscriber Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-fastest-way-to-securely-back-up-your-iphone-14-with-itunes-expert-tips/"><u>The Fastest Way to Securely Back Up Your iPhone 14 with iTunes - Expert Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-replacement-options-for-mplayer-on-windows-10-download-guide/"><u>Top Free Replacement Options for Mplayer on Windows 10 - Download Guide</u></a></li>
+</ul></div>
 

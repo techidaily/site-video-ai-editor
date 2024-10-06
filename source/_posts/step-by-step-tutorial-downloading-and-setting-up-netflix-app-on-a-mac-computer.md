@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Downloading and Setting Up Netflix App on a Mac Computer"
-date: 2024-09-25T17:13:57.116Z
-updated: 2024-10-01T00:20:08.215Z
+date: 2024-09-29T18:26:46.625Z
+updated: 2024-10-06T01:32:25.718Z
 tags:
   - video-music-player
 categories:
@@ -59,6 +59,13 @@ First, if your 2019 Macbook Pro/Air is running Mac OS X El Captain or Yosemite, 
 
 ![How to Watch Netflix on Mac](https://www.5kplayer.com/video-music-player/img/netflix-in-browser.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1:** Vist www.netflix.com on your Mac computer, choose the New Year movies on Netflix you want to play.  
 **Step 2:** When a Silverlight dialog windows opens, hit "Install Now", which takes you to install Silverlight.dmg, kindly notice that download location is different depending on your web browser.  
 **Step 3:** Right-click or hold Control on your Mac's keyboard and select Silverlight.pkg, then select "Open" on the popping-up menu.  
@@ -74,13 +81,6 @@ First, if your 2019 Macbook Pro/Air is running Mac OS X El Captain or Yosemite, 
 
 This is not exaggerating, but 5KPlayer for Mac - a [free video player](https://tools.techidaily.com/5kplayer/video-music-player/) and downloader - supports not only Netflix 4K content, it also configures H.265 codec to render 4K streaming smoothly. It's a second-to-non choice if you need a Mac-based Netflix client that combines [movie download](https://tools.techidaily.com/5kplayer/youtube-download/) and playback 2-in-1.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5KPlayer - Free Netflix APP for Mac Alternative
 
 Easily play Netflix 4K movies and 3D movies; the free 5KPlayer also rises as one of best [VR video players](https://tools.techidaily.com/5kplayer/video-music-player/) now that Netflix has announced their VR plan. Since it can connect your Netflix APP on iPhone to Mac via AirPlay Mirroring, enabling you to send whatever movies streaming on your iPhone/iPad to Mac instantly with AirPlay technology (Wi-Fi required).
@@ -88,25 +88,19 @@ Easily play Netflix 4K movies and 3D movies; the free 5KPlayer also rises as one
 ![Best Netflix APP for Mac Alternative](https://www.5kplayer.com/video-music-player/img/5k-netflix-mp-1127.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  \- Download Netflix movies on Mac superfast: Get an URL to a Netflix movie playing on Mac, 5KPlayer parses and downloads it in original quality.  
@@ -120,13 +114,6 @@ Now Get yourself the Mac version of 5KPlayer first, let's cut straight to see ho
 ### Netflix APP for Mac Alternative: Download James Cameron Full Movie
 
 Download, install and launch 5KPlayer for Mac [![](https://www.5kplayer.com/video-music-player/../software/pic-style/dvd-video/01.png)](https://tools.techidaily.com/5kplayer/products/) , the best free Netflix APP for Mac alternative before you can download James Cameron Alita Battle Angel full movie 720p to watch.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Free download James Cameron Alita: Battle Angel movie MP4 1080p**
 
@@ -144,6 +131,13 @@ Download, install and launch 5KPlayer for Mac [![](https://www.5kplayer.com/vide
 
 ![Watch Netflix movies on Mac](https://www.5kplayer.com/video-music-player/../youtube-download/img/watch-alita.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pros:**  No plug-in required (which is a must if you don't have either 5KPlayer or the latest version of macOS Catalina).  
  Remote control available: with Netflix installed in iPhone, you're free to start/resume where you left/switch movie titles without being tethered to the Mac's range.  
  Money-saving: Netflix charges on device at $7.99 and $9.99 for 1 device and 2 devices respectively, but with 5KPlayer installed, you only pay for the least.  
@@ -155,6 +149,13 @@ As you may already found in the Mac APP Store, a slew of unofficial Netflix APP 
 
 ![3rd Party Netflix App for Mac](https://www.5kplayer.com/video-music-player/img/3rd-party-netflix.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pros:** Rendering APP-based Netflix for Mac experience.  
 **Cons:** Cost extra. Incompatibility issues may occur, taking you some time to check out this tutorial on [Netflix won't play \[solved\]](https://tools.techidaily.com/5kplayer/video-music-player/).
 
@@ -163,13 +164,6 @@ As you may already found in the Mac APP Store, a slew of unofficial Netflix APP 
 But to get all functions you need at one stroke, it's still the all-round alternative to Netflix for Mac - **[5KPlayer](https://tools.techidaily.com/5kplayer/video-music-player/)**! 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,21 +180,19 @@ But to get all functions you need at one stroke, it's still the all-round altern
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-pathway-to-saving-social-media-gifs-on-different-devices-for-2024/"><u>[New] The Ultimate Pathway to Saving Social Media GIFs on Different Devices for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>[Updated] 2024 Approved The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-use-kapwing-meme-maker/"><u>[Updated] In 2024, Use Kapwing Meme Maker</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/innovative-laptop-mainboard-leverages-risc-v-design-collaboration-with-deepcomputing-on-the-cutting-edge-jh711n-single-board-computer/"><u>Innovative Laptop Mainboard Leverages RISC-V Design: Collaboration with DeepComputing on the Cutting-Edge JH711n Single-Board Computer</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-tiktok-watermark-removers-compare-and-choose/"><u>New In 2024, Free TikTok Watermark Removers Compare and Choose</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-if-you-are-looking-for-great-1080p-video-editing-softwareyoure-in-the-right-place/"><u>New In 2024, If You Are Looking for Great 1080P Video Editing Software,youre in the Right Place</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-ranking-the-best-top-10-video-editing-software-options/"><u>New In 2024, Ranking the Best Top 10 Video Editing Software Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protecting-your-inbox-how-to-enable-two-step-verification-in-google-mail/"><u>Protecting Your Inbox: How to Enable Two-Step Verification in Google Mail</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-epson-paperless-operation-issue/"><u>Troubleshooting Epson Paperless Operation Issue</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unleash-your-creativity-how-to-make-professional-looking-movies-on-mac-for-2024/"><u>Unleash Your Creativity How to Make Professional-Looking Movies on Mac for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-blur-brilliance-the-ultimate-guide-to-bokeh-effects-apps/"><u>Updated 2024 Approved Blur Brilliance The Ultimate Guide to Bokeh Effects Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-tutorial-trimming-and-cropping-images-like-a-pro/"><u>Updated FCPX Tutorial Trimming and Cropping Images Like a Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-motion-tracking-software-top-picks-for-this-year/"><u>Updated Motion Tracking Software Top Picks for This Year</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-fix-common-instagram-video-errors-for-2024/"><u>[New] How to Fix Common Instagram Video Errors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-breakdown-gopro-slr4-silver-edition/"><u>[Updated] Full Breakdown GoPro SLR4 Silver Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>[Updated] In 2024, Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-overcoming-full-screen-issues-in-obs-for-2024/"><u>[Updated] Overcoming Full Screen Issues in Obs for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725290264501-dvd/"><u>「最新無料DVDコピーツールの使い方と問題解消ガイド」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-the-prime-lineup-of-affordable-cutting-tools-for-2024/"><u>Discover the Prime Lineup of Affordable Cutting Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-system-performance-download-intel-usb-30-drivers-compatible-with-windows-11/"><u>Improve System Performance: Download Intel USB 3.0 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-macos-compatible-how-to-download-and-use-videoleap/"><u>New 2024 Approved MacOS Compatible How to Download and Use Videoleap</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-tiktok-watermark-removal-tools-to-boost-your-videos/"><u>New Top TikTok Watermark Removal Tools to Boost Your Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/no-hassle-just-tones-5-free-online-generators/"><u>No Hassle, Just Tones 5 Free Online Generators</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y100 5G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/transform-your-brand-11-free-animated-logo-makers-and-essential-design-tips/"><u>Transform Your Brand 11 Free Animated Logo Makers & Essential Design Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-cant-i-play-monster-hunter-stories-2-wings-of-ruin/"><u>Troubleshooting Guide: Why Can't I Play Monster Hunter Stories 2: Wings of Ruin?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-speed-up-your-videos-top-time-lapse-apps-for-mobile-devices/"><u>Updated Speed Up Your Videos Top Time-Lapse Apps for Mobile Devices</u></a></li>
 </ul></div>
 

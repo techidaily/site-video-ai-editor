@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro 2023 Unlocking Professional Color Correction
-date: 2024-08-15T01:32:32.325Z
-updated: 2024-08-16T01:32:32.325Z
+date: 2024-10-05T02:22:43.932Z
+updated: 2024-10-05T23:43:47.109Z
 tags: 
   - video editing software
   - video editing
@@ -63,16 +63,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
@@ -83,9 +77,6 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -94,16 +85,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
@@ -114,9 +99,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
@@ -129,8 +111,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +118,27 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-captivate-with-instagrams-live-feature/"><u>[New] How to Captivate with Instagram's Live Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preserving-quality-while-quickening-spotify-auditory-experience/"><u>2024 Approved Preserving Quality While Quickening Spotify Auditory Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aesthetic-ambiance-cool-pc-walls-to-download/"><u>In 2024, Aesthetic Ambiance Cool PC Walls to Download</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-snipperpro-suite/"><u>In 2024, SnipperPro Suite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-convenience-setting-up-seamless-sign-in-for-windows-users/"><u>Mastering Convenience: Setting Up Seamless Sign-In for Windows Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>New 2024 Approved Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-add-wow-to-your-videos-best-animated-text-apps-for-phone-for-2024/"><u>New Add Wow to Your Videos Best Animated Text Apps for Phone for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-online-webm-video-reducers-fast-and-efficient-for-2024/"><u>New Online WebM Video Reducers Fast and Efficient for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-c53-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme C53? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-edit-video-metadata-like-a-pro-top-8-mac-software/"><u>Updated In 2024, Edit Video Metadata Like a Pro Top 8 Mac Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-low-budget-filmmaking-toolkit-7-software-you-need/"><u>Updated The Ultimate Low-Budget Filmmaking Toolkit 7 Software You Need</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/wipe-out-facebook-story-desktopmobile-tips-for-2024/"><u>Wipe Out Facebook Story Desktop/Mobile Tips for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

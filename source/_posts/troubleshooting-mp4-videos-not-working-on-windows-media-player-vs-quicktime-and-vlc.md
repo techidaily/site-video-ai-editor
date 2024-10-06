@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2024-09-27T18:06:44.202Z
-updated: 2024-09-30T18:16:50.264Z
+date: 2024-10-03T06:49:50.953Z
+updated: 2024-10-06T03:54:01.984Z
 tags:
   - video-music-player
 categories:
@@ -33,15 +33,22 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why You Can't Play MP4 Files?
 
 To solve MP4 won't play problem, you must know what is MP4 format. Put it simply, MP4 is a container format like MKV that includes audio/video codec, images and subtitles, in which the audio or video codec determines how to and what a [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) can play a MP4 file most. For instance, VLC can't play MP4 files containing H.265 codec; Windows Media Player doesn't support MP4 format natively and QuickTime supports MP4 videos encoded with MPEG-4 or H.264 video codec and AAC audio codec only. If your MP4 video encoded with other codec, you will fail to play MP4 on Windows \[10\] or Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Solve MP4 File Won't Play on Windows/Mac (Catalina)?
 
@@ -86,17 +93,10 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -121,10 +121,16 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -142,18 +148,22 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-freeloading-futures-with-ae-creative-tools/"><u>[New] Freeloading Futures with AE Creative Tools</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[New] Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-stories-excellence-among-8-film-categories/"><u>[Updated] Crafting Stories Excellence Among 8 Film Categories</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-windows-7-bluetooth-driver-easily/"><u>Download Windows 7 Bluetooth Driver. Easily!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-generative-ai-what-you-need-to-know/"><u>Exploring the World of Generative AI: What You Need to Know</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-g54-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola G54 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-getting-your-locked-iphone-or-ipad-back-online/"><u>Solutions for Getting Your Locked iPhone or iPad Back Online</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-avchd-editors-expert-recommendations-for-2024/"><u>Top-Rated AVCHD Editors Expert Recommendations for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unleash-the-power-of-pause-tips-for-instas-next-viral-slow-motion-reels-for-2024/"><u>Unleash the Power of Pause Tips for Insta's Next Viral Slow-Motion Reels for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-editing-mastery-top-3-4k8k-software-solutions/"><u>Updated 2024 Approved Video Editing Mastery Top 3 4K/8K Software Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-from-snapshots-to-blockbusters-the-ultimate-video-enhancement-tool-for-2024/"><u>Updated From Snapshots to Blockbusters The Ultimate Video Enhancement Tool for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-videos-into-stunning-live-photos-with-these-apps-for-2024/"><u>Updated Transform Videos Into Stunning Live Photos with These Apps for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-monetize-more-strategies-for-youtubes-updated-partner-plan/"><u>[New] 2024 Approved Monetize More Strategies for YouTube's Updated Partner Plan</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-critical-asmr-series-to-experience-for-2024/"><u>[New] Critical ASMR Series to Experience for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-zip-to-srt-the-conversion-process-unveiled/"><u>[New] In 2024, From ZIP to SRT The Conversion Process Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-supercharging-instagram-videos-on-the-go-mobile/"><u>[Updated] 2024 Approved Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-slowdown-effective-fixes-for-fallout-4-stutter/"><u>Beat the Slowdown: Effective Fixes for Fallout 4 Stutter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defending-your-website-from-automated-scrapers-methods-to-block-ai-bots/"><u>Defending Your Website From Automated Scrapers: Methods to Block AI Bots</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide/"><u>Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>New 2024 Approved Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-iphone-apps-reviewed/"><u>New 2024 Approved The Cream of the Crop Top iPhone Apps , Reviewed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-beginners-luck-15-free-video-editing-programs-to-get-you-started/"><u>New Beginners Luck 15 Free Video Editing Programs to Get You Started</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-dubbing-software-for-pc/"><u>New In 2024, The Ultimate List of Free Video Dubbing Software for PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-iphone-video-editing-roundup-top-5-apps-for-2024/"><u>The Ultimate iPhone Video Editing Roundup Top 5 Apps for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-18-mais-populares-programas-de-gravacao-de-video-para-windows-gratuitos/"><u>Top 18 Mais Populares Programas De Gravação De Vídeo Para Windows Gratuitos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-10-best-free-game-download-sites-pc-and-android/"><u>Updated 2024 Approved Top 10 Best Free Game Download Sites PC & Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-free-dual-screen-video-editing-software-web-and-desktop/"><u>Updated 2024 Approved Top Free Dual-Screen Video Editing Software Web & Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Your Go-To Guide 10 Best Public Domain Image Resources
-date: 2024-08-09T07:47:26.927Z
-updated: 2024-08-10T07:47:26.927Z
+date: 2024-09-30T04:13:27.348Z
+updated: 2024-10-05T22:12:28.397Z
 tags: 
   - video editing software
   - video editing
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 # 10 Best Public Domain Image Websites
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -47,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 * A photo was never the subject to copyright
 
  It is of utmost importance to check if an image is within the public domain before you use it publicly in order to avoid potential legal complications.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How and Where to Find Public Domain Images?
 
@@ -91,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 3. Wikimedia Commons
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wikimedia commons](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
@@ -110,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 4. Flickr Commons
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flickr commons](https://images.wondershare.com/filmora/article-images/flickr-commons.jpg)
 
  For more than a decade Flickr has been a popular online destination for photographers in need of a platform that enables them to present their work. The Flickr Commons is a project that unites more than a hundred institutions in an effort to create a library of public domain images. The project makes available a stunning amount of historical photographs and it grants you access to highly esteemed collections of photographs. Flick Commons is perfectly suited for researchers and scholars in need of public domain photos, they can use in their essays or research papers.
@@ -130,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 #### 5. Unsplash
 
 ![Unsplash public domain image](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
 
@@ -187,10 +190,14 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 #### 9. NYPL Digital Gallery
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NYPL Digital Gallery](https://images.wondershare.com/filmora/article-images/digitalcollections.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  NYPL Digital Gallery is an excellent resource for anyone who is not interested in stock photography. The New Your Public Library has made hundreds of thousands of historical images available to the public and you can use it to browse through items, collections or divisions. Before you enter a keyword you should click on the search only public domain materials tick box to ensure that the search results are going to display only images that can be used without restrictions. Additionally, the NYPL Digital Gallery lets you browse through its collection of digital books while its collections of photographs include the work of some of the highly esteemed American photographers.
 
@@ -220,9 +227,6 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -240,9 +244,6 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
  Dont worry when you forget the syntax of an HTML element, like and iframe, a link, a table, an image or anything else. [Visit HTML CheatSheet](https://htmlcheatsheet.com/) and generate the code you need.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -251,8 +252,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -260,5 +259,23 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-smoothing-out-aerial-footage-pulsation/"><u>[New] 2024 Approved Smoothing Out Aerial Footage Pulsation</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-e-books-mastery-discover-top-reading-apps-and-strategies-for-your-samsung-galaxy-tab/"><u>1. E-Books Mastery: Discover Top Reading Apps and Strategies for Your Samsung Galaxy Tab</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-high-definition-video-player-comparisons-top-picks-for-windows-11-and-macos/"><u>Best High-Definition Video Player Comparisons: Top Picks for Windows 11 & macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-trustworthy-and-updated-drivers-for-any-epson-scanner-model/"><u>Download Trustworthy & Updated Drivers For Any Epson Scanner Model</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-mkv-file-playback-on-windows-top-5-no-cost-media-players/"><u>Effortless MKV File Playback on Windows: Top 5 No-Cost Media Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-optimal-streaming-apps-for-your-microsoft-surface-pro-4s-entertainment-needs/"><u>Free, Optimal Streaming Apps for Your Microsoft Surface Pro 4'S Entertainment Needs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-x9a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor X9a to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/local-and-state-permits-are-often-required-in-addition-to-federal-licensing/"><u>Local and State Permits Are Often Required in Addition to Federal Licensing.</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-top-picks-free-whiteboard-animation-software-for-windows-and-macos-for-2024/"><u>New S Top Picks Free Whiteboard Animation Software for Windows and macOS for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/optimize-windows-10-activate-hardware-accelerated-decoding-with-5k-player/"><u>Optimize Windows 10: Activate Hardware-Accelerated Decoding with 5K Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-for-quick-recovery-from-werfaultexe-system-crashes/"><u>Simple Solutions for Quick Recovery From werFault.exe System Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-correcting-d3dx933dll-error-messages-in-windows/"><u>Step-by-Step Tutorial: Correcting d3dx9_33.dll Error Messages in Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-amr-audio-player-discover-5kplayers-comprehensive-features/"><u>Top Free AMR Audio Player: Discover 5KPlayer's Comprehensive Features</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-tutorial-how-to-effortlessly-stream-mp4-videos-with-windows-media-player/"><u>Ultimate Tutorial: How to Effortlessly Stream MP4 Videos with Windows Media Player</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-monetization-the-new-rules-everyone-hates-for-2024/"><u>YouTube Monetization The New Rules Everyone Hates for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+</ul></div>
 
