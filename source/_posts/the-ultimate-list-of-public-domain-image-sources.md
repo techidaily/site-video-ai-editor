@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Public Domain Image Sources
-date: 2024-08-15T01:36:56.147Z
-updated: 2024-08-16T01:36:56.147Z
+date: 2024-10-05T22:20:39.903Z
+updated: 2024-10-11T18:32:10.854Z
 tags: 
   - video editing software
   - video editing
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Finding an image you like on the Internet doesn’t take long, since almost every website you can stumble upon, contains at least one picture. This doesn’t mean that you can just download any photo and use it in your blog, online marketing campaign or for any other purpose. Moreover, stock image websites like Getty Images or iStock let you purchase the right to use a photo commercially. As a reaction to an expanding stock image industry, many photographers, museums and cultural institutions are choosing to forfeit their rights and to publish public domain images. So, in this article, we are going to take you through the ten best public domain image websites where you can download pictures for free.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are Public Domain Images?
 
  By definition, public domain images are photos, vectors or clip art that are available to anyone because their copyright has either expired or they never had a copyright owner. Consequently, anyone can use these images for both commercial or private projects without having to purchase the rights to do so. An image can enter a public domain under the following circumstances:
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  It is of utmost importance to check if an image is within the public domain before you use it publicly in order to avoid potential legal complications.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How and Where to Find Public Domain Images?
 
  A simple google search will reveal hundreds of websites that let you download public domain and royalty-free images. Which source you’re going to use depends on the type of image you’re looking for, since some websites are dedicated only to photography, while others feature impressive collections of public domain images of artworks. In addition, you’ll only want to download public domain images from the websites that offer information about the author because using a public domain image without crediting its author is strictly prohibited.
@@ -52,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 #### 1. Pexels
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Public Domain Images from Pexels](https://images.wondershare.com/filmora/article-images/pexels-public-domain-images.jpg)
 
  Graphic designers and all other creatives in constant need of a fresh supply of public domain images don’t need a special introduction to Pexels. The stock image platform is dedicated to photography and video, so you can’t use it to search for vectors or clip art. Even so, you can use Pexles to search for public domain images based on a particular keyword or browse through its collection of free images and discover photos spontaneously. Clicking on the Popular Searches tab will enable you to see the images from Light, Nature or Animals and it will shorten the amount of time you have to spend looking for a photo you want to download.
@@ -75,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![Public Domain Images from Plxabay](https://images.wondershare.com/filmora/article-images/plxabay-public-domain.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides offering an impressive collection of royalty-free photos, Pixabay also lets you search for public domain vectors, illustrations, and videos. The website hosts more than a million high-resolution photos and videos you can download for free. To make things even better, becoming a member of the Pixabay’s community and creating an account on this platform won’t take more than a few minutes of your time. Pixabay also offers advanced search tools that enable you to combine searches, search for the author of an image or group search terms. In addition, you can also browse through the photographers that contribute their images to the platform on a regular basis.
 
 **Pros:**
@@ -89,6 +87,19 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 #### 3. Wikimedia Commons
 
 ![wikimedia commons](https://images.wondershare.com/filmora/article-images/wikimedia-commons.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is probably the largest website on the Internet where you can download public domain images. There are more than 49 million images, illustrations, vector graphics and videos available that can be downloaded for free. Some media files on Wikimedia Commons have certain restrictions, but these restrictions are mostly related to image citations, which means that you can use them only if you credit the author. Such a huge selection of media files can be overwhelming for the newcomers to the Wikimedia Commons platform, but once you grow accustomed to the website’s interface discovering images becomes a straightforward process.
 
@@ -120,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 #### 5. Unsplash
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unsplash public domain image](https://images.wondershare.com/filmora/article-images/unsplash-public-domain-images.jpg)
 
  With a library that contains over 800,000 photos, Unsplash is easily one of the largest websites that offer public domain images. All pictures on this platform are organized into different categories, which makes finding a photo you want to use in a commercial or non-commercial project a relatively simple process. Alternatively, you can insert a keyword into a search bar and Unsplash will show you the results within seconds. However, the images you can find on this platform are similar to those you can purchase on stock photography websites, although some of them have an artistic touch that is hard to find on the majority of stock photos.
@@ -151,10 +159,14 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 #### 7. Morguefile
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Morguefile public domain image](https://images.wondershare.com/filmora/article-images/morguefile-public-domain-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Morguefile is a website that offers stock footage to its users, but some of the images can’t be downloaded for free. That’s why you must click on the Free Photos tab before you start searching for public domain images on this website. The website hosts nearly 400.000 photos, videos, and vector graphics, but you must make sure that a file you want to download is within the public domain before you download it. The only downside is that the images aren’t organized into categories which can make finding the images you’re searching for more difficult than it needs to be.
 
@@ -214,6 +226,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 **You may also like:** [Best Image Hosting Sites >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Cite Public Domain Images Properly?
 
  If you’re planning on using a public domain image in a blog or on your website, you must cite the source from which you acquired a particular image. The image citations should include the following information:
@@ -231,9 +250,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Dont worry when you forget the syntax of an HTML element, like and iframe, a link, a table, an image or anything else. [Visit HTML CheatSheet](https://htmlcheatsheet.com/) and generate the code you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -242,8 +258,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -251,5 +265,26 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile-for-2024/"><u>[New] Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-6-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 6 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-14-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 14? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-7-best-video-player-for-mac/"><u>In 2024, 7 Best Video Player for Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-gopro-quik-on-mac-effortless-video-editing-for-2024/"><u>Mastering GoPro Quik on Mac Effortless Video Editing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-content-top-5-reaction-video-makers/"><u>New 2024 Approved Elevate Your Content Top 5 Reaction Video Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-filmora-no-watermark-how-to-achieve-it-with-and-without-a-license-for-2024/"><u>New Filmora No Watermark How to Achieve It with and without a License for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-make-a-lasting-impression-top-trailer-creation-tools/"><u>New In 2024, Make a Lasting Impression Top Trailer Creation Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/spin-flip-and-rotate-the-top-online-video-rotation-services/"><u>Spin, Flip, and Rotate The Top Online Video Rotation Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-editor-battle-is-inshot-reigning-supreme-for-2024/"><u>Top Video Editor Battle Is InShot Reigning Supreme for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-5-free-online-imovie-alternatives-2023-update/"><u>Updated 2024 Approved Top 5 Free Online iMovie Alternatives 2023 Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-cartoonizer-apps-transform-your-photos-on-mobile-devices/"><u>Updated 2024 Approved Top Cartoonizer Apps Transform Your Photos on Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-free-iphone-video-rotation-apps-top-picks/"><u>Updated Free iPhone Video Rotation Apps Top Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-motion-tracking-software-for-text-top-picks-for-2024/"><u>Updated Motion Tracking Software for Text Top Picks for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/ux-guile-in-the-digital-age-a-privacy-perspective/"><u>UX Guile in the Digital Age: A Privacy Perspective</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/w10-quick-recording-software/"><u>W10 Quick Recording Software</u></a></li>
+</ul></div>
 

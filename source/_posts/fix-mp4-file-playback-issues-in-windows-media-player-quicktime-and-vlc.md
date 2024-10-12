@@ -1,7 +1,7 @@
 ---
 title: Fix MP4 File Playback Issues in Windows Media Player, QuickTime & VLC
-date: 2024-10-02T16:18:07.622Z
-updated: 2024-10-06T07:30:33.633Z
+date: 2024-10-05T18:53:32.281Z
+updated: 2024-10-11T19:00:54.244Z
 tags:
   - video-music-player
 categories:
@@ -36,6 +36,13 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 
 To solve MP4 won't play problem, you must know what is MP4 format. Put it simply, MP4 is a container format like MKV that includes audio/video codec, images and subtitles, in which the audio or video codec determines how to and what a [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) can play a MP4 file most. For instance, VLC can't play MP4 files containing H.265 codec; Windows Media Player doesn't support MP4 format natively and QuickTime supports MP4 videos encoded with MPEG-4 or H.264 video codec and AAC audio codec only. If your MP4 video encoded with other codec, you will fail to play MP4 on Windows \[10\] or Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Solve MP4 File Won't Play on Windows/Mac (Catalina)?
 
 **★ Windows Media Player Can't Play MP4? \[Solved\]** 
@@ -69,10 +76,16 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
@@ -86,17 +99,10 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -113,19 +119,19 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Notice:**  
  \* You can also handle your 4K UHD 1080p 720p HD MKV FLV MP3 AAC OGG etc. following the guide listed above.  
  \* If you have no MP4 files, you download them online with 5KPlayer.  
  \* When you play MP4 with 5KPlayer, this MP4 player also offers you the capability to stream MP4 videos to HDTV via [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,17 +148,20 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-start-to-mastering-io-screen-recording-for-2024/"><u>[New] Quick Start to Mastering IO Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-streamlined-steps-for-saving-webcam-dialogues/"><u>[New] Streamlined Steps for Saving Webcam Dialogues</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-troubleshooting-and-stabilizing-everspace-ii-on-computer-systems/"><u>Comprehensive Guide to Troubleshooting and Stabilizing Everspace II on Computer Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/cyberpunk-2077-and-windows-11-ensuring-your-gpu-is-fully-utilized-problem-solved/"><u>Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/descargador-de-audio-gratuito-para-convertir-mp3-en-formato-asf-con-eficiencia/"><u>Descargador De Audio Gratuito Para Convertir MP3 en Formato ASF Con Eficiencia</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-install-minecraft-on-your-windows-11-device-solved/"><u>How to Successfully Install Minecraft on Your Windows 11 Device - Solved!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-xbox-series-s-robust-performance-in-a-small-frame/"><u>In-Depth Look at Xbox Series S: Robust Performance in a Small Frame</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-bringing-videos-to-life-in-vr-expert-conversion-techniques/"><u>New Bringing Videos to Life in VR Expert Conversion Techniques</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-efficiency-the-most-useful-adobe-premiere-shortcuts-revealed/"><u>New In 2024, Unlock Efficiency The Most Useful Adobe Premiere Shortcuts Revealed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-gopro-video-editing-on-mac-made-easy-for-2024/"><u>New Unleash Your Creativity GoPro Video Editing on Mac Made Easy for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-social-media-giants-an-overview-of-facebook-twitter-instagram-and-youtube-trends/"><u>The Social Media Giants: An Overview of Facebook, Twitter, Instagram & YouTube Trends</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-os-x-mavericks-mp4-editing-software-convert-trim-and-more/"><u>Updated OS X Mavericks MP4 Editing Software Convert, Trim, and More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-science-of-quadcopters-understanding-their-flight-patterns-for-2024/"><u>[New] The Science of Quadcopters Understanding Their Flight Patterns for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-macos-11-big-sur-enhancements/"><u>[Updated] Unveiling the Secrets of macOS 11 Big Sur Enhancements</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-magic5-ultimate-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic5 Ultimate Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-simplified-blue-screen-usage-guide/"><u>In 2024, Simplified Blue Screen Usage Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide/"><u>Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-add-tags-to-your-videos-best-mp4-editors-for-windows-and-macos/"><u>New 2024 Approved Add Tags to Your Videos Best MP4 Editors for Windows and macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>New Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-avi-editor-for-windows-8-powerful-video-editing-tools/"><u>New In 2024, The Ultimate AVI Editor for Windows 8 Powerful Video Editing Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-dubbing-software-for-pc/"><u>New In 2024, The Ultimate List of Free Video Dubbing Software for PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-your-marketing-potential-with-our-50plus-free-youtube-banners-for-2024/"><u>Unlock Your Marketing Potential with Our 50+ Free YouTube Banners for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-4k-video-editors-expert-reviews-and-comparisons/"><u>Updated In 2024, Best 4K Video Editors Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-of-the-best-10-animated-text-generators-you-cant-miss/"><u>Updated In 2024, The Best of the Best 10 Animated Text Generators You Cant Miss</u></a></li>
 </ul></div>
 

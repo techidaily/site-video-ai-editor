@@ -1,7 +1,7 @@
 ---
 title: Updated Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024
-date: 2024-08-15T01:34:23.660Z
-updated: 2024-08-16T01:34:23.660Z
+date: 2024-10-09T21:01:23.453Z
+updated: 2024-10-11T16:24:21.715Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -84,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -109,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -182,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,31 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-an-athletic-channel-on-apple-hardware/"><u>[Updated] 2024 Approved Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-tutorial-for-professional-looking-youtube-channels/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Professional-Looking YouTube Channels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[Updated] In 2024, Unfolding the World on iPhone Perfect FB Video Sharing</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-flipbuildercom-universal-language-support-and-customizable-templates-for-enhanced-readability/"><u>1) FlipBuilder.com: Universal Language Support & Customizable Templates for Enhanced Readability</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ensure-your-titles-are-specific-and-descriptive-avoid-vague-or-generic-phrases-that-dont-communicate-clear-value-to-potential-readers/"><u>Ensure Your Titles Are Specific and Descriptive; Avoid Vague or Generic Phrases that Don't Communicate Clear Value to Potential Readers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>In 2024, Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>In 2024, Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/merge-avi-videos-with-ease-10-best-free-avi-joiner-tools/"><u>Merge AVI Videos with Ease 10 Best Free AVI Joiner Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-15-easy-to-use-video-editing-tools-for-free-for-2024/"><u>New 15 Easy-to-Use Video Editing Tools for Free for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-convert-webm-to-mp3-top-rated-conversion-tools-for-2024/"><u>New Convert WebM to MP3 Top-Rated Conversion Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-the-cinematic-potential-of-final-cut-pro-x-a-beginners-guide/"><u>New In 2024, Unleash the Cinematic Potential of Final Cut Pro X A Beginners Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/say-goodbye-to-watermarks-top-online-tiktok-logo-removers-for-2024/"><u>Say Goodbye to Watermarks Top Online TikTok Logo Removers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-gameplay-lag-fixing-stutter-in-fortnite-for-pc-users/"><u>Solving Gameplay Lag: Fixing Stutter in Fortnite for PC Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-10-music-video-creation-tools-for-stunning-visuals-for-2024/"><u>Top 10 Music Video Creation Tools for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-troubleshooting-guide-stop-final-cut-pro-x-from-crashing/"><u>Updated 2024 Approved Troubleshooting Guide Stop Final Cut Pro X From Crashing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-filmora-alternative-no-crack-no-risk-just-results/"><u>Updated In 2024, Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-5-free-online-tone-generator-tools-for-easy-use/"><u>Updated Top 5 Free Online Tone Generator Tools for Easy Use</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

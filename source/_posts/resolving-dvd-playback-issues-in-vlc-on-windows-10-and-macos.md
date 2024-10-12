@@ -1,7 +1,7 @@
 ---
 title: Resolving DVD Playback Issues in VLC on Windows 10 & MacOS
-date: 2024-10-01T00:14:14.139Z
-updated: 2024-10-05T19:32:58.908Z
+date: 2024-10-04T21:58:35.733Z
+updated: 2024-10-11T18:02:48.614Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 Acknowledgedly, VLC is the most popular & powerful open source media player in the market. Even so, it does not mean this robust media player is perfect! A certain percentage of users do report that **VLC not playing DVD Windows 10/Mac** problem happens now and then, and they are unable to find a solution after trying very hard. Thus, we share the easy but effective solutions by steps to help you fix all kinds of VLC can't play DVD problems in minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What to Do When VLC Not Playing DVD Windows 10/Mac Occurs?
@@ -52,10 +52,10 @@ If you are using the latest version of VLC and still can't play DVD with it, do 
 ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/set-vlc-preference-0113.png) ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/install-libdvdcss-0113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Part 1 of Solution 1: Initiate DVD Playing Function of VLC**
@@ -84,13 +84,6 @@ _Note: After installing, VLC will automatically use them when playing DVDs._
 
 ![](https://www.5kplayer.com/video-music-player/img/install-keydb-0113.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Part 3 of Solution 1: ADD Keydb And Libaacs** 
 
 Some users found that VLC can't **play bluray DVD** due to the lack of AACS and BD + DRM libraries and keys. So if you are unable to play a bluray DVD, try the following steps:
@@ -109,10 +102,10 @@ As the best VLC alternative, 5KPlayer excels VLC at playing all sorts of DVDs (V
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **★ Solution 3: Rip DVD to VLC Compatible Formats**
@@ -120,6 +113,13 @@ As the best VLC alternative, 5KPlayer excels VLC at playing all sorts of DVDs (V
 If you have no fancy for VLC media player alternatives and stick to VLC, you can try DVD rippers to rip DVD to VLC compatible formats. Here I sincerely recommend the popular [WinX DVD Ripper](https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/) \- a fastest free DVD ripper for Windows (10) to rip DVD to MP4, AVI, FLV, MOV, WMV, etc. and convert DVD to iPhone, iPad, Apple TV, Android with customized profiles. To rip DVD to VLC compatible formats, do as follows:
 
 ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/rip-dvd-to-vlc-0113.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1.** Free Download WinX DVD Ripper and launch it.  
 **Step 2.** Load your DVD by clicking "DVD Disc", "DVD Folder", or "ISO Image" button.  
@@ -160,19 +160,19 @@ In addition to fixing VLC can't play DVD problem on Windows 10 and Mac, the best
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>[Updated] Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-efficiency-meets-entertainment-the-finest-31-video-cutters-for-phones/"><u>2024 Approved Efficiency Meets Entertainment The Finest 31 Video Cutters for Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/educate-yourself-learn-about-the-signs-of-drug-and-alcohol-use-as-well-as-the-types-of-substances-that-might-be-accessible-to-teenagers-in-your-area-this-kn79/"><u>Educate Yourself: Learn About the Signs of Drug and Alcohol Use, as Well as the Types of Substances that Might Be Accessible to Teenagers in Your Area. This Knowledge Can Help You Spot Potential Red Flags More Easily.</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/merge-mov-files-for-free-5-best-options-for-2024/"><u>Merge MOV Files for Free 5 Best Options for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-create-cinematic-magic-top-slow-motion-video-editors-for-2024/"><u>New Create Cinematic Magic Top Slow Motion Video Editors for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-creativity-best-animation-software-for-students-and-teachers/"><u>New In 2024, Unleash Creativity Best Animation Software for Students and Teachers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-10-best-free-video-editors-for-ubuntu/"><u>New Top 10 Best Free Video Editors for Ubuntu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-audiovisual-desynchronization-top-3-solutions-post-video-integration-in-adobe-premiere-pro/"><u>Resolving Audiovisual Desynchronization: Top 3 Solutions Post-Video Integration in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/selecting-perfect-unboxing-tunes-a-guide-for-2024/"><u>Selecting Perfect Unboxing Tunes A Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-tasks-top-9-reasons-to-adopt-modernized-outlook/"><u>Streamline Your Tasks: Top 9 Reasons to Adopt Modernized Outlook</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-video-resumes-4-best-makers-with-free-templates-for-2024/"><u>The Ultimate Guide to Video Resumes 4 Best Makers with Free Templates for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>[New] 2024 Approved Plating Aesthetics Capturing Delectable Dishes on Screen</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-2023s-social-media-sensations-on-twitter/"><u>[New] In 2024, 2023'S Social Media Sensations on Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[New] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-presentations-with-professional-screencasts/"><u>[Updated] In 2024, Elevate Your Presentations with Professional Screencasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-strategies-to-soar-effective-chats-on-google-meet-for-2024/"><u>[Updated] Strategies to Soar Effective Chats on Google Meet for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-navigating-your-sierra-cloud-storage-effortlessly/"><u>2024 Approved Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>In 2024, Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>New Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-why-chatgpt-became-an-instant-hit-in-the-tech-world/"><u>The Ultimate List of Why ChatGPT Became an Instant Hit in the Tech World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-what-we-hope-apple-unveils-at-the-upcoming-wwdc-event/"><u>Top 10 Desired VisionOS Enhancements: What We Hope Apple Unveils at the Upcoming WWDC Event</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-design-your-dream-face-free-online-tools/"><u>Updated 2024 Approved Design Your Dream Face Free Online Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-discover-the-best-free-3d-animation-apps-for-android-and-ios-devices/"><u>Updated 2024 Approved Discover the Best Free 3D Animation Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives/"><u>Updated 2024 Approved Unhappy with Final Cut Pro X? Try One of These 10 Alternatives</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>Updated Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with AV1 Videos on Your PC? A Comprehensive Guide to Enable and Watch AV1 Files on Windows & Mac
-date: 2024-09-23T23:12:22.419Z
-updated: 2024-09-30T21:29:03.956Z
+date: 2024-10-09T02:08:52.076Z
+updated: 2024-10-11T17:48:57.937Z
 tags:
   - video-music-player
 categories:
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Windows 10? \[Solved\]**
@@ -45,6 +51,13 @@ Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/v
 
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
 
 **Solution:** Just open Microsoft Store, search for AV1 Video Extension and install it on your Windows 10 computer. After that, your Windows 10 computer has the inbuilt AV1 decoder to let Movies & TV app or Edge on Windows 10 to play AV1 video files.
@@ -52,16 +65,10 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -72,13 +79,6 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **AV1 Playback Issue with VLC**
 
 _"VLC won't play av1\. The decoder seems to be struggling on higher bitrates. I don't think using the nightly build made a lot of difference."_ 
@@ -87,13 +87,6 @@ _"VLC won't play av1\. The decoder seems to be struggling on higher bitrates. I 
 Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https://tools.techidaily.com/5kplayer/products/) support has been added for a long time, some users said. When playing AV1 with the well-known and versatile VLC media player, sometimes it totally can't play, sometimes the sound plays but no image appears. The fault is probably caused by the wrong version of VLC, or the wrong configuration of VLC. 
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
@@ -106,6 +99,13 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,24 +122,24 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-boost-your-game-strategy-experience-the-best-free-voice-transformer-today-for-2024/"><u>[Updated] Boost Your Game Strategy Experience the Best Free Voice Transformer Today for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/befriend-germanys-language-essential-sayings-for-conversation/"><u>Befriend Germany's Language - Essential Sayings for Conversation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-digital-video-recorders-what-are-they/"><u>Exploring the World of Digital Video Recorders: What Are They?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-methods-converting-your-dvd-files-into-mp4-format-on-windows-10-and-11/"><u>Free Methods: Converting Your DVD Files Into MP4 Format on Windows 10 and 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-can-i-merge-multiple-screenshots-into-one-seamless-video-file/"><u>How Can I Merge Multiple Screenshots Into One Seamless Video File?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-change-avi-video-files-to-flv-online-no-cost-solutions/"><u>How to Change AVI Video Files to FLV Online – No Cost Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V30 Phone without PIN</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>In 2024, The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mastering-youtube-viewing-effective-solutions-for-overcoming-fullscreen-glitches/"><u>Mastering YouTube Viewing: Effective Solutions for Overcoming Fullscreen Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-overcoming-file-writing-limitations-on-win-11/"><u>Methods for Overcoming File Writing Limitations on Win 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/moviemaking-windows-movie-maker-movavi-video-edition/"><u>MovieMaking แว้ง Windows Movie Maker และ Movavi Video Edition ประกอบกั�เติม</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mp4xspf-xspf/"><u>MP4にするためのXSPFファイル変換ガイド - XSPFを開けない問題</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/quick-fixes-for-professional-looking-youtube-thumbnails-for-2024/"><u>Quick Fixes for Professional-Looking YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-conversion-of-youtube-content-to-premium-aiff-audio-format/"><u>Seamless Conversion of YouTube Content to Premium AIFF Audio Format</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/simple-dvr-file-conversion-change-dvr-ms-videos-to-compatible-mp4-avi-and-more/"><u>Simple DVR File Conversion – Change DVR-MS Videos to Compatible MP4, AVI, and More</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/simple-tips-for-splitting-videos-into-segments-using-windows-software/"><u>Simple Tips for Splitting Videos Into Segments Using Windows Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/steam-unresponsive-heres-how-to-revamp-your-experience-in-2/"><u>Steam Unresponsive? Here's How to Revamp Your Experience in 2지</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-ripping-audio-tracks-from-a-cd-with-windows-11s-built-in-media-software/"><u>Step-by-Step Guide: Ripping Audio Tracks From a CD with Windows 11'S Built-In Media Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-essential-collection-of-sonys-ps5-unique-game-titles/"><u>Your Essential Collection of Sony's PS5 Unique Game Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-10-virtual-reality-games-for-iphone-gamers/"><u>[New] 2024 Approved Top 10 Virtual Reality Games for iPhone Gamers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-constructing-a-custom-youtube-subscription-url/"><u>[New] Constructing a Custom YouTube Subscription URL</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-audio-restoration-on-visual-posts-from-twitter/"><u>[Updated] 2024 Approved Audio Restoration on Visual Posts From Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-content-steps-to-boosting-youtube-visibility-for-2024/"><u>[Updated] Elevate Your Content Steps to Boosting YouTube Visibility for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>2024 Approved Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-stop-blank-screen-problems-with-obs-applications/"><u>2024 Approved Stop Blank Screen Problems with OBS Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-windows-1011s-s-mode-bond-quickly/"><u>Breaking Windows 10/11’S S Mode Bond Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-6-incongruent-features-in-windows-11/"><u>Exposing 6 Incongruent Features in Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no1-free-dailymotion-to-mp4-converter-online/"><u>New 2024 Approved No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-and-easy-avi-video-editing-software-options/"><u>New Free and Easy AVI Video Editing Software Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-mac-video-editing-experience-vn-video-editor-and-alternatives/"><u>New In 2024, The Ultimate Mac Video Editing Experience VN Video Editor and Alternatives</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-dailymotion-video-converter-for-free/"><u>Top-Rated Dailymotion Video Converter for Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-x-fold-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo X Fold 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-in-class-text-animation-solutions-for-2024/"><u>Updated Best-in-Class Text Animation Solutions for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-combine-mov-files-for-free-5-excellent-options/"><u>Updated Combine MOV Files for Free 5 Excellent Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-editing-sony-camcorder-videos-like-a-pro-tips-and-tricks/"><u>Updated Editing Sony Camcorder Videos Like a Pro Tips and Tricks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-ken-burns-effect-tutorial-for-final-cut-pro-tips-tricks-and-best-practices/"><u>Updated In 2024, The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/"><u>Updated Times Running Out! Learn to Add a Countdown Timer in FCPX Now</u></a></li>
 </ul></div>
 

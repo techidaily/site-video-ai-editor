@@ -1,7 +1,7 @@
 ---
 title: Updated Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners
-date: 2024-08-20T08:25:40.470Z
-updated: 2024-08-21T08:25:40.470Z
+date: 2024-10-04T19:32:35.081Z
+updated: 2024-10-12T01:59:21.171Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 # How to Edit MP4 Video in Mac/Windows (Windows 8 included)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -54,8 +51,12 @@ It's Wondershare Filmora (originally Wondershare Video Editor). With it, you're 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Easily Edit MP4 Video?
 
 Before we proceed to illustrate every detail on how to edit the MP4 video, you can download the MP4 editor first so you can follow the below steps one by one.
@@ -72,9 +73,6 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
 
 ####
@@ -89,6 +87,19 @@ If you don't want to choose the transition one by one, let the software choose t
 
 ![edit MP4 files](https://images.wondershare.com/filmora/article-images/filmora-transition.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 3. Edit the audio of MP4 Video
@@ -101,9 +112,6 @@ No problem.
 
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
 
 ####
@@ -117,9 +125,6 @@ Besides the basic video editing functions, Video Editor also provides various st
 * 100+ funny cliparts to adorn your MP4 video with much more fun.
 * More special effects like PIP, Jump Cut, Face Off, Tilt-shift for you to try!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit MP4 video adding effects](https://images.wondershare.com/filmora/article-images/filmora-effects.jpg)
 
 ####
@@ -133,22 +138,31 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 * Burn to DVD to preserve or share, super fast.
 * Directly upload your video to Facebook and YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export edited MP4](https://images.wondershare.com/filmora/article-images/filmora-export-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,5 +171,21 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-dairy-digest-complete-review-of-ice-cream-recorder-app/"><u>[Updated] 2024 Approved Dairy Digest Complete Review of Ice Cream Recorder App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-about-dji-inspire-1-detailed-survey/"><u>2024 Approved All About DJI Inspire 1 Detailed Survey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>2024 Approved Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y200e-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y200e 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-meizu-21-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Meizu 21 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-canon-printer-drivers-for-win-xp-to-8-oss/"><u>Implement Canon Printer Drivers for Win XP to 8 OSs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-list-of-free-animation-software-for-windows-and-macos/"><u>New 2024 Approved The Ultimate List of Free Animation Software for Windows and macOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-note-50-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme Note 50 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-fixing-maplestory-start-up-glitches-effectively/"><u>Solution Found: Fixing MapleStory Start-Up Glitches Effectively</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-configuring-and-activating-a-virtual-private-network-vpn-on-android-with-ease/"><u>Ultimate Guide: Configuring and Activating a Virtual Private Network (VPN) on Android with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-movie-trailer-editing-tools-for-windows-and-macos/"><u>Updated 2024 Approved Best Movie Trailer Editing Tools for Windows and macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-crack-free-and-worry-free-how-to-get-filmora-for-free-legally/"><u>Updated Crack-Free and Worry-Free How to Get Filmora for Free Legally</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-canon-footage-a-comprehensive-guide-to-video-editing-for-2024/"><u>Updated Transform Your Canon Footage A Comprehensive Guide to Video Editing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-inner-cartoon-best-mobile-apps-for-photo-transformation/"><u>Updated Unleash Your Inner Cartoon Best Mobile Apps for Photo Transformation</u></a></li>
+</ul></div>
 

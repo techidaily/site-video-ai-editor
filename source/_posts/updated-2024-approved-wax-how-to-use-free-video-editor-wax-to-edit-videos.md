@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Wax - How to Use Free Video Editor Wax to Edit Videos
-date: 2024-08-15T01:33:16.123Z
-updated: 2024-08-16T01:33:16.123Z
+date: 2024-10-05T19:29:18.264Z
+updated: 2024-10-11T18:52:13.497Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,25 +56,16 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -92,8 +74,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +81,25 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-sound-syncing-simplified-for-inshot-edits-for-2024/"><u>[New] Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-infinite-loop-twitters-live-video-saga-in-23/"><u>[Updated] Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-realtime-replay-recorder/"><u>[Updated] RealTime Replay Recorder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-sci-fi-vr-adventures-unveiling-distant-realities-for-2024/"><u>10 Sci-Fi VR Adventures Unveiling Distant Realities for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-enjoy-your-mov-movies-for-free-best-player-software-for-windows-and-macos/"><u>How To Enjoy Your .MOV Movies for Free? Best Player Software for Windows & macOS</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-process-for-acquiring-syfy-series-episodes-online/"><u>Step-by-Step Process for Acquiring Syfy Series Episodes Online</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-downloadable-frame-stepping-media-viewer-compatible-with-win11macos/"><u>Top Downloadable Frame-Stepping Media Viewer Compatible with Win11/macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-windows-nx-hevc-players-to-experience-optimal-video-quality-on-your-pc/"><u>Top FREE Windows nX HEVC Players to Experience Optimal Video Quality on Your PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-asf-file-player-free-download-and-compatibility-with-windows-and-mac/"><u>Top Rated ASF File Player - Free Download and Compatibility with Windows & Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-ranking-review-ultimate-guide-to-the-best-portable-fiio-flac-player/"><u>Top-Ranking Review: Ultimate Guide to the Best Portable Fiio Flac Player</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/utilizing-cookiebot-for-advanced-web-traffic-analysis-and-growth-optimization/"><u>Utilizing Cookiebot for Advanced Web Traffic Analysis and Growth Optimization</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

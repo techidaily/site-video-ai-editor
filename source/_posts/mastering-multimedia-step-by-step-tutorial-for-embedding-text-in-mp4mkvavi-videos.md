@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia: Step-by-Step Tutorial for Embedding Text in MP4/MKV/AVI Videos"
-date: 2024-09-27T23:54:23.510Z
-updated: 2024-09-30T23:52:42.927Z
+date: 2024-10-06T19:44:38.434Z
+updated: 2024-10-12T01:38:50.332Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -45,10 +45,10 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
@@ -63,10 +63,10 @@ Note that your **subtitle file should be placed under the same folder of your vi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
@@ -80,10 +80,10 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,21 +101,20 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channels-identity-with-titles-for-2024/"><u>[New] Elevating Your Channel's Identity with Titles for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-pathway-to-popularity-masterful-igtv-video-posts/"><u>[New] The Pathway to Popularity Masterful IGTV Video Posts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-financial-magnitude-in-mr-beasts-realm/"><u>[Updated] Financial Magnitude in Mr. Beast's Realm</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-pinnacle-of-media-excellence-top-phones-videos/"><u>[Updated] The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-say-goodbye-to-upside-down-videos-a-quick-fix-guide/"><u>New 2024 Approved Say Goodbye to Upside-Down Videos A Quick Fix Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-delete-tiktok-watermarks-with-the-best-online-tools-for-2024/"><u>New Delete TikTok Watermarks with the Best Online Tools for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker/"><u>New In 2024, Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-mobile-reaction-video-studios-top-ios-and-android-apps-for-2024/"><u>New Mobile Reaction Video Studios Top iOS and Android Apps for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-honest-guide-to-getting-filmora-for-free-no-illegal-stuff/"><u>New The Honest Guide to Getting Filmora for Free (No Illegal Stuff)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker-for-2024/"><u>New Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/photographys-softbox-choices-premium-lineup-2024/"><u>Photography's Softbox Choices: Premium Lineup 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-persona-development-with-chatgpt-assistance/"><u>Precision in Persona Development with ChatGPT Assistance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/premium-mac-programming-solutions-excluded-from-bandicam-for-2024/"><u>Premium Mac Programming Solutions Excluded From Bandicam for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-create-a-film-on-mac-a-step-by-step-guide/"><u>Updated In 2024, Create a Film on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>[Updated] Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-sony-xperia-1-v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Sony Xperia 1 V Activity | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726028210165-windows-11/"><u>純粋な内部音声のみをWindows 11上で記録するステレオミキシング設定</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-guide-streaming-and-watching-flv-videos-on-your-ios-device/"><u>Easy Guide: Streaming and Watching FLV Videos on Your iOS Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/expert-insight-into-the-razer-blade-stealth-13-pushing-boundaries-in-ultrabook-technology/"><u>Expert Insight Into the Razer Blade Stealth 13 - Pushing Boundaries in Ultrabook Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>In 2024, Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726027417404-instagram/"><u>Instagramでビデオチャットを記録するためのコツ</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-2024-playbook-earning-your-keep-on-youtube-channel/"><u>The 2024 Playbook Earning Your Keep on YouTube Channel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-videofichier-flv-en-format-wmv-sans-cout-tutorials-video-gratuit-avec-movavi/"><u>Transformer Videofichier FLV en Format WMV Sans Coût - Tutorials Vidéo Gratuit Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-mia-heres-how-to-fix-the-absent-dll-error-successfully/"><u>VCRUNTIME140.dll MIA? Here’s How to Fix the Absent DLL Error Successfully!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030339355-windows-11/"><u>Windows 11の簡単ガイド:スライドショー制作手順集</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726028376284-zoom/"><u>Zoomミーティングで最強の録画技術！🎥 | 安定した品質を確保</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/44kw44op44ov44kj44od44kv44ki44kv44k744op44os44o844k344on44oz5aplusplus5bplusc44gu44kz44oz44ou44ol44o844k44gv6ieq5yuv55qe44gr6kit5a6a44gv44km44gm44ge44gplus428/"><u>グラフィックアクセラレーション対応のコンピュータは自動的に設定されていますか?設定方法をご紹介します。</u></a></li>
 </ul></div>
 
