@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2024-10-06T02:13:01.468Z
-updated: 2024-10-11T17:39:06.323Z
+date: 2024-10-14T16:01:57.120Z
+updated: 2024-10-17T17:14:53.280Z
 tags:
   - video-music-player
 categories:
@@ -33,10 +33,10 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why You Can't Play MP4 Files?
@@ -75,6 +75,13 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
 
 Actually, it is risky to download a codec pack that may bring adware/malware/virus to your computer and time-consuming to convert a video formats step by step. Upgrading your default MP4 player often a paid method and resetting the preference is also quite complicated. Why not try an easier and free way.
@@ -84,20 +91,6 @@ Actually, it is risky to download a codec pack that may bring adware/malware/vir
 Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tools.techidaily.com/5kplayer/video-music-player/) also supports VLC-compatible formats (MPEG-2, MPEG-4, MPEG-4 ASP, etc), Windows Media Player-adaptable formats (WMV, AVI, ASF, MPG, WMA, MP3, WAV, etc), QuickTime-recognizable formats (MOV, M4V, MP3 and M4A) and 4K UHD 1080p 720p HD etc videos. Available for online [video music download](https://tools.techidaily.com/5kplayer/youtube-download/), you can get various movie song resources with 5KPlayer from Dailymotion, Dailymotion, Vevo, etc at will.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
 
@@ -114,10 +107,10 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Notice:**  
@@ -126,6 +119,13 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
  \* When you play MP4 with 5KPlayer, this MP4 player also offers you the capability to stream MP4 videos to HDTV via [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,20 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-7-shooter-games-you-must-play-today/"><u>[New] In 2024, Top 7 Shooter Games You Must Play Today</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-essential-maintenance-toolkit-the-ultimate-guide-for-your-kodi-indigo-xmbc-add-on/"><u>1. Essential Maintenance Toolkit: The Ultimate Guide for Your Kodi Indigo [XMBC] Add-On</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-fujifilm-instax-mini-99-the-ultimate-guide-to-an-iconic-polaroid-alternative/"><u>Comprehensive Evaluation of Fujifilm Instax Mini 99 – The Ultimate Guide to an Iconic Polaroid Alternative</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/forcible-disconnectivity-of-windows-printers/"><u>Forcible Disconnectivity of Windows Printers</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-your-headset-mic-not-working-on-windows/"><u>How to Fix Your Headset Mic Not Working on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y200e-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y200e 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-spark-10c-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Spark 10C Screen | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/nhk-fmwindowsiphoneandroid/"><u>NHK FM放送の録音手順：Windows、iPhone、Androidで届けられるガイド</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/prime-spots-for-buying-cutting-edge-mobile-technology/"><u>Prime Spots for Buying Cutting-Edge Mobile Technology</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/quick-and-simple-guide-converting-videos-for-mobile-viewing-with-speed/"><u>Quick & Simple Guide: Converting Videos for Mobile Viewing with Speed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-downloading-content-from-1337x-securely/"><u>Step-by-Step Guide: Downloading Content From 1337X Securely</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>[New] 2024 Approved Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-filmmakers-guide-to-avoiding-overused-channel-labels/"><u>[New] The Filmmaker's Guide to Avoiding Overused Channel Labels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-green-screen-integration-in-post-production/"><u>[Updated] Navigating Green Screen Integration in Post-Production</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/windows-mkvmkv-player-windows-11-and-7/"><u>不限制的Windows MKV播放功能，自由下載MKV Player - Windows 11 & 7版本</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-these-unbeatable-free-video-editors-our-ranked-picks-for-you/"><u>Download These Unbeatable Free Video Editors: Our Ranked Picks for You</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-xiaomi-mix-fold-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-windows-pc-ready-with-new-amd-blockchain-compatible-drivers/"><u>Get Your Windows PC Ready with New AMD Blockchain-Compatible Drivers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-creative-banners-for-video-makers-at-zero-price/"><u>In 2024, Access Creative Banners for Video Makers at Zero Price</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/seamless-transformation-from-pdf-to-stunning-flipbook-your-ultimate-guide-on-flipbuildercom/"><u>Seamless Transformation From PDF to Stunning FlipBook - Your Ultimate Guide on FlipBuilder.com</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/synchronize-your-videos-on-vlc-media-player-by-correcting-audio-lag-expert-tips-and-tricks/"><u>Synchronize Your Videos on VLC Media Player by Correcting Audio Lag – Expert Tips & Tricks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-top-ranking-free-media-players-for-your-android-smartphone/"><u>The Ultimate List of Top-Ranking Free Media Players for Your Android Smartphone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-free-apps-for-watching-movies-on-your-ipad-the-ultimate-guide-to-best-streaming-solutions/"><u>Top Rated Free Apps for Watching Movies on Your iPad: The Ultimate Guide to Best Streaming Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-gom-player-codec-suite-step-by-step-installation-tutorial/"><u>Ultimate GOM Player Codec Suite: Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-downloading-the-best-free-dvd-player-programs-for-macos-catalina-users/"><u>Ultimate Guide: Downloading the Best FREE DVD Player Programs for macOS Catalina Users</u></a></li>
 </ul></div>
 

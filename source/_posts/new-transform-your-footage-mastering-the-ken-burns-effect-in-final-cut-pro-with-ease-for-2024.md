@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease for 2024
-date: 2024-08-20T08:30:51.600Z
-updated: 2024-08-21T08:30:51.600Z
+date: 2024-10-14T22:57:23.528Z
+updated: 2024-10-17T18:05:56.612Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 # How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,9 +29,6 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 1: How to Make Ken Burns Effect Final Cut Pro**](#Make-Ken-Burns-Effect)
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
 
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
@@ -42,17 +36,12 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -62,8 +51,12 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -71,6 +64,13 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
@@ -104,9 +104,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -115,15 +112,19 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
 
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -132,8 +133,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,5 +140,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-10-capture-hardware-recommendations-for-online-videos/"><u>[New] In 2024, Essential 10 Capture Hardware Recommendations for Online Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-designing-multi-layered-photographic-illusions/"><u>[Updated] 2024 Approved Designing Multi-Layered Photographic Illusions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-streaming-your-favorite-sports-a-guide-to-recording-espnplus-games-on-pc-mac-and-mobile-devices/"><u>1. Streaming Your Favorite Sports: A Guide to Recording ESPN+ Games on PC, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-wonderfoxs-updated-v20-swf-files-now-easily-convertible-into-high-quality-gifs/"><u>1. WonderFox's Updated v2.0: Swf Files Now Easily Convertible Into High-Quality Gifs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/7-easy-steps-for-a-subscriber-surge-on-youtube-for-2024/"><u>7 Easy Steps for a Subscriber Surge on YouTube for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/vob-dvd-video-converter/"><u>変換対象外となるVOBファイルの解決法は？ - DVD Video Converter使用時</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activision-cybersecurity-breach-explored-whats-next-for-gaming-industry-giants/"><u>Activision Cybersecurity Breach Explored: What's Next for Gaming Industry Giants?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/compactscreengrab-critique-report/"><u>CompactScreenGrab Critique Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evaluating-the-journey-swiv-multi-use-charger-ideal-for-on-the-go-power-solutions-but-not-just-for-travel/"><u>Evaluating the Journey Swiv Multi-Use Charger: Ideal for On-the-Go Power Solutions, But Not Just for Travel</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-spark-go-2024-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Spark Go (2024) FRP Without Computer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-4-mp3-converters-from-insta-the-ultimate-guide-for-quick-sound-downloads/"><u>Top 4 MP3 Converters From Insta: The Ultimate Guide for Quick Sound Downloads !</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-smart-speakers-on-the-market/"><u>Top-Ranking Smart Speakers on the Market</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-tus-videos-en-linea-de-alta-calidad-desde-mpgmpeg4-al-formato-universal-mkv-gratis-gracias-a-la-herramienta-de-conversion-intuitiva-y-rapida-de-m13/"><u>Transforma Tus Vídeos en Línea De Alta Calidad Desde MPG/MPEG4 Al Formato Universal MKV Gratis Gracias a La Herramienta De Conversión Intuitiva Y Rápida De MovieAVI</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-audacitys-mp4-file-import-error-a-step-by-step-guide/"><u>Troubleshooting Audacity's MP4 File Import Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-top-rated-bup-ifo-vob-dvd-ripper-and-converter-tool/"><u>Ultimate Guide: Top Rated BUP-IFO-VOB DVD Ripper & Converter Tool</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-tips-on-avi-video-downsizing-master-compression-techniques-for-the-internet-and-your-pc/"><u>Ultimate Tips on AVI Video Downsizing: Master Compression Techniques for the Internet and Your PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/upgrade-your-dvd-conversion-rip-the-wolf-of-wall-street-using-superior-handbrake-alternatives-guide-for-2014/"><u>Upgrade Your DVD Conversion: Rip The Wolf of Wall Street Using Superior HandBrake Alternatives - Guide for 2014</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/what-languages-unite-and-divide-in-belgium/"><u>What Languages Unite and Divide in Belgium?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/windows-11-mp4/"><u>Windows 11 MP4ファイル組み合わせの最適解決策</u></a></li>
+</ul></div>
 

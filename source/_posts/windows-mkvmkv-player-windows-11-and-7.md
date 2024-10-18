@@ -1,7 +1,7 @@
 ---
 title: 不限制的Windows MKV播放功能，自由下載MKV Player - Windows 11 & 7版本
-date: 2024-10-10T01:32:39.361Z
-updated: 2024-10-11T19:06:24.959Z
+date: 2024-10-10T16:32:17.273Z
+updated: 2024-10-17T17:34:44.819Z
 tags:
   - video-music-player
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
 
 使用優質的MKV播放軟體，觀看高清MKV檔影片中的高清畫質，栩栩如生，聆聽悅耳音樂，開啟前所未有的MKV播放體驗。5KPlayer是年度最值得下載的免費MKV播放器，它不僅完美適配所有Windows 10/7系統筆電，也在Mac設備上表現優異。現在點擊下載5KPlayer到電腦，便可立即開始播放720p, 1080p 高清標準的MKV影片。 無捆綁安裝，無需MKV轉檔，無需任何第三方解碼外掛程式，你需輕輕一點，便可輕鬆安裝免費MKV播放器。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 你了解MKV檔影片嗎？
 
@@ -51,6 +58,13 @@ MKV播放器熱度指數： ★★★★★
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **NO.2 VLC 播放器**
 
 MKV播放器熱度指數：★★★★
@@ -70,10 +84,10 @@ MKV播放器熱度指數：★★★
 ![MPC-HC MKV player](https://www.5kplayer.com/video-music-player/img/mpc-8k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  參數表格：3款最佳MKV播放器影片格式支持對照
@@ -86,13 +100,6 @@ MKV播放器熱度指數：★★★
 | MKV audio file (.mka)     | Y        | Y                | \-                   | Y          | Y         |
 | MKV subtitle file (.mks) | Y        | Y                | \-                   | Y          | \-        |
 | 4K video                  | Y        | \-               | Y                    | \-         | \-        |
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 分步指南：怎樣用MKV播放器觀看MKV檔影片？
 
@@ -110,16 +117,10 @@ MKV播放器熱度指數：★★★
 ![MKV播放器 - 5KPlayer](https://www.5kplayer.com/video-music-player/../video-music-player-zh/img/5k-jp.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 安裝5KPlayer免費MKV播放器以後，你會發現這款程式還可以用於MKV檔下載，操作步驟如下：
@@ -138,13 +139,6 @@ a. 首先訪問MKV影片下載網站，找到你想存儲的影片，拷貝URL�
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 精品博文
 
 [五款最好用的AVI播放器，輕鬆搞定電腦上AVI播放](https://tools.techidaily.com/5kplayer/video-music-player/)_AVI播放效果最好的五款軟體測評，選擇最適合你Windows或Mac電腦的一款免費AVI播放器，流暢觀看任何影片。_
@@ -160,14 +154,14 @@ _5KPlayer & DearMob are brands of Digiarty Software, Inc. All other products or 
 
 [![](https://www.5kplayer.com/video-music-player/img/back.png)](https://www.5kplayer.com/video-music-player/#)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/img/back.png)](https://www.5kplayer.com/video-music-player/#)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,24 +178,21 @@ _5KPlayer & DearMob are brands of Digiarty Software, Inc. All other products or 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-10-leading-4k-displays/"><u>[New] 2024 Approved 10 Leading 4K Displays</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-incognito-observer-of-online-chronicles/"><u>[Updated] 2024 Approved Incognito Observer of Online Chronicles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insiders-tips-where-to-buy-a-profitable-youtubes/"><u>[Updated] The Insider's Tips Where to Buy a Profitable Youtubes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>2024 Approved Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-windows-10-effortless-media-importation-methods/"><u>2024 Approved Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-setting-sail-on-the-content-sea-your-youtube-account/"><u>2024 Approved Setting Sail on the Content Sea Your YouTube Account</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-fastest-indie-film-tips-for-at-home-creators-for-2024/"><u>5 Fastest Indie Film Tips for At-Home Creators for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/from-live-events-to-records-the-pathway-with-4-key-steps-on-fb-for-2024/"><u>From Live Events to Records The Pathway with 4 Key Steps on FB for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-blur-your-video-for-free-no-software-required/"><u>New 2024 Approved Blur Your Video for Free No Software Required</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-top-rated-video-editor-videopad-review-pricing-and-recommendations/"><u>New 2024 Approved Top Rated Video Editor Videopad Review, Pricing, and Recommendations</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-trending-android-apps-on-google-play-this-month/"><u>New Top-Trending Android Apps on Google Play This Month</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-asus-rog-phone-7-ultimate-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Asus ROG Phone 7 Ultimate to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/time-trends-hourly-top-10-youtube-pickers-for-2024/"><u>Real-Time Trends Hourly Top 10 YouTube Pickers for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-free-online-video-editors-for-movie-creation-for-2024/"><u>Updated Best Free Online Video Editors for Movie Creation for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-tutorial-trimming-and-cropping-images-like-a-pro/"><u>Updated FCPX Tutorial Trimming and Cropping Images Like a Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-convert-like-a-pro-the-top-10-free-4k-video-converters/"><u>Updated In 2024, Convert Like a Pro The Top 10 Free 4K Video Converters</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-free-avi-video-rotators-a-comprehensive-multi-platform-review/"><u>Updated In 2024, The Best Free AVI Video Rotators A Comprehensive Multi-Platform Review</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-vn-video-editor-pc-review-a-quick-look/"><u>Updated In 2024, VN Video Editor PC Review A Quick Look</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-motion-tracking-software-top-picks-for-this-year/"><u>Updated Motion Tracking Software Top Picks for This Year</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hortcut-to-success-the-top-5-youtube-link-trimming-apps-for-2024/"><u>[New] Shortcut to Success The Top 5 YouTube Link Trimming Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] 2024 Approved Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-discovering-vimeo-home-for-high-quality-films-for-2024/"><u>[Updated] Discovering Vimeo Home for High-Quality Films for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-webcam-wonders-innovative-home-tech-use-for-2024/"><u>[Updated] Webcam Wonders Innovative Home Tech Use for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spark-joy-with-these-14-playful-text-animations/"><u>In 2024, Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-concept-to-reality-the-best-professional-animation-software/"><u>New 2024 Approved From Concept to Reality The Best Professional Animation Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-online-video-editing-tools-for-vertical-content-for-2024/"><u>New Top Online Video Editing Tools for Vertical Content for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x-in-2024/"><u>New What Is an XML File and How to Export XML in Final Cut Pro X, In 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-frozen-state-of-new-world-unraveling-the-causes-and-fixes/"><u>The Frozen State of New World: Unraveling the Causes & Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tips-streaming-via-obs-directly-to-facebook-for-2024/"><u>Top Tips Streaming via OBS Directly to Facebook for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-flip-and-rotate-avi-videos-for-free-top-5-software-options-for-2024/"><u>Updated Flip and Rotate AVI Videos for Free Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-create-ken-burns-effect-detaied-steps-for-2024/"><u>Updated How to Create Ken Burns Effect? Detaied Steps for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-discover-the-best-green-screen-software-for-your-mac-workflow/"><u>Updated In 2024, Discover the Best Green Screen Software for Your Mac Workflow</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/windows-11-enhancements-elevating-cortanas-assistance-revamping-the-photos-app-and-refining-widget-experience/"><u>Windows 11 Enhancements: Elevating Cortana's Assistance, Revamping the Photos App & Refining Widget Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-file-treasure-hunting-mastering-the-sixest-strategies-for-copying-paths/"><u>Windows File Treasure Hunting: Mastering the Sixest Strategies for Copying Paths</u></a></li>
 </ul></div>
 

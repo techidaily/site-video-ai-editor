@@ -1,7 +1,7 @@
 ---
 title: New Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos for 2024
-date: 2024-08-20T08:28:56.217Z
-updated: 2024-08-21T08:28:56.217Z
+date: 2024-10-14T20:43:19.240Z
+updated: 2024-10-17T17:16:48.636Z
 tags: 
   - video editing software
   - video editing
@@ -43,9 +43,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step1.png)
 
 **Step 02:** Import the video that you want to react to and your reaction video. If you have not already recorded your reaction, then record it first using any camera or smartphone.
@@ -54,9 +51,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -69,23 +63,14 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step7.png)
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
@@ -100,9 +85,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -113,8 +95,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,5 +102,31 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-15-youtube-playlists-catering-to-musicians/"><u>[New] 2024 Approved Top 15 YouTube Playlists Catering to Musicians</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-evaluating-freenocam-for-professional-webcam-use-for-2024/"><u>[New] Evaluating FreenoCam for Professional Webcam Use for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-premier-7-apps-transforming-mobile-video-streaming-on-youtube-for-2024/"><u>[New] The Premier 7 Apps Transforming Mobile Video Streaming on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-empower-collaborative-meetings-the-best-10-free-recorders-in-review/"><u>2024 Approved Empower Collaborative Meetings The Best 10 Free Recorders in Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-keys-on-your-dell-computer/"><u>How to Repair Unresponsive Keys on Your Dell Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hyper-scape-not-working-on-pc-heres-how-to-resolve-it/"><u>Hyper Scape Not Working On PC? Here's How To Resolve It</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-list-of-photo-and-video-montage-makers/"><u>New 2024 Approved The Ultimate List of Photo and Video Montage Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-free-mp4-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, Best Free MP4 Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>New In 2024, Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revving-into-excellence-winning-10-srt-converter-titles/"><u>Revving Into Excellence Winning 10 SRT Converter Titles</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-crack-no-problem-legitimate-ways-to-access-filmora/"><u>Updated 2024 Approved No Crack, No Problem Legitimate Ways to Access Filmora</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-the-power-of-the-ken-burns-effect-a-comprehensive-guide/"><u>Updated 2024 Approved Unlock the Power of the Ken Burns Effect A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-get-ready-to-be-amazed-the-best-4k-video-samples-around-for-2024/"><u>Updated Get Ready to Be Amazed The Best 4K Video Samples Around for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-create-stunning-videos-with-music-best-mobile-apps/"><u>Updated In 2024, Create Stunning Videos with Music Best Mobile Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-video-editing-in-windows-tips-tricks-and-techniques-for-2024/"><u>Updated The Ultimate Guide to Video Editing in Windows Tips, Tricks, and Techniques for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/upgrading-from-windows-10-to-windows-11-a-safe-alternative-approach-techwise/"><u>Upgrading From Windows 10 to Windows 11: A Safe Alternative Approach | TechWise</u></a></li>
+<li><a href="https://facebook.techidaily.com/zuck-reveals-naming-his-goat-after-digital-currency/"><u>Zuck Reveals: Naming His Goat After Digital Currency.</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Top Downloadable Frame-Stepping Media Viewer Compatible with Win11/macOS
-date: 2024-10-07T18:37:45.977Z
-updated: 2024-10-12T01:00:43.793Z
+date: 2024-10-10T17:46:52.812Z
+updated: 2024-10-17T23:30:04.484Z
 tags:
   - video-music-player
 categories:
@@ -39,10 +39,10 @@ Frame by frame playback makes it possible to view everything in detail, and also
 [10\. GOM Player](https://tools.techidaily.com/5kplayer/video-music-player/)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play Video Frame by Frame with Frame by Frame Players
@@ -63,14 +63,14 @@ Step 1\. Free download 5KPlayer, install and launch it on your computer.
 
 ![5KPlayer Frame by Frame](https://www.5kplayer.com/video-music-player/../vlc/img/5kplayer-frame-by-frame.jpg)
 
-[![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)[![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)[![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 #### **No.2 VLC Media Player**
 
@@ -88,13 +88,6 @@ You have two ways to use VLC Media Player to play a video frame by frame.
 
 ![VLC Frame by Frame](https://www.5kplayer.com/video-music-player/../vlc/img/vlc-frame-by-frame-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **No.3 PotPlayer**
 
 PotPlayer is a hidden master for multimedia playback. If you are a newbie, you may only use PotPlayer to play videos music in daily life. But when you have been using this frame by frame media player for a quite long time, you can find it has many advanced settings. Higher configurations let you do more to your videos. The 4K video playback performance is even better than any other media players out the market. Speaking of frame by frame playback, PotPlayer is similar to 5KPlayer which lets you step forward and backwards your video.
@@ -107,6 +100,13 @@ Step 1\. Open up a video with PotPlayer and pause it by pressing the "Spacebar" 
  Step 2\. Hit the "F" key on your keyboard to play the next frame of the video, and press the "D" key to move the video frames backwards.
 
 ![PotPlayer Frame by Frame](https://www.5kplayer.com/video-music-player/img/potplayer-frame-by-frame.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **No. 4 Windows Media Player**
 
@@ -140,6 +140,13 @@ Step 1\. Play a video with SMPlayer and then pause the video.
  Step 3\. Press the "," key or choose the option "Frame Back Step" from the "Play" menu item to move the frame backwards.
 
 ![Windows Media Player Frame by Frame](https://www.5kplayer.com/video-music-player/img/smplayer-frame-by-frame.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **No.6 Media Player Classic (Home Cinema)**
 
@@ -212,13 +219,6 @@ Hope this page is helpful. If you only need the frame by frame feature, you can 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)[![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -234,24 +234,17 @@ Hope this page is helpful. If you only need the frame by frame feature, you can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-share-the-moment-effortlessly-push-photos-to-social-networks/"><u>[New] Share the Moment Effortlessly Push Photos to Social Networks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/avchdmp46/"><u>【高画質】AVCHD形式をMP4に変換できる無料ソフトウェアベスト6品種</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-popsocket-mounts-for-optimal-video-shooting/"><u>2024 Approved PopSocket Mounts for Optimal Video Shooting</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/5wmvmp4/"><u>5優れた手段で賢くフリーのWMVからMP4へ変換</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/aviutlmp3-aviutlmp3/"><u>初心者のためのAviUtlによるMP3形式の音声ファイルの出力手順: AviUtlで簡単なMP3オーディオファイル変換ガイド</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/3gpm4a/"><u>手軽な変換テクニック: 3GPファイルからM4Aにする方法</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-touchpad-compatible-with-windows-10-fast-downloads-and-setup-tips/"><u>ASUS Touchpad Compatible with Windows 10: Fast Downloads and Setup Tips</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/audiophiles-guide-transform-your-surround-audio-into-crisp-stereo-with-just-three-essential-techniques/"><u>Audiophile's Guide: Transform Your Surround Audio Into Crisp Stereo with Just Three Essential Techniques</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-5-free-rmvb-players-compatible-with-windows-10-top-picks/"><u>Best 5 Free RMVB Players Compatible with Windows 10: Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-mp4-video-editing-software-top-11-options-for-windows-and-mac-users/"><u>Best Free MP4 Video Editing Software: Top 11 Options for Windows and Mac Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/converting-mxf-files-for-youtube-a-comprehensive-guide-to-share-your-videos/"><u>Converting MXF Files for YouTube – A Comprehensive Guide to Share Your Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-the-lucidsound-ls30-headset-mic/"><u>Diagnosing and Repairing Problems with the LucidSound LS30 Headset Mic</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-content-warning-keeps-crashing-on-pc/"><u>How to Fix Content Warning Keeps Crashing on PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-play-7t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Play 7T to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Spark Go (2023) Phone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-8-best-zombie-games/"><u>In 2024, Top 8 Best Zombie Games</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-pop-ups-from-invalid-adobe-app/"><u>Preventing Pop-Ups From Invalid Adobe App</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726030472629-ts/"><u>TSファイル多重統合: 安全且ゼロコスト</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-the-release-of-high-frequency-1000hz-monitors-is-a-game-changer-top-3-reasons-to-be-thrilled/"><u>Why the Release of High-Frequency 1000Hz Monitors Is a Game Changer - Top 3 Reasons to Be Thrilled!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/aviavi/"><u>簡單即能：五大效果佳的AVI影片解碼器，改進電腦中AVI媒體再播</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-fix-why-isnt-shadowplay-recording-in-windows-and-how-to-make-it-work/"><u>Complete Fix: Why Isn't Shadowplay Recording in Windows and How to Make It Work?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-guide-to-high-quality-fee-free-luts-for-2024/"><u>Essential Guide to High-Quality, Fee-Free LUTs for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-the-latest-free-smplayer-software-for-windows-10-in-64-bit-format/"><u>Get the Latest, Free SMPlayer Software for Windows 10 in 64-Bit Format</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel P40 Phone with Broken Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel FoldFRP Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-cell-service-try-these-10-troubleshooting-steps/"><u>Struggling with Your iPhone's Cell Service? Try These 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-leading-hd-video-devices-optimized-for-mac-os-x-el-capitan/"><u>The Leading HD Video Devices Optimized for Mac OS X El Capitan</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tiktoks-viral-video-wave-twitters-top-10-rankings/"><u>TikTok's Viral Video Wave Twitter's Top 10 Rankings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-mxf-format-viewer-apps-download-now-for-mac-and-pc/"><u>Top Rated MXF Format Viewer Apps – Download Now for Mac & PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722545396577-top-rated-video-game-systems-in-2/"><u>Top Rated Video Game Systems in 2#</u></a></li>
 </ul></div>
 
