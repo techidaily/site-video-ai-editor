@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro
-date: 2024-08-02T06:37:53.525Z
-updated: 2024-08-03T06:37:53.525Z
+date: 2024-10-18T18:25:34.779Z
+updated: 2024-10-23T19:26:06.122Z
 tags: 
   - video editing software
   - video editing
@@ -49,9 +49,6 @@ Final Cut Pro is an amazing software that makes slideshow creation as simple as 
 6. To add opening or closing credits, click **Effects > Video Generators.** Now, double-click **Text** and **Text** From the newly opened window, click **Controls** and type your desired text to be displayed in your video slideshow. Now, click **Video** and drag the video box into the Timeline to your desired location where it should appear.
 7. To export your video slideshow, click **File > Export > QuickTime Movie.** Based on your requirement, select your desired video quality and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Where to Find Video Slideshow Templates for Free?
 
 Templates make it easier for you to design unique slideshow videos with Final Cut Pro. Both premium and free templates are available online with different styles such as product showcases, wedding albums, social media promos, and corporate events, etc.
@@ -62,10 +59,20 @@ Given below are some websites where you can find some of the best slideshow temp
 
 Motion array is famous for providing both free and paid templates and plugins for FCPX. Get all the things you need for your FCPX here.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Motion_array](https://images.wondershare.com/filmora/images/final-cut-pro/Motion_array.png)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **[FilmStock](https://tools.techidaily.com/wondershare/filmora/download/)**
 
@@ -73,13 +80,17 @@ As a resource library built for Filmora, FilmStock provides tons of media and ef
 
 ![Filmstock_info](https://images.wondershare.com/filmora/images/final-cut-pro/Filmstock_info.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Design Shack**
 
 Download thousands of free and premium FCP slideshow templates for product showcases, corporate events, weddings, and much more.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![design_shack](https://images.wondershare.com/filmora/images/final-cut-pro/design_shack.png)
 
 For more slideshow templates please refer to this article: [10 Best Sites to Download Free Slideshow Templates](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -90,9 +101,6 @@ Adopting templates to create amazing video slideshows with Final Cut Pro is very
 
 1. Download your favorite template online. Once downloaded, go to the folder containing the folder, unzip it, and locate the installable file.![adopt_templates1](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates1.PNG)
 2. Copy and paste the folder where FCP can find it. If you don't have Apple Motion, right-click on the FCP icon and select Show Package Contents from the dropdown menu. Now, navigate to the Titles or Generators folder.![adopt_templates2](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates2.PNG)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Open FCP and go to Titles and Generators sidebar.![adopt_templates3](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates3.jpg)
 4. Search for the Title or Generator you installed under each label.
 5. Or use the search bar to find your installed Title or Generator.
@@ -100,8 +108,12 @@ Adopting templates to create amazing video slideshows with Final Cut Pro is very
 7. Use the Published Parameters panel to edit the template. Check all parameters to see editing options available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Add Music and Text in a Video Slideshow with Final Cut Pro?
 
 You can add your favorite music or audio effects and text to your video slideshow with FCP. A variety of jingles and sound effects are available in Final Cut Pro that can be used in your video slideshow for free. If the build-in sound effects do not seem interesting, record your own audio and create your audio effects. FCP also allows users to import music files from their computers and add them to video slideshows.
@@ -122,20 +134,30 @@ Follow these steps to make a slideshow with Wondershare Filmora X:
 
 1. Open Wondershare Filmora, add multiple photos into the applications. Adding multiple folders would make it easy for you to sort the images.
 2. Adjust the duration for each photo to your desired length.![filmora_slideshow1](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Add background music and royalty-free sound. For enhanced user experience, use the media library.![filmora_slideshow](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow.jpg)
 4. Drag and drop all images you want to add to the timeline and set their hue, aspect ratio, saturation, contrast, and brightness.![filmora_slideshow2](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Add transitions between images.![filmora_slideshow3](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow3.jpg)
 6. Use filters and overlays to improve your slideshow’s appearance. Since this is a core step, make sure you spend ample time on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Export your video slideshow to your desired format and quality.
 
 Don’t worry if you are a beginner and don’t have the advanced skills to create a video slideshow. There are multiple websites like Canva where you build amazing slideshows for free and impress your family and friends. Given below are simple steps to create video slideshows online.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to make a simple Slideshow Free & Online?
 
 1. First of all, log in to your Canva account using Gmail or Facebook and open a new page. Search for your desired Slideshow design.
@@ -154,18 +176,20 @@ You can also use online tools like Canva to create amazing video slideshows onli
 
 For more slideshow-making tutorials with other editors, see this article: [How to Create Amazing Showreel or Slideshow?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,5 +198,24 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-momentum-in-life-coaching-video-series/"><u>[New] In 2024, Creating Momentum in Life Coaching Video Series</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-delving-into-vidmas-toolkit-for-digital-recording/"><u>[New] In 2024, Delving Into Vidma’s Toolkit for Digital Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-innovators-behind-vr-spectacles/"><u>[New] Innovators Behind VR Spectacles</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-media-player-software-for-alienware-on-windows-11-top-picks-and-downloads/"><u>Best Free Media Player Software for Alienware on Windows 11: Top Picks & Downloads</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mkv-video-player-software-for-windows-7-64-bit-systems/"><u>Best Free MKV Video Player Software for Windows 7 64-Bit Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-endless-tunes-stream-top-rated-free-webcasters-from-the-comprehensive-internet-radio-directory/"><u>Enjoy Endless Tunes: Stream Top-Rated Free Webcasters From the Comprehensive Internet Radio Directory</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/immerse-yourself-in-cinematic-excellence-the-superior-visuals-of-8k-film-viewing-on-modern-computers/"><u>Immerse Yourself in Cinematic Excellence: The Superior Visuals of 8K Film Viewing on Modern Computers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comical-calls-leading-platforms-for-laugh-rings/"><u>In 2024, Comical Calls Leading Platforms for Laugh-Rings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/iniciar-tu-primer-viaje-a-la-hora-en-espanol/"><u>Iniciar Tu Primer Viaje a La Hora en Español</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-mobile-videos-top-vertical-editing-apps-for-ios-and-android/"><u>New 2024 Approved Elevate Your Mobile Videos Top Vertical Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V30 and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-high-definition-uncompressed-sound-tracker-apps-compatible-with-macos-and-windows/"><u>Top Rated High-Definition Uncompressed Sound Tracker Apps Compatible with macOS & Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-zero-cost-video-plays-ultimate-guide-to-free-hardware-accelerated-players/"><u>Top Zero-Cost Video Plays: Ultimate Guide to Free Hardware-Accelerated Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-dvd-playback-tools-freie-software-zum-herunterladen-fur-windows-11-and-mac-die-sie-sicherlich-benutzen-sollten/"><u>Top-DVD-Playback-Tools: FREIE Software Zum Herunterladen Für Windows 11 & Mac, Die Sie Sicherlich Benutzen Sollten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-purpose-of-google-hangouts-a-comprehensive-guide/"><u>Understanding the Purpose of Google Hangouts: A Comprehensive Guide</u></a></li>
+</ul></div>
 

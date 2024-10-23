@@ -1,7 +1,7 @@
 ---
 title: Bypassing iTunes for Apple Music Access on Your Computer
-date: 2024-10-11T19:18:49.206Z
-updated: 2024-10-17T17:02:25.901Z
+date: 2024-10-20T19:51:48.862Z
+updated: 2024-10-23T16:56:10.851Z
 tags:
   - video-music-player
 categories:
@@ -40,6 +40,19 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 
 **Method 3:** Since 5KPlayer video music AirPlay streaming function is not available temporarily, you are suggested to use 5KPlayer's mate DearMob iPhone Manager to remove Apple Music DRM and then play with 5KPlayer to listen to Apple music without iTunes.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Listen to Apple Music without iTunes but via Apple Music Web Player
 
 **Step 1.** Just put this URL _https://tools.applemusic.com/_ or the beta version released recently _https://beta.music.apple.com/us/browse_ into Google search to open.
@@ -53,10 +66,10 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 ![Apple Music Web Browser](https://www.5kplayer.com/video-music-player/img/apple-music-web-browser.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Use 5KPlayer to Listen to Apple Music without iTunes on PC?
@@ -74,19 +87,31 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 ![Apple Music Streaming](https://www.5kplayer.com/video-music-player/../airplay/img/music-airplay-acorss-device.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Remove Downloaded Apple Music DRM & Play with 5KPlayer
@@ -107,13 +132,6 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 
 ![Remove Apple Music DRM](https://www.5kplayer.com/video-music-player/../iphone-manager/seoimg/dearmob-iphone-manager-screen-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -129,15 +147,22 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-sound-capabilities/"><u>[New] Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-mastery-essential-tech-to-enhance-your-streams-for-2024/"><u>[Updated] YouTube Mastery Essential Tech to Enhance Your Streams for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-play-8t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Play 8T Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oneplus-ace-2-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My OnePlus Ace 2 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-capture-your-screen-a-beginners-guide-to-recording-with-filmora-scrn/"><u>New In 2024, Capture Your Screen A Beginners Guide to Recording with Filmora Scrn</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-cheap-but-powerful-video-editing-software-options/"><u>New In 2024, Cheap but Powerful Video Editing Software Options</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-7-days-to-die-revolutionizing-zombie-lore-with-endless-challenges-and-sandbox-fun/"><u>Review of '7 Days to Die' - Revolutionizing Zombie Lore with Endless Challenges & Sandbox Fun</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-11-proplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme 11 Pro+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-beyond-gopro-studio-best-video-editing-software-for-gopro-footage/"><u>Updated Beyond GoPro Studio Best Video Editing Software for GoPro Footage</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-pro-movie-magic-simplified-techniques-for-aspiring-filmmakers/"><u>Updated Pro Movie Magic Simplified Techniques for Aspiring Filmmakers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-skyline-your-videos-dodging-the-bot-observers/"><u>[New] In 2024, Skyline Your Videos Dodging the Bot Observers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-top-8-best-selfie-sticks-for-iphone-2024-review/"><u>[Updated] Top 8 Best Selfie Sticks for iPhone 2024 Review</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-audiovisual-alchemy-formulating-your-youtube-playlist/"><u>2024 Approved Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-review-unpacking-the-sonic-impact-of-the-jbl-partybox-stage-320-large-scale-speaker/"><u>Comprehensive Review: Unpacking the Sonic Impact of the JBL PartyBox Stage 320 Large-Scale Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016454575-corsair-earphones-malfunction-heres-how-you-can-resolve-the-issue/"><u>Corsair Earphones Malfunction? Here's How You Can Resolve the Issue</u></a></li>
+<li><a href="https://win-net.techidaily.com/gerer-efficacement-vos-donnees-avec-les-sauvegardes-partielles-et-totales-tout-savoir-sur-la-fusion/"><u>Gérer Efficacement Vos Données Avec Les Sauvegardes Partielles Et Totales : Tout Savoir Sur La Fusion !</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-boost-engagement-with-clearly-marked-time-points/"><u>In 2024, Boost Engagement with Clearly Marked Time Points</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms/"><u>New 2024 Approved Free AVI Video Rotators A Roundup of the Best Tools for All Platforms</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-forward-to-reverse-the-ultimate-tiktok-video-editing-guide-2023-update/"><u>New 2024 Approved From Forward to Reverse The Ultimate TikTok Video Editing Guide 2023 Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-mov-video-splitters-top-picks-for-you-for-2024/"><u>New Free MOV Video Splitters Top Picks for You for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mac-video-editing-made-easy-a-beginners-guide-to-movie-creation-for-2024/"><u>New Mac Video Editing Made Easy A Beginners Guide to Movie Creation for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/read-this-guide-to-learn-how-to-split-large-videos-in-windows-live-movie-maker-for-sharing-on-youtube-some-other-video-editing-tips-are-also-provided/"><u>Read This Guide to Learn How to Split Large Videos in Windows Live Movie Maker for Sharing on YouTube. Some Other Video Editing Tips Are Also Provided</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-avchd-file-transformation-tips-and-tricks-for-perfect-media-compatibility/"><u>Seamless AVCHD File Transformation - Tips & Tricks for Perfect Media Compatibility</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/"><u>Updated In 2024, After Effects vs Premiere Pro Understanding Their Unique Strengths and Weaknesses</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unbrand-your-videos-removing-filmora-watermark-made-easy/"><u>Updated In 2024, Unbrand Your Videos Removing Filmora Watermark Made Easy</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-the-power-of-reverse-how-to-edit-tiktok-videos-like-a-pro-for-2024/"><u>Updated Unleash the Power of Reverse How to Edit TikTok Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

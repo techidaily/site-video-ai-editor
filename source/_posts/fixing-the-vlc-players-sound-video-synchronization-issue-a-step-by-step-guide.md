@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide"
-date: 2024-10-10T17:13:54.408Z
-updated: 2024-10-17T19:39:57.701Z
+date: 2024-10-22T20:05:40.683Z
+updated: 2024-10-23T20:04:46.562Z
 tags:
   - video-music-player
 categories:
@@ -32,6 +32,13 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Solution 2\. Manually set the VLC audio desynchronization from the preference menu.**
 
  A. Go to the "Tools > Preferences" setting from VLC menu.  
@@ -42,6 +49,13 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Solution 3\. Install another audio sync tool to cope with VLC audio delay problem.**
 
 There are various synchronization tools to help fix VLC audio out of sync problem, like a kind of assistive tools that can both edit soundtrack and subtitles. First you need to download and install this assistive tool such as MKVToolNix. According to the comments, this tool works fine to solve the audio delay of the file itself. You just need to drag the video file into the panel of this software, you can either adjust the milliseconds manually or the program will detect the audio delay problem itself and adjust automatically. However, this amazing VLC audio delay saver currently only works on MKV files. 
@@ -49,10 +63,10 @@ There are various synchronization tools to help fix VLC audio out of sync proble
 ![mkvtoolnix](https://www.5kplayer.com/video-music-player/img/mkvtoolnix.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you think none of the above ways can solve your problem of audio delay in VLC completely, you can consider to replace your VLC player with another much better media player. 
@@ -60,13 +74,6 @@ If you think none of the above ways can solve your problem of audio delay in VLC
 **Solution 4\. Switch VLC to 5KPlayer – Best way to tackle VLC audio delay problem**
 
 Another easy way to solve the problem of VLC audio delay permanently is to replace VLC with a non-faulty media player – 5KPlayer. Download and set 5KPlayer as your default video player to play MKV, AVI, MP4, WMV, MPEG4 files with ease. As the best VLC alternative, 5KPlayer is also a cross-platform HD media player which works perfectly on both macOS and Windows 10/8/7/Vista, and it [plays ultra HD videos in 8K/5K/4K](https://tools.techidaily.com/5kplayer/video-music-player/) without any blemish. If the video has the problem of audio delay, 5KPlayer has its own path to adjust AV sync of video playback with no external help. Now let's check how it can fix the VLC audio delay and solve the problem for good.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play HD Video and Solve Audio Delay with 5KPlayer
 
@@ -91,22 +98,15 @@ Note: Pressing the **RESET** button will take it back to default.
 ![Solve VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050602.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5KPalyer is a media player player not only solves VLC audio delay but also can solve other VLC not working problem such as " [VLC HEVC/H.265 4K playback error](https://tools.techidaily.com/5kplayer/video-music-player/)", "VLC not work on Catalina", " VLC not playing DVD", etc. As the best solution to fix the audio out of sync in VLC, surely 5KPlayer can be the best replacement to solve the audio delay problem in other media players as well. Besides playing DVD and videos, 5KPlayer is also able to download videos in MKV, MP4, AVI, etc. from over 300 online video sites including YouTube, Vine and Vevo. What's more, it supports streaming video audio wirelessly from a device to another via its coolest feature of [DLNA](https://tools.techidaily.com/5kplayer/dlna/) (from Mac to PC, Mac to Mac, PC to Mac, Mac/PC to TV, etc.).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,19 +123,16 @@ Note: Pressing the **RESET** button will take it back to default.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-best-edges-for-instagram-excellence-an-essential-guide/"><u>[New] The Best Edges for Instagram Excellence – An Essential Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-studio-vs-fraps-deciding-the-ultimate-screen-grab-software-for-2024/"><u>[Updated] OBS Studio vs Fraps Deciding the Ultimate Screen Grab Software for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-palette-perfection-the-colorists-manual/"><u>2024 Approved Palette Perfection The Colorist's Manual</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-combo-devices-top-5-streamers-that-include-a-built-in-dvd-player/"><u>Best Combo Devices: Top 5 Streamers That Include a Built-In DVD Player</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-alternatives-to-kmplayer-for-high-quality-mac-video-streaming/"><u>Best FREE Alternatives to KMPlayer for High-Quality Mac Video Streaming</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/changing-page-direction-in-pdfs-convert-right-to-left-layout-with-our-step-by-step-tutorial/"><u>Changing Page Direction in PDFs: Convert Right-to-Left Layout with Our Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhance-watch-list-with-film-selections/"><u>Enhance Watch List with Film Selections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/favorite-phones-reviewed-by-zdnet-authors-top-picks-and-personal-usage-insights/"><u>Favorite Phones Reviewed by ZDNet Authors – Top Picks and Personal Usage Insights</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/get-your-free-copy-of-kmplayer-for-all-windows-versions-1087-in-64-and-32-bit-options/"><u>Get Your Free Copy of KMPlayer for All Windows Versions (10/8/7) in 64 and 32 Bit Options</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-hd-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8 HD?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-watch-live-tv-online-without-cable-the-top-3-platforms-of-the-year/"><u>How to Watch Live TV Online Without Cable – The Top 3 Platforms of the Year</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mastering-360-degree-virtual-reality-viewing-a-step-by-step-guide-using-gom-player/"><u>Mastering 360-Degree Virtual Reality Viewing: A Step-by-Step Guide Using GOM Player</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/play-anywhere-no-region-restrictions-with-this-universal-dvd-player-application/"><u>Play Anywhere: No Region Restrictions with This Universal DVD Player Application</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-artistry-a-compreayer-of-the-ultimate-boomerang-method-for-2024/"><u>[Updated] Snapchat's Artistry A Compreayer of the Ultimate Boomerang Method for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-essentials-of-editing-your-social-media-profile-picture/"><u>2024 Approved Essentials of Editing Your Social Media Profile Picture</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chromecast-makeover-how-to-choose-and-apply-unique-background-scenes/"><u>Chromecast Makeover: How to Choose and Apply Unique Background Scenes</u></a></li>
+<li><a href="https://fox-making.techidaily.com/flipbuilder-tutorial-extracting-preferred-page-sections-for-importation-effortlessly/"><u>FlipBuilder Tutorial: Extracting Preferred Page Sections for Importation Effortlessly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-magix-photo-management-system/"><u>In 2024, Analyzing MAGIX Photo Management System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlined-mp4-creation-must-have-tools-on-mac/"><u>In 2024, Streamlined MP4 Creation Must-Have Tools on Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/movie-editor-complete-guide-on-how-to-edit-movies-or-video/"><u>Movie Editor Complete Guide on How to Edit Movies or Video</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-no-budget-no-problem-free-video-editing-software-for-starters/"><u>New No Budget, No Problem Free Video Editing Software for Starters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-rev-up-your-videos-the-best-free-speed-changing-apps-for-ios-and-android/"><u>Updated In 2024, Rev Up Your Videos The Best Free Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/video-flip-in-no-time-expert-techniques-made-simple-for-2024/"><u>Video Flip in No Time Expert Techniques Made Simple for 2024</u></a></li>
 </ul></div>
 

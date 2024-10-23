@@ -1,7 +1,7 @@
 ---
 title: New Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow for 2024
-date: 2024-08-02T06:39:37.797Z
-updated: 2024-08-03T06:39:37.797Z
+date: 2024-10-16T18:01:44.432Z
+updated: 2024-10-23T19:30:06.342Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,28 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-simple-steps-making-your-channels-subscription-button-stand-out/"><u>[Updated] 2024 Approved Simple Steps Making Your Channel's Subscription Button Stand Out</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>[Updated] 2024 Approved Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-top-video-conferencing-apps-post-discord-for-2024/"><u>[Updated] Top Video Conferencing Apps Post-Discord for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-pseudo-promotional-gaming-content/"><u>Exposing Pseudo Promotional Gaming Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-fluid-found-in-iphone-charging-port-choose-from-these-2-solutions/"><u>How to Fix 'Fluid Found in iPhone Charging Port: Choose From These 2 Solutions'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-u310-drivers-update-easily/"><u>Lenovo Ideapad U310 Drivers Update Easily</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-cartoonize-yourself-with-these-16-amazing-mobile-apps/"><u>New 2024 Approved Cartoonize Yourself with These 16 Amazing Mobile Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-bring-your-song-to-life-10-top-music-video-producers/"><u>New Bring Your Song to Life 10 Top Music Video Producers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-video-conversion-for-vr-enthusiasts-top-picks-and-tips-for-2024/"><u>New Video Conversion for VR Enthusiasts Top Picks and Tips for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-titles-in-final-cut-pro-x-2023-edition/"><u>The Ultimate Guide to Titles in Final Cut Pro X 2023 Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-edit-like-a-pro-top-10-free-mp4-video-editors-you-need-for-2024/"><u>Updated Edit Like a Pro Top 10 Free MP4 Video Editors You Need for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-filmora-no-watermark-how-to-achieve-it-with-and-without-a-license-for-2024/"><u>Updated Filmora No Watermark How to Achieve It with and without a License for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

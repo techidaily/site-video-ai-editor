@@ -1,7 +1,7 @@
 ---
 title: Fix MP4 File Playback Issues in Windows Media Player, QuickTime & VLC
-date: 2024-10-15T16:23:58.564Z
-updated: 2024-10-17T23:21:33.171Z
+date: 2024-10-17T20:24:03.567Z
+updated: 2024-10-23T16:42:13.110Z
 tags:
   - video-music-player
 categories:
@@ -33,22 +33,15 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why You Can't Play MP4 Files?
 
 To solve MP4 won't play problem, you must know what is MP4 format. Put it simply, MP4 is a container format like MKV that includes audio/video codec, images and subtitles, in which the audio or video codec determines how to and what a [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) can play a MP4 file most. For instance, VLC can't play MP4 files containing H.265 codec; Windows Media Player doesn't support MP4 format natively and QuickTime supports MP4 videos encoded with MPEG-4 or H.264 video codec and AAC audio codec only. If your MP4 video encoded with other codec, you will fail to play MP4 on Windows \[10\] or Mac.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Solve MP4 File Won't Play on Windows/Mac (Catalina)?
 
@@ -82,6 +75,13 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
 
 Actually, it is risky to download a codec pack that may bring adware/malware/virus to your computer and time-consuming to convert a video formats step by step. Upgrading your default MP4 player often a paid method and resetting the preference is also quite complicated. Why not try an easier and free way.
@@ -93,10 +93,17 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -120,13 +127,6 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -142,18 +142,17 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mini-youtube-content-explained/"><u>[New] 2024 Approved Mini YouTube Content Explained</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2023-how-to-download-facebook-status-videos/"><u>[Updated] 2023 | How to Download Facebook Status Videos?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pinnacle-screenshot-programs/"><u>[Updated] 2024 Approved Pinnacle Screenshot Programs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-webcams-on-windows-10-top-applications-reviewed/"><u>2024 Approved Best Webcams on Windows 10 Top Applications Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30i Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-from-basic-to-brilliant-transforming-your-videos-with-cool-effects-for-2024/"><u>New From Basic to Brilliant Transforming Your Videos with Cool Effects for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-reaction-video-makers-to-watch/"><u>New In 2024, The Ultimate List of Reaction Video Makers to Watch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/obs-studio-and-lut-application-guide-for-professional-cinematographers-for-2024/"><u>OBS Studio & LUT Application Guide for Professional Cinematographers for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-edgeplus-2023-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-windows-8-mp4-video-editor-simple-and-efficient-editing-solution/"><u>Updated 2024 Approved Windows 8 MP4 Video Editor Simple and Efficient Editing Solution</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-a-closer-look-at-vn-video-editor-for-pc-is-it-worth-it-in-2024/"><u>Updated A Closer Look at VN Video Editor for PC Is It Worth It, In 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-get-creative-with-these-free-video-effect-apps-for-mobile-for-2024/"><u>Updated Get Creative with These Free Video Effect Apps for Mobile for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/weve-selected-the-five-best-free-video-compressor-apps-for-iphones-and-ipads-that-will-enable-you-to-shrink-your-videos-in-minutes-and-post-them-on-social-n/"><u>Weve Selected the Five Best Free Video Compressor Apps for iPhones and iPads that Will Enable You to Shrink Your Videos in Minutes and Post Them on Social Networks or Send Them Through Email and Mess</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[New] 2024 Approved 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigate-through-the-top-5-video-extractors-for-fb-on-your-iphoneipad/"><u>[New] 2024 Approved Navigate Through the Top 5 Video Extractors for FB on Your iPhone/iPad</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-web-streamed-music-step-by-step-guide/"><u>2024 Approved Capturing Web-Streamed Music Step by Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-narzo-60x-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme Narzo 60x 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/5lia6iis5lq644gm5l244ge44ke44gz44ge5pya6auy44gu5yuv55s757eo6zug44oe44o844or44oz44k544oi44k744ow44oz/"><u>一般人が使いやすい最高の動画編集ツールベストセブン</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-avi-video-conversion-software-ranked-effortlessly-change-your-videos/"><u>Best AVI Video Conversion Software Ranked - Effortlessly Change Your Videos!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010274832-enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030672623-flac-mp4/"><u>FLACへの高解像度変換: MP4から優れたオーディオ品質へ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mending-echoes-lost-reinstating-sound-for-a-seamless-minecraft-experience-on-windowsmac/"><u>Mending Echoes Lost: Reinstating Sound for a Seamless Minecraft Experience on Windows/Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726029609392-pcyoutube/"><u>PCまたはスマートフォンからYouTube動画を保存する専門ガイド</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-italian-explorers-vocabulary-100plus-must-learn-phrases/"><u>The Italian Explorer’s Vocabulary: 100+ Must-Learn Phrases</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030024586-mp4/"><u>パナソニックとソニーの動画をMP4にしやすいワザ: 簡単なコツと方法</u></a></li>
 </ul></div>
 

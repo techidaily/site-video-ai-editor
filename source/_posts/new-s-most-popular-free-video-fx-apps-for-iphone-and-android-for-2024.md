@@ -1,7 +1,7 @@
 ---
 title: New S Most Popular Free Video FX Apps for iPhone and Android for 2024
-date: 2024-08-02T06:38:12.636Z
-updated: 2024-08-03T06:38:12.636Z
+date: 2024-10-20T18:15:16.933Z
+updated: 2024-10-23T18:44:03.745Z
 tags: 
   - video editing software
   - video editing
@@ -28,18 +28,12 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -64,9 +58,6 @@ We’ve find FxGuru: Movie FX Director is a special effect app which is availabl
 
 Simply put, with this app on your phone, you only have to use the device’s camera to capture video footage, and then sail away with your imagination to produce industry-standard clips for commercial promotions and/or for fun.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best vfx apps for both iOS and Android -  FxGuru: Movie FX Director](https://images.wondershare.com/filmora/article-images/fxguru-movie-fx-director.jpg)
 
 Click to get the [Android](https://play.google.com/store/apps/details?id=com.picadelic.fxguru&hl=en%5FUS) version of this special effect app from the App Store or Google Play.
@@ -94,26 +85,37 @@ All the built-in effects that Action Movie FX is enriched with such as ALIEN BUR
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/action-movie-fx/id489321253)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Movie FX Maker
 
 This **video special effects app** is helpful to apply FX on the images to use them as stickers. Although the program is free to use, the in-app purchases give you access to more advanced movie stickers that would allow you to bring life to the still images without having you to transfer them to your PC and/or using an expensive and complex apps like Photoshop.
 
 All you need to do in order to apply special FX to the images is, capture photos on your iDevice, and add the effects Movie FX Maker has. Post modifications, the images can be shared on your favorite social networking site instantaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best vfx apps for  iOS - Movie FX Maker](https://images.wondershare.com/filmora/article-images/movie-fx-maker-hollywood-style-special-effect-change.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4\. Effects Cam – Visual Effects
 
 Yet another **video special effects app**, Effects Cam allows you to add special effects like fire, blasts, explosions, etc. to your images in order to make them look live. The images can be captured right from your device’s camera, or imported from other sources like your PC, phone’s memory, etc. Once imported, you can pick any of the available special FX from the app’s library, and apply it to the photo(s).
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best vfx apps for  iOS - Effects Cam - Visual Effects](https://images.wondershare.com/filmora/article-images/effects-cam-visual-effects.jpg)
 
 [Click to get this app on App Store >>](https://apps.apple.com/au/app/effects-cam-visual-effects/id1123449586)
@@ -124,9 +126,6 @@ Videorama Text & Video Editor is an **iPhone video special effects** app that le
 
 Apart from the above, adding special video and sound effects is another lucrative feature that Videorama has because of which the app is most admired and used by majority of people across the globe.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![video special effects apps for  iOS - Videorama Text & Video Editor](https://images.wondershare.com/filmora/article-images/videorama-text-video-editor.jpg)
 
 [Click to get this app on App Store >>](https://apps.apple.com/us/app/videorama-text-video-editor/id1049690233)
@@ -146,6 +145,13 @@ In addition to all the above, LumaFX also allows you to add audio effects, thus 
 If you are an Android lover and prefer using non-Apple devices, you have plenty of options when it comes to selecting the best **movie effects app** that could enable you to apply special effects to the videos your smart device has or captures using its camera.
 
 In case you are looking for an efficient **video special effects app for Android**, those listed below are worth your attention:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Movie Booth FX Free
 
@@ -171,18 +177,19 @@ Movie Effects Maker, as the name suggests, allows you to add special effects to 
 
 ![effects apps for Andorid - Extreme VFX](https://images.wondershare.com/filmora/article-images/best-vfx-apps-extreme-fx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With this **video special effects app**, all you need to do is, record a footage using your Android smart device, and begin applying special effects to them until you are satisfied with the results. Since the app allows you to add multiple VFX to the clips, nothing seems impossible when it comes to decorating the videos, and making them more engaging and entertaining, especially with you playing as the main character.
 
 [Get this special video effect app from Google Play>>](https://play.google.com/store/apps/details?id=com.kaushal.extremevfx&hl=en%5FUS)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch Video! Best VFX Video Effects Editor Apps for Android
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Add Special Effects to Videos in Filmora?
 
 Although all the apps listed above are good, when it comes to creating movies with special effects for commercial usage and public broadcasting, nothing can beat the efficiency and robustness of a **movie effects app** that has been designed to run on desktop computers.
@@ -199,10 +206,20 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
 or Try Filmora App for mobile >>>
@@ -211,39 +228,26 @@ or Try Filmora App for mobile >>>
 
 The steps given below explain **how to add special effects to your recorded footages with Wondershare Filmora:**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Import Video and Add to Timeline
 
 Launch Wondershare Filmora, click anywhere inside the **Media Bin** at the upper-left section, use the **Open** box to import the video you want to add VFX to, hover mouse to the thumbnail of the clip, click the **+** icon from the middle, and click **MATCH TO MEDIA** from the **Project Setting** box when/if it appears.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Import media in Filmora9](https://images.wondershare.com/filmora/article-images/filmora9-import-media.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add Effects and Elements
 
 Place the Playhead (Skimmer) in the Timeline you want to apply effects from, click **Effects** from the standard toolbar at the top, select your preferred category from the left pane, hover mouse to the effect you want to add in the right window, and click the **+** icon from the center.
@@ -254,14 +258,8 @@ Optionally you can drag the effect in the Timeline to manage its duration. Next,
 
 Besides the included effects and elements in Filmora, you can find our more video effects on Filmstock effects store, including blockbuster, effects for holidays and vacations. Click to [check the free video effects](https://tools.techidaily.com/wondershare/filmora/download/) that you can get for free in Filmstock for Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora free video effects in Filmstock](https://images.wondershare.com/filmora/article-images/Filmstock-free-video-effects-for-filmora9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Export the Output
 
 Click **EXPORT** from the top-center section, go to the **Local** tab from the top of the **Export** box that opens up next, choose your preferred extension from the **Format** list in the left pane, select a destination location in the **Save to** field in the right window, click **SETTINGS** and make necessary adjustments (optional), and click **EXPORT** from the bottom-right corner of the box to begin rendering and to produce the video with the special effects applied to it.
@@ -284,6 +282,13 @@ For macOS 10.14 or later
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
 or Try Filmora App for mobile >>>
 
@@ -297,8 +302,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -306,5 +309,26 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-mastering-quantum-hdr/"><u>[New] Step by Step Guide to Mastering Quantum HDR</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-the-changing-landscape-of-instagram-stories/"><u>[Updated] Navigating the Changing Landscape of Instagram Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-notable-industry-players-driving-vr-growth/"><u>[Updated] Notable Industry Players Driving VR Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-overcome-battlefield-n-2042s-directx-error-messages/"><u>Effective Fixes to Overcome Battlefield N 2042'S DirectX Error Messages</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ensuring-fluid-performance-when-watching-4k-videos-on-a-windows-10-system/"><u>Ensuring Fluid Performance When Watching 4K Videos on a Windows 10 System</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-c65-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco C65 for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-quadcopter-efficiency-with-best-motor-selection-tips-for-2024/"><u>Mastering Quadcopter Efficiency with Best Motor Selection Tips for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mpgmpegavi/"><u>MPG/MPEGファイルをAVI形式に容易に変換する手順</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/optimal-git-id-tips-for-seamless-setup-of-active-kodi-extensions-and-depots-on-github/"><u>Optimal Git ID Tips for Seamless Setup of Active Kodi Extensions & Depots on GitHub</u></a></li>
+<li><a href="https://extra-information.techidaily.com/refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea/"><u>Refining Photos The Step-by-Step Guide to Clean Edges on Photopea</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/share-our-top-pick-of-free-audio-video-converter-tools-with-family-and-friends/"><u>Share Our Top Pick of Free Audio-Video Converter Tools with Family and Friends</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/solving-the-quicktime-mov-playback-issue-3-proven-strategies/"><u>Solving the QuickTime MOV Playback Issue: 3 Proven Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speedy-conversion-techniques-for-your-srt-to-txt-tasks-for-2024/"><u>Speedy Conversion Techniques for Your SRT to TXT Tasks for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-instructions-for-converting-avi-to-divx-on-multiple-systems/"><u>Step-by-Step Instructions for Converting AVI to DivX on Multiple Systems</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2007-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2007 File Not Opening Error</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-ranking-dvd-to-avc-transformers-for-pc-optimized-for-win-10-and-11/"><u>Top-Ranking DVD to AVC Transformers for PC - Optimized for Win 10 & 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/understanding-psp-compatibility-exploring-the-variety-of-video-formats-playable-on-your-device/"><u>Understanding PSP Compatibility: Exploring the Variety of Video Formats Playable on Your Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/vlc-guide-for-watching-iptv-channels-via-m3um3u8-streams/"><u>VLC Guide for Watching IPTV Channels via M3U/M3U8 Streams</u></a></li>
+</ul></div>
 

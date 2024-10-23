@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Get QuickTime to Play WMV Movies on Both Mac OSX and Windows PCs"
-date: 2024-10-13T18:12:37.049Z
-updated: 2024-10-17T23:39:10.366Z
+date: 2024-10-19T19:12:27.880Z
+updated: 2024-10-23T19:43:23.498Z
 tags:
   - video-music-player
 categories:
@@ -37,10 +37,10 @@ How to play WMV on QuickTime? Flip4Mac is surely the best third-party plugin tha
 But if you want to import WMV files for editing and conversion to more QuickTime formats or iOS devices, you need to upgrade to the pro version with $29\. Moreover, it is not compatible with Windows OS. So, there is only one feasible way for you to play WMV on Mac and Windows – QuickTime alternative 5KPlayer. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Ways to Solve QuickTime Won't Play WMV Issue
@@ -67,32 +67,13 @@ Therefore, 5KPlayer is the [best free WMV player](https://tools.techidaily.com/5
 ![Best WMV Player](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **QuickTime Won't Play WMV Solution 2: Convert WMV to QuickTime-supported Formats**
 
@@ -111,10 +92,10 @@ If you insist to retain your QuickTime Player, how to solve QuickTime can't play
 ![Convert WMV](https://www.5kplayer.com/video-music-player/img/convert-wmv.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, some [online video converters](https://tools.techidaily.com/5kplayer/youtube-download/) allow you to convert WMV by just uploading and then downloading the converted file without any money or installation if you are not afraid of the possible virus that some ad links bring. 
@@ -124,6 +105,13 @@ However, when you convert WMV to QT-supported formats like MOV, QuickTime won't 
 In conclusion, 5KPlayer, as a powerful video music player, is the best and considerate way to solve QuickTime can't play WMV on Mac/Windows. Along with that, 5KPlayer also feature [video music download](https://tools.techidaily.com/5kplayer/youtube-download/) ability allowing you to download WMV MP4 MOV MKV FLV videos movies and MP3 AAC OGG music. If you want to enjoy your files in WMV FLV AVI MKV etc on HDTV for better audiovisual experience, you can use this WMV player to [AirPlay WMV FLV DivX MKV](https://tools.techidaily.com/5kplayer/airplay/) etc to Apple TV from Mac and PC wirelessly.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,16 +128,18 @@ In conclusion, 5KPlayer, as a powerful video music player, is the best and consi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-steps-to-get-your-podcast-on-app-store/"><u>[Updated] 2024 Approved Essential Steps to Get Your Podcast on App Store</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-be-selective-stop-instagram-suggested-updates/"><u>[Updated] In 2024, Be Selective Stop Instagram Suggested Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965741478-easy-installation-of-usb-camera-drivers-get-them-now/"><u>Easy Installation of USB Camera Drivers - Get Them Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-x7bmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor X7bMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-optimize-your-rig-premiere-pro-system-requirements-and-setup-guide/"><u>New In 2024, Optimize Your Rig Premiere Pro System Requirements and Setup Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-gopro-video-editors-alternatives-to-gopro-studio-for-2024/"><u>New Top GoPro Video Editors Alternatives to GoPro Studio for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-absence-of-thumbnail-images-on-windows-11-screens/"><u>Troubleshooting Absence of Thumbnail Images on Windows 11 Screens</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-tecno-camon-20-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Tecno Camon 20 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-must-try-reaction-video-apps-for-maximum-engagement-for-2024/"><u>Updated Must-Try Reaction Video Apps for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-xml-blueprint-a-step-by-step-guide-to-fcpx-success/"><u>Updated The XML Blueprint A Step-by-Step Guide to FCPX Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-expert-advice-extracting-and-saving-tweets-video-files-in-android/"><u>[Updated] 2024 Approved Expert Advice Extracting & Saving Tweets' Video Files in Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-shifting-focus-twitters-videos-to-facebook-streaming/"><u>[Updated] 2024 Approved Shifting Focus Twitters' Videos to Facebook Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-your-social-media-footprint-upload-success-tips-for-stories-for-2024/"><u>[Updated] Enhancing Your Social Media Footprint Upload Success Tips for Stories for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-10-free-audiovideo-players-for-pc-and-mac-easy-download-options/"><u>Best 10 FREE Audio/Video Players for PC & MAC - Easy Download Options!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-5-top-rated-portable-mp3-devices-for-your-favorite-tunes/"><u>Best 5 Top-Rated Portable MP3 Devices for Your Favorite Tunes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-latest-version-of-umplayer-no-cost-optimized-for-windows-10/"><u>Download the Latest Version of UMPlayer: No Cost, Optimized for Windows 10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/el-reproductor-de-mp3-gratis-y-facil-de-usar-para-disfrutar-sin-limitaciones/"><u>El Reproductor De MP3 Gratis Y Fácil De Usar Para Disfrutar Sin Limitaciones</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-premium-4k-video-viewer-for-pc-with-windows-10-support-the-best-picks-of-2023/"><u>Free Premium 4K Video Viewer for PC with Windows 10 Support - The Best Picks of 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-safeguard-your-browser-tackling-the-deceptive-google-chrome-critical-error-scam/"><u>How to Safeguard Your Browser: Tackling the Deceptive 'Google Chrome Critical Error' Scam</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-c67-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme C67 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-sluggish-computer-boot-up-a-step-by-step-guide/"><u>Solving the Problem of a Sluggish Computer Boot-Up: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-video-players-compatible-with-windows-8-supports-hd-uhd-and-sd-formats/"><u>Top Free Video Players Compatible with Windows 8 - Supports HD, UHD & SD Formats</u></a></li>
 </ul></div>
 
