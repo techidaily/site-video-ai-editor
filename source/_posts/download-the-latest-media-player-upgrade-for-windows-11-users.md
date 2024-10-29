@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Media Player Upgrade for Windows 11 Users
-date: 2024-10-17T17:54:15.587Z
-updated: 2024-10-23T17:49:52.553Z
+date: 2024-10-24T16:02:59.835Z
+updated: 2024-10-29T16:00:21.057Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -44,10 +44,10 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -64,6 +64,13 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Second Solution: Update your media player to 5KPlayer
 
 5KPlayer ranks on the top for the [top 5 media players for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/), not only because it is an excellent media player, but also that it also does multitask. Look what the best media player is capable of: 
@@ -77,10 +84,10 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -90,13 +97,6 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 Anyway, we all wanted a perfect media player to be suited on Windows 10 and hopefully not only play media files but also does some other trick. 5KPlayer is the kind of media player for Windows 10 you should updated to right now. It saves you much more space, because it can also download videos and download videos/music from 300+ online videos sites, thus save you the space of installing a video downloader on Windows 10\. Plus, this media player also supports [streaming videos from Mac/PC to Apple TV](https://tools.techidaily.com/5kplayer/airplay/), save another space which you would download an AirPlay server. No more awaits, just free download it to update your Media Player for Windows 10 now! 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,22 +113,18 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-vids-deep-dive-a-comprehensive-handbook/"><u>[New] Twitter Vids Deep Dive A Comprehensive Handbook</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-complimentary-media-player-apps-for-macos-catalina-and-mojave-available-to-download-now/"><u>Best Complimentary Media Player Apps for macOS Catalina and Mojave, Available to Download Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-digital-realms-downloadable-alarm-melodies-for-2024/"><u>Best Digital Realms Downloadable Alarm Melodies for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/blu-ray-disc-freedom-how-to-enjoy-high-quality-movies-for-free-on-any-device/"><u>Blu-Ray Disc Freedom: How to Enjoy High-Quality Movies for Free on Any Device</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-the-dat-file-viewer-no-cost-compatible-with-win10win8win7/"><u>Download the DAT File Viewer - No Cost, Compatible with Win10/Win8/Win7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-not-found-error-in-windows-setup/"><u>Eliminating Not Found Error in Windows Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-gaming-experience-fixing-fortnites-lag-issues/"><u>Expert Tips for a Smooth Gaming Experience – Fixing Fortnite's Lag Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-selected-6-premier-tools-to-refine-your-images-online-for-2024/"><u>Expertly Selected 6 Premier Tools to Refine Your Images Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-panoramic-versus-full-immersion-visual-media-tech/"><u>Exploring Panoramic Versus Full-Immersion Visual Media Tech</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/ideal-macos-avi-file-viewer-programs-a-comprehensive-guide/"><u>Ideal macOS AVI File Viewer Programs: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/regular-inspections-by-the-atf-are-part-of-maintaining-an-explosives-license/"><u>Regular Inspections by the ATF Are Part of Maintaining an Explosives License.</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-viewing-of-ultra-hd-video-content-on-your-windows-10-machine/"><u>Seamless Viewing of Ultra HD Video Content on Your Windows 10 Machine</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-edge-40-neo-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-switching-assistants-helping-you-ditch-your-mac-os/"><u>Top 5 Switching Assistants Helping You Ditch Your Mac OS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-avi-video-player-for-mac-enjoy-any-avi-file-without-needing-to-convert/"><u>Top Rated AVI Video Player for Mac: Enjoy Any AVI File without Needing to Convert</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/trouble-with-dvds-in-windows-11-discover-the-easy-no-cost-ways-to-get-them-working-again/"><u>Trouble with DVDs in Windows 11? Discover the Easy, No-Cost Ways to Get Them Working Again!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/understanding-youtube-tvs-strength-key-membership-points/"><u>Understanding YouTube TV's Strength – Key Membership Points</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-future-of-interactive-headsets/"><u>[New] Exploring the Future of Interactive Headsets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-flashfacts-the-social-media-spark-of-video-tweet-for-2024/"><u>[Updated] FlashFacts The Social Media Spark of Video Tweet for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-resolving-steam-vr-error-code-308/"><u>Expert Guide to Resolving Steam VR Error Code 308</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/grosse-videos-aufzukompmentieren-qualitatsbewahrung-beim-hochladen-nach-whatsapp-mit-winxdvd/"><u>Große Videos Aufzukompmentieren: Qualitätsbewahrung Beim Hochladen Nach WhatsApp Mit WinXDVD</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-unify-multiple-fortnite-accounts-in-a-few-simple-steps/"><u>How to Unify Multiple Fortnite Accounts in a Few Simple Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-vertical-video-mastery-best-editing-apps-for-iphone-and-android/"><u>New 2024 Approved Vertical Video Mastery Best Editing Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-safe-and-legal-ways-to-get-filmora-for-free-no-torrent-viruses/"><u>New In 2024, Safe and Legal Ways to Get Filmora for Free (No Torrent Viruses)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-signal-synchronizer-for-podcasters/"><u>Streamlined Signal Synchronizer For Podcasters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-professional-1080p-video-editing-tools-for-2024/"><u>Take Your Videos to the Next Level Professional 1080P Video Editing Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-5-websites-for-an-active-social-presence-for-2024/"><u>Top 5 Websites for an Active Social Presence for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-how-to-securely-get-your-sandisk-ssd-drivers-downloaded/"><u>Troubleshooting Tips: How to Securely Get Your Sandisk SSD Drivers Downloaded!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>Updated 2024 Approved Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289890221-winx-dvd-ripper-and-winx-video-ai/"><u>WinX DVD Ripper & Winx Video AI 在线销售服务窗口 - 最新版本下载</u></a></li>
 </ul></div>
 

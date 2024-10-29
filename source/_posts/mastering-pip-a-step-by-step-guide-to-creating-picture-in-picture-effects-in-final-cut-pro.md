@@ -1,7 +1,7 @@
 ---
 title: Mastering PiP A Step-by-Step Guide to Creating Picture-in-Picture Effects in Final Cut Pro
-date: 2024-08-02T06:35:25.427Z
-updated: 2024-08-03T06:35:25.427Z
+date: 2024-10-28T16:00:18.046Z
+updated: 2024-10-29T16:00:49.343Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -41,9 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -58,9 +52,6 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -74,9 +65,6 @@ As now you have added both videos on-screen now you have to select the higher vi
 
 Simply select the top clip and then hit Command + 4 to open the inspector. Now click on that blue show button over your FCP screen and it will provide you complete information about the transform category of available built-in effects. If you use inspector for this task then it can help you to get very precise results for scaling needs. It assists users to manage images with accurate position and size.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![precise adjustment](https://images.wondershare.com/filmora/article-images/precise-adjustment-in-fcp.jpg)
 
 #### Step 6: Apply Cross- Dissolve
@@ -84,12 +72,16 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
 * You will be glad to know that the PIP effect does not restrict users to work just upon a single image rather it can be used to process as many pictures as your project needs and that can fit inside the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -105,18 +97,20 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,5 +119,23 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-techniques-downloading-and-crafting-instagram-stories/"><u>[New] 2024 Approved Step-by-Step Techniques Downloading & Crafting Instagram Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-crystal-clear-play-top-5-ultra-hd-gaming-pcmonitor-screens-for-2024/"><u>[New] Crystal Clear Play Top 5 Ultra HD Gaming PC/Monitor Screens for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-claritycapturex7-zoom-in-size-up-smartly/"><u>2024 Approved ClarityCaptureX7 Zoom In, Size Up Smartly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-youtube-summaries-with-tailored-templates/"><u>Engaging YouTube Summaries with Tailored Templates</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-diy-build-custom-google-cardboard-virtual-reality/"><u>In 2024, DIY Build Custom Google Cardboard Virtual Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-pace-boosting-windows-download-efficiency/"><u>Mastering Steam Pace: Boosting Windows Download Efficiency</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-the-best-top-stop-motion-animation-software-for-mac-and-pc/"><u>New The Best of the Best Top Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-free-avi-video-rotators-for-windows-mac-android-and-iphone/"><u>New The Ultimate List of Free AVI Video Rotators for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlocking-stills-from-videos-a-comprehensive-guide-with-10-converter-options/"><u>New Unlocking Stills From Videos A Comprehensive Guide with 10 Converter Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/oma-a-mp3-trasformazione-gratuita-su-internet-tramite-movavi-scopri-come-fare/"><u>OMA a MP3: Trasformazione Gratuita Su Internet Tramite Movavi - Scopri Come Fare!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-final-cut-pro-project-backup-a-quick-and-simple-tutorial-for-2024/"><u>Updated Final Cut Pro Project Backup A Quick and Simple Tutorial for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-create-stunning-videos-top-windows-10-movie-makers/"><u>Updated In 2024, Create Stunning Videos Top Windows 10 Movie Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>Updated In 2024, The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/webm-vs-mp4-10-best-conversion-software-options-for-2024/"><u>WebM vs MP4 10 Best Conversion Software Options for 2024</u></a></li>
+</ul></div>
 

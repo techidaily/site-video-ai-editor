@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Subtitles to Your Videos - MP4, MKV, AVI Formats"
-date: 2024-10-21T19:08:23.573Z
-updated: 2024-10-23T16:52:12.739Z
+date: 2024-10-23T16:01:17.607Z
+updated: 2024-10-29T16:01:20.623Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -44,6 +44,13 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
 
 Note that your **subtitle file should be placed under the same folder of your video** otherwise the subtitle won't be able to be displayed. 
@@ -51,10 +58,10 @@ Note that your **subtitle file should be placed under the same folder of your vi
 ![How to Add Subtitles](https://www.5kplayer.com/video-music-player/img/5kplayer-how-to-add-subtitles-zjy-0420002.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** There's **no way to play Zip subtitles** in any video players! Your subtitle files shall not be compressed and should be remained in one of those common subtitle formats accordingly for file detecting.  
@@ -63,10 +70,10 @@ Note that your **subtitle file should be placed under the same folder of your vi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
@@ -78,13 +85,6 @@ There are chances that the manually inserted subtitles may lag behind or go fast
  Some of you may find it's weird that while AirPlay a movie (in AirPlay compatible format) with separated subtitles to Apple TV, subtitles from the file disappears, (like stop reading the file with manually added subtitles). This is because that **only embedded subtitltes can be streamed via AirPlay**, and that [soft subtitles](https://en.wikipedia.org/wiki/Subtitle%5F%28captioning%29) aka closed subtitles are external subtitles, which cannot be streamed together with the vid.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,24 +101,16 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pedagogical-pros-ultimate-10-devices-for-lecture-preservation/"><u>[Updated] In 2024, Pedagogical Pros Ultimate 10 Devices for Lecture Preservation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-color-tweaking-discover-top-tips-for-enhancing-hues/"><u>[Updated] In 2024, Ultimate Color Tweaking Discover Top Tips for Enhancing Hues</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-visual-clarity-for-remote-communications-with-ease-for-2024/"><u>[Updated] Mastering Visual Clarity for Remote Communications with Ease for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-comparative-analysis-benefits-of-4k-vs-hd-video-players-in-the-modern-era/"><u>1. Comparative Analysis: Benefits of 4K vs HD Video Players in the Modern Era</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/accelerating-video-playback-quick-tips-for-faster-videos-on-windows-11-and-mac/"><u>Accelerating Video Playback: Quick Tips for Faster Videos on Windows 11 & Mac</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-solution-for-windows-security-correcting-errsslversionorciphermismatch/"><u>Comprehensive Solution for Windows Security: Correcting Err_SSL_Version_or_Cipher_Mismatch</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/descarga-gratuita-del-mejor-software-de-reproduccioncopiado-de-dvds-compatible-con-windows-y-macosx/"><u>Descarga Gratuita Del Mejor Software De Reproducción/Copiado De DVDs Compatible Con Windows Y MacOSX</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-vlc-player-on-windows-11-explore-enhancements-and-identify-issues/"><u>Download VLC Player on Windows 11: Explore Enhancements and Identify Issues</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-mac-apps-enabling-high-definition-video-playback-on-5k-ipads/"><u>Free Mac Apps Enabling High Definition Video Playback on 5K iPads</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/get-the-netflix-streaming-experience-install-without-charge-on-your-window-11-desktop/"><u>Get the Netflix Streaming Experience: Install Without Charge on Your Window 11 Desktop</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-10-best-gba-emulators-for-android/"><u>In 2024, The 10 Best GBA Emulators for Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-new-kindle-oasis-2019-the-closest-e-reader-resemblance-to-actual-papers/"><u>In-Depth Analysis of the New Kindle Oasis (2019): The Closest E-Reader Resemblance to Actual Papers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/is-using-5kplayer-reliable-and-secure-for-your-streaming-needs/"><u>Is Using 5KPlayer Reliable and Secure for Your Streaming Needs?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mac-compatible-flash-player-pro-version-free-download-and-smooth-flash-media-experience/"><u>Mac-Compatible Flash Player Pro Version: Free Download and Smooth Flash Media Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-restricted-administrator-error-in-winsec/"><u>Overcoming Restricted Administrator Error in WinSec</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-the-5-most-popular-iphone-navigation-apps/"><u>The Ultimate Guide to the 5 Most Popular iPhone Navigation Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-downloading-the-best-free-360-degree-viewer-software-for-windows-11-and-mac-systems/"><u>Ultimate Guide to Downloading the Best Free 360 Degree Viewer Software for Windows 11 and Mac Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[Updated] Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>2024 Approved From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-lenovo-ideapad-130s-balancing-low-power-with-remarkable-usability-features/"><u>Exploring the Lenovo IdeaPad 130S - Balancing Low Power with Remarkable Usability Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-video-rotation-a-simple-and-efficient-process/"><u>Mastering Video Rotation A Simple and Efficient Process</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-gif-animation-made-easy-top-free-makers/"><u>New GIF Animation Made Easy Top Free Makers</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New In 2024, Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-fcpx-troubleshooting-resource-2023-edition/"><u>New In 2024, The Ultimate FCPX Troubleshooting Resource 2023 Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-discover-the-best-free-and-paid-subtitle-editors-for-mac/"><u>Updated In 2024, Discover the Best Free and Paid Subtitle Editors for Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-transforming-videos-into-timeless-photos-10-essential-conversion-tools-for-2024/"><u>Updated Transforming Videos Into Timeless Photos 10 Essential Conversion Tools for 2024</u></a></li>
 </ul></div>
 
