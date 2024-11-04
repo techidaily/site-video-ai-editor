@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instruction on Downloading and Installing QuickTime for Windows 10 Users
-date: 2024-10-25T16:00:20.898Z
-updated: 2024-10-29T16:02:25.018Z
+date: 2024-10-27T22:34:46.518Z
+updated: 2024-11-03T17:42:21.083Z
 tags:
   - video-music-player
 categories:
@@ -36,34 +36,20 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/1.png) Download the latest QuickTimeInstaller.exe from the official QuickTime for Windows 10 page, or google it to download. (The QuickTimeInstaller.exe will be saved in your frequently-used folder like C:\\QT, you can also create a specific for preference.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/2.png) Open the folder, right-click the QuickTimeInstaller.exe and choose "Extract here". If you can't extract the installation file, you can download and install WinRAR or 7Zip to have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/3.png) Now, you should have a folder that looks something like this, under C:\\QT or whichever folder you create. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-01.jpg) 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 \*Double-click the AppleSoftsUpdate.msi file and click "OK", "I accept" etc. until the install finishes.  
  \*Do the same with ApplicationSupport.msi.  
@@ -74,13 +60,6 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 a. Select "Troubleshoot compatibility" 
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-02.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
   
 b. Wait for the wizard to scan the QuickTime.msi file for possible culprits (which we already know to be the Windows version check). 
@@ -93,22 +72,43 @@ c. It should say that it has applied a "Skip Version Check" workaround to enable
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/6.png) Download this TRANSFORM file and extract it to the same folder. We will use this file to temporarily remove the OS checks preventing the installation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/7.png) Click the Windows icon or Search icon and search CMD. Right-click the Command Prompt shortcut/icon and choose Run as administrator.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-04.jpg) 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/8.png) Type the following command and hit **ENTER**:  
 **msiexec /i QuickTime.msi /qn TRANSFORMS=FIX.mst ALLUSERS=1 /log C:\\QT\\install.log**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/9.png) Installation shouldn't take more than a couple of minutes.
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/10.png) Note: A log file called install.log will be created in the C:\\QT folder, which should end with something along the lines of "Return code 0". If not, and QuickTime wasn't installed, you may look in this file for any possible error codes (opens fine in Notepad or WordPad). Alternatively, you will need to download and install the older version QuickTime v7.7.6.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \[**Notice:** The soultion 2 for installing QuickTime for Windows 10 is based on Tommy Stephansen's post on TommyNation.\]
@@ -120,10 +120,10 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -141,24 +141,19 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-budget-friendly-editor-apps/"><u>[New] The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-properly-merging-webcam-feed-with-desktop-screen/"><u>[Updated] 2024 Approved Properly Merging Webcam Feed with Desktop Screen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-transfer-video-from-youtube-to-dailymotion/"><u>[Updated] How to Transfer Video From YouTube to Dailymotion?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-now-available-vr-hardware-specs/"><u>2024 Approved Now Available VR Hardware Specs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/emerging-terrifying-thrillers-now-available-on-dvd-top-picks-for-fear-enthusiasts/"><u>Emerging Terrifying Thrillers Now Available on DVD – Top Picks for Fear Enthusiasts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-50plus-engaging-phrases-that-will-take-your-tiktok-to-new-heights/"><u>In 2024, 50+ Engaging Phrases That Will Take Your TikTok to New Heights</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-create-a-stunning-slideshow-a-step-by-step-guide/"><u>New 2024 Approved Create a Stunning Slideshow A Step-by-Step Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac/"><u>New Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-fcp-x-effects-made-simple-a-quick-3-step-tutorial/"><u>New FCP X Effects Made Simple A Quick 3-Step Tutorial</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-compression-top-10-picks-with-no-downloads-for-2024/"><u>New Free Online Video Compression Top 10 Picks with No Downloads for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-make-movies-without-breaking-the-bank-7-best-low-cost-film-software/"><u>New In 2024, Make Movies Without Breaking the Bank 7 Best Low-Cost Film Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-5-avchd-video-editing-software-for-2024/"><u>New Top 5 AVCHD Video Editing Software for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y56-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y56 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/reaction-video-maker-top-picks-for-iphone-and-android-for-2024/"><u>Reaction Video Maker Top Picks for iPhone and Android for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-hd-audio-on-windows-11/"><u>Reviving HD Audio on Windows 11</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/top-methods-for-securely-downloading-mp3-files-from-rhapsody-onto-your-windows-computer/"><u>Top Methods for Securely Downloading MP3 Files From Rhapsody Onto Your Windows Computer</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-bring-your-vision-to-life-best-animation-software-for-mac-and-pc-professionals/"><u>Updated In 2024, Bring Your Vision to Life Best Animation Software for Mac and PC Professionals</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-revolutionize-your-content-10-best-animated-text-creators/"><u>Updated Revolutionize Your Content 10 Best Animated Text Creators</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-stop-time-in-its-tracks-how-to-freeze-frame-in-videos-easily/"><u>Updated Stop Time in Its Tracks How to Freeze Frame in Videos Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-gently-unveiled-scene/"><u>[New] 2024 Approved Gently Unveiled Scene</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-navigating-video-recording-and-editing-basics-with-adobe-connect/"><u>[New] 2024 Approved Navigating Video Recording & Editing Basics with Adobe Connect</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-dynamic-duels-and-daring-deeds-top-10-gaming-highlights/"><u>[New] In 2024, Dynamic Duels & Daring Deeds Top 10 Gaming Highlights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-obs-and-zoom-harmony/"><u>[Updated] In 2024, The Ultimate Guide to OBS & Zoom Harmony</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-acoustic-imprinting-pc-noises-logged/"><u>2024 Approved Acoustic Imprinting PC Noises Logged</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/audio-and-video-in-harmony-syncing-in-final-cut-pro-x-2024/"><u>Audio and Video in Harmony Syncing in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker/"><u>New 2024 Approved Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-editing-10-best-trimming-tools-and-software/"><u>New Free Online Video Editing 10 Best Trimming Tools and Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>New In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-start-recording-your-games-today-3-easy-steps/"><u>New Start Recording Your Games Today 3 Easy Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-top-10-most-jaw-dropping-4k-video-samples-for-2024/"><u>New The Top 10 Most Jaw-Dropping 4K Video Samples for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-play-7t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor Play 7T Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-perfect-slumber-top-tier-technology-for-your-ideal-rest/"><u>Unlocking Perfect Slumber: Top-Tier Technology For Your Ideal Rest</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-10-final-cut-pro-x-competitors-you-need-to-know/"><u>Updated In 2024, The Ultimate List 10 Final Cut Pro X Competitors You Need to Know</u></a></li>
 </ul></div>
 
