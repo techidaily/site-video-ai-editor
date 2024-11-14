@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2024-11-12T00:58:21.536Z
-updated: 2024-11-13T06:40:57.151Z
+date: 2024-11-09T19:57:02.506Z
+updated: 2024-11-13T17:01:41.678Z
 tags:
   - video-music-player
 categories:
@@ -68,13 +68,6 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
 
 Actually, it is risky to download a codec pack that may bring adware/malware/virus to your computer and time-consuming to convert a video formats step by step. Upgrading your default MP4 player often a paid method and resetting the preference is also quite complicated. Why not try an easier and free way.
@@ -86,23 +79,17 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -119,6 +106,13 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Notice:**  
  \* You can also handle your 4K UHD 1080p 720p HD MKV FLV MP3 AAC OGG etc. following the guide listed above.  
  \* If you have no MP4 files, you download them online with 5KPlayer.  
@@ -127,16 +121,10 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -154,24 +142,21 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-art-of-accompanying-visual-content-with-music/"><u>[New] In 2024, The Art of Accompanying Visual Content with Music</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-boosting-engagement-editing-for-perfect-video-titles-and-descriptions/"><u>[Updated] 2024 Approved Boosting Engagement Editing for Perfect Video Titles & Descriptions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-humorous-hits-lifetime-access-to-memes/"><u>[Updated] In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>2024 Approved Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12 Pro 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-mac-app-for-converting-mp4-video-format-to-mp3-audio/"><u>Free Mac App for Converting MP4 Video Format to MP3 Audio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-eye-catching-after-effects-texture/"><u>In 2024, Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Network-Ready</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/m4v-mp4-mov-wmv/"><u>M4Vファイルの簡単な変換方法 - MP4, MOV, WMVへ</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-updated-2023-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 (Updated 2023) for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-amateur-to-pro-the-top-10-vlog-editing-apps-for-mobile-devices/"><u>New In 2024, From Amateur to Pro The Top 10 Vlog Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-virtualdub-competitors-a-review-of-the-best-video-editing-tools/"><u>New In 2024, VirtualDub Competitors A Review of the Best Video Editing Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-shaky-videos-be-gone-10-free-online-stabilizers-to-try-for-2024/"><u>New Shaky Videos Be Gone! 10 Free Online Stabilizers to Try for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unleash-stunning-videos-top-3-4k8k-editing-software-2024/"><u>Unleash Stunning Videos Top 3 4K/8K Editing Software 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-your-ps5-a-comprehensive-tutorial-to-reach-120fps-gaming-experience/"><u>Unlocking the Full Potential of Your PS5: A Comprehensive Tutorial to Reach 120FPS Gaming Experience</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>Updated 2024 Approved Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-beginners-guide-to-face-blurring-top-free-apps-tutorials-and-tips/"><u>Updated Beginners Guide to Face Blurring Top Free Apps, Tutorials, and Tips</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-windows-10-webcam-recording-essentials-top-10-software-picks/"><u>Updated In 2024, Windows 10 Webcam Recording Essentials Top 10 Software Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-footage-a-beginners-guide-to-flipping-clips-in-fcp/"><u>Updated Transform Your Footage A Beginners Guide to Flipping Clips in FCP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-loop-video-liftoff-engaging-audiences-on-ig/"><u>[New] 2024 Approved Loop Video Liftoff Engaging Audiences on IG</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-does-apples-m1-compare-to-traditional-editing-workstations/"><u>[Updated] How Does Apple’s M1 Compare to Traditional Editing Workstations?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-360-degree-video-players-top-7-picks-for-windows-and-mac-os-users/"><u>Best Free 360-Degree Video Players: Top 7 Picks for Windows & Mac OS Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-excellent-free-aac-mp3-software-best-compatibility-with-windows-and-mac-os/"><u>Download Excellent FREE AAC MP3 Software - Best Compatibility with Windows and Mac OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-your-facebook-cover-leading-websites-for-professionals-for-2024/"><u>Enhancing Your Facebook Cover Leading Websites for Professionals for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-daum-potplayer-installer-for-windows-10-top-downloads-and-alternative-media-players/"><u>Free Daum PotPlayer Installer for Windows 10: Top Downloads and Alternative Media Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-downloads-top-media-players-for-macos-catalina-and-big-sur-users/"><u>Free Downloads: Top Media Players for macOS Catalina and Big Sur Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/guide-to-choosing-among-the-best-9-video-conferencing-tools-android-iphone-for-2024/"><u>Guide to Choosing Among The Best 9 Video Conferencing Tools (Android, iPhone) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-create-compelling-content-for-facebook-reels/"><u>How to Create Compelling Content for Facebook Reels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-updated-usb-to-serial-interface-drivers-for-your-windows-11-system-ch340g/"><u>How to Install Updated USB-to-Serial Interface Drivers for Your Windows 11 System (CH340g)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-vivo-y77t-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Vivo Y77t?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/premium-smart-tv-boxes-expert-reviews-and-comparisons-for-seamless-media-streaming-on-your-screen/"><u>Premium Smart TV Boxes: Expert Reviews and Comparisons for Seamless Media Streaming on Your Screen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/reviewing-the-leading-5-multimedia-players-compatible-with-windows-11-x64-vs-32-bit-variants-explained/"><u>Reviewing the Leading 5 Multimedia Players Compatible with Windows 11: X64 Vs. 32-Bit Variants Explained</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/section-4a-advanced-topic-international-regulation-and-trade-of-fireworks/"><u>Section 4A: Advanced Topic - International Regulation and Trade of Fireworks</u></a></li>
 </ul></div>
 
