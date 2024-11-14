@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Step-by-Step Tutorial: Getting VLC Media Player on Your Windows 8 System"
-date: 2024-11-01T08:34:07.905Z
-updated: 2024-11-03T19:25:39.028Z
+date: 2024-11-06T18:45:04.731Z
+updated: 2024-11-13T01:29:25.247Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e6
 While the Windows 10 is coming all the way to capture everyone's attention, there are still lots of Windows users prefer to stick with Windows 8\. And VLC is one of the best HD media players on Windows 8 for it embraces a great deal of amazing features. However, some users questioned in the VLC forum that VLC has a lot of flaws on Windows 8 64 bit, the major one is that it seizes on startup. Well, the simplest reason is probably because you didn't download it right. Try to uninstall it and **download VLC player for Windows 8** in the following ways.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Two Official Ways to Download VLC for Windows 8 64/32 bit
@@ -46,10 +46,16 @@ Softonic is a place to download the best software for Windows 8, in where you ca
 ![VLC Encountered a Problem with Windows 8](https://www.5kplayer.com/video-music-player/img/vlc-player-windows-8-xsy-050703.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 VLC is a profound media player which can be used on more than 10 operating systems, currently[VLC Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) is available for download. It is surely becoming everyone's favorite since it has set a good example to the rest of HD media players. But such a dominant player on Windows still has its own defects. Such as "seizes when loading a video file", "stumbles around when trying to update on Windows 8", and "VLC audio delays on Windows 8", "VLC not play DVDs or Blue-rays", etc. Many users have done all solutions that posted on the VLC forum to fix those problems but still no joy, such as updating to the newest version, install a codec package, getting a disk lens cleaner to fix DVD playing problem, and even uninstall other software which is not compatible with VLC. If it's still not working after you tried the above solutions to reinstall a VLC player on Windows 8, you may wanna switch the VLC player to another equally amazing or even slightly better HD video player – [5KPlayer](https://tools.techidaily.com/5kplayer/products/). 
@@ -57,16 +63,16 @@ VLC is a profound media player which can be used on more than 10 operating syste
 5KPlayer works perfectly on Mac and Windows so far, especially on Windows 8\. It can be the best replacement of VLC player for Windows 8 because of its multiple astonishing features. Compare to VLC player on Windows 8, 5KPlayer is quite a comprehensive HD media player that conveys the best image and sound quality when [playing ultra HD 4K/5k videos](https://tools.techidaily.com/5kplayer/video-music-player/) and it [plays MKV](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, FLV video smoothly without a slight glitch. Not to mention its capability of [playing region free DVDs](https://tools.techidaily.com/5kplayer/video-music-player/), and it supports [playing MP3](https://tools.techidaily.com/5kplayer/video-music-player/) and a hell lot of other music formats. Thus, it is only a piece of cake to solve the problems of VLC player not working on Windows 8.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Unlike VLC Player Windows 8: How Does 5KPlayer Work on Windows 8
@@ -90,10 +96,16 @@ Enough about all the amazing features about 5KPlayer as a [video music player](h
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,17 +123,22 @@ Enough about all the amazing features about 5KPlayer as a [video music player](h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-4-proven-methods-to-perfect-instagram-video-loops/"><u>[New] 4 Proven Methods to Perfect Instagram Video Loops</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>[New] The Digital Artisan's Guide Mastering Screen Recordings in macOS for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comparative-analysis-of-fb-video-formats/"><u>2024 Approved Comparative Analysis of FB Video Formats</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-windows-11-photo-videos/"><u>2024 Approved Streamline Your Windows 11 Photo Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-graphics-cards-to-hardware-synergy-how-apples-complete-ecosystem-enhances-its-mac-gaming-push/"><u>From Graphics Cards to Hardware Synergy - How Apple's Complete Ecosystem Enhances Its Mac Gaming Push</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-lego-animation-masters-the-best-for-2024/"><u>New Lego Animation Masters The Best for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-gt-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix GT 10 Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleash-the-power-of-digital-advertising-with-our-comprehensive-set-of-50-free-youtube-banners-for-2024/"><u>Unleash the Power of Digital Advertising with Our Comprehensive Set of 50 FREE YouTube Banners for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-art-of-stop-motion-on-instagram-a-comprehensive-guide-for-creators/"><u>Updated In 2024, The Art of Stop Motion on Instagram A Comprehensive Guide for Creators</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-jump-cut-mastery-unlocking-the-secrets-of-final-cut-pro-x-for-2024/"><u>Updated Jump Cut Mastery Unlocking the Secrets of Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-microsoft-video-editor-for-dummies-a-step-by-step-guide-for-2024/"><u>Updated Microsoft Video Editor for Dummies A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-art-generator-in-2024/"><u>Updated What Is an AI Art Generator, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>[New] 2024 Approved Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elemental-concepts-in-kinetic-design-workflow/"><u>[New] In 2024, Elemental Concepts in Kinetic Design Workflow</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-flip-the-script-on-instagram-vids-complete-guide/"><u>[Updated] 2024 Approved Flip the Script on Instagram Vids [Complete Guide]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-10-ultimate-pic-finder-portals-for-2024/"><u>[Updated] Discovering 10 Ultimate Pic Finder Portals for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-searching-skills-unlock-additional-free-filters-for-2024/"><u>[Updated] Instagram Searching Skills – Unlock Additional Free Filters for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-precision-guide-for-webp-to-jpg-conversion/"><u>[Updated] Precision Guide for WebP to JPG Conversion</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-engagement-key-mobile-settings-in-fb-app/"><u>Elevate Engagement: Key Mobile Settings in FB App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos/"><u>New Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-top-10-webm-to-mp4-conversion-tools-for-2024/"><u>New Transform Your Videos Top 10 WebM to MP4 Conversion Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-your-insignia-thunderbolt-cable-drivers/"><u>Step-by-Step Guide: Installing Your Insignia Thunderbolt Cable Drivers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-hands-on-with-avs-video-editor-a-thorough-review-and-guide/"><u>Updated 2024 Approved Hands-On with AVS Video Editor A Thorough Review and Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-mp4-video-editing-software-2023-edition/"><u>Updated 2024 Approved The Ultimate Guide to Free MP4 Video Editing Software (2023 Edition)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>Updated 2024 Approved Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cut-color-and-create-top-video-editing-software-for-vloggers-for-2024/"><u>Updated Cut, Color, and Create Top Video Editing Software for Vloggers for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget/"><u>Updated Elevate Your Storytelling How to Create Professional-Looking Films on a Budget</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-watermark-videos-without-breaking-the-bank-top-5-free-tools/"><u>Updated Watermark Videos without Breaking the Bank Top 5 Free Tools</u></a></li>
 </ul></div>
 

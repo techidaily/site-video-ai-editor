@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide"
-date: 2024-10-31T04:54:56.066Z
-updated: 2024-11-03T19:42:09.136Z
+date: 2024-11-06T22:10:52.617Z
+updated: 2024-11-13T06:50:45.831Z
 tags:
   - video-music-player
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 
 Many users have been undertaking the same **VLC audio delay** pain when using VLC media player to play videos, the symptom is the audio does not always sync with the video playback. Audio delays now and often and AV-sync error can be a very serious issue for this is causing very unpleasant experience for all the VLC users. But every problem has its cure, now let's use the following ways to solve the problem of VLC audio delay.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Fix Audio Delay in VLC Media Player?
 
 **Solution 1\. Using Keyboard shortcut to adjust VLC audio delay.**
@@ -38,6 +31,13 @@ Many users have been undertaking the same **VLC audio delay** pain when using VL
 There is difference between Mac and Windows. For Mac, Press "G" and "F" on the keyboard can adjust the audio delay during VLC playback process. Press "G" if the sound is ahead of image and press "F" if the sound is behind the image. For Windows, "J" and "K" are the default keys to adjust VLC audio delay, press "J" to move the audio back and press "K" to forward the audio. The adjust step is 50 milliseconds, so each pressing represents that the audio will go forward or backward of the image by 50ms, keep pressing until you reached the desired state. You can always fix the audio out of sync in [VLC](https://www.videolan.org/vlc/index.html) while video playing, but it doesn't save it forever, next time you have to do it all over again even if you play the same video.
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-001.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Solution 2\. Manually set the VLC audio desynchronization from the preference menu.**
 
@@ -50,10 +50,10 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Solution 3\. Install another audio sync tool to cope with VLC audio delay problem.**
@@ -68,6 +68,13 @@ If you think none of the above ways can solve your problem of audio delay in VLC
 
 Another easy way to solve the problem of VLC audio delay permanently is to replace VLC with a non-faulty media player – 5KPlayer. Download and set 5KPlayer as your default video player to play MKV, AVI, MP4, WMV, MPEG4 files with ease. As the best VLC alternative, 5KPlayer is also a cross-platform HD media player which works perfectly on both macOS and Windows 10/8/7/Vista, and it [plays ultra HD videos in 8K/5K/4K](https://tools.techidaily.com/5kplayer/video-music-player/) without any blemish. If the video has the problem of audio delay, 5KPlayer has its own path to adjust AV sync of video playback with no external help. Now let's check how it can fix the VLC audio delay and solve the problem for good.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play HD Video and Solve Audio Delay with 5KPlayer
 
 **Step 1:** Free Download 5KPlayer on your Mac/PC, install and then launch it.
@@ -77,19 +84,6 @@ Another easy way to solve the problem of VLC audio delay permanently is to repla
 5KPlayer can easily load videos and audio with no glitch for it supports 160+ video formats and 80+ audio formats. You have several ways to play a video: simply drag and drop the desired video to 5KPlayer, click on Video icon on the main UI to choose a video to open, or right-click the file you want to play and choose open with 5KPlayer. Then, 5KPlayer will quickly decode and play it smoothly.
 
 ![Fix VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050601.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Fix VLC Audio delay problem.
 
@@ -108,10 +102,10 @@ Note: Pressing the **RESET** button will take it back to default.
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -129,21 +123,20 @@ Note: Pressing the **RESET** button will take it back to default.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>[New] In 2024, Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-glow-up-your-android-footage/"><u>[New] In 2024, Glow Up Your Android Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pcs-finest-ps3-simulators-for-gaming-enthusiasts/"><u>[Updated] PC's Finest PS3 Simulators for Gaming Enthusiasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ic-youtube-follower-analyzers-for-2024/"><u>Dynamic YouTube Follower Analyzers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-change-user-name-windows-10/"><u>How to Change User Name Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-13-mini-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 13 mini Apple ID on MacBook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-ace-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Ace 3 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max with IMEI Code?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-get-ready-to-download-best-public-domain-video-websites/"><u>New 2024 Approved Get Ready to Download Best Public Domain Video Websites</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-streamline-your-edit-efficient-color-matching-techniques-for-final-cut-pro-users/"><u>New 2024 Approved Streamline Your Edit Efficient Color Matching Techniques for Final Cut Pro Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>New Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-up-space-5-best-video-compression-apps-for-iphone-and-ipad/"><u>New In 2024, Free Up Space 5 Best Video Compression Apps for iPhone and iPad</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/newhow-to-make-a-valentines-day-video-for-the-person-you-love/"><u>NewHow to Make a Valentines Day Video for the Person You Love?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-x-just-got-faster-arm-support-now-available/"><u>Updated 2024 Approved Filmora X Just Got Faster ARM Support Now Available</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>Updated In 2024, Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578544923-why-is-mondly-the-best-language-learning-app-youll-ever-use/"><u>Why Is Mondly the Best Language Learning App You’ll Ever Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>[New] Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-steps-for-effective-telegram-web-use/"><u>[New] Simplified Steps for Effective Telegram Web Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>2024 Approved Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>2024 Approved Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steams-offline-content-servers-problem-in-windows/"><u>Addressing Steam's Offline Content Servers Problem in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-signal-of-a-block-missed-snaps-and-none-left/"><u>In 2024, Signal of a Block Missed Snaps and None Left</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-remove-audio-from-video/"><u>New 2024 Approved How to Remove Audio From Video</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-gopro-clips-a-comprehensive-mac-editing-tutorial-for-2024/"><u>New Transform Your GoPro Clips A Comprehensive Mac Editing Tutorial for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unleash-your-creativity-a-comprehensive-guide-to-jaycut-free-video-editing-for-2024/"><u>Unleash Your Creativity A Comprehensive Guide to Jaycut Free Video Editing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-imovie-alternatives-top-free-options-for-video-editing-for-2024/"><u>Updated IMovie Alternatives Top Free Options for Video Editing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-vn-video-editor-apk-a-comprehensive-review-for-android-users/"><u>Updated In 2024, VN Video Editor APK A Comprehensive Review for Android Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-s-top-video-editing-software-for-4k-proxy-files-a-comprehensive-guide/"><u>Updated S Top Video Editing Software for 4K Proxy Files A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visibility-restored-for-youtube-shorts-post-update-for-2024/"><u>Visibility Restored for YouTube Shorts Post-Update for 2024</u></a></li>
 </ul></div>
 

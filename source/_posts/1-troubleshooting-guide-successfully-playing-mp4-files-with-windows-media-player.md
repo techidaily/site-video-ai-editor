@@ -1,7 +1,7 @@
 ---
 title: "1. Troubleshooting Guide: Successfully Playing MP4 Files with Windows Media Player"
-date: 2024-10-30T05:58:31.002Z
-updated: 2024-11-03T20:03:51.544Z
+date: 2024-11-05T20:22:46.244Z
+updated: 2024-11-13T01:14:26.313Z
 tags:
   - video-music-player
 categories:
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
 Can Windows Media Player play MP4? Windows media player natively does not support MP4 files until it upgrades to version 12\. So, for those dedicated users who are using Windows Media Player 11 and lower, you’d better upgrade the Media Player for MP4 playback.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play MP4 on Windows Media Player 12?
 
 Still cannot play MP4 files on Windows Media Player 12? Remember, MP4 is a contain format that may contain many codecs which cannot be played by your Windows Media Player 12\. Therefore, you should first know about what are the codecs of your MP4 files supported by Windows Media Player 12.
@@ -53,6 +40,13 @@ Then your default web browser will open a page that includes information about t
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It is obvious that **Windows Media Player 12 supports MP4** video and audio files, including .m4a, .mp4, .m4v, .mp4v, .3g2, .3gp2, .3gp, .3gpp, but codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication) may not be supported by your Windows Media Player. Therefore, if you are holding a MP4 file encoded in H.264, your Windows Media Player 12 cannot help you out. 
 
 Windows Media Player upgrade can only help you get partial MP4 files open successfully. If WMP upgrade cannot solve MP4 playback issue, you may have to consider other approaches. 
@@ -65,21 +59,22 @@ Windows Media Player MP4 codec pack can be downloaded from its official website 
 
 Why not convert the MP4 into Windows media player supported format like WMV, AVI? [WinX HD Video Converter](https://tools.techidaily.com/5kplayer/products/) is recommended here for quality and speedy conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play MP4 on Windows Media Player Alternative –[5KPlayer](https://tools.techidaily.com/5kplayer/products/)
 
 Everything has its limitations, but we can gather their merits for the most efficient usage. Windows media player may not support some MP4 codecs, but 5KPlayer can make up that defect and offer a lot more utilities. It [plays almost all file formats](https://tools.techidaily.com/5kplayer/video-music-player/) including MP4 (HEVC H.263/H.264/H.265, AAC), OGG, WMV, MKV, FLV, AVI etc and can even [convert MP4 into MP3](https://tools.techidaily.com/5kplayer/youtube-download/)/AAC formats. From the above codecs you can see that HD/UHD/FUHD videos are also supported by 5KPlayer. Click for more [alternatives to Window Media Player playing MP4](https://tools.techidaily.com/5kplayer/video-music-player/). 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Play MP4 on Windows Media Player Alternative -5KPlayer?
@@ -95,10 +90,10 @@ Step 2\. Import the MP4 to Windows Media Player alternative through the ways bel
 ![Free 5KPlayer for 4K Resolution Videos](https://www.5kplayer.com/video-music-player/img/download-8k-movies.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And then you can enjoy the MP4 movie/music right away. You can also switch audio tracks, change aspect ratio, manage your downloaded MP4 videos, and [insert subtitles to MP4 files](https://tools.techidaily.com/5kplayer/video-music-player/) and so much more.
@@ -106,13 +101,6 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 **Note:** As a powerful [MP4 media player](https://tools.techidaily.com/5kplayer/video-music-player/), playing MP4 videos on Windows/Mac is just a basic function of 5KPlayer. It also [solves MP4 not playing in QuickTime](https://tools.techidaily.com/5kplayer/video-music-player/) and allows you to free download MP4 online music videos like Wildest Dreams MP4, Hello etc. Free download 5KPlayer to explore more.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,15 +117,21 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[New] 2024 Approved Elevate Engagement on YouTube Fending Off Automated Audiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-creating-engaging-instagram-highlight-tags/"><u>[New] In 2024, Creating Engaging Instagram Highlight Tags</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-encyclopedia-of-hand-centered-interaction-systems/"><u>[Updated] 2024 Approved The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scripting-success-the-art-of-good-documentaries/"><u>[Updated] In 2024, Scripting Success The Art of Good Documentaries</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-tactics-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>[Updated] Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-your-brand-with-ai-enhanced-naming-solutions/"><u>Elevate Your Brand with AI-Enhanced Naming Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated 2024 Approved Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-pro-cs6-mac-free-download-unleash-your-creativity-for-2024/"><u>Updated Adobe Premiere Pro CS6 Mac Free Download Unleash Your Creativity for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated In 2024, From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>Updated In 2024, From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>[New] 2024 Approved From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>[New] 2024 Approved Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-professional-online-broadcast-capture-methods-for-2024/"><u>[Updated] Professional Online Broadcast Capture Methods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compre-cookies-guide-to-marketing-magic-with-20-terms-for-2024/"><u>A Compre Cookie's Guide to Marketing Magic with 20 Terms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-google-aids-in-finding-your-dream-gifts-at-half-price-during-the-festive-season-according-to-zdnet/"><u>Discover How Google Aids in Finding Your Dream Gifts at Half-Price During the Festive Season, According to ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-magnification-methods-for-ios-devices/"><u>Ideal Magnification Methods for iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-iphone-the-ringtone-alteration-process-for-2024/"><u>Navigating iPhone The Ringtone Alteration Process for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-the-app-store-top-iphone-apps-reviewed-and-rated/"><u>New The Best of the App Store Top iPhone Apps , Reviewed and Rated</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-free-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Free Public Domain Video Downloads for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-a-beginners-guide-to-stop-motion-animation-on-instagram-for-2024/"><u>New Unleash Your Creativity A Beginners Guide to Stop Motion Animation on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-interactive-streaming-on-windows-platform/"><u>Restoring Interactive Streaming on Windows Platform</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/twitchstars-engaging-on-snapchat-for-2024/"><u>Twitchstars Engaging on Snapchat for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated 2024 Approved From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-transform-your-videos-best-free-special-effects-apps-for-iphone-and-android/"><u>Updated 2024 Approved Transform Your Videos Best Free Special Effects Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-animation-software-for-all-skill-levels-top-picks/"><u>Updated Best Animation Software for All Skill Levels Top Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-how-to-produce-a-professional-looking-video-from-photos-and-music/"><u>Updated How to Produce a Professional-Looking Video From Photos and Music</u></a></li>
 </ul></div>
 

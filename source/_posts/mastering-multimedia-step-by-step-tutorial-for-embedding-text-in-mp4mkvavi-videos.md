@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia: Step-by-Step Tutorial for Embedding Text in MP4/MKV/AVI Videos"
-date: 2024-10-31T04:24:13.079Z
-updated: 2024-11-04T03:22:15.180Z
+date: 2024-11-08T01:07:53.899Z
+updated: 2024-11-13T10:59:47.612Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -45,10 +45,10 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
@@ -57,17 +57,17 @@ Note that your **subtitle file should be placed under the same folder of your vi
 
 ![How to Add Subtitles](https://www.5kplayer.com/video-music-player/img/5kplayer-how-to-add-subtitles-zjy-0420002.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** There's **no way to play Zip subtitles** in any video players! Your subtitle files shall not be compressed and should be remained in one of those common subtitle formats accordingly for file detecting.  
  Since there are basically two kinds of subtitles in a video file – hard subtitle and soft subtitle. The former is part of the video frames that cannot be disabled or hidden during playback, while the latter is an independent stream that can be turned on and off. It's worth noticing that MP4 and MKV movie/videos usually contain several subtitle streams in different formats or language for you to select, which cannot be streamed to Apple-TV via AirPlay if you intend to stream the video to your big HDTV.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
@@ -80,10 +80,10 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,18 +101,14 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-group-video-chat-apps-for-video-conferences-and-meetings/"><u>[New] Top Group Video Chat Apps For Video Conferences and Meetings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimize-your-youtube-content-for-maximum-viewership-and-engagement/"><u>[Updated] Optimize Your YouTube Content for Maximum Viewership and Engagement</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>2024 Approved Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-motorola-edge-40-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Motorola Edge 40 Pro.</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-best-free-m4a-audio-editing-software-for-beginners-for-2024/"><u>New Best Free M4A Audio Editing Software for Beginners for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-effortlessly-edit-mp4-video-properties/"><u>New Effortlessly Edit MP4 Video Properties</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverse-engineering-steams-unauthorized-file-access/"><u>Reverse Engineering Steam's Unauthorized File Access</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/transform-your-photos-the-ultimate-guide-to-animation-tools-for-2024/"><u>Transform Your Photos The Ultimate Guide to Animation Tools for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-12-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 12 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-rotate-your-mov-files-for-free-top-5-options/"><u>Updated In 2024, Rotate Your MOV Files for Free Top 5 Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-free-online-movie-making-platforms-for-2024/"><u>Updated The Best Free Online Movie Making Platforms for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-wax-how-to-use-free-video-editor-wax-to-edit-videos-for-2024/"><u>Updated Wax - How to Use Free Video Editor Wax to Edit Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-apple-iphone-15-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Apple iPhone 15 Pro on Mac?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[New] 2024 Approved The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-gaming-live-broadcast-tools/"><u>In 2024, Top-Tier Gaming Live Broadcast Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-image-to-video-conversion-made-easy-10-best-online-solutions-for-2024/"><u>New Image to Video Conversion Made Easy 10 Best Online Solutions for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-transform-your-photos-into-a-beautiful-video-2023-tutorial/"><u>New In 2024, Transform Your Photos Into a Beautiful Video 2023 Tutorial</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlock-pro-quality-sound-top-10-audio-editing-software-tools-for-2024/"><u>New Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/optimizing-power-usage-unlocking-secrets-of-the-windows-10-battery-diagnostics-feature/"><u>Optimizing Power Usage: Unlocking Secrets of the Windows 10 Battery Diagnostics Feature</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-free-avi-video-editor-reviews-our-top-picks/"><u>Updated Free AVI Video Editor Reviews Our Top Picks</u></a></li>
 </ul></div>
 

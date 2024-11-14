@@ -1,7 +1,7 @@
 ---
 title: Trouble with AV1 Videos on Your PC? A Comprehensive Guide to Enable and Watch AV1 Files on Windows & Mac
-date: 2024-10-30T02:47:03.796Z
-updated: 2024-11-04T05:15:56.851Z
+date: 2024-11-12T09:40:07.368Z
+updated: 2024-11-12T18:21:47.691Z
 tags:
   - video-music-player
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
@@ -45,10 +52,17 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -60,10 +74,10 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
@@ -85,27 +99,7 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,18 +116,19 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-behind-the-scenes-creating-successful-youtube-shorts-videos/"><u>2024 Approved Behind the Scenes Creating Successful YouTube Shorts Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/faceoff-llama-3-and-gpt-4-determining-the-superior-model/"><u>Faceoff: Llama 3 and GPT- 4 – Determining the Superior Model</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-wifi-drivers-for-windows-7-with-quick-downloads-and-updates/"><u>Get the Latest WiFi Drivers for Windows 7 with Quick Downloads and Updates!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>In 2024, 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-vertical-video-mastery-best-editing-apps-for-iphone-and-android/"><u>New 2024 Approved Vertical Video Mastery Best Editing Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-safe-and-legal-ways-to-get-filmora-for-free-no-torrent-viruses/"><u>New In 2024, Safe and Legal Ways to Get Filmora for Free (No Torrent Viruses)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-save-big-on-filmora-4-legit-ways-to-get-discounted-rates/"><u>New In 2024, Save Big on Filmora 4 Legit Ways to Get Discounted Rates</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-virtualdub-is-it-the-best-video-editor-exploring-top-alternatives/"><u>New Virtualdub Is It the Best Video Editor? Exploring Top Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/no-more-interruptions-how-to-resolve-dreamlight-valleys-pc-malfunctions-6-ways/"><u>No More Interruptions: How to Resolve Dreamlight Valley's PC Malfunctions (6 Ways)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-playlist-effective-strategies-for-importing-soundcloud-songs-into-your-itunes-collection/"><u>Streamline Your Playlist: Effective Strategies for Importing SoundCloud Songs Into Your iTunes Collection</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-professional-1080p-video-editing-tools-for-2024/"><u>Take Your Videos to the Next Level Professional 1080P Video Editing Tools for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/transform-your-videos-free-online-video-quality-improvement-tools/"><u>Transform Your Videos Free Online Video Quality Improvement Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>Updated 2024 Approved Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-strategies-for-seamless-clip-composition-for-2024/"><u>[New] Expert Strategies for Seamless Clip Composition for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktok-trends-the-top-ten-tweets-shaping-social-media/"><u>[New] In 2024, TikTok Trends The Top Ten Tweets Shaping Social Media</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guida-passo-passo-per-lautomazione-del-salvataggio-di-email-e-dati-in-outlook-365/"><u>Guida Passo-Passo per L'Automazione Del Salvataggio Di Email E Dati in Outlook 365</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gradual-showcase-starts/"><u>In 2024, Gradual Showcase Starts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>New 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mastering-fcp-5-essential-editing-tricks-to-elevate-your-workflow/"><u>New In 2024, Mastering FCP 5 Essential Editing Tricks to Elevate Your Workflow</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/steps-to-embed-tables-in-your-ebook-using-flipbuilder/"><u>Steps to Embed Tables in Your eBook Using FlipBuilder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphones-noisy-and-muffled-sounds-solutions-inside/"><u>Troubleshooting iPhone's Noisy and Muffled Sounds – Solutions Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mobile-split-screen-video-editors-the-best-for-ios-and-android/"><u>Updated 2024 Approved Mobile Split Screen Video Editors The Best for iOS and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more/"><u>Updated In 2024, Breathe New Life Into Your Mac How to Clear Space for FCPX and More</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-kid-friendly-video-editors-10-fun-and-easy-apps-to-try/"><u>Updated In 2024, Kid-Friendly Video Editors 10 Fun and Easy Apps to Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/vid-vocated-trust-a-marketers-secret-weapon-for-2024/"><u>Vid-Vocated Trust A Marketer's Secret Weapon for 2024</u></a></li>
 </ul></div>
 

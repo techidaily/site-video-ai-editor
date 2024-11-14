@@ -1,7 +1,7 @@
 ---
 title: 無限Mac視頻瀏覽器 - 免費下載及支持所有影片格式
-date: 2024-11-01T01:35:57.657Z
-updated: 2024-11-04T06:51:38.103Z
+date: 2024-11-05T16:04:45.973Z
+updated: 2024-11-13T07:12:40.080Z
 tags:
   - video-music-player
 categories:
@@ -53,10 +53,16 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
  遺憾的是，MPlayerX不支援DVD和ISO檔播放，某些影片音樂檔案格式支援的種類相對于5KPlayer和VLC較少，但是比QuickTime Player多。因此作為免費的Mac播放軟體推薦第三名是沒問題的。
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mac影片播放免費軟體Top 3 推薦
@@ -76,19 +82,25 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 ![Mac播放軟體](https://www.5kplayer.com/video-music-player-zh/img/5kp-mac.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **匯總：**
@@ -98,10 +110,16 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -119,24 +137,22 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-diminutive-directors-script/"><u>[New] 2024 Approved Diminutive Director's Script</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-ez-grabber-software/"><u>[Updated] How to Use EZ Grabber Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-sanitize-your-televisions-remote-device/"><u>How to Effectively Sanitize Your Television's Remote Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-your-windows-pc-running-with-new-geforce-gtx-460-graphics-card-software/"><u>How to Get Your Windows PC Running With New GeForce GTX 460 Graphics Card Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f34-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F34 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-combine-videos-without-restrictions-7-best-watermark-free-tools-for-2024/"><u>New Combine Videos Without Restrictions 7 Best Watermark-Free Tools for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-get-creative-with-fcpx-top-10-free-plugin-essentials/"><u>New Get Creative with FCPX Top 10 Free Plugin Essentials</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-how-to-reset-final-cut-pro-x-to-troubleshoot-issues-in-2024/"><u>New How to Reset Final Cut Pro X to Troubleshoot Issues, In 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-forest-sons-gameplay-interruptions-on-pc-expert-advice-and-tips/"><u>Overcoming 'Forest Sons' Gameplay Interruptions on PC: Expert Advice & Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-huawei-nova-y91-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Huawei Nova Y91 Screen | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579693755-top-10-easiest-languages-to-learn/"><u>Top 10 Easiest Languages To Learn</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-create-epic-lip-syncs-top-rated-apps-for-android-and-ios/"><u>Updated Create Epic Lip Syncs Top-Rated Apps for Android and iOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-wmv-video-merger-tools-top-picks/"><u>Updated Free WMV Video Merger Tools Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-ready-for-the-movies-top-movie-trailer-apps-for-ios/"><u>Updated In 2024, Get Ready for the Movies Top Movie Trailer Apps for iOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Updated Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/virtualdub-2023-a-review-of-its-features-pricing-and-alternatives-for-2024/"><u>Virtualdub 2023 A Review of Its Features, Pricing, and Alternatives for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ultimate-free-fb-photovideo-maker/"><u>[Updated] 2024 Approved Ultimate Free FB Photo/Video Maker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-epic-sound-stories-and-dialogues/"><u>[Updated] In 2024, Epic Sound Stories and Dialogues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-imovie-music-tips-and-tricks-guide/"><u>Essential iMovie Music Tips & Tricks Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-upgrade-your-channel-description-with-ease-and-flair/"><u>In 2024, Upgrade Your Channel Description with Ease and Flair</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-16-top-rated-avi-video-cutting-tools-for-windows-mac-android-and-iphone-for-2024/"><u>New 16 Top-Rated AVI Video Cutting Tools for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-virtualdub-competitors-a-review-of-the-best-video-editing-tools/"><u>New In 2024, VirtualDub Competitors A Review of the Best Video Editing Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mac-os-video-editing-lumafusion-installation-and-top-alternatives/"><u>New Mac OS Video Editing Lumafusion Installation and Top Alternatives</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rhythmic-revelations-the-science-of-singing-to-learn-languages/"><u>Rhythmic Revelations: The Science of Singing to Learn Languages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tickletech-design-easy-entertaining-visuals-for-2024/"><u>TickleTech Design Easy, Entertaining Visuals for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>Updated 2024 Approved Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-shaky-videos-be-gone-10-free-online-stabilizers-to-try/"><u>Updated 2024 Approved Shaky Videos Be Gone! 10 Free Online Stabilizers to Try</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-online-and-pc-options-for-2024/"><u>Updated Cartoon Video Creation Made Easy Top 10 Online and PC Options for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-video-editing-software-for-beginners-for-2024/"><u>Updated The Ultimate List of Video Editing Software for Beginners for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-footage-a-beginners-guide-to-flipping-clips-in-fcp/"><u>Updated Transform Your Footage A Beginners Guide to Flipping Clips in FCP</u></a></li>
 </ul></div>
 
