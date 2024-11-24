@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues with Windows Media Player: Solutions for DVD Playback Failures"
-date: 2024-11-12T19:28:05.301Z
-updated: 2024-11-14T04:19:12.262Z
+date: 2024-11-20T20:29:58.371Z
+updated: 2024-11-23T17:10:37.001Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solve Windows Media Player DVD Not Working on Windows 8/Windows 10
 
@@ -34,6 +38,10 @@ It will probably lead you to this window (see below) to ask you to install a Win
 
 ![Windows Media Player DVD not Working](https://www.5kplayer.com/video-music-player/img/wmp-dvd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Solution 1:** Click "Go Online to learn how to obtain a DVD decoder" and then check the Microsoft recommended Windows Media Player DVD decoder such as CinePlayer DVD Decoder and Advanced Corel DVD Decoders. But those Windows Media Player DVD decoder are all costing around $ 15\. If you are a budget-minded user, you would probably go online and search for free Windows Media Player DVD decoder and that makes you go straight to solution 2\. 
 
 **Solution 2:** There are lots of Windows Media Player DVD decoders for free downloading on the download sites and all claimed to be the best solution to fix Windows Media Player not playing DVD problem. But the safety cannot be guaranteed. Those free add-ons and Plug-ins are the least you should be trust cuz they may containing virus and create continuous ads. But there is still solution 3 – replace Windows Media Player with another more powerful [Windows DVD player freeware](https://tools.techidaily.com/5kplayer/video-music-player/). 
@@ -43,10 +51,7 @@ It will probably lead you to this window (see below) to ask you to install a Win
 That's right, you need the best Windows Media Player alternative - **5KPlayer** in the case of Windows Media Player DVD not working. This amazing Windows Media Player alternative can not only restore the normal DVD playback activity on Windows 10/8/7, but also [plays multi-regional DVDs](https://tools.techidaily.com/5kplayer/video-music-player/) including Disney DVD, Sony DVD, and CSS-encrypted DVD movies etc. And it is one of the [best multimedia players](https://tools.techidaily.com/5kplayer/video-music-player/) to play videos music on Windows 10 for free! With 5KPlayer installed on your Windows 10/8/7 PC, you can sit back to watch your DVDs and stop worrying about Windows Media Player DVD issue. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Simple Tutorial on Playing DVD with Windows Media Player Alternative
@@ -62,10 +67,7 @@ It is pretty simple and easy to play DVD on Windows with this best free Windows 
 ![Play DVDs on Windows](https://www.5kplayer.com/video-music-player/img/dvd-player.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Windows Media Center is long gone, now we are stepping into the era of Windows 10 and we need a decent [media player for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) to help us [play DVDs on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/), play 1080p/4K/5K videos, play MP3 AAC OGG FLAC music as well as managing media files. And 5KPlayer, the best free Windows Media Player alternative and [Windows Media Center alternative](https://tools.techidaily.com/5kplayer/video-music-player/) is just arrived to save you the trifles of Windows Media Player DVD not working, Windows Media Player not playing video files and so on.
@@ -73,10 +75,7 @@ Windows Media Center is long gone, now we are stepping into the era of Windows 1
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -94,24 +93,24 @@ Windows Media Center is long gone, now we are stepping into the era of Windows 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[New] In 2024, Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lens-legends-6-choices-the-finest-4k-dslrs-revealed/"><u>[New] Lens Legends' 6 Choices The Finest 4K DSLRs Revealed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-documenting-xbox-gaming-tips-and-tricks/"><u>[Updated] Documenting Xbox Gaming Tips & Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premium-planet-friendly-recording-software/"><u>[Updated] In 2024, Premium, Planet-Friendly Recording Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726026440383-youtube/"><u>「YouTube動画をクリアな画質でセーブする専門的な方法ガイド」</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726027889665-youtubegif3/"><u>「YoutubeビデオからGIFへの変換と保存手順：トップ3」</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-streaming-your-favorite-sports-a-guide-to-recording-espnplus-games-on-pc-mac-and-mobile-devices/"><u>1. Streaming Your Favorite Sports: A Guide to Recording ESPN+ Games on PC, Mac, and Mobile Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-wonderfoxs-updated-v20-swf-files-now-easily-convertible-into-high-quality-gifs/"><u>1. WonderFox's Updated v2.0: Swf Files Now Easily Convertible Into High-Quality Gifs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-3d-modeling-applications-for-animators/"><u>2024 Approved Leading 3D Modeling Applications for Animators</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-xs-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone XS for Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-g310-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia G310</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>In 2024, Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-enlarge-facebook-videos-to-full-screen-for-impact/"><u>In 2024, Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-superior-microsoft-surface-laptop-4/"><u>In-Depth Analysis of the Superior Microsoft Surface Laptop 4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860882377-new-mastering-vrecorder-download-install/"><u>[New] Mastering VRecorder Download, Install!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-meizu-21-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>2024 Approved Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/5lia6iis5lq644gm5l244ge44ke44gz44ge5pya6auy44gu5yuv55s757eo6zug44oe44o844or44oz44k544oi44k744ow44oz/"><u>一般人が使いやすい最高の動画編集ツールベストセブン</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-avi-video-conversion-software-ranked-effortlessly-change-your-videos/"><u>Best AVI Video Conversion Software Ranked - Effortlessly Change Your Videos!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/boost-your-social-circles-content-creation-with-our-top-picks-for-no-cost-youtube-video-editors/"><u>Boost Your Social Circle's Content Creation with Our Top Picks for No-Cost YouTube Video Editors!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/bypassing-cellphone-constraints-expand-your-mms-video-capacity-on-iphones-and-androids/"><u>Bypassing Cellphone Constraints: Expand Your MMS Video Capacity on iPhones & Androids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/"><u>Elevate Your Display with These 8 MacBook Backgrounds</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030672623-flac-mp4/"><u>FLACへの高解像度変換: MP4から優れたオーディオ品質へ</u></a></li>
+<li><a href="https://win11.techidaily.com/gamers-guide-to-avoiding-high-system-throttling-issues/"><u>Gamers' Guide to Avoiding High System Throttling Issues</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/1726029433486-mp4h264/"><u>MP4形式への変換：H.264ビデオファイルの効率的な変換手順</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-alerts-or-tunes-from-your-laptop-step-by-step-fix-guide/"><u>No Audio Alerts or Tunes From Your Laptop? Step-by-Step Fix Guide</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/1726029609392-pcyoutube/"><u>PCまたはスマートフォンからYouTube動画を保存する専門ガイド</u></a></li>
+<li><a href="https://facebook.techidaily.com/purging-clutter-a-facebook-transformation/"><u>Purging Clutter: A Facebook Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ripristina-immagini-raw-da-cr2-a-formato-png-per-foto-scambio-on-line-gratuito-con-movavi/"><u>Ripristina Immagini RAW Da CR2 a Formato PNG per Foto: Scambio On-Line Gratuito Con Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-laptop-restart-techniques-for-windows-and-mac-users-no-data-lost/"><u>Safe Laptop Restart Techniques for Windows and Mac Users: No Data Lost</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-m4a-opus/"><u>オンラインでのMovavi M4Aファイル変換サービス無料 - OPUS形式</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/1726029313938-youtube/"><u>ハードディスク経由でYouTubeコンテンツを保存する効果的な方法</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726029295396-mp3/"><u>ビットレートを自由に変更できるMP3ファイルエディタ・専門サイト紹介</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726028068497-gpu/"><u>ファイルサイズと品質両立のためのビデオギャップ用GPU加速処理ガイド</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030024586-mp4/"><u>パナソニックとソニーの動画をMP4にしやすいワザ: 簡単なコツと方法</u></a></li>
 </ul></div>
 

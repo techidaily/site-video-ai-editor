@@ -1,7 +1,7 @@
 ---
 title: "Newest Methods to Play MKV Files with QuickTime: A Comprehensive Guide"
-date: 2024-11-08T16:44:03.310Z
-updated: 2024-11-13T16:17:16.256Z
+date: 2024-11-19T20:51:25.174Z
+updated: 2024-11-23T21:47:14.052Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Play MKV/WMV in QuickTime?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -25,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe7
 "How do I open up a MKV/WMV in QuickTime?" this is an old problem might not be solved for every one of you, so here we provide new and more efficient solutions. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play WMV/MKV Videos in QuickTime Alternative 5KPlayer?
@@ -42,16 +43,7 @@ You'll see the main UI of this WMV/MKV player -sleek, elegant with buttons showc
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Open WMV/MKV files for playing in QuickTime alternative -5KPlayer.
@@ -64,10 +56,7 @@ c. Right click on the WMV/MKV file and navigate to "Open with" and choose 5KPlay
 ![How to Add Subtitles](https://www.5kplayer.com/video-music-player/img/5kplayer-how-to-add-subtitles-zjy-0420002.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This free MKV video player will start playing WMV/MKV videos in a matter of second.
@@ -79,10 +68,7 @@ Other than playing WMV/MKV files in replacement of QuickTime, 5KPlayer enables y
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -100,18 +86,17 @@ Other than playing WMV/MKV files in replacement of QuickTime, 5KPlayer enables y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pro-iphone-hdr-photos-made-easy/"><u>2024 Approved Pro iPhone HDR Photos Made Easy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Tecno</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/descubre-el-mejor-software-libre-para-escuchar-musica-perfectamente-con-calidad-excelente/"><u>Descubre El Mejor Software Libre Para Escuchar Música Perfectamente Con Calidad Excelente</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/discover-excellent-open-source-video-players-the-ultimate-guide-for-windows-11-users/"><u>Discover Excellent Open-Source Video Players: The Ultimate Guide for Windows 11 Users</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/efficient-steps-for-fixing-a-disappeared-d-drive-in-windows-11-a-comprehensive-tutorial/"><u>Efficient Steps for Fixing a Disappeared D Drive in Windows 11 – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-endorsed-srs-conversions-for-macwin-users/"><u>Expert-Endorsed SRS Conversions for Mac/Win Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-motorola-razr-40-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Motorola Razr 40? </u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-resolve-windows-tenth-generation-video-player-malfunctions/"><u>How to Resolve Windows Tenth-Generation Video Player Malfunctions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Find N3 FRP?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pop-8-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pop 8 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/scrutinizing-windows-n-features-which-to-choose/"><u>Scrutinizing Windows N Features: Which to Choose?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-avi-video-reader-apps-for-macos-users/"><u>Top Rated AVI Video Reader Apps for macOS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-w11s-print-management-secrets-max-56-chars/"><u>Unveiling W11’s Print Management Secrets (Max 56 Chars)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ranked-linuxs-foremost-screenshot-programs/"><u>[New] In 2024, Ranked Linux's Foremost Screenshot Programs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-12-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 12 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-complimentary-media-player-apps-for-macos-catalina-and-mojave-available-to-download-now/"><u>Best Complimentary Media Player Apps for macOS Catalina and Mojave, Available to Download Now</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/blu-ray-disc-freedom-how-to-enjoy-high-quality-movies-for-free-on-any-device/"><u>Blu-Ray Disc Freedom: How to Enjoy High-Quality Movies for Free on Any Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-cursor-issue/"><u>Clearing Up Black Cursor Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-for-upgrading-microsofts-windows-11-to-version-2004-with-conexant-support/"><u>Easy Guide for Upgrading Microsoft's Windows 11 to Version 2004 with Conexant Support</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-7-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 7 Plus for Free</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone XS Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-viewing-of-ultra-hd-video-content-on-your-windows-10-machine/"><u>Seamless Viewing of Ultra HD Video Content on Your Windows 10 Machine</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-iphone-lens-capabilities-in-ios-11-for-2024/"><u>Top 10 iPhone Lens Capabilities in iOS 11 for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-avi-video-player-for-mac-enjoy-any-avi-file-without-needing-to-convert/"><u>Top Rated AVI Video Player for Mac: Enjoy Any AVI File without Needing to Convert</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/trouble-with-dvds-in-windows-11-discover-the-easy-no-cost-ways-to-get-them-working-again/"><u>Trouble with DVDs in Windows 11? Discover the Easy, No-Cost Ways to Get Them Working Again!</u></a></li>
 </ul></div>
 

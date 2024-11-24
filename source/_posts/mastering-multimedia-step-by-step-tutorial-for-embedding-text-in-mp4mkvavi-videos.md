@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia: Step-by-Step Tutorial for Embedding Text in MP4/MKV/AVI Videos"
-date: 2024-11-08T01:07:53.899Z
-updated: 2024-11-13T10:59:47.612Z
+date: 2024-11-22T21:23:03.094Z
+updated: 2024-11-23T21:18:50.606Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Subtitles to MP4 YouTube Video
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -25,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -45,10 +46,7 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
@@ -63,10 +61,7 @@ Note that your **subtitle file should be placed under the same folder of your vi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
@@ -80,10 +75,7 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -101,14 +93,20 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[New] 2024 Approved The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-gaming-live-broadcast-tools/"><u>In 2024, Top-Tier Gaming Live Broadcast Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-image-to-video-conversion-made-easy-10-best-online-solutions-for-2024/"><u>New Image to Video Conversion Made Easy 10 Best Online Solutions for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-transform-your-photos-into-a-beautiful-video-2023-tutorial/"><u>New In 2024, Transform Your Photos Into a Beautiful Video 2023 Tutorial</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-pro-quality-sound-top-10-audio-editing-software-tools-for-2024/"><u>New Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimizing-power-usage-unlocking-secrets-of-the-windows-10-battery-diagnostics-feature/"><u>Optimizing Power Usage: Unlocking Secrets of the Windows 10 Battery Diagnostics Feature</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-avi-video-editor-reviews-our-top-picks/"><u>Updated Free AVI Video Editor Reviews Our Top Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-lenovos-screen-recording-process/"><u>[New] Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-beam-bright-navigating-the-world-of-snapchat-gifs/"><u>[New] In 2024, Beam Bright Navigating the World of Snapchat GIFS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-vr-tools-compilation-10-essentials/"><u>[New] The Ultimate VR Tools Compilation (10 Essentials)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultra-30-action-cameras-by-garmin-in-depth-analysis/"><u>[New] The Ultra 30 Action Cameras by Garmin - In Depth Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unseen-sides-novel-strategies-for-inverting-your-youtube-views/"><u>[Updated] Unseen Sides Novel Strategies for Inverting Your YouTube Views</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-explore-fb-moments-privately/"><u>2024 Approved Explore FB Moments Privately</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-daum-potplayer-installer-for-windows-10-top-downloads-and-alternative-media-players/"><u>Free Daum PotPlayer Installer for Windows 10: Top Downloads and Alternative Media Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-downloads-top-media-players-for-macos-catalina-and-big-sur-users/"><u>Free Downloads: Top Media Players for macOS Catalina and Big Sur Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-experience-effective-strategies-for-utilizing-chatgpt-from-microsoft/"><u>Maximizing Your Experience: Effective Strategies for Utilizing ChatGPT From Microsoft</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/premium-smart-tv-boxes-expert-reviews-and-comparisons-for-seamless-media-streaming-on-your-screen/"><u>Premium Smart TV Boxes: Expert Reviews and Comparisons for Seamless Media Streaming on Your Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-javascript-dll-issues-a-comprehensive-guide/"><u>Resolving JavaScript DLL Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/reviewing-the-leading-5-multimedia-players-compatible-with-windows-11-x64-vs-32-bit-variants-explained/"><u>Reviewing the Leading 5 Multimedia Players Compatible with Windows 11: X64 Vs. 32-Bit Variants Explained</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/section-4a-advanced-topic-international-regulation-and-trade-of-fireworks/"><u>Section 4A: Advanced Topic - International Regulation and Trade of Fireworks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-top-4-swf-emulators-to-play-games-animations-on-macwindows-10-a-comprehensive-review/"><u>The Top 4 SWF Emulators to Play Games, Animations on Mac/Windows 10 - A Comprehensive Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-no-cost-4k-uhd-media-viewer-for-windows-11-users/"><u>Top No-Cost 4K UHD Media Viewer for Windows 11 Users</u></a></li>
 </ul></div>
 

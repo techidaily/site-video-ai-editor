@@ -1,7 +1,7 @@
 ---
 title: Fix MP4 File Playback Issues in Windows Media Player, QuickTime & VLC
-date: 2024-11-10T03:34:08.841Z
-updated: 2024-11-13T18:19:13.962Z
+date: 2024-11-20T21:14:17.725Z
+updated: 2024-11-23T23:00:54.577Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solve MP4 Won't Play on Windows Media Player/QuickTime/VLC
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -31,6 +35,10 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 [\# QuickTime Can't Play MP4 File on Mac ->>](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [\# Fix MP4 Won't Play with VLC ->>](https://tools.techidaily.com/5kplayer/video-music-player/)  
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why You Can't Play MP4 Files?
 
@@ -69,17 +77,11 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
@@ -93,10 +95,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -120,13 +119,6 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -142,20 +134,15 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-master-your-audio-recordings-5-expert-methods-online/"><u>[New] 2024 Approved Master Your Audio Recordings 5 Expert Methods Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-pixelpie-cutter/"><u>[New] PixelPie Cutter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-platforms-for-animated-3d-creation/"><u>[New] Ultimate Platforms for Animated 3D Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-tips-for-saving-your-favorite-screened-events/"><u>In 2024, Expert Tips for Saving Your Favorite Screened Events</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-11-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 11 without Security Questions?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-online-face-makers-top-picks/"><u>New 2024 Approved Free Online Face Makers Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-how-to-create-home-dvds-with-best-movie-making-software/"><u>New How to Create Home DVDs with Best Movie Making Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-fcp-editing-mastery-5-must-know-tips-for-better-videos/"><u>New In 2024, FCP Editing Mastery 5 Must-Know Tips for Better Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-a-grip-on-your-footage-fcpx-video-stabilization-made-easy/"><u>New In 2024, Get a Grip on Your Footage FCPX Video Stabilization Made Easy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-vo-software-in-2e24-comparison-of-free-vs-paid-solutions/"><u>The Ultimate Guide to Choosing the Best VO Software in 2E24: Comparison of Free vs Paid Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-preventing-biomutant-from-crashing-on-pcs-latest-tips-for-2e24/"><u>Ultimate Guide to Preventing Biomutant From Crashing on PCs - Latest Tips for 2E24</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unveiling-windows-10s-hidden-tool-a-guide-to-identifying-your-systems-powershell-version/"><u>Unveiling Windows 10'S Hidden Tool: A Guide to Identifying Your System's PowerShell Version</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-laugh-share-repeat-the-best-face-swap-apps-for-iphone-and-android/"><u>Updated In 2024, Laugh, Share, Repeat The Best Face Swap Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users-for-2024/"><u>Updated The Art of Slow Motion Tips and Tricks for Windows Live Movie Maker Users for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-ideas-into-films-a-beginners-handbook-for-2024/"><u>Updated Transform Your Ideas Into Films A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ranking-top-non-gopro-waterproof-vr-and-action-cameras/"><u>[New] 2024 Approved Ranking Top Non-GoPro Waterproof VR and Action Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-pro-mastering-the-art-of-editing-via-polarr/"><u>2024 Approved From Novice to Pro Mastering the Art of Editing via Polarr</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-list-android-3d-viewing-tools/"><u>A-List Android 3D Viewing Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/effortless-guide-mastering-the-art-of-complete-hard-drive-cleanup-on-windows-servers/"><u>Effortless Guide: Mastering the Art of Complete Hard Drive Cleanup on Windows Servers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-magic-6-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Magic 6?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insider-review-of-the-ambient-weather-ws-1002-wifi-temperature-sensor-exceptional-performance-costly-purchase/"><u>Insider Review of the Ambient Weather WS-1002 WiFi Temperature Sensor – Exceptional Performance, Costly Purchase</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-online-video-blur-without-breaking-the-bank/"><u>New In 2024, Online Video Blur without Breaking the Bank</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-vn-video-editor-pro-review-does-it-live-up-to-the-hype-for-2024/"><u>New VN Video Editor Pro Review Does It Live Up to the Hype for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-rotate-your-avi-videos-for-free-top-picks-for-every-platform/"><u>Updated 2024 Approved Rotate Your AVI Videos for Free Top Picks for Every Platform</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-most-popular-animation-software-for-schools-and-universities/"><u>Updated In 2024, S Most Popular Animation Software for Schools and Universities</u></a></li>
 </ul></div>
 

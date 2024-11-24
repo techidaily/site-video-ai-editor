@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding the AV1 Video Compression Standard"
-date: 2024-11-12T23:40:49.568Z
-updated: 2024-11-14T02:48:30.478Z
+date: 2024-11-16T17:31:15.064Z
+updated: 2024-11-23T22:57:01.017Z
 tags:
   - video-music-player
 categories:
@@ -33,6 +33,10 @@ With flying news about **AV1 codec**, you may wonder what this kind of thing is.
 [4\. What Supports AV1 Video Codec?](https://tools.techidaily.com/5kplayer/video-music-player/)   
 [5\. How to Download AV1 Video Codec?](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is AV1 Codec?
 
 **AV1 – The Next Generation Video Compression Technology**
@@ -44,10 +48,7 @@ AV1 video codec, based on Google's VP9 and VP10 codec, is an open-source and roy
 AV1 is the product of AOMedia (Alliance for Open Media) which is made up by semiconductor firms, video on demand providers, video content producers, software development companies and web browser vendors including Google, Mozilla, Cisco, Microsoft, Netflix, Amazon and Intel as the seven founding members. To design a video format that can help fast delivery of high-definition web videos free of charge, the concept of AV1 codec firstly put forward in 2015 by this seven tech giants and finally the 1.0 specification for AV1 came out in 2018\. Seeing the big benefit of AV1, today more and more big name companies including Apple, YouTube, Facebook have joined AOM to help speed the spread of AV1 and final replacement to the high cost HEVC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why AV1 is Urgently Needed? \[Detailed Explanations\]
@@ -74,13 +75,6 @@ In 2013, VP9 was brought out by Google to have the same compression rate with HE
 
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player/img/av1-vs-vp9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _(AV1 vs. VP9 test from Bitmovin)_
 
 **[AV1 vs HEVC (H.265)](https://tools.techidaily.com/5kplayer/video-music-player/)**
@@ -92,6 +86,10 @@ AV1 can save up to 30%\~50% in bandwidth for the same image quality in HEVC. Bas
 ![AV1 VS HEVC](https://www.5kplayer.com/video-music-player/img/av1-vs-hevc.jpg) 
 
 _(AV1 vs. HEVC test from Bitmovin)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AV1 Adoption – What Supports AV1 Video Codec Now?
 
@@ -109,6 +107,10 @@ The adoption to AV1 codec is diverse, which includes online streaming services, 
 
 **Media Players:** Open-source media player VLC Media Player and [5KPlayer](https://tools.techidaily.com/5kplayer/products/) are the only two player software supporting AV1 at present.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Disadvantages of AV1 Codec
 
 The obvious shortcoming of AV1 video codec we find as of now is that the algorithms used in AV1 are a bit more advanced than that in HEVC, so it requires more powerful hardware and software to encode or decode. That's why [AV1 not playing](https://tools.techidaily.com/5kplayer/video-music-player/) problem occurs, that's why YouTube warns its users with error message like "anything above 480p will require a powerful computer", and that's why AV1 video format isn't popular among the public at present. Doesn't matter, AV1 finally will be a super star which has a bright future.
@@ -118,10 +120,7 @@ The obvious shortcoming of AV1 video codec we find as of now is that the algorit
 Besides the above mentioned things that support AV1, AV1 will be used on more platforms. According to news, AV1 will appear in game consoles, set-top boxes, processors, graphics cards (NVIDIA’s GeForce RTX™ 30 Series GPUs has added AV1 hardware decoding support and AMD RX 6000 Series GPUs will also support AV1 codec.), chipsets, more smart TVs from Samsung and LG brands, new Fire TV and Roku product, etc. All in all, a wider rollout of AV1 being impossible today will be possible in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Download AV1 Video Codec?
@@ -131,19 +130,6 @@ As a matter of fact, AV1 video codec download is truly needed for someone who wa
 In the latest version 6.2, 5KPlayer adds support for AV1 video decoding to make itself a qualified [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/). After testing, it plays AV1 videos in 720/1080p HD very smoothly. With the AV1 hardware decoding support to come, this AV1 codec player will also play 4K videos up to 30fps/60fps and even 8K without problems no matter you have a NVIDIA GeForce RTX™ 30 Series GPU computer or not. Though there are many sites offering AV1 video codec download links, it is not guaranteed that the source is 100% safe. As you know, codec downloaded from uncertain sites may conflict with your program and even do harm to your computer system. That's why 5KPlayer is highly suggested to be your AV1 player to play AV1 videos on Mac and Windows 10.
 
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _(5KPlayer plays AV1 video in 4K)_
 
@@ -173,22 +159,14 @@ _**Source:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-your-device-free-android-recorder/"><u>[New] 2024 Approved Capture Your Device – Free Android Recorder</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-step-by-step-approach-how-to-record-and-archive-online-radio/"><u>[New] In 2024, A Step-by-Step Approach How To Record & Archive Online Radio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-highlight-cover-art-inspiration-and-techniques-guide/"><u>[Updated] In 2024, Instagram Highlight Cover Art Inspiration & Techniques Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/clearer-captures-smartphone-specific-tripods-guide/"><u>Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-ultimate-connectivity-asrocks-z890-taichi-aqua-motherboard-features-10x-usb-type-c-and-2x-thunderbolt-ports/"><u>Experience Ultimate Connectivity: ASRock's Z890 Taichi Aqua Motherboard Features 10X USB Type-C & 2X Thunderbolt Ports</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-nail-art-masterclass-series/"><u>In 2024, Nail Art Masterclass Series</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ipad-pro-walls-of-inspiration-downloading-and-personalizing-your-device-in-ios-11/"><u>IPad Pro Walls of Inspiration: Downloading & Personalizing Your Device in iOS 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-s-top-picks-16-free-video-editing-software-for-beginners/"><u>New 2024 Approved S Top Picks 16 Free Video Editing Software for Beginners</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-fcpx-mastery-freeze-frames-slow-motion-and-beyond/"><u>New In 2024, FCPX Mastery Freeze Frames, Slow Motion, and Beyond</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-gopro-clips-a-comprehensive-mac-editing-tutorial/"><u>New Transform Your GoPro Clips A Comprehensive Mac Editing Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Max Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ar-skincare-secrets-top-youtubes-expertise/"><u>Stellar Skincare Secrets Top Youtube's Expertise</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unleash-dynamic-text-top-motion-tracking-software/"><u>Updated 2024 Approved Unleash Dynamic Text Top Motion Tracking Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-revolutionize-your-video-workflow-6-adobe-premiere-productivity-hacks-for-2024/"><u>Updated Revolutionize Your Video Workflow 6 Adobe Premiere Productivity Hacks for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-best-movie-trailer-makers-for-windows-and-mac/"><u>Updated The Ultimate List Best Movie Trailer Makers for Windows and Mac</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-timecode-calculators-web-iphone-and-android-apps/"><u>Updated The Ultimate List of Timecode Calculators Web, iPhone, and Android Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-vn-video-editor-mobile-app-review-editing-made-easy/"><u>Updated VN Video Editor Mobile App Review Editing Made Easy?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>[Updated] Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-quickly-locate-and-use-your-windows-11-boot-up-folder-a-simple-guide/"><u>How to Quickly Locate and Use Your Windows 11 Boot Up Folder: A Simple Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos/"><u>New Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-top-10-webm-to-mp4-conversion-tools-for-2024/"><u>New Transform Your Videos Top 10 WebM to MP4 Conversion Tools for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac/"><u>Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/probing-deep-into-inshots-editing-capabilities/"><u>Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/story-2-confusing-nash-with-cirrhosis-due-to-alcoholic-liver-disease-ald/"><u>Story 2: Confusing NASH with Cirrhosis Due to Alcoholic Liver Disease (ALD)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-hands-on-with-avs-video-editor-a-thorough-review-and-guide/"><u>Updated 2024 Approved Hands-On with AVS Video Editor A Thorough Review and Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-mp4-video-editing-software-2023-edition/"><u>Updated 2024 Approved The Ultimate Guide to Free MP4 Video Editing Software (2023 Edition)</u></a></li>
 </ul></div>
 
