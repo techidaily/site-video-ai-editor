@@ -1,7 +1,7 @@
 ---
 title: Resolving DVD Playback Issues in VLC on Windows 10 & MacOS
-date: 2024-11-25T19:00:46.355Z
-updated: 2024-12-02T03:53:35.682Z
+date: 2024-12-02T20:10:13.299Z
+updated: 2024-12-09T19:15:09.041Z
 tags:
   - video-music-player
 categories:
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix VLC Won't Play DVD Problems on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_ 
 
 Acknowledgedly, VLC is the most popular & powerful open source media player in the market. Even so, it does not mean this robust media player is perfect! A certain percentage of users do report that **VLC not playing DVD Windows 10/Mac** problem happens now and then, and they are unable to find a solution after trying very hard. Thus, we share the easy but effective solutions by steps to help you fix all kinds of VLC can't play DVD problems in minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What to Do When VLC Not Playing DVD Windows 10/Mac Occurs?
 
@@ -47,6 +47,10 @@ _Note: The first thing you should do is to check for update if your VLC is not p
 If you are using the latest version of VLC and still can't play DVD with it, do as follows:
 
 ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/set-vlc-preference-0113.png) ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/install-libdvdcss-0113.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Part 1 of Solution 1: Initiate DVD Playing Function of VLC**
 
@@ -74,6 +78,10 @@ _Note: After installing, VLC will automatically use them when playing DVDs._
 
 ![](https://www.5kplayer.com/video-music-player/img/install-keydb-0113.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Part 3 of Solution 1: ADD Keydb And Libaacs** 
 
 Some users found that VLC can't **play bluray DVD** due to the lack of AACS and BD + DRM libraries and keys. So if you are unable to play a bluray DVD, try the following steps:
@@ -98,7 +106,7 @@ If you have no fancy for VLC media player alternatives and stick to VLC, you can
 ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/rip-dvd-to-vlc-0113.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1.** Free Download WinX DVD Ripper and launch it.  
@@ -107,17 +115,9 @@ If you have no fancy for VLC media player alternatives and stick to VLC, you can
 _Note: The output profile window will automatically pop up the moment your DVD is imported._   
 **Step 4.** Hit "Run" button to start ripping DVD to VLC compatible formats.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Play DVD on Mac/PC with Best Free VLC Alternative-5KPlayer?
 
 Download, install and launch 5KPlayer [for Mac ![](https://www.5kplayer.com/video-music-player/../software/pic-style/dvd-video/01.png)](https://tools.techidaily.com/5kplayer/products/) or [for Windows ![](https://www.5kplayer.com/video-music-player/../software/pic-style/dvd-video/01.png)](https://tools.techidaily.com/5kplayer/products/), the best free DVD player software can play any DVD, ISO image, etc without hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 1.** Launch the free alternative to VLC media player that plays any region-free DVD on your Windows 10 & Mac.
 
@@ -130,7 +130,7 @@ Download, install and launch 5KPlayer [for Mac ![](https://www.5kplayer.com/vide
 ![Play DVD with 5KPlayer](https://www.5kplayer.com/video-music-player/img/5kplayer-dvd-player-software.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to fixing VLC can't play DVD problem on Windows 10 and Mac, the best DVD player software - 5KPlayer also focuses on [playing HD videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [downloading videos music from Dailymotion](https://tools.techidaily.com/5kplayer/youtube-download/), Vevo, Facebook and 300+ online sites. Moreover, it is a professional [DLNA server](https://tools.techidaily.com/5kplayer/dlna/) doing well in wirelessly streaming DVD/video/audio from Mac/PC to smart TV with original quality.
@@ -152,20 +152,20 @@ In addition to fixing VLC can't play DVD problem on Windows 10 and Mac, the best
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>[New] Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-masked-image-softening-tricks/"><u>[New] Mastering Masked Image Softening Tricks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>[New] Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-break-through-bot-barriers-rising-from-the-crowd-for-2024/"><u>[Updated] Break Through Bot Barriers Rising From the Crowd for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instant-visualization-techniques-for-timestamp-implementation/"><u>2024 Approved Instant Visualization Techniques for Timestamp Implementation</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/filmography-foundation-answer-hub-for-2024/"><u>Filmography Foundation Answer Hub for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/merge-mov-files-for-free-5-best-options-for-2024/"><u>Merge MOV Files for Free 5 Best Options for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-create-cinematic-magic-top-slow-motion-video-editors-for-2024/"><u>New Create Cinematic Magic Top Slow Motion Video Editors for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-make-a-lasting-impression-top-trailer-creation-tools/"><u>New In 2024, Make a Lasting Impression Top Trailer Creation Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-creativity-best-animation-software-for-students-and-teachers/"><u>New In 2024, Unleash Creativity Best Animation Software for Students and Teachers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-10-best-free-video-editors-for-ubuntu/"><u>New Top 10 Best Free Video Editors for Ubuntu</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-video-resumes-4-best-makers-with-free-templates-for-2024/"><u>The Ultimate Guide to Video Resumes 4 Best Makers with Free Templates for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-mastering-the-ken-burns-effect-a-step-by-step-guide-for-final-cut-pro-users/"><u>Updated 2024 Approved Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-beginners-handbook-to-instagrams-most-popular-feature-reels/"><u>[New] In 2024, The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ust-see-top-5-youtube-link-share-extensions/"><u>[New] Must-See Top 5 YouTube Link Share Extensions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-networks-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Networks: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/duelling-digitally-strategies-for-friendly-competition-in-pokemon-go/"><u>Duelling Digitally: Strategies for Friendly Competition in Pokémon GO</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-complet-pour-mettre-a-nuance-votre-ssd-de-la-serie-9-de-samsung-etapes-detaillees-expliquees/"><u>Guide Complet Pour Mettre À Nuance Votre SSD De La Série 9 De Samsung: Etapes Détaillees Expliquées!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-windows-11-login-method-from-pin-to-password/"><u>How to Change the Windows 11 Login Method From PIN to Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-open-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Open</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-watermark-free-video-joiners-for-seamless-edits/"><u>New Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-the-best-free-3gp-video-rotator-for-your-needs-top-recommendations/"><u>New Get the Best Free 3GP Video Rotator for Your Needs Top Recommendations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlocking-cinematic-potential-advanced-fcpx-techniques/"><u>New In 2024, Unlocking Cinematic Potential Advanced FCPX Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>New The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-echo-speaker-issues-what-to-do-when-alexa-wont-respond/"><u>Troubleshooting Echo Speaker Issues: What To Do When Alexa Won't Respond</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unlock-mp4-10-best-webm-to-mp4-conversion-software-for-2024/"><u>Unlock MP4 10 Best WebM to MP4 Conversion Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>Updated In 2024, Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-sony-camcorder-video-editing-tutorial-from-capture-to-completion/"><u>Updated Sony Camcorder Video Editing Tutorial From Capture to Completion</u></a></li>
 </ul></div>
 

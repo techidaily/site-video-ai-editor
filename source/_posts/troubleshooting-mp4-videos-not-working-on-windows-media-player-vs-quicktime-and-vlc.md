@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2024-11-30T21:54:54.702Z
-updated: 2024-12-02T00:46:21.152Z
+date: 2024-12-06T20:30:12.285Z
+updated: 2024-12-09T17:16:54.091Z
 tags:
   - video-music-player
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solve MP4 Won't Play on Windows Media Player/QuickTime/VLC
 
@@ -73,7 +69,11 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
@@ -87,11 +87,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -109,7 +105,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Notice:**  
@@ -118,6 +114,10 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
  \* When you play MP4 with 5KPlayer, this MP4 player also offers you the capability to stream MP4 videos to HDTV via [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,20 +134,22 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-hidden-gems-advanced-techniques-for-bokeh/"><u>[Updated] Instagram's Hidden Gems Advanced Techniques for Bokeh</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>2024 Approved Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-activate-or-deactivate-contactless-keyboard-windows/"><u>How to Activate or Deactivate Contactless Keyboard Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-12-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme 12 Pro+ 5G without App | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fundamentals-of-motion-design-and-practical-application/"><u>In 2024, Fundamentals of Motion Design & Practical Application</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo 60 5G</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison-for-2024/"><u>New Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-animation-software-for-education-a-2023-review/"><u>New In 2024, Best Animation Software for Education A 2023 Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-online-video-editors-for-social-media-vertical-videos/"><u>New In 2024, Best Online Video Editors for Social Media Vertical Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-preserve-your-memories-how-to-burn-videos-to-dvds-on-windows-and-mac/"><u>New In 2024, Preserve Your Memories How to Burn Videos to DVDs on Windows and Mac</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-social-bonds-impacts-of-facebooks-redesigned-dating/"><u>New Social Bonds: Impacts of Facebook's Redesigned Dating</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streamline-playlist-dissemination-on-youtube/"><u>Streamline Playlist Dissemination on Youtube</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-10-best-free-and-paid-2d-animation-software-for-2024/"><u>The Ultimate List 10 Best Free and Paid 2D Animation Software for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-windows-compatible-options-to-replace-sony-vegas-pro/"><u>Updated 2024 Approved Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-free-online-video-editors-a-comprehensive-guide/"><u>Updated In 2024, The Best Free Online Video Editors A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/econstructing-the-legal-framework-of-youtube-and-cc-licenses/"><u>[New] Deconstructing the Legal Framework of Youtube & CC Licenses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-expansion-via-youtube-outros-maximizing-visibility/"><u>[New] In 2024, Channel Expansion via YouTube Outros Maximizing Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-leading-list-for-best-vector-resources/"><u>[New] The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/iso-4/"><u>「最新ISO画像フォーマット規格を利用した作り方 - 優秀な選択肢4点解説」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-your-first-zoom-call-on-android/"><u>2024 Approved Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-refusal-to-execute-exe-files/"><u>Decoding Windows' Refusal to Execute .exe Files</u></a></li>
+<li><a href="https://win11.techidaily.com/extensive-expansion-excellent-not-entailed-in-mp60/"><u>Extensive Expansion, Excellent Not Entailed in MP60</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-troubleshoot-and-fix-m3u8-playback-issues-in-google-chrome-on-windows-pcs-2024-update/"><u>How to Troubleshoot and Fix M3U8 Playback Issues in Google Chrome on Windows PCs - 2024 Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/instant-access-your-personal-selection-of-videos-awaits-at-no-charge/"><u>Instant Access - Your Personal Selection of Videos Awaits at No Charge!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-audio-transcriber-no-cost-conversions-from-m4b-to-wav/"><u>Movavi's Web-Based Audio Transcriber: No Cost Conversions From M4B to WAV</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mp4-3gp/"><u>MP4への変換 - 3GP動画ファイル一度に効率的に変換手順</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/quick-start-technique-seamless-viewing-and-listening-of-mpeg-content-on-ios-devices/"><u>Quick Start Technique: Seamless Viewing & Listening of MPEG Content on iOS Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/real-time-video-optimizer-for-crisp-uninterrupted-playback-at-60-frames-per-second/"><u>Real-Time Video Optimizer for Crisp, Uninterrupted Playback at 60 Frames Per Second!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-powerpoint-enhancements-how-to-embed-videos-effortlessly/"><u>Seamless PowerPoint Enhancements: How to Embed Videos Effortlessly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210437704-9781856754941-the-little-book-of-palm-reading/"><u>The Little Book of Palm Reading | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/oggmp38/"><u>フリーソフトでシームレスに音楽変換！OGG形式へのMP3移行トップ8選</u></a></li>
 </ul></div>
 

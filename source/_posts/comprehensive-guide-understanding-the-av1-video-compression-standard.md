@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding the AV1 Video Compression Standard"
-date: 2024-11-24T16:26:17.578Z
-updated: 2024-12-01T16:57:24.421Z
+date: 2024-12-06T18:09:44.705Z
+updated: 2024-12-09T19:01:11.767Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything about AV1 Video Codec - Updating
@@ -71,10 +71,6 @@ In 2013, VP9 was brought out by Google to have the same compression rate with HE
 
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player/img/av1-vs-vp9.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _(AV1 vs. VP9 test from Bitmovin)_
 
 **[AV1 vs HEVC (H.265)](https://tools.techidaily.com/5kplayer/video-music-player/)**
@@ -85,11 +81,11 @@ AV1 can save up to 30%\~50% in bandwidth for the same image quality in HEVC. Bas
 
 ![AV1 VS HEVC](https://www.5kplayer.com/video-music-player/img/av1-vs-hevc.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _(AV1 vs. HEVC test from Bitmovin)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AV1 Adoption – What Supports AV1 Video Codec Now?
 
@@ -107,13 +103,13 @@ The adoption to AV1 codec is diverse, which includes online streaming services, 
 
 **Media Players:** Open-source media player VLC Media Player and [5KPlayer](https://tools.techidaily.com/5kplayer/products/) are the only two player software supporting AV1 at present.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Disadvantages of AV1 Codec
 
 The obvious shortcoming of AV1 video codec we find as of now is that the algorithms used in AV1 are a bit more advanced than that in HEVC, so it requires more powerful hardware and software to encode or decode. That's why [AV1 not playing](https://tools.techidaily.com/5kplayer/video-music-player/) problem occurs, that's why YouTube warns its users with error message like "anything above 480p will require a powerful computer", and that's why AV1 video format isn't popular among the public at present. Doesn't matter, AV1 finally will be a super star which has a bright future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Future of AV1 Video Codec
 
@@ -128,12 +124,16 @@ In the latest version 6.2, 5KPlayer adds support for AV1 video decoding to make 
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(5KPlayer plays AV1 video in 4K)_
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Source:**_ 
  _1\. https://en.wikipedia.org/wiki/AV1_ 
@@ -159,24 +159,24 @@ _**Source:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>[New] 2024 Approved From Rookie to Pro Unveiling the Secrets of Ginger Isle</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-pathway-setting-up-movie-maker-6-for-2024/"><u>[New] Perfect Pathway Setting Up Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-traveling-lens-quieter-assistant-360/"><u>[Updated] Traveling Lens Quieter Assistant 360°</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-ascend-youtube-rankings-through-optimal-dating/"><u>2024 Approved Ascend YouTube Rankings Through Optimal Dating</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-soundpeats-headphones-with-exceptional-noise-cancellation-and-long-lasting-battery-life-in-depth-review/"><u>Affordable Soundpeats Headphones with Exceptional Noise Cancellation & Long-Lasting Battery Life - In-Depth Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-collage-made-simple-a-quick-how-to/"><u>In 2024, Instagram Collage Made Simple A Quick How-To</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/love-and-loss-in-the-digital-age-7-ways-ai-fuels-romance-fraud/"><u>Love and Loss in the Digital Age: 7 Ways AI Fuels Romance Fraud</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-playful-teasing-on-social-media-wisely/"><u>Navigating Playful Teasing on Social Media Wisely</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-seamless-repeats-10-best-free-online-video-looping-solutions/"><u>New 2024 Approved Seamless Repeats 10 Best Free Online Video Looping Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-highlight-video-production-made-easy-top-desktop-and-mobile-apps-for-2024/"><u>New Highlight Video Production Made Easy Top Desktop and Mobile Apps for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creativity-a-comprehensive-guide-to-making-video-slideshows-with-final-cut-pro/"><u>New In 2024, Unleash Your Creativity A Comprehensive Guide to Making Video Slideshows with Final Cut Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-filmora-for-free-safe-and-legal-alternatives/"><u>New Unlock Filmora for Free Safe and Legal Alternatives</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/no-cost-dailymotion-video-downloader-and-converter-for-2024/"><u>No-Cost Dailymotion Video Downloader and Converter for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-logitech-g930-sound-cuts/"><u>Troubleshooting Guide: Addressing Logitech G930 Sound Cuts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-blade-e-flite-mcx2-ready-to-fly-rc-helicopter-features-and-performance-insights/"><u>Ultimate Guide to the Blade E-Flite mCX2 Ready-To-Fly RC Helicopter: Features and Performance Insights</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-gopro-video-post-production-on-mac-a-beginners-handbook-for-2024/"><u>Updated GoPro Video Post-Production on Mac A Beginners Handbook for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-5-free-mpeg-video-editing-tools-with-joining-feature/"><u>Updated Top 5 Free MPEG Video Editing Tools with Joining Feature</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-footage-mastering-the-ken-burns-effect-in-final-cut-pro-with-ease-for-2024/"><u>Updated Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-world-bliss-an-lg-360-vr-reveal-for-2024/"><u>[New] Virtual World Bliss An LG 360 VR Reveal for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-introduction-maker-apps-ios-vs-android-comparison-for-2024/"><u>[Updated] Best Introduction Maker Apps IOS vs Android Comparison for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-bring-your-youtube-vision-to-life-with-free-banner-resources/"><u>[Updated] Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlock-video-potential-leading-tools-turning-youtubes-to-avis/"><u>[Updated] Unlock Video Potential Leading Tools Turning YouTubes to Avis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-gaming-galore-the-ultimate-metaverse-list/"><u>2024 Approved Social Gaming Galore The Ultimate Metaverse List</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chirping-cha-cha-charade/"><u>Chirping Cha-Cha Charade</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78 5G Bootloader Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-your-multimedia-transfers-with-winx-mediatrans-the-1-solution-for-shifting-content-from-iphone-ipad-tofrom-your-computer/"><u>Master Your Multimedia Transfers with WinX MediaTrans: The #1 Solution for Shifting Content From iPhone, iPad To/From Your Computer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-cut-mkv-files-for-free-top-10-editor-recommendations/"><u>New 2024 Approved Cut MKV Files for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-filmora-download-without-viruses-or-malware-expert-advice/"><u>New 2024 Approved Free Filmora Download without Viruses or Malware Expert Advice</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-6-video-mergers-without-watermark-for-2024/"><u>New 6 Video Mergers Without Watermark for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-capturing-moments-how-to-turn-videos-into-photos-with-10-easy-converters/"><u>New In 2024, Capturing Moments How to Turn Videos Into Photos with 10 Easy Converters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-video-resume-mastery-top-4-tools-and-free-templates-for-success-for-2024/"><u>New Video Resume Mastery Top 4 Tools and Free Templates for Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-twitch-streaming-tools-reviewed-by-professionals-a-comprehensive-guide-to-the-most-effective-free-and-premium-apps-zdnet/"><u>Top Rated Twitch Streaming Tools Reviewed by Professionals: A Comprehensive Guide to the Most Effective Free & Premium Apps | ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-watermark-removal-hacks-with-and-without-payment/"><u>Updated 2024 Approved Filmora Watermark Removal Hacks With and Without Payment</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-cost-mkv-cutting-solutions-our-top-10-picks/"><u>Updated 2024 Approved No-Cost MKV Cutting Solutions Our Top 10 Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-online-video-shrinking-best-webm-compressors/"><u>Updated 2024 Approved Online Video Shrinking Best WebM Compressors</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-art-of-storytelling-creating-compelling-slideshows-in-final-cut-pro-for-2024/"><u>Updated The Art of Storytelling Creating Compelling Slideshows in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 
