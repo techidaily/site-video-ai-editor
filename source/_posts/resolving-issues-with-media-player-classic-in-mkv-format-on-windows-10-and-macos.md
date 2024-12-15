@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Media Player Classic in MKV Format on Windows 10 and macOS
-date: 2024-11-11T16:28:29.962Z
-updated: 2024-11-12T17:49:22.574Z
+date: 2024-12-09T22:47:36.188Z
+updated: 2024-12-15T18:42:40.605Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## \[Solved\] Media Player Classic MKV Problmes on Windows 10/Mac
 
@@ -45,9 +49,17 @@ For Intel Graphic Driver: http://downloadcenter.intel.com
 
 ![Media Player Classic alternative](https://www.5kplayer.com/video-music-player/img/5kplayer-icon-1202.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is obviously that it is quite complicated and time-consuming to reset all settings or download and install Media Player Classic MKV codec pack under the circumstance that your Media Player Classic is in big trouble. For an easier way, choose 5KPlayer, the best free [MKV video player](https://tools.techidaily.com/5kplayer/video-music-player/) for Windows 7/8/10 and Mac to play MKV AVI MTS M2TS MPEG etc files and 1080p HD 4K 8K videos movies on Windows PC and MacBook, MacBook Air, MacBook Pro, iMac without hassle. This Media Player Classic MKV alternative is also a powerful [MKV video downloader](https://tools.techidaily.com/5kplayer/youtube-download/) that can download MKV/FLV/AVI/4K/5K/8K etc. videos MP3/AAC/OGG etc music from 300+sites like YouTube, Dailymotion, Soundcloud, etc.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Media Player Classic is a compact media player for 32-bit and 64-bit Microsoft Windows, namely, Media Player Classic is specifically designed for Windows users. Despite that, there are also problems troubling Windows users like Media Player Classic Home Cinema can't play MKV, Media Player Classic MKV can't load subtitles, [Media Player Classic for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) can't rotate video, etc. Besides that, Media Player Classic is definitely not suitable for Mac users to [play MKV on Mac](https://tools.techidaily.com/5kplayer/video-music-player/).
 
@@ -87,16 +99,7 @@ _**Q:** Currently I am trying to play an HD mkv file that has embedded subtitles
 If the solution provided above can't solve the Media Player Classic not playing MKV error, it probably means the MPC on your computer can't play MKV files properly. And it is highly recommended that you turn to a more considerate way-download Media Player Classic MKV alternative 5KPlayer to solve Media Player Classic MKV no video/image/no sound/lag etc errors once for all.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play MKV Files with Media Player Classic MKV Alternative 5KPlayer
@@ -114,22 +117,12 @@ If the solution provided above can't solve the Media Player Classic not playing 
 ![Best Media Player Classic alternative](https://www.5kplayer.com/video-music-player/img/5kp-free-4k-movie-player-02.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With 5KPlayer, the best free MKV player, you can not only solve Media Player Classic not playing MKV error, but also [solve VLC not working](https://tools.techidaily.com/5kplayer/video-music-player/), [fix MplayerX white screen](https://tools.techidaily.com/5kplayer/video-music-player/), solve video audio out of sync, etc. flawlessly. Besides, it is also [AirPlay-enabled](https://tools.techidaily.com/5kplayer/airplay/) that you can stream MKV/AVI/WMV/FLV etc files from iPhone/iPad/Mac/PC to HDTV.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,16 +139,18 @@ With 5KPlayer, the best free MKV player, you can not only solve Media Player Cla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-alternatives.techidaily.com/2024-dvd5/"><u>2024年新着! DVD保護解除フリーソフトベスト5選 - お使い上手ガイド</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726028796064-videopad/"><u>易しいガイド - VideoPadによる簡単な動画カットテクニック</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726027706928-obs-studio/"><u>OBS Studioで効果的なスクリーン録画テクニック：「アノール選択使いこなし！」</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726028960991-pc/"><u>PC用動画改善：初学者のためのホワイトフラッシュ修正ガイド</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/reimagining-your-video-presentation-update-facebook-covers-today/"><u>Reimagining Your Video Presentation Update Facebook Covers Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-conversion-of-pages-file-into-editable-formats-on-your-windows-machine/"><u>Seamless Conversion of Pages File Into Editable Formats on Your Windows Machine</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-windows-10-photos-not-enough-explore-these-8-amazing-alternatives/"><u>Updated In 2024, Windows 10 Photos Not Enough? Explore These 8 Amazing Alternatives</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/usb-playback-compatibility-discover-all-the-videos-your-samsung-television-can-display/"><u>USB Playback Compatibility: Discover All the Videos Your Samsung Television Can Display</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/which-digital-versatile-disk-dvd-player-supports-various-video-file-types/"><u>Which Digital Versatile Disk (DVD) Player Supports Various Video File Types?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>[New] Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-innovative-video-editing-strategies-with-gopro-studio/"><u>[New] Innovative Video Editing Strategies with GoPro Studio</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-system-the-ultimate-upgrade-checklist/"><u>Elevate Your System: The Ultimate Upgrade Checklist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-your-farming-simulator-nteractive-solutions-when-it-wont-open/"><u>Get Your Farming Simulator Nteractive - Solutions When It Won't Open</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mp4-video-information-changers-top-editor-options/"><u>New In 2024, MP4 Video Information Changers Top Editor Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlocking-virtual-reality-how-to-convert-regular-videos-with-ease/"><u>New In 2024, Unlocking Virtual Reality How to Convert Regular Videos with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essential-guide-to-chatgpts-code-interpretation-and-its-crucial-impact/"><u>The Essential Guide to ChatGPT's Code Interpretation and Its Crucial Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-guide/"><u>Unveiling the Latest in Technology with Tom's Gear Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-8-best-professional-audio-editing-software-for-powerful-editing/"><u>Updated 2024 Approved 8 Best Professional Audio Editing Software for Powerful Editing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>Updated In 2024, Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-this-article-youll-get-the-best-free-video-hosting-sites-for-both-private-and-online-business-marketers-that-will-help-realize-your-goals/"><u>Updated In This Article, Youll Get the Best Free Video Hosting Sites for Both Private and Online Business Marketers that Will Help Realize Your Goals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-mastery-quick-solutions-for-windows-users/"><u>Wireless Mastery: Quick Solutions for Windows Users</u></a></li>
 </ul></div>
 

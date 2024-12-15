@@ -1,7 +1,7 @@
 ---
 title: Understanding the Latest Changes to Windows Media Player's Update Features
-date: 2024-11-08T20:28:33.523Z
-updated: 2024-11-13T07:43:44.858Z
+date: 2024-12-11T22:56:13.132Z
+updated: 2024-12-15T16:31:01.485Z
 tags:
   - video-music-player
 categories:
@@ -37,12 +37,20 @@ Feedbacks from users show Windows Media Player update is irreversible. So watch 
 
 ![enable automatic windows media player update](https://www.5kplayer.com/video-music-player/img/5k-wmp-update-yxt-151020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **How to Turn Off/On Windows Media Player Automatic Update?**  
  To enable automatic Windows Media Player update, first run the software:  
  Turn to Now Playing mode > click the Switch to Library button > Click the Help menu > click Check for Updates  
 **_Tips and Note:_** If the Help menu isn't visible, click > Organize > Layout > select Show Menu Bar
 
 ![windows media player codec update](https://www.5kplayer.com/video-music-player/img/h.265player.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Windows Media Player Codec Update**  
  Windows Media Player since its version 6.4 added support to [MKV video codec](https://tools.techidaily.com/5kplayer/video-music-player/), while the support for FLAC started since Windows 8\. Currently, Windows Media Player still boost strong support for its sibling WMV, WMA format. Hence to get a comprehensive video music codec support, you can 
@@ -57,10 +65,7 @@ Feedbacks from users show Windows Media Player update is irreversible. So watch 
  Open Windows Media Player > Locate Internet Explorer > Right click , choose Run as Administrator > Run IE > Tools > Internet Options > Enable Protected Mode > Apply
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Videos with Best Free Windows Media Player Alternative?
@@ -79,10 +84,7 @@ Support vast music format. Most importantly, boosting professional equalizers fo
 ![best free windows media player alternative](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Windows Media Player update powers your native Windows Media Player with more utilities to rely on, while an easier free alternative is here, if you don't feel like to do the selecting and reading work all the time, then try 5KPlayer. It's understandable that WMP always keeps reservations, but indeed you can turn to something simpler.
@@ -90,10 +92,7 @@ Windows Media Player update powers your native Windows Media Player with more ut
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,22 +110,20 @@ Windows Media Player update powers your native Windows Media Player with more ut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-laptoppc-video-editing-tools-apart-from-inshot/"><u>[Updated] Laptop/PC Video Editing Tools Apart From Inshot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-age-information-in-tiktok-profiles/"><u>[Updated] Optimizing Age Information in TikTok Profiles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-switch-up-digital-ordering-with-android-methods/"><u>[Updated] Switch Up Digital Ordering with Android Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[Updated] The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-mov-and-3gp-file-conversion-accessible-for-free/"><u>Effortless MOV and 3GP File Conversion - Accessible for FREE!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enjoy-uninterrupted-watching-fixed-netflix-streaming-on-xbox-one-devices/"><u>Enjoy Uninterrupted Watching: Fixed Netflix Streaming on Xbox One Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-resolving-windows-upgrade-frustrations/"><u>Essential Techniques for Resolving Windows Upgrade Frustrations</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lava-blaze-2-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lava Blaze 2 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-fast-forward-your-video-editing-time-lapse-techniques-in-final-cut-pro-for-2024/"><u>New Fast Forward Your Video Editing Time Lapse Techniques in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlocking-canon-video-potential-best-editing-software-and-tutorials/"><u>New In 2024, Unlocking Canon Video Potential Best Editing Software and Tutorials</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-videos-10-online-rotators-to-try/"><u>New Transform Your Videos 10 Online Rotators to Try</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-magic-vs-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor Magic Vs 2</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-essential-guide-to-choosing-the-best-3d-video-maker/"><u>The Essential Guide to Choosing the Best 3D Video Maker</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-fcp-top-5-editing-tricks-to-stay-ahead-of-the-curve-for-2024/"><u>Updated FCP Top 5 Editing Tricks to Stay Ahead of the Curve for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-pc-video-editing-with-vn-a-short-review-for-2024/"><u>Updated PC Video Editing with VN A Short Review for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-video-editing-software-options-beyond-final-cut-pro-x/"><u>Updated Top 10 Video Editing Software Options Beyond Final Cut Pro X</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-rated-free-webm-video-editing-tools-for-2024/"><u>Updated Top-Rated Free WebM Video Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-beyond-the-basics-non-inshot-pc-video-tools/"><u>[New] 2024 Approved Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[New] In 2024, Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-tomtom-gopro-alternative-a-2023-review/"><u>[Updated] 2024 Approved TomTom GoPro Alternative A 2023 Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/apowersoft-picks-the-ultimate-pc-screen-capture-solution/"><u>Apowersoft Picks The Ultimate PC Screen Capture Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-dell-audio-drivers-quick-and-easy-download-options/"><u>Get the Newest Dell Audio Drivers - Quick and Easy Download Options!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6s-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6s Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-streets-with-yakuza-like-a-dragon-seamlessly-optimized-for-your-pc-adventure/"><u>Mastering the Streets with Yakuza: Like a Dragon – Seamlessly Optimized for Your PC Adventure</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-gopro-video-editing-101-getting-started-with-quik-on-macbook/"><u>New 2024 Approved GoPro Video Editing 101 Getting Started with Quik on MacBook</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-slow-down-the-10-best-video-players-for-smooth-playback/"><u>New 2024 Approved Slow Down The 10 Best Video Players for Smooth Playback</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-gif-looping-software-for-animated-fun-2023-review/"><u>New Free GIF Looping Software for Animated Fun 2023 Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-merge-avi-videos-like-a-pro-top-10-free-tools-and-software-for-2024/"><u>New Merge AVI Videos Like a Pro Top 10 Free Tools and Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlock-the-power-of-microsoft-video-editor-windows-video-editing-tips-and-tricks-for-2024/"><u>New Unlock the Power of Microsoft Video Editor Windows Video Editing Tips and Tricks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/inting-youtube-comments-for-2024/"><u>Pinpointing YouTube Comments for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-stunning-animations-a-review-of-the-best-drawing-software/"><u>Updated 2024 Approved Create Stunning Animations A Review of the Best Drawing Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-footage-to-film-a-mac-users-guide-to-movie-making/"><u>Updated From Footage to Film A Mac Users Guide to Movie Making</u></a></li>
 </ul></div>
 

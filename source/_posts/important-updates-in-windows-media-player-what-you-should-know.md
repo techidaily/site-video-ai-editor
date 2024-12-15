@@ -1,7 +1,7 @@
 ---
 title: Important Updates in Windows Media Player - What You Should Know
-date: 2024-11-07T09:26:45.238Z
-updated: 2024-11-12T21:23:08.129Z
+date: 2024-12-14T20:07:14.845Z
+updated: 2024-12-15T17:09:28.118Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2c6f4ee5513cb1e8b97e0cba5952234ffb447e10a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Media Player Update: Risks and Guides
 
@@ -37,12 +41,20 @@ Feedbacks from users show Windows Media Player update is irreversible. So watch 
 
 ![enable automatic windows media player update](https://www.5kplayer.com/video-music-player/img/5k-wmp-update-yxt-151020.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **How to Turn Off/On Windows Media Player Automatic Update?**  
  To enable automatic Windows Media Player update, first run the software:  
  Turn to Now Playing mode > click the Switch to Library button > Click the Help menu > click Check for Updates  
 **_Tips and Note:_** If the Help menu isn't visible, click > Organize > Layout > select Show Menu Bar
 
 ![windows media player codec update](https://www.5kplayer.com/video-music-player/img/h.265player.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Windows Media Player Codec Update**  
  Windows Media Player since its version 6.4 added support to [MKV video codec](https://tools.techidaily.com/5kplayer/video-music-player/), while the support for FLAC started since Windows 8\. Currently, Windows Media Player still boost strong support for its sibling WMV, WMA format. Hence to get a comprehensive video music codec support, you can 
@@ -57,10 +69,7 @@ Feedbacks from users show Windows Media Player update is irreversible. So watch 
  Open Windows Media Player > Locate Internet Explorer > Right click , choose Run as Administrator > Run IE > Tools > Internet Options > Enable Protected Mode > Apply
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Videos with Best Free Windows Media Player Alternative?
@@ -79,22 +88,12 @@ Support vast music format. Most importantly, boosting professional equalizers fo
 ![best free windows media player alternative](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Windows Media Player update powers your native Windows Media Player with more utilities to rely on, while an easier free alternative is here, if you don't feel like to do the selecting and reading work all the time, then try 5KPlayer. It's understandable that WMP always keeps reservations, but indeed you can turn to something simpler.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitemac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,21 +110,20 @@ Windows Media Player update powers your native Windows Media Player with more ut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essential-guide-to-twitter-videos-and-aspect-ratios/"><u>[New] 2024 Approved Essential Guide to Twitter Videos and Aspect Ratios</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-secrets-revealed-how-to-convert-facebooks-hd-videos-to-mp4-for-free/"><u>[Updated] 2024 Approved Secrets Revealed How to Convert Facebook's HD Videos to MP4 for Free</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/bereik-gratuite-online-qt-to-mov-conversie-met-movavi/"><u>Bereik Gratuite Online QT-to-MOV-Conversie Met Movavi</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-sound-players-of-the-year-for-handling-multiple-audio-extensions-on-desktop-computers/"><u>Best Free Sound Players of the Year for Handling Multiple Audio Extensions on Desktop Computers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/discover-the-best-free-substitutes-for-mplayer-in-windows-10-complete-downloads-and-comparison/"><u>Discover the Best Free Substitutes for Mplayer in Windows 10: Complete Downloads and Comparison</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-tips-to-restore-functionality-of-broken-headset-microphones/"><u>DIY Tips to Restore Functionality of Broken Headset Microphones</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/effortless-movie-watching-the-three-best-techniques-for-playing-dvds-in-windows-10/"><u>Effortless Movie Watching: The Three Best Techniques for Playing DVDs in Windows 10</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-trial-of-dav-player-software-available-now-cross-platform-support-for-windows-and-macos-systems/"><u>Free Trial of DAV Player Software Available Now - Cross-Platform Support for Windows and macOS Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-magic-5-pro-by-drfone-android/"><u>How to Bypass FRP on Honor Magic 5 Pro?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-restore-functionality-of-windows-media-player-in-windows-11-systems/"><u>How to Restore Functionality of Windows Media Player in Windows 11 Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oneplus-11-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from OnePlus 11 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-instagram-interactions-with-emojis-stickers-and-gifs/"><u>Mastering Instagram Interactions with Emojis, Stickers, and GIFs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-for-safely-installing-av1-player-without-costs-on-windows-10/"><u>Step-by-Step Tutorial for Safely Installing AV1 Player without Costs on Windows 10</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-top-10-pick-best-music-player-apps-compatible-with-windows-11/"><u>The Ultimate Top 10 Pick: Best Music Player Apps Compatible with Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-star-citizen-from-crashing-on-pc/"><u>Troubleshooting Tips for Preventing Star Citizen From Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/youtube-playback-hiccups-how-to-make-sure-your-videos-keep-up-with-their-soundtracks-in-chrome-and-ff/"><u>Youtube Playback Hiccups: How to Make Sure Your Videos Keep Up With Their Soundtracks in Chrome and FF</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>[Updated] Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-how-to-for-controlling-youtube-playback-speed/"><u>[Updated] The Ultimate How-To for Controlling YouTube Playback Speed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-mp4-video-transfer-to-xbox-360-ultimate-guide/"><u>Effortless MP4 Video Transfer to Xbox 360 - Ultimate Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/experience-traditional-elegance-with-samsungs-iconic-tablet-the-gt-p1ercentage/"><u>Experience Traditional Elegance with Samsung's Iconic Tablet - The GT P1ercentage.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-tricks-to-optimize-the-use-of-googles-measure-app-on-android-devices/"><u>Expert Tips & Tricks to Optimize the Use of Google's Measure App on Android Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/factory-pro-hd-video-converter-advanced-support-for-h265-and-vp9-coding-formats/"><u>Factory Pro HD Video Converter: Advanced Support for H.265 & VP9 Coding Formats</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/factory-vs-pro-edition-unveiling-the-distinctions-of-iphone-video-converters/"><u>Factory Vs. Pro Edition: Unveiling the Distinctions of iPhone Video Converters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/hassle-free-techniques-for-switching-your-videos-from-mp4-to-superior-mpeg-4-format/"><u>Hassle-Free Techniques for Switching Your Videos From MP4 to Superior MPEG-4 Format</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/high-quality-wmv-conversion-steps-to-burn-a-dvd-into-windows-media-format/"><u>High-Quality WMV Conversion: Steps to Burn a DVD Into Windows Media Format</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-troubleshoot-and-fix-m3u8-playback-issues-in-google-chrome-on-windows-pcs-2024-update/"><u>How to Troubleshoot and Fix M3U8 Playback Issues in Google Chrome on Windows PCs - 2024 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>In 2024, Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
+<li><a href="https://facebook.techidaily.com/reasons-behind-upcoming-instagram-thread-cessation/"><u>Reasons Behind Upcoming Instagram Thread Cessation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-remarkable-effects-of-asmr-on-you/"><u>The Remarkable Effects of ASMR on You</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Media Player Classic MKV Issues in Windows 11 & Mac
-date: 2024-12-08T18:25:59.439Z
-updated: 2024-12-09T18:32:05.476Z
+date: 2024-12-12T17:11:23.042Z
+updated: 2024-12-15T17:55:55.624Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## \[Solved\] Media Player Classic MKV Problmes on Windows 10/Mac
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 Confused by Media Player Classic not playing MKV Problems, like Media Player Classic MKV no video/no sound, Media Player Classic MKV lag/subtitles not showing, Media Player Classic MKV green/black screen, MPC crashes when playing MKV? Why MPC can't play MKV files? How to smoothly play MKV files with Media Player Classic on Windows 10/8/7? Here you could find the best solution to **solve Media Player Classic MKV playing errors** on computer.
 
 ![](https://www.5kplayer.com/video-music-player/img/mpc-green-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **★ Media Player MKV Green Screen? \[Solved\]** 
 
@@ -49,13 +53,13 @@ For Intel Graphic Driver: http://downloadcenter.intel.com
 
 ![Media Player Classic alternative](https://www.5kplayer.com/video-music-player/img/5kplayer-icon-1202.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It is obviously that it is quite complicated and time-consuming to reset all settings or download and install Media Player Classic MKV codec pack under the circumstance that your Media Player Classic is in big trouble. For an easier way, choose 5KPlayer, the best free [MKV video player](https://tools.techidaily.com/5kplayer/video-music-player/) for Windows 7/8/10 and Mac to play MKV AVI MTS M2TS MPEG etc files and 1080p HD 4K 8K videos movies on Windows PC and MacBook, MacBook Air, MacBook Pro, iMac without hassle. This Media Player Classic MKV alternative is also a powerful [MKV video downloader](https://tools.techidaily.com/5kplayer/youtube-download/) that can download MKV/FLV/AVI/4K/5K/8K etc. videos MP3/AAC/OGG etc music from 300+sites like YouTube, Dailymotion, Soundcloud, etc.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Media Player Classic is a compact media player for 32-bit and 64-bit Microsoft Windows, namely, Media Player Classic is specifically designed for Windows users. Despite that, there are also problems troubling Windows users like Media Player Classic Home Cinema can't play MKV, Media Player Classic MKV can't load subtitles, [Media Player Classic for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) can't rotate video, etc. Besides that, Media Player Classic is definitely not suitable for Mac users to [play MKV on Mac](https://tools.techidaily.com/5kplayer/video-music-player/).
 
@@ -94,10 +98,6 @@ _**Q:** Currently I am trying to play an HD mkv file that has embedded subtitles
 
 If the solution provided above can't solve the Media Player Classic not playing MKV error, it probably means the MPC on your computer can't play MKV files properly. And it is highly recommended that you turn to a more considerate way-download Media Player Classic MKV alternative 5KPlayer to solve Media Player Classic MKV no video/image/no sound/lag etc errors once for all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Play MKV Files with Media Player Classic MKV Alternative 5KPlayer
 
 5KPlayer can well handle all video audio formats you throw at it including MKV, AVI, FLV, WMV, WMA, ASF, SWF, etc. with high-quality images and dulcet sounds remained.
@@ -113,7 +113,7 @@ If the solution provided above can't solve the Media Player Classic not playing 
 ![Best Media Player Classic alternative](https://www.5kplayer.com/video-music-player/img/5kp-free-4k-movie-player-02.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With 5KPlayer, the best free MKV player, you can not only solve Media Player Classic not playing MKV error, but also [solve VLC not working](https://tools.techidaily.com/5kplayer/video-music-player/), [fix MplayerX white screen](https://tools.techidaily.com/5kplayer/video-music-player/), solve video audio out of sync, etc. flawlessly. Besides, it is also [AirPlay-enabled](https://tools.techidaily.com/5kplayer/airplay/) that you can stream MKV/AVI/WMV/FLV etc files from iPhone/iPad/Mac/PC to HDTV.
@@ -121,7 +121,7 @@ With 5KPlayer, the best free MKV player, you can not only solve Media Player Cla
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -139,18 +139,22 @@ With 5KPlayer, the best free MKV player, you can not only solve Media Player Cla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-instagram-game-with-unique-highlight-images/"><u>[Updated] In 2024, Elevate Your Instagram Game with Unique Highlight Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-def-camera-the-top-audio-mics-guide/"><u>2024 Approved High-Def Camera The Top Audio Mics Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/er-youtubes-realms-a-step-by-step-video-uploading-guidebook-for-2024/"><u>Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-s23-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel S23 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Pro Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-and-software-tips-from-toms-digital-world/"><u>Mastering Hardware & Software Tips From Tom's Digital World</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-highlight-video-production-made-easy-top-desktop-and-mobile-apps/"><u>New Highlight Video Production Made Easy Top Desktop and Mobile Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-powerdirector-competitors-best-video-editors-for-android-and-ios/"><u>New PowerDirector Competitors Best Video Editors for Android & iOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-zero-budget-big-impact-the-best-free-online-video-editors-for-2024/"><u>New Zero Budget, Big Impact The Best Free Online Video Editors for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-meizu-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Meizu</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-capture-the-moment-freezing-frames-in-videos-made-simple/"><u>Updated 2024 Approved Capture the Moment Freezing Frames in Videos Made Simple</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-capture-to-edit-the-top-10-vlog-editor-apps-for-ios-and-android/"><u>Updated 2024 Approved From Capture to Edit The Top 10 Vlog Editor Apps for iOS and Android</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-web-top-rated-free-online-video-combiners-for-2024/"><u>Updated Best of the Web Top-Rated Free Online Video Combiners for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-voice-modification-gear-top-picks-for-creators/"><u>[New] 2024 Approved Voice Modification Gear Top Picks for Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-gaming-memories-made-easy-with-fraps/"><u>[Updated] 2024 Approved Gaming Memories Made Easy with Fraps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-harnessing-youtube-and-fb-techniques-for-maximum-engagement/"><u>[Updated] 2024 Approved Harnessing YouTube & FB Techniques for Maximum Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-photoshop-curves-decoded-a-beginners-guide/"><u>[Updated] In 2024, Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-spectacular-time-lapses-from-gopro-hdrs/"><u>2024 Approved Crafting Spectacular Time Lapses From GoPro HDRs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-key-to-generating-an-exclusive-tag-on-tiktok/"><u>In 2024, Key to Generating an Exclusive Tag on TikTok</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-for-dummies-top-software-recommendations/"><u>New 2024 Approved Video Editing for Dummies Top Software Recommendations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>New In 2024, Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-reaction-video-makers-to-watch/"><u>New In 2024, The Ultimate List of Reaction Video Makers to Watch</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>New Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/personalizing-your-pc-experience-a-step-by-step-guide-to-changing-your-wallpaper-in-windows-tips-from-yl-computing/"><u>Personalizing Your PC Experience: A Step-by-Step Guide to Changing Your Wallpaper in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-premium-zoom-audio-quality-with-simple-adjustments-for-2024/"><u>Unleash Premium Zoom Audio Quality with Simple Adjustments for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-breaking-down-the-clip-how-to-split-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved Breaking Down the Clip How to Split Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-windows-8-mp4-video-editor-simple-and-efficient-editing-solution/"><u>Updated 2024 Approved Windows 8 MP4 Video Editor Simple and Efficient Editing Solution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix/"><u>Updated In 2024, Streamline Your Video Editing Workflow on Mac with MKVtoolnix</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/weve-selected-the-five-best-free-video-compressor-apps-for-iphones-and-ipads-that-will-enable-you-to-shrink-your-videos-in-minutes-and-post-them-on-social-n/"><u>Weve Selected the Five Best Free Video Compressor Apps for iPhones and iPads that Will Enable You to Shrink Your Videos in Minutes and Post Them on Social Networks or Send Them Through Email and Mess</u></a></li>
 </ul></div>
 

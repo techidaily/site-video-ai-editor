@@ -1,7 +1,7 @@
 ---
 title: Looking for a Way to Enjoy Your Favorite Tunes From Apple Music without Relying on iTunes? Our Guide Provides You with Easy-to-Follow Steps and Alternative Methods to Stream Music Directly on Your Mac or PC. Learn How!
-date: 2024-11-08T18:15:01.115Z
-updated: 2024-11-13T05:36:02.675Z
+date: 2024-12-11T19:02:31.117Z
+updated: 2024-12-15T21:23:36.082Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Listen to Apple Music without iTunes on Mac/PC?
 
@@ -53,10 +57,7 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 ![Apple Music Web Browser](https://www.5kplayer.com/video-music-player/img/apple-music-web-browser.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Use 5KPlayer to Listen to Apple Music without iTunes on PC?
@@ -74,19 +75,17 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 ![Apple Music Streaming](https://www.5kplayer.com/video-music-player/../airplay/img/music-airplay-acorss-device.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove Downloaded Apple Music DRM & Play with 5KPlayer
@@ -96,13 +95,6 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 **Step 1\.** Download 5KPlayer mate [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/), install and run it on your computer.
 
 [![](https://www.5kplayer.com/video-music-player/../img/winx_btn.png)](https://www.5kplayer.com/download/dearmob-iphone-manager-file.exe) [![](https://www.5kplayer.com/video-music-player/../img/mac_btn.png)](https://www.5kplayer.com/download/dearmob-iphone-manager-file.dmg) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Connect your iPhone to your computer with the original Apple USB cable. Once connected, a "Trust this computer" message pops up on your iPhone and just tap "Allow" to continue.
 
@@ -129,16 +121,24 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-virtual-exploration-a-tactical-approach/"><u>[New] The Art of Virtual Exploration A Tactical Approach</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-integrated-sound-and-vision-workspace/"><u>[Updated] 2024 Approved Integrated Sound & Vision Workspace</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/boosting-video-loading-times-effective-techniques-for-faster-streaming-on-pcs-and-macs/"><u>Boosting Video Loading Times: Effective Techniques for Faster Streaming on PCs & Macs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-download-optimal-video-encoding-software-for-windows-11-media-streaming/"><u>Free Download: Optimal Video Encoding Software for Windows 11 Media Streaming</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/get-your-free-itunes-audio-player-for-microsofts-new-os-windows-11-edition/"><u>Get Your FREE iTunes Audio Player for Microsoft's New OS - Windows 11 Edition!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-activate-wake-on-lan-in-windows-10-and-11/"><u>How to Activate Wake-on-LAN in Windows 10 and 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-11r-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus 11R to iPad | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-c67-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme C67 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/understanding-virtual-reality-vr-essential-insights-on-the-world-of-3d-vr/"><u>Understanding Virtual Reality (VR): Essential Insights on the World of 3D VR</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-amds-zen-5-architecture-a-high-performance-115w-desktop-cpu-transformed-for-mobile-use-insights-on-the-rumored-ryzen-strix-halo-with-advanced-16-c54/"><u>Unveiling AMD's Zen 5 Architecture: A High-Performance 115W Desktop CPU Transformed for Mobile Use - Insights on the Rumored Ryzen Strix Halo with Advanced 16 Cores and RDNA iGPU</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-disentangling-fisheye-photos-from-gopro-footage-for-2024/"><u>[New] Disentangling Fisheye Photos From GoPro Footage for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-spotting-gone-from-your-friend-list/"><u>[Updated] In 2024, Spotting Gone From Your Friend List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860164858-2024-approved-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>2024 Approved Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excellence-in-mixology-can-chatgpt-whip-up-the-perfect-cocktail/"><u>Excellence in Mixology: Can ChatGPT Whip Up the Perfect Cocktail?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inefficiency-of-filespace-optimization/"><u>Overcoming Inefficiency of Filespace Optimization</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-powerpoint-enhancements-how-to-embed-videos-effortlessly/"><u>Seamless PowerPoint Enhancements: How to Embed Videos Effortlessly</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-solutions-for-watching-flv-videos-on-apple-mobile-devices/"><u>Seamless Solutions for Watching Flv Videos on Apple Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/selective-screen-recording-techniques-in-windows-11/"><u>Selective Screen Recording Techniques in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-why-is-blender-crashing-on-my-pc-how-to-make-it-stop/"><u>Solution Steps: Why Is Blender Crashing on My PC? How to Make It Stop?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-using-dvr-and-streaming-software-to-record-tv-programs-on-philo/"><u>Step-by-Step Guide: Using DVR and Streaming Software to Record TV Programs on Philo</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-watching-dvd-movies-on-your-windows-11-pc/"><u>Step-by-Step Guide: Watching DVD Movies on Your Windows 11 PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-adding-disneyplus-as-an-addon-in-kodi-version-20-and-19/"><u>Step-by-Step Tutorial: Adding Disney+ as an Addon in Kodi Version 20 & 19</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streamline-your-movie-experience-convert-wonderfox-dvds-for-ipad-viewing-now/"><u>Streamline Your Movie Experience - Convert WonderFox DVDs for iPad Viewing Now!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-4-methods-for-converting-wmv-files-into-mp4-format-across-windows-and-macos-platforms/"><u>Top 4 Methods for Converting WMV Files Into MP4 Format Across Windows & macOS Platforms</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-4-mp3-converters-from-insta-the-ultimate-guide-for-quick-sound-downloads/"><u>Top 4 MP3 Converters From Insta: The Ultimate Guide for Quick Sound Downloads !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-must-have-ebook-reader-applications/"><u>Top 8 Must-Have eBook Reader Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-tips-for-your-pc-wisdom-from-toms-experience/"><u>Unlocking Performance Tips for Your PC – Wisdom From Tom's Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally/"><u>Unveiling the Secrets An Overview of Using EZ Grabber Professionally</u></a></li>
 </ul></div>
 
