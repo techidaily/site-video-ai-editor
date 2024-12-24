@@ -1,7 +1,7 @@
 ---
 title: Resolve PlayMedia Player's Empty Display Issue on macOS
-date: 2024-12-08T22:54:55.057Z
-updated: 2024-12-15T16:59:47.858Z
+date: 2024-12-17T20:20:44.190Z
+updated: 2024-12-24T16:53:11.190Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix MplayerX White Screen Problem on Mac OS X
@@ -43,7 +43,7 @@ What's more, this MplayerX alternative is also an [AirPlay Sender & Receiver](ht
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Solution 2 to Solve MplayerX White Screen Problem – Download MplayerX from Webpage**
@@ -51,7 +51,7 @@ What's more, this MplayerX alternative is also an [AirPlay Sender & Receiver](ht
 If you insist on using MplayerX, it is recommended that you download the installation pack from websites instead of App store as the downloaded player's version from webpage is the newest and there is "Check For Update" menu on the player. One thing to note is that the "recommended" quick install will change your default search provider and homepage to Yahoo, and install crapware/adware on your Mac. Therefore, to solve MplayerX white screen problem safely, it is highly recommended that you use a MplayerX alternative like 5KPlayer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Files with MplayerX Alternative 5KPlayer
@@ -65,6 +65,10 @@ If you insist on using MplayerX, it is recommended that you download the install
 
 ![Fullscreen Play Videos Movies](https://www.5kplayer.com/video-music-player/img/5kplayer-play-video-free.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Part 2\. Play Videos Movies Music on HDTV with the MplayerX Alternative** 
 
 With built-in AirPlay function, this MplayerX alternative can stream MP4 MOV M4V videos movies music MP3 on iPhone/iPad/Mac/PC to HDTV via Bonjour protocol.
@@ -75,16 +79,12 @@ With built-in AirPlay function, this MplayerX alternative can stream MP4 MOV M4V
 
 ![play videos music on HDTV](https://www.5kplayer.com/video-music-player/img/5k-airplay-airplay-with-win10-xsy-15021502.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This MplayerX alternative is quite ideal for you to solve MplayerX white screen problem when you play or fullscreen play videos movies. Besides that, it is also a powerful [video music downloader](https://tools.techidaily.com/5kplayer/youtube-download/) with great adaptability to 4K 8K 1080p AVL MKV WMV FLV MPEG MTS M2TS etc videos MP3 AAC OGG FLAC music download from 300+ sites like YouTube, Dailymotion, Vevo and so on.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -102,19 +102,22 @@ This MplayerX alternative is quite ideal for you to solve MplayerX white screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-framework-perfecting-live-broadcasts-via-obs-and-zoom/"><u>[Updated] In 2024, The Ultimate Framework Perfecting Live Broadcasts via OBS & Zoom</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-15-handhentic-hd-cameras-for-action/"><u>[Updated] Top 15 Handhentic HD Cameras for Action</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-video-quality-comparison-mirrorless-or-dslr-cameras/"><u>[Updated] Video Quality Comparison Mirrorless or DSLR Cameras?</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g22-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G22 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/high-quality-mkv-to-ts-conversion-techniques-a-step-by-step-guide/"><u>High-Quality MKV to TS Conversion Techniques - A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-download-filmora-free-and-safe-avoiding-viruses-and-scams-for-2024/"><u>New Download Filmora Free and Safe Avoiding Viruses and Scams for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-elevate-your-edit-5-advanced-final-cut-pro-techniques-to-try-now/"><u>New Elevate Your Edit 5 Advanced Final Cut Pro Techniques to Try Now</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-find-the-suggestions-for-sites-that-are-alternatives-to-the-filmora-coupon-code-reddit-these-coupon-sites-offer-different-deals-and-discounts-for-2024.m/"><u>New Find the Suggestions for Sites that Are Alternatives to the Filmora Coupon Code Reddit. These Coupon Sites Offer Different Deals and Discounts for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-dvr-showdown-tivo-takes-on-comcast-in-the-ultimate-battle-for-your-tv-time/"><u>New In 2024, DVR Showdown TiVo Takes on Comcast in the Ultimate Battle for Your TV Time</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-introducing-tips-on-how-to-convert-and-download-4k-video-in-mp4-format-or-any-other-video-formats-like-avi-mov-and-wmv-for-2024/"><u>New Introducing Tips on How to Convert and Download 4K Video in MP4 Format or Any Other Video Formats Like AVI, MOV and WMV for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-disconnects-expert-tips-for-connecting-your-xbox-one-to-xbox-live-solved/"><u>No More Disconnects: Expert Tips for Connecting Your Xbox One to Xbox Live (Solved)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-your-skin-safe-iphone-eraser-today-shop-now/"><u>Secure Your Skin-Safe iPhone Eraser Today – Shop Now!</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-role-of-swot-analysis-in-shaping-a-robust-business-model-for-2024/"><u>The Role of SWOT Analysis in Shaping a Robust Business Model for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-top-stop-motion-animation-solutions-for-mac-and-pc/"><u>The Top Stop Motion Animation Solutions for Mac and PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-luts-unveiled-transforming-the-lands-market/"><u>[New] 2024 Approved LUTs Unveiled Transforming the Lands Market</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-comprehensive-sync-protocol-for-iphone-to-snapchat-media-for-2024/"><u>[New] Comprehensive Sync Protocol for iPhone to Snapchat Media for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-creating-seamless-meeting-transitions-with-slackplusfilmora-for-2024/"><u>[New] Creating Seamless Meeting Transitions with Slack+Filmora for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>[New] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exquisite-solution-for-vr-adventures-for-2024/"><u>Exquisite Solution for VR Adventures for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/iphone-guide-to-designing-responsive-user-friendly-digital-books-with-flip-pdf-app-flipbuildercom/"><u>IPhone Guide to Designing Responsive, User-Friendly Digital Books with Flip PDF App [FlipBuilder.com]</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/match-merge-and-master-color-correction-in-fcp-for-2024/"><u>Match, Merge, and Master Color Correction in FCP for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-fcpx-optimization-tips-and-tricks-to-reclaim-disk-space/"><u>New In 2024, FCPX Optimization Tips and Tricks to Reclaim Disk Space</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New In 2024, Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-vn-video-editor-pro-apk-a-game-changer-for-mobile-video-editing/"><u>New In 2024, VN Video Editor Pro Apk A Game-Changer for Mobile Video Editing?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-errors-rejuvenating-windows-11s-troubleshooting-tools/"><u>Resolving Errors: Rejuvenating Windows 11'S Troubleshooting Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/targeted-thought-leadership-with-profound-fb-video-strategies-for-2024/"><u>Targeted Thought Leadership with Profound FB Video Strategies for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-recording-video-games-3-simple-ways-for-2024/"><u>The Ultimate Guide to Recording Video Games 3 Simple Ways for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly/"><u>The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-to-create-top-14-watermark-free-video-editing-software-and-beyond/"><u>Updated 2024 Approved Free to Create Top 14 Watermark-Free Video Editing Software and Beyond</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>Updated 2024 Approved From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
 </ul></div>
 
