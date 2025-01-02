@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP3 Playback Issues on Windows Media Player
-date: 2024-12-20T19:14:37.260Z
-updated: 2024-12-24T20:02:38.485Z
+date: 2024-12-28T05:26:09.991Z
+updated: 2025-01-02T05:24:33.760Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/038b33e78fe302b91af695dca9492d5a59b454dc5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -31,7 +27,7 @@ MP3 is the most common music compression format being used all over the world. F
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
@@ -47,7 +43,7 @@ It is a tragedy for some Windows Media Player users that they are not able to pl
 ![Windows Media Player cannot play mp3](https://www.5kplayer.com/video-music-player/img/windows-media-player-mp3-1201.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **How to Fix Windows Media Player Cannot Play MP3 Problem?**
@@ -63,7 +59,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -83,12 +79,16 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,19 +105,21 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-curated-interview-insights-engaging-podcast-audience/"><u>[New] 2024 Approved Curated Interview Insights Engaging Podcast Audience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-augment-pixel-tiles-with-concentric-blur-magic-ps/"><u>[New] In 2024, Augment Pixel Tiles with Concentric Blur Magic PS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-novices-guide-to-hassle-free-nft-generation/"><u>[Updated] Novice's Guide to Hassle-Free NFT Generation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banishing-the-hiccups-effective-fixes-for-overwatchs-freezing-problems/"><u>Banishing the Hiccups: Effective Fixes for Overwatch's Freezing Problems</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effizientes-organisieren-zwei-fuhrende-verfahren-fur-den-synchronen-datenaustausch-in-windows-11/"><u>Effizientes Organisieren: Zwei Führende Verfahren Für Den Synchronen Datenaustausch in Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 12 Pro+ 5G?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-the-newest-asus-xonar-dgx-drivers-today/"><u>How to Obtain and Install the Newest ASUS Xonar DGx Drivers Today!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-from-disc-to-digital-how-to-transfer-your-dvd-collection-to-computer-or-mobile-for-2024/"><u>New From Disc to Digital How to Transfer Your DVD Collection to Computer or Mobile for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>New In 2024, Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-take-a-screenshot-share-the-fun-a-guide-to-ps4-online-sharing-for-2024/"><u>New Take a Screenshot, Share the Fun A Guide to PS4 Online Sharing for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-picks-the-best-free-and-paid-2d-animation-software-for-beginners-and-pros-alike-for-2024/"><u>New Top Picks The Best Free and Paid 2D Animation Software for Beginners and Pros Alike for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-free-imovie-substitutes-top-picks/"><u>Updated Best Free iMovie Substitutes Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-security-camera-software-reviews-top-10-options/"><u>Updated Free Security Camera Software Reviews Top 10 Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-vob-video-editors-for-2024/"><u>Updated The Ultimate List of Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-exploring-the-finest-no-cost-video-editing-software/"><u>[New] In 2024, Exploring the Finest No-Cost Video Editing Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-macos-sierras-reversion-to-el-capitan/"><u>[New] Navigating MacOS Sierra's Reversion to El Capitan</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/access-free-high-quality-wav-audio-player-supporting-macos-and-pc-systems/"><u>Access Free High-Quality WAV Audio Player Supporting macOS & PC Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/boosting-video-loading-times-effective-techniques-for-faster-streaming-on-pcs-and-macs/"><u>Boosting Video Loading Times: Effective Techniques for Faster Streaming on PCs & Macs</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-f04-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy F04 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-download-optimal-video-encoding-software-for-windows-11-media-streaming/"><u>Free Download: Optimal Video Encoding Software for Windows 11 Media Streaming</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-downloads-of-media-player-classic-for-windows-1186-bit-systems-available-here/"><u>Free Downloads of Media Player Classic for Windows 11/86-Bit Systems Available Here!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/gardyn-home-kit-review-a-user-friendly-innovative-smart-garden-for-year-round-fresh-produce-zdnet-insight/"><u>Gardyn Home Kit Review: A User-Friendly, Innovative Smart Garden for Year-Round Fresh Produce | ZDNET Insight</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-the-new-media-player-software-patch-on-windows-11-free-download-now/"><u>Get the New Media Player Software Patch on Windows 11 – Free Download Now!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-your-free-itunes-audio-player-for-microsofts-new-os-windows-11-edition/"><u>Get Your FREE iTunes Audio Player for Microsoft's New OS - Windows 11 Edition!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone SE (2022)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reel-in-the-solution-to-instagram-video-glitches/"><u>In 2024, Reel in the Solution to Instagram Video Glitches</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-tips-for-sharing-twitter-videos-via-instagram/"><u>In 2024, Tips for Sharing Twitter Videos via Instagram</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-8k-movie-viewing-tips-for-imac-and-pc-users/"><u>Seamless 8K Movie Viewing Tips for iMac and PC Users</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-defenses-adding-firewall-to-the-context-menu/"><u>Streamlining Windows 11 Defenses: Adding Firewall to the Context Menu</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-world-or-illusion-debunking-metaverse-myths/"><u>Virtual World or Illusion? Debunking Metaverse Myths</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Get QuickTime to Play WMV Movies on Both Mac OSX and Windows PCs"
-date: 2024-12-19T20:14:10.458Z
-updated: 2024-12-24T17:58:35.171Z
+date: 2024-12-28T23:45:59.503Z
+updated: 2025-01-02T03:39:11.837Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## \[Solved\] QuickTime Won't Play WMV Files on Mac/Windows
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_ 
@@ -36,12 +32,16 @@ QuickTime won't play WMV issue happens as WMV (Windows Media Video) is a video f
 
 ![Flip4Mac](https://www.5kplayer.com/video-music-player/img/flip4mac.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 How to play WMV on QuickTime? Flip4Mac is surely the best third-party plugin that you can install into Mac OS to solve QuickTime won't play WMV on Mac directly. Download and install the Flip4Mac component on your computer, this application will attach itself to QuickTime. When WMV files are activated, they are played directly through QuickTime, instead of jumping out the error message. The Flip4Mac WMV plug-in also works with other QuickTime based apps like iMovie and Final Cut Pro, meaning you can even edit WMV files on your Mac too.
 
 But if you want to import WMV files for editing and conversion to more QuickTime formats or iOS devices, you need to upgrade to the pro version with $29\. Moreover, it is not compatible with Windows OS. So, there is only one feasible way for you to play WMV on Mac and Windows – QuickTime alternative 5KPlayer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Ways to Solve QuickTime Won't Play WMV Issue
@@ -67,14 +67,10 @@ Therefore, 5KPlayer is the [best free WMV player](https://tools.techidaily.com/5
 
 ![Best WMV Player](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **QuickTime Won't Play WMV Solution 2: Convert WMV to QuickTime-supported Formats**
@@ -93,6 +89,10 @@ If you insist to retain your QuickTime Player, how to solve QuickTime can't play
 
 ![Convert WMV](https://www.5kplayer.com/video-music-player/img/convert-wmv.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alternatively, some [online video converters](https://tools.techidaily.com/5kplayer/youtube-download/) allow you to convert WMV by just uploading and then downloading the converted file without any money or installation if you are not afraid of the possible virus that some ad links bring. 
 
 However, when you convert WMV to QT-supported formats like MOV, QuickTime won't play WMV on Windows PC as usual. Obviously, it is not an ideal solution, at least for Windows users. Advisably, free download 5KPlayer to help you [play WMV on Mac](https://tools.techidaily.com/5kplayer/video-music-player/)/Windows.
@@ -102,7 +102,7 @@ In conclusion, 5KPlayer, as a powerful video music player, is the best and consi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -120,17 +120,22 @@ In conclusion, 5KPlayer, as a powerful video music player, is the best and consi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-date-labeling-tips-for-image-archivists/"><u>[New] Date Labeling Tips for Image Archivists</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/44cm5yig5ymy44gx44gf5yuv55s744gu57ml44go5zci44kp44gb44go57wq5zci5oml6acg44cn/"><u>「分割した動画の繋ぎ合わせと結合手順」</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-mix-fold-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Mix Fold 3 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/intellectual-property-rules-for-instagram-beats/"><u>Intellectual Property Rules for Instagram Beats</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-investing-in-a-screen-shield-essential-for-your-smartphones-health-and-longevity/"><u>Is Investing in a Screen Shield Essential for Your Smartphone's Health and Longevity?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-guide-to-next-level-english-fluency/"><u>Mondly's Guide to Next-Level English Fluency</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/monitoring-instagram-disconnects-immediately-for-2024/"><u>Monitoring Instagram Disconnects Immediately for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-video-game-best-mac-video-editing-apps/"><u>New 2024 Approved Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unlock-pro-level-video-editing-on-windows-8-and-beyond-for-2024/"><u>Unlock Pro-Level Video Editing on Windows 8 and Beyond for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-final-cut-pro-for-less-take-advantage-of-our-education-discount/"><u>Updated 2024 Approved Get Final Cut Pro for Less Take Advantage of Our Education Discount</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc/"><u>Updated In 2024, The Ultimate List of Stop Motion Animation Programs for Mac and PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-avoiding-consequences-when-quitting-discord-spaces-for-2024/"><u>[New] Avoiding Consequences When Quitting Discord Spaces for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[New] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-power-essential-5-tips-and-examples-from-pros-for-2024/"><u>[New] Unlocking Instagram's Power Essential 5 Tips & Examples From Pros for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-make-your-gaming-great-not-stressful/"><u>[Updated] In 2024, Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visual-interest-utilizing-secondary-footage-wisely/"><u>Enhancing Visual Interest Utilizing Secondary Footage Wisely</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-poco-c55-frp-by-drfone-android/"><u>Full Guide to Bypass Poco C55 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c02-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C02 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-watermark-free-video-joiners-for-seamless-edits/"><u>New Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-fcpx-mastery-creating-professional-looking-lower-thirds/"><u>New FCPX Mastery Creating Professional-Looking Lower Thirds</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>New The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/sony-vegas-not-cutting-it-find-the-perfect-windows-alternative-here/"><u>Sony Vegas Not Cutting It? Find the Perfect Windows Alternative Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sounds-shifting-on-your-airpods-try-turning-off-dynamic-head-tracking/"><u>Struggling with Sounds Shifting on Your AirPods? Try Turning Off Dynamic Head Tracking</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-best-ipad-video-editing-apps-for-creators-2024-edition/"><u>The Best iPad Video Editing Apps for Creators 2024 Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-fix-for-libeay3e-dll-not-found-mishaps-on-your-pc/"><u>The Definitive Fix for Libeay3e DLL Not Found Mishaps on Your PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-free-video-hosting-solutions-for-individuals-and-businesses-for-2024/"><u>Updated Best Free Video Hosting Solutions for Individuals and Businesses for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>Updated In 2024, Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-vn-video-editor-apk-review-a-powerful-video-editing-tool/"><u>Updated VN Video Editor APK Review A Powerful Video Editing Tool?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Media Player Troubleshooting: Fixing Unplayable Mov Files"
-date: 2024-12-21T18:41:18.059Z
-updated: 2024-12-24T19:02:55.495Z
+date: 2024-12-31T02:31:24.011Z
+updated: 2025-01-01T20:01:53.244Z
 tags:
   - video-music-player
 categories:
@@ -26,6 +26,10 @@ How to play .mov file in Windows Media Player smoothly? Here we will talk about 
 
 You are also suggested to [convert MOV to MP4 to play MOV files on Mac and Windows 11/10 >>](https://tools.techidaily.com/winxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MOV Won't Play Window Media Player Problems:
 
 "I upload moves from my KODAK digital camera. The are 'transformed' into .MOV files. The won't play properly using WINDOWS MEDIA PLAYER (windows 7). I.E. only the audio plays........no video plays. Do I need to download REALPLAYER?"
@@ -33,10 +37,6 @@ You are also suggested to [convert MOV to MP4 to play MOV files on Mac and Windo
 "I have Vista 64\. My camera takes 1080p video in .Mov format, so I have to install Apple Craptime (quicktime) to play the movies on my computer. I absolutely hate Quicktime and end up uninstalling it after watching the videos, then I have to re-install to watch them again. Annoying. I brought my flash drive with the movies on it to my friends house, she has Windows 7, which I installed on her older computer. The movies all show up as WMP files and play on WMP."
 
 "Windows Media Player cannot play the file. The Player might not support the file type or might not support the codec that was used to compress the file."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Mov File Won't Play in Windows Media Player?
 
@@ -52,7 +52,7 @@ iPhone 6s and above iOS devices record MOV videos generally in 30fps in 4K, or 1
 Corrupted broken MOV files usually cannot open in many media player software including Windows Media Player. Specific media players, i.e. 5KPlayer, VLC, can handle corrupted/broken MOV files or MOV files in the raw form, because they can skip certain part of the video and seek the unbroken parts to read. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MOV File on Windows Media Player
@@ -79,7 +79,11 @@ This free MOV player, in comparison with Windows Media Player, is way more effic
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MOV on Windows 10/7 Using 5KPlayer?
@@ -93,16 +97,12 @@ Note: to convert MOV to MP3, simply locate the file in your playlist and click o
 
 ![Play MOV on Windows 10/7](https://www.5kplayer.com/video-music-player/img/dvd-player.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5KPlayer is your second to none choice to solve MOV file not playing in Windows Media Player, and enable you to realize MOV conversion and MOV AirPlay. The performance of this all in one multimedia player can 100% beat that of Windows Media Player, providing world class visual enjoyment. 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -120,17 +120,24 @@ Note: to convert MOV to MP3, simply locate the file in your playlist and click o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-self-play-feature-in-facebook-videos/"><u>[New] Mastering the Self-Play Feature in Facebook Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-hidden-paths-to-pristine-stock-photography/"><u>[Updated] The Hidden Paths to Pristine Stock Photography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-budget-oriented-chinas-vr-equipment-selection/"><u>2024 Approved Budget-Oriented China's VR Equipment Selection</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find N3 Flip</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-streamline-your-edit-efficient-color-matching-techniques-for-final-cut-pro-users/"><u>New 2024 Approved Streamline Your Edit Efficient Color Matching Techniques for Final Cut Pro Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-final-cut-pro-voice-over-hacks-get-professional-results-fast-for-2024/"><u>New Final Cut Pro Voice Over Hacks Get Professional Results Fast for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-gif-looping-made-easy-best-free-software-for-2024/"><u>New GIF Looping Made Easy Best Free Software for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/official-4-best-ways-to-get-filmora-discount-codes/"><u>Official 4 Best Ways to Get Filmora Discount Codes</u></a></li>
-<li><a href="https://win-news.techidaily.com/tailor-your-windows-10-start-menu-for-enhanced-usability-with-tips-from-yl-software-experts/"><u>Tailor Your Windows 10 Start Menu for Enhanced Usability with Tips From YL Software Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits-2023-for-2024/"><u>Updated The Ultimate Mac Video Editor MKVtoolnix Features and Benefits 2023 for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-20-greatest-sandbox-experiences-ever-made/"><u>[Updated] 2024 Approved 20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-copyright-guide-for-instagram-music/"><u>[Updated] 2024 Approved Copyright Guide for Instagram Music</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-discovering-the-secrets-to-professional-music-mixing-with-magix-for-2024/"><u>[Updated] Discovering the Secrets to Professional Music Mixing with Magix for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-top-criteria-for-selecting-fpv-drones-propellers/"><u>[Updated] Unveiling Top Criteria for Selecting FPV Drones' Propellers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/dable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-windows-driver-issues-for-the-dell-optiplex/"><u>How to Resolve Windows Driver Issues for the Dell OptiPlex</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-teaching-transformative-learning/"><u>Immersive Teaching, Transformative Learning</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-10-best-face-swap-apps-for-iphone-and-android-devices/"><u>New 2024 Approved FREE 10 Best Face Swap Apps for iPhone and Android Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-online-video-creation-made-easy-with-wevideo/"><u>New 2024 Approved Online Video Creation Made Easy with WeVideo</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-creative-with-free-sound-effects-a-beginners-guide-to-final-cut-pro/"><u>New Get Creative with Free Sound Effects A Beginners Guide to Final Cut Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-merge-mov-files-for-free-5-best-options/"><u>New Merge MOV Files for Free 5 Best Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mobile-video-editing-alternatives-to-powerdirector-top-picks/"><u>New Mobile Video Editing Alternatives to PowerDirector Top Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-top-pc-intro-makers-a-beginners-guide-to-getting-started-for-2024/"><u>New The Top PC Intro Makers A Beginners Guide to Getting Started for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlocking-adobe-premiere-pro-import-edit-and-export-video-files-with-ease-for-2024/"><u>New Unlocking Adobe Premiere Pro Import, Edit, and Export Video Files with Ease for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/shegames-legends-youtubes-number-one-ten-for-2024/"><u>SheGames Legends YouTube's Number One Ten for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-10-essential-animated-text-makers-for-unbeatable-engagement-for-2024/"><u>Updated 10 Essential Animated Text Makers for Unbeatable Engagement for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-wax-free-video-editor-in/"><u>Updated 2024 Approved From Novice to Pro Mastering Wax Free Video Editor In</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-free-video-editing-software-for-dummies-top-picks/"><u>Updated Free Video Editing Software for Dummies Top Picks</u></a></li>
 </ul></div>
 

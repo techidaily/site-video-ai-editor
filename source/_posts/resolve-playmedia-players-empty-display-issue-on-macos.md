@@ -1,7 +1,7 @@
 ---
 title: Resolve PlayMedia Player's Empty Display Issue on macOS
-date: 2024-12-17T20:20:44.190Z
-updated: 2024-12-24T16:53:11.190Z
+date: 2024-12-26T04:00:58.732Z
+updated: 2025-01-02T01:11:50.127Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix MplayerX White Screen Problem on Mac OS X
@@ -42,16 +42,12 @@ What's more, this MplayerX alternative is also an [AirPlay Sender & Receiver](ht
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Solution 2 to Solve MplayerX White Screen Problem – Download MplayerX from Webpage**
 
 If you insist on using MplayerX, it is recommended that you download the installation pack from websites instead of App store as the downloaded player's version from webpage is the newest and there is "Check For Update" menu on the player. One thing to note is that the "recommended" quick install will change your default search provider and homepage to Yahoo, and install crapware/adware on your Mac. Therefore, to solve MplayerX white screen problem safely, it is highly recommended that you use a MplayerX alternative like 5KPlayer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Files with MplayerX Alternative 5KPlayer
@@ -66,7 +62,7 @@ If you insist on using MplayerX, it is recommended that you download the install
 ![Fullscreen Play Videos Movies](https://www.5kplayer.com/video-music-player/img/5kplayer-play-video-free.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Part 2\. Play Videos Movies Music on HDTV with the MplayerX Alternative** 
@@ -79,12 +75,16 @@ With built-in AirPlay function, this MplayerX alternative can stream MP4 MOV M4V
 
 ![play videos music on HDTV](https://www.5kplayer.com/video-music-player/img/5k-airplay-airplay-with-win10-xsy-15021502.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This MplayerX alternative is quite ideal for you to solve MplayerX white screen problem when you play or fullscreen play videos movies. Besides that, it is also a powerful [video music downloader](https://tools.techidaily.com/5kplayer/youtube-download/) with great adaptability to 4K 8K 1080p AVL MKV WMV FLV MPEG MTS M2TS etc videos MP3 AAC OGG FLAC music download from 300+ sites like YouTube, Dailymotion, Vevo and so on.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -102,22 +102,15 @@ This MplayerX alternative is quite ideal for you to solve MplayerX white screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-luts-unveiled-transforming-the-lands-market/"><u>[New] 2024 Approved LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-comprehensive-sync-protocol-for-iphone-to-snapchat-media-for-2024/"><u>[New] Comprehensive Sync Protocol for iPhone to Snapchat Media for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-creating-seamless-meeting-transitions-with-slackplusfilmora-for-2024/"><u>[New] Creating Seamless Meeting Transitions with Slack+Filmora for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>[New] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exquisite-solution-for-vr-adventures-for-2024/"><u>Exquisite Solution for VR Adventures for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/iphone-guide-to-designing-responsive-user-friendly-digital-books-with-flip-pdf-app-flipbuildercom/"><u>IPhone Guide to Designing Responsive, User-Friendly Digital Books with Flip PDF App [FlipBuilder.com]</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/match-merge-and-master-color-correction-in-fcp-for-2024/"><u>Match, Merge, and Master Color Correction in FCP for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-fcpx-optimization-tips-and-tricks-to-reclaim-disk-space/"><u>New In 2024, FCPX Optimization Tips and Tricks to Reclaim Disk Space</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New In 2024, Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-vn-video-editor-pro-apk-a-game-changer-for-mobile-video-editing/"><u>New In 2024, VN Video Editor Pro Apk A Game-Changer for Mobile Video Editing?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-errors-rejuvenating-windows-11s-troubleshooting-tools/"><u>Resolving Errors: Rejuvenating Windows 11'S Troubleshooting Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/targeted-thought-leadership-with-profound-fb-video-strategies-for-2024/"><u>Targeted Thought Leadership with Profound FB Video Strategies for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-recording-video-games-3-simple-ways-for-2024/"><u>The Ultimate Guide to Recording Video Games 3 Simple Ways for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly/"><u>The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-to-create-top-14-watermark-free-video-editing-software-and-beyond/"><u>Updated 2024 Approved Free to Create Top 14 Watermark-Free Video Editing Software and Beyond</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-chrome-os-to-linux-a-beginners-guide-to-installation-2023-edition/"><u>Updated 2024 Approved From Chrome OS to Linux A Beginners Guide to Installation (2023 Edition)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-sandbox-games-for-aspiring-explorers/"><u>[New] 2024 Approved Top Sandbox Games for Aspiring Explorers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-small-channels-big-opportunities-an-affiliate-approach/"><u>[Updated] 2024 Approved Small Channels, Big Opportunities An Affiliate Approach</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamlining-your-watch-time-on-instagram-mobiledesktop/"><u>[Updated] Streamlining Your Watch Time on Instagram (Mobile/Desktop)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-best-selling-handheld-game-systems/"><u>Expert Picks: Best Selling Handheld Game Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-camtasia-video-editing-secrets-speeding-up-or-slowing-down-footage-for-2024/"><u>New Camtasia Video Editing Secrets Speeding Up or Slowing Down Footage for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-mobile-video-editors-for-portrait-mode-creators/"><u>Updated 2024 Approved Top Mobile Video Editors for Portrait Mode Creators</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-final-cut-pro-essentials-crafting-a-compelling-video-slideshow/"><u>Updated Final Cut Pro Essentials Crafting a Compelling Video Slideshow</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-rotating-videos-with-ease-for-2024/"><u>Updated The Ultimate Guide to Rotating Videos with Ease for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
 </ul></div>
 

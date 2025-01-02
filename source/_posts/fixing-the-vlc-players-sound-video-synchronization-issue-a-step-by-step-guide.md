@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide"
-date: 2024-12-20T18:40:34.883Z
-updated: 2024-12-24T18:17:29.147Z
+date: 2025-01-01T00:06:44.942Z
+updated: 2025-01-01T19:36:27.334Z
 tags:
   - video-music-player
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 Many users have been undertaking the same **VLC audio delay** pain when using VLC media player to play videos, the symptom is the audio does not always sync with the video playback. Audio delays now and often and AV-sync error can be a very serious issue for this is causing very unpleasant experience for all the VLC users. But every problem has its cure, now let's use the following ways to solve the problem of VLC audio delay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Fix Audio Delay in VLC Media Player?
@@ -35,10 +35,6 @@ Many users have been undertaking the same **VLC audio delay** pain when using VL
 There is difference between Mac and Windows. For Mac, Press "G" and "F" on the keyboard can adjust the audio delay during VLC playback process. Press "G" if the sound is ahead of image and press "F" if the sound is behind the image. For Windows, "J" and "K" are the default keys to adjust VLC audio delay, press "J" to move the audio back and press "K" to forward the audio. The adjust step is 50 milliseconds, so each pressing represents that the audio will go forward or backward of the image by 50ms, keep pressing until you reached the desired state. You can always fix the audio out of sync in [VLC](https://www.videolan.org/vlc/index.html) while video playing, but it doesn't save it forever, next time you have to do it all over again even if you play the same video.
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-001.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Solution 2\. Manually set the VLC audio desynchronization from the preference menu.**
 
@@ -51,7 +47,7 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Solution 3\. Install another audio sync tool to cope with VLC audio delay problem.**
@@ -61,7 +57,7 @@ There are various synchronization tools to help fix VLC audio out of sync proble
 ![mkvtoolnix](https://www.5kplayer.com/video-music-player/img/mkvtoolnix.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you think none of the above ways can solve your problem of audio delay in VLC completely, you can consider to replace your VLC player with another much better media player. 
@@ -80,6 +76,10 @@ Another easy way to solve the problem of VLC audio delay permanently is to repla
 
 ![Fix VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050601.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Fix VLC Audio delay problem.
 
 If the audio is out of sync, right click on the playing window and a list of preference setting will appear. Choose "Sychronization". 
@@ -92,13 +92,13 @@ Note: Pressing the **RESET** button will take it back to default.
 
 ![Solve VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050602.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5KPalyer is a media player player not only solves VLC audio delay but also can solve other VLC not working problem such as " [VLC HEVC/H.265 4K playback error](https://tools.techidaily.com/5kplayer/video-music-player/)", "VLC not work on Catalina", " VLC not playing DVD", etc. As the best solution to fix the audio out of sync in VLC, surely 5KPlayer can be the best replacement to solve the audio delay problem in other media players as well. Besides playing DVD and videos, 5KPlayer is also able to download videos in MKV, MP4, AVI, etc. from over 300 online video sites including YouTube, Vine and Vevo. What's more, it supports streaming video audio wirelessly from a device to another via its coolest feature of [DLNA](https://tools.techidaily.com/5kplayer/dlna/) (from Mac to PC, Mac to Mac, PC to Mac, Mac/PC to TV, etc.).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,18 +115,20 @@ Note: Pressing the **RESET** button will take it back to default.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-top-gamers-guide-to-live-platforms-1-9/"><u>[New] In 2024, Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-sonic-sleuths-den-acquire-and-scrutinize-audio-files/"><u>2024 Approved Sonic Sleuths' Den Acquire & Scrutinize Audio Files</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/4k3840x2160/"><u>4K寶藏開發者：無價遊戲軟件—3840x2160的超高解析度影像體驗</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/aacs-css-cprm/"><u>AACS, CSS, CPRM: 暗号化方式の違いとそれぞれにつきコピーガード解除フリーソフトの紹介 - 比較分析</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-capabilities-an-automated-approach-to-proofreading-texts/"><u>Assessing ChatGPT's Capabilities: An Automated Approach to Proofreading Texts</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-tablet-media-player-apps-top-5-picks-for-unlimited-entertainment/"><u>Best Free Tablet Media Player Apps: Top 5 Picks for Unlimited Entertainment</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-trial-of-dav-player-software-available-now-cross-platform-support-for-windows-and-macos-systems/"><u>Free Trial of DAV Player Software Available Now - Cross-Platform Support for Windows and macOS Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-how-to-install-new-toshiba-drivers-on-your-windows-pc/"><u>Get Updated - How to Install New Toshiba Drivers on Your Windows PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-restore-functionality-of-windows-media-player-in-windows-11-systems/"><u>How to Restore Functionality of Windows Media Player in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-x50i-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor X50i Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-xbr65x850f-65-tv-an-in-depth-look-at-this-affordable-4k-viewing-marvel/"><u>Sony XBR65X850F 65 TV: An In-Depth Look at This Affordable 4K Viewing Marvel</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-top-6-in-demand-home-media-players-comprehensive-analysis/"><u>Ultimate Guide to Top 6 In-Demand Home Media Players - Comprehensive Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits-for-2024/"><u>[New] From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-secret-techniques-in-ps-for-first-timers-for-2024/"><u>[Updated] Secret Techniques in PS for First-Timers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-responsive-steam-voice-chat-feature/"><u>Effective Fixes for Non-Responsive Steam Voice Chat Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>In 2024, Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-oneplus-9-pros-style-speed-and-cutting-edge-camcorder-setup/"><u>In-Depth Review of OnePlus 9 Pro's Style, Speed and Cutting-Edge Camcorder Setup</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-craft-of-engaging-your-viewers-from-the-start/"><u>Mastering the Craft of Engaging Your Viewers From The Start</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-lip-sync-experience-5-must-try-apps/"><u>New The Ultimate Lip Sync Experience 5 Must-Try Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fixes-adding-descriptive-texts-to-videos-via-photos-app-windows-11/"><u>Quick Fixes Adding Descriptive Texts to Videos via Photos App (Windows 11)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-avchd-editors-expert-recommendations-for-2024/"><u>Top-Rated AVCHD Editors Expert Recommendations for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-video-editing-mastery-top-3-4k8k-software-solutions/"><u>Updated 2024 Approved Video Editing Mastery Top 3 4K/8K Software Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-snapshots-to-blockbusters-the-ultimate-video-enhancement-tool-for-2024/"><u>Updated From Snapshots to Blockbusters The Ultimate Video Enhancement Tool for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-make-videos-on-apple-mac-computer-with-the-best-video-maker-for-mac/"><u>Updated In 2024, Make Videos on Apple Mac Computer with the Best Video Maker for Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-transform-videos-into-stunning-live-photos-with-these-apps-for-2024/"><u>Updated Transform Videos Into Stunning Live Photos with These Apps for 2024</u></a></li>
 </ul></div>
 
