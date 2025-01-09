@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2024-12-25T18:30:30.231Z
-updated: 2025-01-01T20:54:48.351Z
+date: 2025-01-02T19:36:24.326Z
+updated: 2025-01-09T20:27:32.043Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solve MP4 Won't Play on Windows Media Player/QuickTime/VLC
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -37,7 +33,7 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why You Can't Play MP4 Files?
@@ -77,11 +73,7 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
@@ -95,7 +87,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -112,12 +104,20 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Notice:**  
  \* You can also handle your 4K UHD 1080p 720p HD MKV FLV MP3 AAC OGG etc. following the guide listed above.  
  \* If you have no MP4 files, you download them online with 5KPlayer.  
  \* When you play MP4 with 5KPlayer, this MP4 player also offers you the capability to stream MP4 videos to HDTV via [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,21 +134,19 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-insta-boomerang-strategies-for-engaging-loops/"><u>[Updated] Insta-Boomerang Strategies for Engaging Loops</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations/"><u>[Updated] Perfecting the Art of Podcast Title Creation Essential Tips & Inspirations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-thumbnail-creation-for-youtube-macos-style/"><u>[Updated] Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unleash-your-potential-become-a-broadcasting-pro-on-instagram-using-obs/"><u>2024 Approved Unleash Your Potential Become a Broadcasting Pro on Instagram Using OBS</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-your-outreach-efforts-using-massmail-expert-tips-for-building-proficient-email-templates/"><u>Boost Your Outreach Efforts Using MassMail: Expert Tips for Building Proficient Email Templates</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-depth-analysis-of-live-streaming-tech-for-2024/"><u>In-Depth Analysis of Live Streaming Tech for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-upload-ps4-screenshots-to-social-media-a-beginners-tutorial/"><u>New 2024 Approved Upload PS4 Screenshots to Social Media A Beginners Tutorial</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-avi-video-editing-on-a-budget-top-5-free-options/"><u>New In 2024, AVI Video Editing on a Budget Top 5 Free Options</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/sculpting-a-specialized-niche-for-youtube-content-for-2024/"><u>Sculpting a Specialized Niche for YouTube Content for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-and-utilizing-windows-11-auto-hdr-functionality-for-2024/"><u>Understanding and Utilizing Windows 11 Auto HDR Functionality for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-unforgettable-lip-sync-videos-with-these-5-top-rated-apps/"><u>Updated 2024 Approved Create Unforgettable Lip Sync Videos with These 5 Top-Rated Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-highlight-reel-masters-best-video-editing-tools-for-any-device-for-2024/"><u>Updated Highlight Reel Masters Best Video Editing Tools for Any Device for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-kids-movie-magic-learn-to-create-your-own-film/"><u>Updated In 2024, Kids Movie Magic Learn to Create Your Own Film</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-5-best-free-m4a-audio-editors-you-need-to-try/"><u>Updated The 5 Best Free M4A Audio Editors You Need to Try</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-mac-video-editors-of-reviews-and-comparisons/"><u>Updated Top Mac Video Editors of Reviews and Comparisons</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-high-quality-action-recorders-12-enhanced-with-gps-navigation/"><u>[New] In 2024, High-Quality Action Recorders 12, Enhanced with GPS Navigation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-makeup-inspiration-videos/"><u>[New] Makeup Inspiration Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-effortlessly-capture-mac-screenshots/"><u>[Updated] 2024 Approved How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-editors-workshop-enhancing-your-youtube-video-visibility-for-2024/"><u>[Updated] Editor's Workshop Enhancing Your Youtube Video Visibility for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-camera-mastery-expert-tips-for-selecting-best-iphone-views/"><u>[Updated] In 2024, Camera Mastery Expert Tips for Selecting Best iPhone Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-positive-reactions-in-a-world-of-negative-comments/"><u>2024 Approved Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-explore-and-download-50-free-youtube-banners/"><u>In 2024, Explore & Download 50 FREE YouTube Banners!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-make-an-impact-top-pc-intro-makers-both-online-and-offline/"><u>New 2024 Approved Make an Impact Top PC Intro Makers , Both Online and Offline</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-10-vlog-video-editing-software-free-and-paid/"><u>New In 2024, Best 10 Vlog Video Editing Software Free & Paid</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps/"><u>New In 2024, The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-checklist-for-powerless-computers-and-tablets/"><u>The Ultimate Troubleshooting Checklist for Powerless Computers and Tablets</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-transform-pictures-into-cartoons-free/"><u>Updated 2024 Approved Transform Pictures Into Cartoons Free</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-web-top-rated-free-online-video-combiners-for-2024/"><u>Updated Best of the Web Top-Rated Free Online Video Combiners for 2024</u></a></li>
 </ul></div>
 

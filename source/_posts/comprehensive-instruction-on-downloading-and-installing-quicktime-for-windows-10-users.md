@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instruction on Downloading and Installing QuickTime for Windows 10 Users
-date: 2024-12-26T18:42:32.268Z
-updated: 2025-01-02T05:29:40.180Z
+date: 2025-01-06T16:30:32.043Z
+updated: 2025-01-09T18:07:06.121Z
 tags:
   - video-music-player
 categories:
@@ -36,21 +36,21 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/1.png) Download the latest QuickTimeInstaller.exe from the official QuickTime for Windows 10 page, or google it to download. (The QuickTimeInstaller.exe will be saved in your frequently-used folder like C:\\QT, you can also create a specific for preference.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/2.png) Open the folder, right-click the QuickTimeInstaller.exe and choose "Extract here". If you can't extract the installation file, you can download and install WinRAR or 7Zip to have a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/3.png) Now, you should have a folder that looks something like this, under C:\\QT or whichever folder you create. 
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-01.jpg) 
 
-![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
 
 \*Double-click the AppleSoftsUpdate.msi file and click "OK", "I accept" etc. until the install finishes.  
  \*Do the same with ApplicationSupport.msi.  
@@ -58,22 +58,18 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/5.png) Right-click the QuickTime.msi file inside the folder you extracted the QuickTimeInstaller.exe file to earlier. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 a. Select "Troubleshoot compatibility" 
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-02.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 b. Wait for the wizard to scan the QuickTime.msi file for possible culprits (which we already know to be the Windows version check). 
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-03.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 c. It should say that it has applied a "Skip Version Check" workaround to enable the QuickTime.msi installer to run.  
  d. Click "Test the program" and run the installation. Then click "Next" and finish the installation.  
@@ -81,24 +77,28 @@ c. It should say that it has applied a "Skip Version Check" workaround to enable
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/6.png) Download this TRANSFORM file and extract it to the same folder. We will use this file to temporarily remove the OS checks preventing the installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/7.png) Click the Windows icon or Search icon and search CMD. Right-click the Command Prompt shortcut/icon and choose Run as administrator.
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-04.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/8.png) Type the following command and hit **ENTER**:  
 **msiexec /i QuickTime.msi /qn TRANSFORMS=FIX.mst ALLUSERS=1 /log C:\\QT\\install.log**
 
-![](https://www.5kplayer.com/video-music-player/../seoimg/9.png) Installation shouldn't take more than a couple of minutes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://www.5kplayer.com/video-music-player/../seoimg/9.png) Installation shouldn't take more than a couple of minutes.
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/10.png) Note: A log file called install.log will be created in the C:\\QT folder, which should end with something along the lines of "Return code 0". If not, and QuickTime wasn't installed, you may look in this file for any possible error codes (opens fine in Notepad or WordPad). Alternatively, you will need to download and install the older version QuickTime v7.7.6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 \[**Notice:** The soultion 2 for installing QuickTime for Windows 10 is based on Tommy Stephansen's post on TommyNation.\]
 
@@ -123,22 +123,19 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-best-text-effects-for-your-video/"><u>[New] 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-transformative-photographic-text-edits/"><u>[New] In 2024, Transformative Photographic Text Edits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-best-vector-illustration-software-a-must-have-list-for-artists/"><u>[Updated] In 2024, Best Vector Illustration Software A Must-Have List for Artists</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-understanding-your-absence-on-snapchat/"><u>[Updated] In 2024, Understanding Your Absence on Snapchat</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/discover-the-ultimate-list-the-best-movie-streaming-sites-apart-from-fmovies/"><u>Discover the Ultimate List: The Best Movie Streaming Sites Apart From Fmovies!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/easy-conversion-tips-for-transforming-flv-media-files-into-3gp-video-format/"><u>Easy Conversion Tips for Transforming FLV Media Files Into 3GP Video Format</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/efficient-methods-for-bulk-conversion-of-8svx-audio-files-to-mp3-format/"><u>Efficient Methods for Bulk Conversion of 8SVX Audio Files to MP3 Format</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/effortless-bulk-transformation-from-flac-to-wav-format-for-windows-users/"><u>Effortless Bulk Transformation From FLAC to WAV Format for Windows Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/explore-the-ultimate-list-of-leading-windows-11-compatible-wav-audio-players-top-6-picks/"><u>Explore the Ultimate List of Leading Windows 11 Compatible WAV Audio Players (Top 6 Picks)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-dvd-player-apps-for-pc-windows-1011-the-ultimate-list-to-watch-dvds-at-no-charge/"><u>Free DVD Player Apps for PC (Windows 10/11): The Ultimate List to Watch DVDs at NO CHARGE!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-methods-converting-your-dvd-files-into-mp4-format-on-windows-10-and-11/"><u>Free Methods: Converting Your DVD Files Into MP4 Format on Windows 10 and 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-can-i-merge-multiple-screenshots-into-one-seamless-video-file/"><u>How Can I Merge Multiple Screenshots Into One Seamless Video File?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-track-your-periscope-broadcasting/"><u>In 2024, Fast-Track Your Periscope Broadcasting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-network-transmission-power-with-vlc/"><u>In 2024, Unlocking Network Transmission Power with VLC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-an-honest-review-and-recommendation/"><u>New 2024 Approved Should You Buy Videopad Video Editor? An Honest Review and Recommendation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y27s-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y27s Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-your-logitech-c920-webcam-issues/"><u>Troubleshooting Guide: Fixing Your Logitech C920 Webcam Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-the-best-screen-recorders-on-the-market-for-2024/"><u>[New] Reviewing the Best Screen Recorders on the Market for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-superior-psd-design-transformations/"><u>[New] Superior PSD Design Transformations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-explore-the-enhanced-experience-with-apples-macos-sequoia-unveiling-top-3-desired-functionalities/"><u>1. Explore the Enhanced Experience with Apple's macOS Sequoia: Unveiling Top 3 Desired Functionalities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-instagram-live-a-guide-to-staying-incognito/"><u>2024 Approved Mastering Instagram Live A Guide to Staying Incognito</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-t2-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo T2 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-p55t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel P55T to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 12 Pro?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mac-video-cutting-made-simple-quick-tips-for-efficient-editing-for-2024/"><u>Mac Video Cutting Made Simple Quick Tips for Efficient Editing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-your-glitch-on-the-best-video-editing-apps-for-ios-and-android/"><u>New In 2024, Get Your Glitch On The Best Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-subtitle-your-way-to-success-fcpx-captioning-made-easy/"><u>New In 2024, Subtitle Your Way to Success FCPX Captioning Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-safe-browsing-leading-iphone-vpns-rigorously-assessed-by-industry-specialists-zdnet-insights/"><u>Unlocking Safe Browsing: Leading iPhone VPNs Rigorously Assessed by Industry Specialists | ZDNET Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-streamline-your-video-library-top-mac-metadata-editing-tools/"><u>Updated 2024 Approved Streamline Your Video Library Top Mac Metadata Editing Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-adobe-premiere-elements-substitutes/"><u>Updated In 2024, The Ultimate List of Adobe Premiere Elements Substitutes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-best-of-the-best-top-10-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated The Best of the Best Top 10 Free and Paid Android Video Editing Apps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Subtitles to Your Videos - MP4, MKV, AVI Formats"
-date: 2024-12-31T17:13:37.548Z
-updated: 2025-01-02T03:01:48.270Z
+date: 2025-01-06T20:10:59.900Z
+updated: 2025-01-09T20:58:46.219Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4 YouTube Video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -46,7 +46,7 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
@@ -56,7 +56,7 @@ Note that your **subtitle file should be placed under the same folder of your vi
 ![How to Add Subtitles](https://www.5kplayer.com/video-music-player/img/5kplayer-how-to-add-subtitles-zjy-0420002.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** There's **no way to play Zip subtitles** in any video players! Your subtitle files shall not be compressed and should be remained in one of those common subtitle formats accordingly for file detecting.  
@@ -65,7 +65,7 @@ Note that your **subtitle file should be placed under the same folder of your vi
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
@@ -93,17 +93,21 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-the-power-of-revenue-streams-youtubers-adsense-manual/"><u>2024 Approved Unlocking the Power of Revenue Streams YouTubers' AdSense Manual</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-easily-accessible-shorts-on-youtube-for-2024/"><u>Fixed Easily Accessible Shorts on YouTube for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-yuva-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Yuva 3 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-advanced-visual-techniques-with-version-22-vce-for-2024/"><u>Mastering Advanced Visual Techniques with Version 2.2 VCE for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-script-to-screen-10-famous-movies-crafted-with-final-cut-pro/"><u>New 2024 Approved From Script to Screen 10 Famous Movies Crafted with Final Cut Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-free-filmora-download-without-viruses-or-malware-expert-advice/"><u>New Free Filmora Download without Viruses or Malware Expert Advice</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/splice-video-editor-mac-version-free-download-for-2024/"><u>Splice Video Editor Mac Version Free Download for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-creative-utilization-of-b-footage-in-media-for-2024/"><u>The Creative Utilization of B-Footage in Media for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-repairing-missing-or-lost-steamdll-files/"><u>The Definitive Guide to Repairing Missing or Lost Steam.dll Files</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-like-a-pro-effective-hard-restart-techniques-for-windows-10-users/"><u>Troubleshooting Like a Pro: Effective Hard Restart Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-virtualdub-vs-the-competition-top-picks/"><u>Updated 2024 Approved Virtualdub vs The Competition Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-top-rated-3d-video-production-tools-free-paid-and-in-between/"><u>Updated In 2024, Top-Rated 3D Video Production Tools Free, Paid, and In-Between</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>[New] Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-revenue-adsense-tips-for-youtubers/"><u>[New] Streamlining Revenue AdSense Tips for YouTubers</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v30-lite-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V30 Lite 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-binggpt-related-cryptocurrency-scams-tokens-to-avoid-and-warning-signs/"><u>Beware of BingGPT-Related Cryptocurrency Scams: Tokens to Avoid and Warning Signs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-hassle-free-playback-with-no-cost-media-player-for-all-your-video-and-sound-needs/"><u>Enjoy Hassle-Free Playback with No Cost Media Player for All Your Video and Sound Needs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/enjoy-seamless-hd-streaming-with-our-picks-for-the-best-free-hardware-boosted-video-players/"><u>Enjoy Seamless HD Streaming with Our Picks for the Best FREE Hardware-Boosted Video Players</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-top-hevc-video-player-for-windows-11-enjoy-hd-streaming/"><u>Free Top HEVC Video Player for Windows 11: Enjoy HD Streaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-6s-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 6s Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-v-purse-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor V Purse Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/profiesteuernder-kostenloser-mkv-player-unter-windows-1087-kafkaeske-mkv-datei-abspielen-vereinfacht/"><u>Profiesteuernder Kostenloser MKV Player Unter Windows 10/8/7 - Kafkaeske MKV Datei Abspielen Vereinfacht!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-masterclass-on-playing-mp4-files-via-windows-media-player/"><u>Step-by-Step Masterclass on Playing MP4 Files via Windows Media Player</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-end-of-fbs-face-recognition-heres-why-meta-cut-ties/"><u>The End of FB's Face Recognition? Here’s Why Meta Cut Ties</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-applications-enhancing-the-power-of-your-surface-pro-over-mac/"><u>Top Applications Enhancing the Power of Your Surface Pro over Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-mac-and-windows-rmvb-media-player-download-now/"><u>Top Free Mac and Windows RMVB Media Player - Download Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-guide-for-obs-software-stability-issues-on-windows-10-and-11/"><u>Ultimate Fix Guide for OBS Software Stability Issues on Windows 10 & 11</u></a></li>
 </ul></div>
 
