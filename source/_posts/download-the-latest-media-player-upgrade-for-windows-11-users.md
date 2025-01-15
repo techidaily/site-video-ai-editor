@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Media Player Upgrade for Windows 11 Users
-date: 2025-01-03T18:16:27.751Z
-updated: 2025-01-09T17:35:58.398Z
+date: 2025-01-12T14:30:28.390Z
+updated: 2025-01-15T12:10:19.874Z
 tags:
   - video-music-player
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -41,7 +41,7 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -59,7 +59,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -75,7 +75,7 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -87,7 +87,7 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,14 +105,22 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-achieving-peak-audience-interaction-with-wirecast-on-facebook/"><u>[New] Achieving Peak Audience Interaction with Wirecast on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-monetizing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>[Updated] Monetizing Mastery in Your Mind The No-Ad YouTube Money Manual</u></a></li>
-<li><a href="https://facebook.techidaily.com/balancing-curiosity-and-compliance-downloading-fb-videos-wisely/"><u>Balancing Curiosity and Compliance: Downloading FB Videos Wisely</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-360-degree-video-viewers-top-picks-compatible-with-windows-and-mac-os/"><u>Best Free 360-Degree Video Viewers: Top Picks Compatible with Windows and Mac OS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/fix-mp4-file-playback-issues-in-windows-media-player-quicktime-and-vlc/"><u>Fix MP4 File Playback Issues in Windows Media Player, QuickTime & VLC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-f5-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco F5 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-final-viewers-interactions-on-yt-for-2024/"><u>Optimizing Final Viewers' Interactions on YT for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/rtsp-media-streaming-free-rtsp-video-player-for-windows-11-and-macos/"><u>RTSP Media Streaming - Free RTSP Video Player for Windows 11 and macOS</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-guide-streaming-4k-ultra-hd-movies-flawlessly-on-your-windows-11-computer/"><u>Seamless Guide: Streaming 4K Ultra HD Movies Flawlessly on Your Windows 11 Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>[New] In 2024, The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills-for-2024/"><u>[New] Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easy-to-follow-guide-adding-snapchat-to-your-mac-os/"><u>[Updated] 2024 Approved Easy-to-Follow Guide Adding Snapchat to Your Mac OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-hd-technology-showcased-by-best-screen-recorders-for-2024/"><u>[Updated] Innovative HD Technology Showcased by Best Screen Recorders for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-intersection-of-youtube-and-fb-video-posts/"><u>[Updated] Navigating the Intersection of YouTube and FB Video Posts</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-play-7t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Play 7T? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-professional-windows-11-screen-capture-tool/"><u>In 2024, Professional Windows 11 Screen Capture Tool</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-top-10-video-editing-tools-for-young-creators-free-and-paid-options/"><u>New 2024 Approved Top 10 Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unlock-chromecasts-full-potential-streaming-local-videos-on-windows-mac-android-and-ios/"><u>New 2024 Approved Unlock Chromecasts Full Potential Streaming Local Videos on Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mp4-video-information-changers-top-editor-options/"><u>New In 2024, MP4 Video Information Changers Top Editor Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlocking-virtual-reality-how-to-convert-regular-videos-with-ease/"><u>New In 2024, Unlocking Virtual Reality How to Convert Regular Videos with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-intro-makers-for-pc-online-and-offline-filmora-for-2024/"><u>New Top 10 Intro Makers for PC Online and Offline - Filmora for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-8-best-professional-audio-editing-software-for-powerful-editing/"><u>Updated 2024 Approved 8 Best Professional Audio Editing Software for Powerful Editing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>Updated In 2024, Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-this-article-youll-get-the-best-free-video-hosting-sites-for-both-private-and-online-business-marketers-that-will-help-realize-your-goals/"><u>Updated In This Article, Youll Get the Best Free Video Hosting Sites for Both Private and Online Business Marketers that Will Help Realize Your Goals</u></a></li>
 </ul></div>
 
