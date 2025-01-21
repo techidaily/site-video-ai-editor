@@ -1,7 +1,7 @@
 ---
 title: Get the New Media Player Software Patch on Windows 11 – Free Download Now!
-date: 2024-12-13T19:07:31.967Z
-updated: 2024-12-15T17:58:03.770Z
+date: 2025-01-16T17:17:30.809Z
+updated: 2025-01-21T16:41:26.248Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Media Player Update: How to Update Media Player for Windows 10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -43,6 +43,10 @@ Step 3: Now you have launched Windows Media Player on your Windows 10, find the 
 Step 4: Click on "Check for updates" to see what version of Media Player are you on and then continue to finish Media Player updates for Windows 10\. 
 
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
 
@@ -59,7 +63,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -75,7 +79,7 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -85,10 +89,6 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 Anyway, we all wanted a perfect media player to be suited on Windows 10 and hopefully not only play media files but also does some other trick. 5KPlayer is the kind of media player for Windows 10 you should updated to right now. It saves you much more space, because it can also download videos and download videos/music from 300+ online videos sites, thus save you the space of installing a video downloader on Windows 10\. Plus, this media player also supports [streaming videos from Mac/PC to Apple TV](https://tools.techidaily.com/5kplayer/airplay/), save another space which you would download an AirPlay server. No more awaits, just free download it to update your Media Player for Windows 10 now! 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,21 +105,24 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-arcade-avenue-a-million-paths-in-play/"><u>2024 Approved Arcade Avenue A Million Paths in Play</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-tecno-pova-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Pova 5 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-crafting-compelling-end-screens-in-youtube-videos/"><u>In 2024, Crafting Compelling End Screens in YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings/"><u>In 2024, Virtual Odyssey Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-diagnoses-moisture-inside-charger-heres-what-you-can-do-gizmopundit/"><u>IPhone Diagnoses Moisture Inside Charger, Here's What You Can Do | GizmoPundit</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/merging-made-easy-the-top-5-free-online-video-combination-tools/"><u>Merging Made Easy The Top 5 Free Online Video Combination Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-internet-fairness-what-you-need-to-know-about-net-neutrality/"><u>Navigating Through Internet Fairness: What You Need to Know About Net Neutrality</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-final-cut-pro-like-a-pro-5-expert-tips-to-elevate-your-edits/"><u>New In 2024, Final Cut Pro Like a Pro 5 Expert Tips to Elevate Your Edits</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mac-users-rejoice-top-pinnacle-studio-alternatives-revealed/"><u>New In 2024, Mac Users, Rejoice! Top Pinnacle Studio Alternatives Revealed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-switch-it-up-the-best-face-swap-apps-for-iphone-and-android-for-2024/"><u>New Switch It Up The Best Face Swap Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-steady-a-comprehensive-guide-to-the-best-free-online-video-stabilizers/"><u>Updated 2024 Approved Get Steady A Comprehensive Guide to the Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-chromebook-hacks-how-to-install-and-run-linux/"><u>Updated In 2024, Chromebook Hacks How to Install and Run Linux</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-imovie-for-windows-10-try-these-free-and-paid-alternatives-instead/"><u>Updated In 2024, IMovie for Windows 10? Try These Free and Paid Alternatives Instead</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/vsx-screen-grabber-insight-detailed-overview/"><u>VSX Screen Grabber Insight Detailed Overview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>[New] 2024 Approved Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-triller-demystified-a-comparative-look-at-unique-online-platforms/"><u>[New] 2024 Approved Triller Demystified A Comparative Look at Unique Online Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-whats-the-optimal-frame-rate-comparing-30-vs-60hz-recording/"><u>[New] In 2024, What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[New] Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-tips-for-choosing-a-high-quality-4k-camera-lens/"><u>[New] Top Tips for Choosing a High-Quality 4K Camera Lens</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac/"><u>[Updated] In 2024, Unlock Your Creative Potential with the Premier Free Software Lineup on Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-free-downloadable-multimedia-viewer-supporting-flv-and-html5-formats/"><u>1. Free Downloadable Multimedia Viewer Supporting FLV & HTML5 Formats</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-100-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-360-degree-video-viewers-top-picks-compatible-with-windows-11-and-mac-os-download/"><u>Best Free 360-Degree Video Viewers: Top Picks Compatible with Windows 11 & Mac OS (Download)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-ultimate-list-of-free-8k-video-players-for-pc-and-mac-top-3-picks/"><u>Discover the Ultimate List of Free 8K Video Players for PC and Mac - Top 3 Picks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-ultimate-free-m4v-video-player-compatible-with-mac-and-pc-unlimited-watching/"><u>Download the Ultimate Free M4V Video Player: Compatible with Mac and PC, Unlimited Watching!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hands-on-exploration-of-the-wireless-led-floodlight-surveillance-by-blink/"><u>Hands-On Exploration of the Wireless LED Floodlight Surveillance by Blink</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/kmplayer-for-windows-10-free-download-64-bit-and-32-bit-support/"><u>KMPlayer for Windows 10 Free Download: 64-Bit & 32-Bit Support</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/optimal-iso-tool-selection-for-pcs-and-macbooks-complimentary-download-options/"><u>Optimal ISO Tool Selection for PCs & MacBooks - Complimentary Download Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolve-playmedia-players-empty-display-issue-on-macos/"><u>Resolve PlayMedia Player's Empty Display Issue on macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/solving-the-puzzle-compatible-software-for-mp4-file-viewing-on-macos-and-windows-operating-systems/"><u>Solving the Puzzle: Compatible Software for MP4 File Viewing on macOS and Windows Operating Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-free-software-for-audio-the-ultimate-guide-to-playing-flac-files-on-pcs-and-macs/"><u>Top Free Software for Audio: The Ultimate Guide to Playing FLAC Files on PCs and Macs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated In 2024, Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with AV1 Videos on Your PC? A Comprehensive Guide to Enable and Watch AV1 Files on Windows & Mac
-date: 2025-01-14T05:05:36.771Z
-updated: 2025-01-15T07:30:13.476Z
+date: 2025-01-14T19:01:05.715Z
+updated: 2025-01-21T17:03:47.328Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: September 30, 2020 | 3 Min Read_
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Windows 10? \[Solved\]**
@@ -51,6 +47,14 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 **Solution:** Just open Microsoft Store, search for AV1 Video Extension and install it on your Windows 10 computer. After that, your Windows 10 computer has the inbuilt AV1 decoder to let Movies & TV app or Edge on Windows 10 to play AV1 video files.
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
 
@@ -70,7 +74,7 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
@@ -84,14 +88,10 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,19 +108,17 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/astering-youtube-tags-a-guide-to-identifying-top-picks-for-2024/"><u>[New] Mastering YouTube Tags A Guide to Identifying Top Picks for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>[Updated] Speeding Up Spotify Tracks Safe Techniques and Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-8-video-transformation-tools-from-iphone-to-file-for-2024/"><u>[Updated] Top #8 Video Transformation Tools From iPhone to File for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-troubleshooting-errors-fix-netflix-not-working-problems-using-streamlinefreeware/"><u>1. Troubleshooting Errors: Fix 'Netflix Not Working' Problems Using StreamlineFreeware</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-professional-recording-essentials-evaluating-apeaksofts-capabilities/"><u>2024 Approved Professional Recording Essentials – Evaluating Apeaksoft's Capabilities</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-media-player-apps-for-windows-11-a-comparison-of-top-5x64-and-32-bit-options/"><u>Best Media Player Apps for Windows 11: A Comparison of Top 5X64 and 32-Bit Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/discover-the-best-free-mac-player-options-a-comparison-with-smplayer/"><u>Discover the Best Free Mac Player Options - A Comparison with SMPlayer</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211124901-9789198209273-pilgrim-puzzle-of-symbols/"><u>PILGRIM; Puzzle of Symbols | Free Book</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/soundseekers-avoiding-dacast-traps/"><u>SoundSeekers Avoiding DaCast Traps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-8-hls-streaming-solutions-for-pc-and-mac-users-how-to-enjoy-live-video-content/"><u>Top 8 HLS Streaming Solutions for PC & Mac Users: How to Enjoy Live Video Content</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/transform-your-media-with-grau-gmbhs-elite-video-repair-software-perfect-for-both-novices-and-tech-gurus/"><u>Transform Your Media with Grau GmbH's Elite Video Repair Software – Perfect for Both Novices and Tech Gurus!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-steps-for-fixing-media-player-classic-errors-in-windows-10-supporting-mkv-and-dvd-formats/"><u>Troubleshooting Steps for Fixing Media Player Classic Errors in WINDOWS 10 Supporting MKV and DVD Formats</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-choosing-the-premier-hd-media-players-compatible-with-windows-11macos/"><u>Ultimate Guide: Choosing the Premier HD Media Players Compatible with Windows 11/macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-intel-drivers-for-fast-usb-3t-connectivity-on-windows-11-systems/"><u>Updated Intel Drivers for Fast USB 3.t Connectivity on Windows 11 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-agricultural-adventures-with-allies-top-10-farmers-titles/"><u>[New] In 2024, Agricultural Adventures with Allies Top 10 Farmer's Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] In 2024, Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-sideway-video-phenomenon-on-ig/"><u>2024 Approved Unraveling the Sideway Video Phenomenon on IG</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easy-guide-streaming-and-watching-flv-videos-on-your-ios-device/"><u>Easy Guide: Streaming and Watching FLV Videos on Your iOS Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effective-techniques-for-reducing-video-file-sizes-in-bulk/"><u>Effective Techniques for Reducing Video File Sizes in Bulk</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correcting-roblox-error-262/"><u>Mastering the Art of Correcting Roblox Error 262</u></a></li>
+<li><a href="https://fox-within.techidaily.com/superior-capture-app-professional-screen-record-tool-for-your-ipad/"><u>Superior Capture App: Professional Screen Record Tool for Your iPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-antivirus-programs-a-comprehensive-guide/"><u>Top-Rated Antivirus Programs - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726030339355-windows-11/"><u>Windows 11の簡単ガイド:スライドショー制作手順集</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726028376284-zoom/"><u>Zoomミーティングで最強の録画技術！🎥 | 安定した品質を確保</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/44kw44op44ov44kj44od44kv44ki44kv44k744op44os44o844k344on44oz5aplusplus5bplusc44gu44kz44oz44ou44ol44o844k44gv6ieq5yuv55qe44gr6kit5a6a44gv44km44gm44ge44gplus428/"><u>グラフィックアクセラレーション対応のコンピュータは自動的に設定されていますか?設定方法をご紹介します。</u></a></li>
 </ul></div>
 

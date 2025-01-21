@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC
-date: 2025-01-07T20:29:45.383Z
-updated: 2025-01-15T10:31:30.570Z
+date: 2025-01-15T16:34:28.398Z
+updated: 2025-01-21T19:52:06.643Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solve MP4 Won't Play on Windows Media Player/QuickTime/VLC
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -32,16 +36,12 @@ Proverbially, MP4 won't play on Windows and Mac (Catalina) has been a perplexing
 [\# Fix MP4 Won't Play with VLC ->>](https://tools.techidaily.com/5kplayer/video-music-player/)  
 **[3\. Best Solution to MP4 Won't Play on Windows \[10\]/Mac](https://tools.techidaily.com/5kplayer/video-music-player/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why You Can't Play MP4 Files?
 
 To solve MP4 won't play problem, you must know what is MP4 format. Put it simply, MP4 is a container format like MKV that includes audio/video codec, images and subtitles, in which the audio or video codec determines how to and what a [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) can play a MP4 file most. For instance, VLC can't play MP4 files containing H.265 codec; Windows Media Player doesn't support MP4 format natively and QuickTime supports MP4 videos encoded with MPEG-4 or H.264 video codec and AAC audio codec only. If your MP4 video encoded with other codec, you will fail to play MP4 on Windows \[10\] or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Solve MP4 File Won't Play on Windows/Mac (Catalina)?
@@ -77,7 +77,7 @@ Now close VLC and open it again, load your MP4 videos and see if your MP4 won't 
 ![VLC Can't Play MP4](https://www.5kplayer.com/video-music-player/img/5kp-vlc-mp4-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Solution to MP4 Won't Play on Windows \[10\]/Mac \[Catalina\]
@@ -91,7 +91,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Solve MP4 Won't Play on Windows/Mac with 5KPlayer?
@@ -109,7 +109,7 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 ![Play MP4 Files](https://www.5kplayer.com/video-music-player/img/fast-audio-player.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Notice:**  
@@ -134,19 +134,17 @@ Besides playing MP4 video files, 5KPlayer, as a [multimedia player](https://tool
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>[New] 2024 Approved Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-list-of-top-video-making-software-iphone-android/"><u>[New] In 2024, A Comprehensive List of Top Video-Making Software (iPhone, Android)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-gaming-galore-top-10-virtual-reality-for-phones/"><u>[Updated] Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-masterful-designers-top-insta-hlv-page-builders/"><u>[Updated] Masterful Designers Top Insta HLV Page Builders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-which-m1-model-suits-you-best-air-vs-pro-analysis-for-2024/"><u>[Updated] Which M1 Model Suits You Best? Air Vs. Pro Analysis for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-10-essential-animation-software-for-modern-education/"><u>New In 2024, 10 Essential Animation Software for Modern Education</u></a></li>
-<li><a href="https://games-able.techidaily.com/reignite-controller-functionality-in-windows-settings/"><u>Reignite Controller Functionality in Windows Settings</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results-for-2024/"><u>Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-cream-of-the-crop-top-iphone-apps-reviewed-for-2024/"><u>The Cream of the Crop Top iPhone Apps , Reviewed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/understanding-the-m4v-a-comprehensive-guide-to-this-popular-video-format/"><u>Understanding the M4V: A Comprehensive Guide to This Popular Video Format</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-iphone-video-editing-essentials-top-picks/"><u>Updated In 2024, IPhone Video Editing Essentials Top Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-art-of-freezing-time-a-comprehensive-guide-to-video-freeze-frames/"><u>Updated In 2024, The Art of Freezing Time A Comprehensive Guide to Video Freeze Frames</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-top-time-lapse-camera-apps-for-mobile-devices-2023-update/"><u>Updated In 2024, Top Time-Lapse Camera Apps for Mobile Devices (2023 Update)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-fresh-take-on-the-sony-s3700-bdp-performance-for-2024/"><u>[New] Fresh Take on the Sony S3700 BDP Performance for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-focussnap-recorder-for-screen-masters/"><u>[New] In 2024, FocusSnap Recorder for Screen Masters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sync-twitch-with-snapchat-a-step-by-step-guide-for-2024/"><u>[New] Sync Twitch with Snapchat A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-latest-free-rtsp-player-software-compatible-with-windows-11-and-macos/"><u>Download the Latest Free RTSP Player Software Compatible with Windows 11 & macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fixing-the-vlc-players-sound-video-synchronization-issue-a-step-by-step-guide/"><u>Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-downloader-of-total-video-player-software-compatible-with-windows-11-64-bit32-bit-version/"><u>Free Downloader of Total Video Player Software Compatible with Windows 11 (64-Bit/32-Bit Version)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-compact-your-content-explore-the-most-admirable-33-video-reducers/"><u>In 2024, Compact Your Content Explore the Most Admirable 33 Video Reducers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a78-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A78 5G Device</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-windows-10-a-comprehensive-tutorial-on-latest-enhancements-and-patching-processes/"><u>Mastering Windows 10: A Comprehensive Tutorial on Latest Enhancements and Patching Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-enhancement-process-for-apples-intel-imac-models/"><u>Step-by-Step Enhancement Process for Apple's Intel iMac Models</u></a></li>
 </ul></div>
 

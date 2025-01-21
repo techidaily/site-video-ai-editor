@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide"
-date: 2025-01-10T13:49:22.849Z
-updated: 2025-01-15T02:44:27.499Z
+date: 2025-01-15T16:27:15.138Z
+updated: 2025-01-21T19:05:40.855Z
 tags:
   - video-music-player
 categories:
@@ -18,15 +18,15 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Solve Audio Delay Problem in VLC Media Player
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: July 23, 2020_ 
 
 Many users have been undertaking the same **VLC audio delay** pain when using VLC media player to play videos, the symptom is the audio does not always sync with the video playback. Audio delays now and often and AV-sync error can be a very serious issue for this is causing very unpleasant experience for all the VLC users. But every problem has its cure, now let's use the following ways to solve the problem of VLC audio delay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix Audio Delay in VLC Media Player?
 
@@ -37,7 +37,7 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Solution 2\. Manually set the VLC audio desynchronization from the preference menu.**
@@ -49,6 +49,10 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 **Note:** This is also not permanent; this desynchronization setting will only effect the current video playback.
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Solution 3\. Install another audio sync tool to cope with VLC audio delay problem.**
 
@@ -63,7 +67,7 @@ If you think none of the above ways can solve your problem of audio delay in VLC
 Another easy way to solve the problem of VLC audio delay permanently is to replace VLC with a non-faulty media player – 5KPlayer. Download and set 5KPlayer as your default video player to play MKV, AVI, MP4, WMV, MPEG4 files with ease. As the best VLC alternative, 5KPlayer is also a cross-platform HD media player which works perfectly on both macOS and Windows 10/8/7/Vista, and it [plays ultra HD videos in 8K/5K/4K](https://tools.techidaily.com/5kplayer/video-music-player/) without any blemish. If the video has the problem of audio delay, 5KPlayer has its own path to adjust AV sync of video playback with no external help. Now let's check how it can fix the VLC audio delay and solve the problem for good.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play HD Video and Solve Audio Delay with 5KPlayer
@@ -89,16 +93,12 @@ Note: Pressing the **RESET** button will take it back to default.
 ![Solve VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050602.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5KPalyer is a media player player not only solves VLC audio delay but also can solve other VLC not working problem such as " [VLC HEVC/H.265 4K playback error](https://tools.techidaily.com/5kplayer/video-music-player/)", "VLC not work on Catalina", " VLC not playing DVD", etc. As the best solution to fix the audio out of sync in VLC, surely 5KPlayer can be the best replacement to solve the audio delay problem in other media players as well. Besides playing DVD and videos, 5KPlayer is also able to download videos in MKV, MP4, AVI, etc. from over 300 online video sites including YouTube, Vine and Vevo. What's more, it supports streaming video audio wirelessly from a device to another via its coolest feature of [DLNA](https://tools.techidaily.com/5kplayer/dlna/) (from Mac to PC, Mac to Mac, PC to Mac, Mac/PC to TV, etc.).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,22 +115,18 @@ Note: Pressing the **RESET** button will take it back to default.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-chats-storing-gh-live-sessions/"><u>2024 Approved Capturing Chats Storing GH Live Sessions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-master-the-art-of-customizing-youtube-thumbnails-and-improving-visibility/"><u>2024 Approved Master the Art of Customizing YouTube Thumbnails and Improving Visibility</u></a></li>
-<li><a href="https://driver-download.techidaily.com/access-improved-graphics-and-speed-on-msi-x470-download-the-latest-drivers/"><u>Access Improved Graphics and Speed on MSI X470 - Download the Latest Drivers</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/automate-with-cookiebot-enhance-your-sites-user-experience/"><u>Automate with Cookiebot: Enhance Your Site's User Experience</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-free-youtube-video-grabbing-tools-for-mac-quick-easy-and-trusted-picks/"><u>Best Free Youtube Video Grabbing Tools For Mac - Quick, Easy, and Trusted Picks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/curated-list-prime-places-to-pick-pixel-ringtones/"><u>Curated List Prime Places to Pick Pixel Ringtones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-facile-convertir-un-videofichier-mkv-gratuitement-en-dvd-avec-winx-dvd-author-pour-windows-1087-comment-faire/"><u>Guide Facile : Convertir Un Vidéofichier MKV Gratuitement En DVD Avec WinX DVD Author Pour Windows 10/8/7 - Comment Faire?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-get-creative-with-free-sound-effects-a-beginners-guide-to-final-cut-pro/"><u>New Get Creative with Free Sound Effects A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-boost-your-videos-top-10-free-online-video-enhancement-tools/"><u>New In 2024, Boost Your Videos Top 10 Free Online Video Enhancement Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-fcpx-skin-smoothing-hack-no-plugins-needed/"><u>New In 2024, The Ultimate FCPX Skin Smoothing Hack No Plugins Needed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-merge-mov-files-for-free-5-best-options/"><u>New Merge MOV Files for Free 5 Best Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-top-pc-intro-makers-a-beginners-guide-to-getting-started-for-2024/"><u>New The Top PC Intro Makers A Beginners Guide to Getting Started for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlocking-adobe-premiere-pro-import-edit-and-export-video-files-with-ease-for-2024/"><u>New Unlocking Adobe Premiere Pro Import, Edit, and Export Video Files with Ease for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/saturation-savvy-professionals-secrets-revealed/"><u>Saturation Savvy Professionals' Secrets Revealed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-crop-like-a-pro-a-step-by-step-fcpx-guide/"><u>Updated 2024 Approved Crop Like a Pro A Step-by-Step FCPX Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-video-editing-software-for-dummies-top-picks/"><u>Updated Free Video Editing Software for Dummies Top Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-initiate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel/"><u>[New] In 2024, Initiate, Ideate, Implement Step-by-Step Guide to Building a YouTube Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[Updated] In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-overcoming-blackout-problems-for-a-clearer-youtube-experience/"><u>2024 Approved Overcoming Blackout Problems for a Clearer YouTube Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726026343977-dvd/"><u>DVD再生不可能？損傷せずに修正方法を丁寧解明</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files/"><u>New 2024 Approved Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-run-lumafusion-on-mac-download-and-alternative-options/"><u>New In 2024, Run Lumafusion on Mac Download and Alternative Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streamline-your-mpeg2-videos-with-virtualdub-download/"><u>Streamline Your MPEG2 Videos with VirtualDub Download</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-to-finding-and-reviving-deleted-phone-connections-on-iphone/"><u>Ultimate Guide to Finding and Reviving Deleted Phone Connections on iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated 2024 Approved Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-pro-level-voice-overs-in-no-time-final-cut-pro-expert-advice/"><u>Updated 2024 Approved Pro-Level Voice Overs in No Time Final Cut Pro Expert Advice</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-ranking-the-top-text-motion-tracking-solutions/"><u>Updated 2024 Approved Ranking the Top Text Motion Tracking Solutions</u></a></li>
 </ul></div>
 
