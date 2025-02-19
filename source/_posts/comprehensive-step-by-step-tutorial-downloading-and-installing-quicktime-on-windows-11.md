@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Step-by-Step Tutorial: Downloading & Installing QuickTime on Windows 11"
-date: 2025-02-08T17:19:42.291Z
-updated: 2025-02-09T16:22:40.515Z
+date: 2025-02-13T18:09:15.112Z
+updated: 2025-02-19T17:58:10.567Z
 tags:
   - video-music-player
 categories:
@@ -37,34 +37,30 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/1.png) Download the latest QuickTimeInstaller.exe from the official QuickTime for Windows 10 page, or google it to download. (The QuickTimeInstaller.exe will be saved in your frequently-used folder like C:\\QT, you can also create a specific for preference.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/2.png) Open the folder, right-click the QuickTimeInstaller.exe and choose "Extract here". If you can't extract the installation file, you can download and install WinRAR or 7Zip to have a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/3.png) Now, you should have a folder that looks something like this, under C:\\QT or whichever folder you create. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-01.jpg) 
 
-![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
 
 \*Double-click the AppleSoftsUpdate.msi file and click "OK", "I accept" etc. until the install finishes.  
  \*Do the same with ApplicationSupport.msi.  
  \*Just ignore the file called QuickTimeInstallerAdmin.exe as we won't need it.
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/5.png) Right-click the QuickTime.msi file inside the folder you extracted the QuickTimeInstaller.exe file to earlier. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 a. Select "Troubleshoot compatibility" 
 
@@ -83,11 +79,11 @@ c. It should say that it has applied a "Skip Version Check" workaround to enable
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/7.png) Click the Windows icon or Search icon and search CMD. Right-click the Command Prompt shortcut/icon and choose Run as administrator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-04.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/8.png) Type the following command and hit **ENTER**:  
 **msiexec /i QuickTime.msi /qn TRANSFORMS=FIX.mst ALLUSERS=1 /log C:\\QT\\install.log**
@@ -95,10 +91,14 @@ c. It should say that it has applied a "Skip Version Check" workaround to enable
 ![](https://www.5kplayer.com/video-music-player/../seoimg/9.png) Installation shouldn't take more than a couple of minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/10.png) Note: A log file called install.log will be created in the C:\\QT folder, which should end with something along the lines of "Return code 0". If not, and QuickTime wasn't installed, you may look in this file for any possible error codes (opens fine in Notepad or WordPad). Alternatively, you will need to download and install the older version QuickTime v7.7.6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 \[**Notice:** The soultion 2 for installing QuickTime for Windows 10 is based on Tommy Stephansen's post on TommyNation.\]
 
@@ -123,20 +123,22 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Lite to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-premier-9-multi-device-video-communication-tools-for-smartphones/"><u>In 2024, Premier 9 Multi-Device Video Communication Tools for Smartphones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-securing-snapchat-footage-essential-mobile-tips/"><u>In 2024, Securing Snapchat Footage Essential Mobile Tips</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>New 2024 Approved DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>New Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-preserve-your-memories-a-step-by-step-guide-to-creating-home-dvds/"><u>New In 2024, Preserve Your Memories A Step-by-Step Guide to Creating Home DVDs</u></a></li>
-<li><a href="https://common-error.techidaily.com/problem-ejecting-usb-mass-storage-device-easy-fixes/"><u>Problem Ejecting USB Mass Storage Device (EASY FIXES)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-xiaomi-redmi-note-13-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Xiaomi Redmi Note 13 5G has been deleted.</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/the-ultimate-guide-to-choosing-the-top-5-android-tv-boxes-of-2019/"><u>The Ultimate Guide to Choosing the Top 5 Android TV Boxes of 2019</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-sony-vegas-alternatives-for-windows-10-for-2024/"><u>The Ultimate Guide to Sony Vegas Alternatives for Windows 10 for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-up-to-50-off-7-proven-ways-to-find-filmora-coupons/"><u>Updated 2024 Approved Get Up to 50 Off 7 Proven Ways to Find Filmora Coupons</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-4k-video-editors-expert-reviews-and-comparisons/"><u>Updated In 2024, Best 4K Video Editors Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-of-the-best-10-animated-text-generators-you-cant-miss/"><u>Updated In 2024, The Best of the Best 10 Animated Text Generators You Cant Miss</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/akeup-mastery-manual-starting-an-engaging-aesthetic-vlog/"><u>[New] Makeup Mastery Manual Starting an Engaging Aesthetic Vlog</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/adept-at-british-vernacular-your-new-language-companion/"><u>Adept at British Vernacular: Your New Language Companion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-apples-next-gen-earbuds-release-timeline-and-pre-order-details-explored-by-zdnet/"><u>Anticipating Apple's Next Gen Earbuds: Release Timeline & Pre-Order Details Explored by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808339667-boost-your-graphics-cards-power-instantly-master-the-art-of-gpu-benchmarking-today/"><u>Boost Your Graphics Card's Power Instantly - Master the Art of GPU Benchmarking Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-microsoft-offer-a-cost-free-version-of-their-popular-word-processor/"><u>Does Microsoft Offer a Cost-Free Version of Their Popular Word Processor?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-huion-tablet-drivers-free-downloads-for-windows-computers/"><u>Essential Huion Tablet Drivers: Free Downloads for Windows Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210503032-9781633412743-hoodoo-herbal/"><u>Hoodoo Herbal | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-auditory-and-visual-creation-list/"><u>In 2024, Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/real-time-video-optimizer-for-crisp-uninterrupted-playback-at-60-frames-per-second/"><u>Real-Time Video Optimizer for Crisp, Uninterrupted Playback at 60 Frames Per Second!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-powerpoint-enhancements-how-to-embed-videos-effortlessly/"><u>Seamless PowerPoint Enhancements: How to Embed Videos Effortlessly</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-solutions-for-watching-flv-videos-on-apple-mobile-devices/"><u>Seamless Solutions for Watching Flv Videos on Apple Mobile Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/selective-screen-recording-techniques-in-windows-11/"><u>Selective Screen Recording Techniques in Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-using-dvr-and-streaming-software-to-record-tv-programs-on-philo/"><u>Step-by-Step Guide: Using DVR and Streaming Software to Record TV Programs on Philo</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-watching-dvd-movies-on-your-windows-11-pc/"><u>Step-by-Step Guide: Watching DVD Movies on Your Windows 11 PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-adding-disneyplus-as-an-addon-in-kodi-version-20-and-19/"><u>Step-by-Step Tutorial: Adding Disney+ as an Addon in Kodi Version 20 & 19</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streamline-your-movie-experience-convert-wonderfox-dvds-for-ipad-viewing-now/"><u>Streamline Your Movie Experience - Convert WonderFox DVDs for iPad Viewing Now!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-earnings-guide-achieving-profitability-through-view-counts/"><u>YouTube Earnings Guide Achieving Profitability Through View Counts</u></a></li>
 </ul></div>
 

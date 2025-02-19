@@ -1,7 +1,7 @@
 ---
 title: "Fixing the VLC Player's Sound-Video Synchronization Issue: A Step-by-Step Guide"
-date: 2025-02-07T16:15:06.810Z
-updated: 2025-02-09T16:36:45.433Z
+date: 2025-02-16T17:52:12.072Z
+updated: 2025-02-19T16:53:12.449Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7802234057966a55c104bcf23729049f87338b2a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Solve Audio Delay Problem in VLC Media Player
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: July 23, 2020_ 
@@ -33,7 +37,7 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Solution 2\. Manually set the VLC audio desynchronization from the preference menu.**
@@ -46,10 +50,6 @@ There is difference between Mac and Windows. For Mac, Press "G" and "F" on the k
 
 ![adjust VLC audio delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Solution 3\. Install another audio sync tool to cope with VLC audio delay problem.**
 
 There are various synchronization tools to help fix VLC audio out of sync problem, like a kind of assistive tools that can both edit soundtrack and subtitles. First you need to download and install this assistive tool such as MKVToolNix. According to the comments, this tool works fine to solve the audio delay of the file itself. You just need to drag the video file into the panel of this software, you can either adjust the milliseconds manually or the program will detect the audio delay problem itself and adjust automatically. However, this amazing VLC audio delay saver currently only works on MKV files. 
@@ -57,7 +57,7 @@ There are various synchronization tools to help fix VLC audio out of sync proble
 ![mkvtoolnix](https://www.5kplayer.com/video-music-player/img/mkvtoolnix.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you think none of the above ways can solve your problem of audio delay in VLC completely, you can consider to replace your VLC player with another much better media player. 
@@ -65,6 +65,10 @@ If you think none of the above ways can solve your problem of audio delay in VLC
 **Solution 4\. Switch VLC to 5KPlayer – Best way to tackle VLC audio delay problem**
 
 Another easy way to solve the problem of VLC audio delay permanently is to replace VLC with a non-faulty media player – 5KPlayer. Download and set 5KPlayer as your default video player to play MKV, AVI, MP4, WMV, MPEG4 files with ease. As the best VLC alternative, 5KPlayer is also a cross-platform HD media player which works perfectly on both macOS and Windows 10/8/7/Vista, and it [plays ultra HD videos in 8K/5K/4K](https://tools.techidaily.com/5kplayer/video-music-player/) without any blemish. If the video has the problem of audio delay, 5KPlayer has its own path to adjust AV sync of video playback with no external help. Now let's check how it can fix the VLC audio delay and solve the problem for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play HD Video and Solve Audio Delay with 5KPlayer
 
@@ -77,7 +81,7 @@ Another easy way to solve the problem of VLC audio delay permanently is to repla
 ![Fix VLC Audio Delay](https://www.5kplayer.com/video-music-player/img/vlc-audio-delay-xsy-050601.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Fix VLC Audio delay problem.
@@ -96,10 +100,6 @@ Note: Pressing the **RESET** button will take it back to default.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -115,22 +115,18 @@ Note: Pressing the **RESET** button will take it back to default.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-guide-to-the-top-6-head-mounted-gopro-options/"><u>[New] 2024 Approved Essential Guide to the Top 6 Head-Mounted GoPro Options</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-portable-audio-apps-top-5-lightweight-choices-for-quick-download/"><u>Best Free, Portable Audio Apps: Top 5 Lightweight Choices for Quick Download</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211376715-9798330212903-chakras/"><u>Chakras | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-targus-docking-station-drivers-fast-setup/"><u>Download Targus Docking Station Drivers - Fast Setup</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-the-latest-free-rtsp-player-software-compatible-with-windows-11-and-macos/"><u>Download the Latest Free RTSP Player Software Compatible with Windows 11 & macOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/expanding-reach-googles-gemini-now-available-on-legacy-android-devices/"><u>Expanding Reach: Google's Gemini Now Available on Legacy Android Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-the-device-not-installed-error-during-windows-7-installation/"><u>How to Troubleshoot the 'Device Not Installed' Error During Windows 7 Installation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-best-practices-in-altering-igtv-video-titles/"><u>In 2024, Best Practices in Altering IGTV Video Titles</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launching-windows-11s-storyteller-a-step-by-step-guide/"><u>Launching Windows 11'S Storyteller: A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/mastering-windows-10-a-comprehensive-tutorial-on-latest-enhancements-and-patching-processes/"><u>Mastering Windows 10: A Comprehensive Tutorial on Latest Enhancements and Patching Processes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/optimizing-5k-player-performance-with-hardware-decode-boosts-in-windows-11/"><u>Optimizing 5K Player Performance with Hardware Decode Boosts in Windows 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/premium-qualitat-kostenlose-4k-videowiedergabe-und-player-losungen-fur-3840-x-2160-ultra-hochdefinition-inhalte/"><u>Premium Qualität - Kostenlose 4K Videowiedergabe Und Player Lösungen Für 3840 X 2160 Ultra-Hochdefinition Inhalte</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rgb-memory-kits-the-ultimate-guide-to-choosing-the-best-gaming-ram/"><u>RGB Memory Kits: The Ultimate Guide to Choosing the Best Gaming RAM</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/silent-seekers-find-speedy-solutions-with-stellar/"><u>Silent Seekers Find Speedy Solutions with Stellar</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/simplified-tips-for-curing-directx-9-failure/"><u>Simplified Tips for Curing DirectX 9 Failure</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-mp4-videos-not-working-on-windows-media-player-vs-quicktime-and-vlc/"><u>Troubleshooting MP4 Videos Not Working on Windows Media Player Vs. QuickTime and VLC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-the-potential-ps4-recording-techniques-in-obs/"><u>[New] Unlocking the Potential PS4 Recording Techniques in OBS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dynamic-color-balance-helper-for-2024/"><u>[Updated] Dynamic Color Balance Helper for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-sky-the-lifting-elite-drone-list/"><u>2024 Approved From Ground to Sky The Lifting Elite Drone List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/advanced-eraser-program-by-stellar-customized-automatic-file-deletion-on-windows-systems/"><u>Advanced Eraser Program by Stellar: Customized Automatic File Deletion on Windows Systems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/common-fixes-for-when-cortana-stops-responding-solved/"><u>Common Fixes for When Cortana Stops Responding – Solved</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effiziente-integration-einrichten-von-microsoft-onedrive-mit-ihrem-laufwerk-in-nur-drei-schritten/"><u>Effiziente Integration: Einrichten Von Microsoft OneDrive Mit Ihrem Laufwerk in Nur Drei Schritten</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-english-with-pearson/"><u>International English with Pearson</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-monitor-selection-the-perfect-matches-for-your-ps5-and-new-xbox-consoles/"><u>Navigating Monitor Selection: The Perfect Matches for Your PS5 & New Xbox Consoles</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-15-best-adobe-premiere-pro-plugins-to-download-for-2024/"><u>New The Ultimate List 15 Best Adobe Premiere Pro Plugins to Download for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-latest-version-of-wacom-istudio-draw-drivers-for-ultimate-control/"><u>Update to the Latest Version of Wacom iStudio Draw Drivers for Ultimate Control</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-your-go-to-guide-10-best-public-domain-image-resources/"><u>Updated 2024 Approved Your Go-To Guide 10 Best Public Domain Image Resources</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-avs-video-editor-a-comprehensive-review-and-analysis/"><u>Updated In 2024, AVS Video Editor A Comprehensive Review and Analysis</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/what-to-do-when-an-app-vanishes-from-your-iphone-finding-and-restoring-lost-applications/"><u>What to Do When an App Vanishes From Your iPhone - Finding and Restoring Lost Applications</u></a></li>
 </ul></div>
 

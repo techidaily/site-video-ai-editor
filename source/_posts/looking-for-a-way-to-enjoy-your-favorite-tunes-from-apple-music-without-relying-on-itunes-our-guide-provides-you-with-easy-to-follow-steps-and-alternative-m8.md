@@ -1,7 +1,7 @@
 ---
 title: Looking for a Way to Enjoy Your Favorite Tunes From Apple Music without Relying on iTunes? Our Guide Provides You with Easy-to-Follow Steps and Alternative Methods to Stream Music Directly on Your Mac or PC. Learn How!
-date: 2024-12-11T19:02:31.117Z
-updated: 2024-12-15T21:23:36.082Z
+date: 2025-02-12T18:15:07.930Z
+updated: 2025-02-19T17:07:07.658Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Listen to Apple Music without iTunes on Mac/PC?
@@ -44,6 +44,10 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 
 **Method 3:** Since 5KPlayer video music AirPlay streaming function is not available temporarily, you are suggested to use 5KPlayer's mate DearMob iPhone Manager to remove Apple Music DRM and then play with 5KPlayer to listen to Apple music without iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Listen to Apple Music without iTunes but via Apple Music Web Player
 
 **Step 1.** Just put this URL _https://tools.applemusic.com/_ or the beta version released recently _https://beta.music.apple.com/us/browse_ into Google search to open.
@@ -55,10 +59,6 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 **Notice:** This is only a widget for your to listen to Apple Music without iTunes on computer, so it may not include all the Apple Music songs. Besides, it requires network that you have no choice but download Apple Music to enjoy when there is no internet.
 
 ![Apple Music Web Browser](https://www.5kplayer.com/video-music-player/img/apple-music-web-browser.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Use 5KPlayer to Listen to Apple Music without iTunes on PC?
 
@@ -75,17 +75,13 @@ In other situation, Apple music are often M4P files with DRM that you can't use 
 ![Apple Music Streaming](https://www.5kplayer.com/video-music-player/../airplay/img/music-airplay-acorss-device.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove Downloaded Apple Music DRM & Play with 5KPlayer
@@ -95,6 +91,10 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 **Step 1\.** Download 5KPlayer mate [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/), install and run it on your computer.
 
 [![](https://www.5kplayer.com/video-music-player/../img/winx_btn.png)](https://www.5kplayer.com/download/dearmob-iphone-manager-file.exe) [![](https://www.5kplayer.com/video-music-player/../img/mac_btn.png)](https://www.5kplayer.com/download/dearmob-iphone-manager-file.dmg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Connect your iPhone to your computer with the original Apple USB cable. Once connected, a "Trust this computer" message pops up on your iPhone and just tap "Allow" to continue.
 
@@ -121,24 +121,14 @@ To directly play downloaded Apple music without iTunes on PC or Mac, you need 5K
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-disentangling-fisheye-photos-from-gopro-footage-for-2024/"><u>[New] Disentangling Fisheye Photos From GoPro Footage for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-spotting-gone-from-your-friend-list/"><u>[Updated] In 2024, Spotting Gone From Your Friend List</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860164858-2024-approved-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>2024 Approved Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excellence-in-mixology-can-chatgpt-whip-up-the-perfect-cocktail/"><u>Excellence in Mixology: Can ChatGPT Whip Up the Perfect Cocktail?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-inefficiency-of-filespace-optimization/"><u>Overcoming Inefficiency of Filespace Optimization</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-powerpoint-enhancements-how-to-embed-videos-effortlessly/"><u>Seamless PowerPoint Enhancements: How to Embed Videos Effortlessly</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-solutions-for-watching-flv-videos-on-apple-mobile-devices/"><u>Seamless Solutions for Watching Flv Videos on Apple Mobile Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/selective-screen-recording-techniques-in-windows-11/"><u>Selective Screen Recording Techniques in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-why-is-blender-crashing-on-my-pc-how-to-make-it-stop/"><u>Solution Steps: Why Is Blender Crashing on My PC? How to Make It Stop?</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-using-dvr-and-streaming-software-to-record-tv-programs-on-philo/"><u>Step-by-Step Guide: Using DVR and Streaming Software to Record TV Programs on Philo</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-watching-dvd-movies-on-your-windows-11-pc/"><u>Step-by-Step Guide: Watching DVD Movies on Your Windows 11 PC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-adding-disneyplus-as-an-addon-in-kodi-version-20-and-19/"><u>Step-by-Step Tutorial: Adding Disney+ as an Addon in Kodi Version 20 & 19</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/streamline-your-movie-experience-convert-wonderfox-dvds-for-ipad-viewing-now/"><u>Streamline Your Movie Experience - Convert WonderFox DVDs for iPad Viewing Now!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-4-methods-for-converting-wmv-files-into-mp4-format-across-windows-and-macos-platforms/"><u>Top 4 Methods for Converting WMV Files Into MP4 Format Across Windows & macOS Platforms</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-4-mp3-converters-from-insta-the-ultimate-guide-for-quick-sound-downloads/"><u>Top 4 MP3 Converters From Insta: The Ultimate Guide for Quick Sound Downloads !</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-have-ebook-reader-applications/"><u>Top 8 Must-Have eBook Reader Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-tips-for-your-pc-wisdom-from-toms-experience/"><u>Unlocking Performance Tips for Your PC – Wisdom From Tom's Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally/"><u>Unveiling the Secrets An Overview of Using EZ Grabber Professionally</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dentifying-your-ideal-video-sharing-app-tiktok-or-youtubes-shorts-in-2024/"><u>[New] Identifying Your Ideal Video Sharing App TikTok or YouTubes' Shorts, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>[New] Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-best-strategies-for-an-irresistible-holiday-season-email-blitz-with-massmail-software/"><u>1. Best Strategies for an Irresistible Holiday Season Email Blitz with MassMail Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/complete-guide-to-fully-removing-quicktime-from-windows-10-8-or-7/"><u>Complete Guide to Fully Removing QuickTime From Windows 10, 8 or 7</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-fix-vlc-media-player-unable-to-read-dvd-errors-for-both-pc-and-mac-systems/"><u>How to Fix VLC Media Player Unable to Read DVD Errors for Both PC and Mac Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-revolutionize-your-humor-learn-through-kinemaster/"><u>In 2024, Revolutionize Your Humor Learn Through KineMaster</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-why-vlc-is-the-top-free-download-for-mac-users/"><u>The Ultimate Guide: Why VLC Is the Top Free Download for Mac Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-mp3-playback-issues-on-windows-media-player/"><u>Troubleshooting MP3 Playback Issues on Windows Media Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visualize-vigor-capture-chuckles-kapwing-maker/"><u>Visualize Vigor, Capture Chuckles – Kapwing Maker</u></a></li>
 </ul></div>
 

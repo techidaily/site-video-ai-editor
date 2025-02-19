@@ -1,7 +1,7 @@
 ---
 title: 無限Mac視頻瀏覽器 - 免費下載及支持所有影片格式
-date: 2024-12-12T16:49:56.615Z
-updated: 2024-12-15T20:24:05.372Z
+date: 2025-02-18T18:17:59.529Z
+updated: 2025-02-19T17:45:57.980Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2023年最佳三款免費Mac播放軟體，播放任何影片
@@ -35,7 +35,7 @@ Mac（Macbook、iMac、Mac mini）是蘋果公司的一大出色產品之一，�
 ![macbook 播放器](https://www.5kplayer.com/video-music-player-zh/../video-music-player-jp/img/vlc.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **推薦指數：**★★★★☆   
@@ -51,6 +51,10 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 
 ![Mac播放器推薦](https://www.5kplayer.com/video-music-player-zh/img/mplayerx.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **推薦指數：**★★★★   
 **中文繁體版本：**支援  
 **作業系統：**macOS 
@@ -59,10 +63,6 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 
 免費Mac播放軟體推薦的第三位也是一款開源軟體，是在Mac用戶中比較有人氣的MPlayerX。MPlayerX主要支援一些常用的影片檔案格式：AVI、MKV、WMV、MP4、MPEG2、FLV。具有觸控板的多手勢功能。MPlayerX有趣的一點是，如果在檔案夾中將影片檔案排列后，MPlayerX可以根據排列順序播放這些影片。MPlayerX擁有Mac播放軟體需要的最低限度的播放功能，沒有播放前的啟動介面，也沒有多餘的設定功能，播放介面也十分簡單。  
  遺憾的是，MPlayerX不支援DVD和ISO檔播放，某些影片音樂檔案格式支援的種類相對于5KPlayer和VLC較少，但是比QuickTime Player多。因此作為免費的Mac播放軟體推薦第三名是沒問題的。
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mac影片播放免費軟體Top 3 推薦
 
@@ -80,11 +80,11 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 
 ![Mac播放軟體](https://www.5kplayer.com/video-music-player-zh/img/5kp-mac.jpg) 
 
-[![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+[![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 #### **匯總：**
 
@@ -93,7 +93,7 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitewin-zh.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player-zh/../button/freedownwhitemac-zh.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,21 +111,17 @@ VLC Media Player 是一款知名的開源媒體播放器，可以播放WMV、AVI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/lear-shots-for-youtube-filmmakers-for-2024/"><u>[New] Clear Shots for YouTube Filmmakers for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-business-through-virtual-realitiescape/"><u>[New] Pioneering Business Through Virtual Realitiescape</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlock-the-potential-of-facebook-livestreams-with-professional-wirecast/"><u>[New] Unlock the Potential of Facebook Livestreams with Professional Wirecast</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[Updated] How to Edit YouTube Videos in Final Cut Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-windowed-image-viewer/"><u>[Updated] Lightning-Fast Windowed Image Viewer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-tech-guide-handling-srt-on-a-mac/"><u>2024 Approved The Ultimate Tech Guide Handling SRT on a Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-bringing-memories-to-life-a-step-by-step-final-cut-pro-slideshow-creation-tutorial-for-2024/"><u>New Bringing Memories to Life A Step-by-Step Final Cut Pro Slideshow Creation Tutorial for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-novice-to-pro-the-top-animation-maker-tools-you-need-to-know/"><u>New In 2024, From Novice to Pro The Top Animation Maker Tools You Need to Know</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile-for-2024/"><u>New The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-pro-level-video-editing-on-windows-8-and-beyond/"><u>New Unlock Pro-Level Video Editing on Windows 8 and Beyond</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-blaze-2-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava Blaze 2</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-complete-chromecast-handbook-streaming-any-video-format-like-a-pro-for-2024/"><u>The Complete Chromecast Handbook Streaming Any Video Format Like a Pro for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-20-adobe-premiere-intro-templates-free-download/"><u>Updated 2024 Approved Best 20 Adobe Premiere Intro Templates Free Download</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-mkv-video-editing-software-top-cutting-tools/"><u>Updated Free MKV Video Editing Software Top Cutting Tools</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-tiktok-watermark-erasers-remove-logos-easily-for-2024/"><u>Updated Top TikTok Watermark Erasers Remove Logos Easily for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-upward-landscapes-with-phones/"><u>[New] The Art of Upward Landscapes with Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-winscreen-recorders-review/"><u>[Updated] 2024 Approved Pro Winscreen Recorders Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-overcoming-obstacles-in-youtube-journey-using-creative-studio-guide/"><u>[Updated] In 2024, Overcoming Obstacles in YouTube Journey Using Creative Studio Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/iconic-images-uncovered-histories-for-2024/"><u>Iconic Images Uncovered Histories for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>In 2024, Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>In 2024, Real-Time Reality Rally Does Digital Dethrone Device Dominance?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-windows-8-video-editing-software-edit-mp4-files-like-a-pro/"><u>In 2024, Windows 8 Video Editing Software Edit MP4 Files Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unlimited-video-merging-7-best-watermark-free-solutions/"><u>New 2024 Approved Unlimited Video Merging 7 Best Watermark-Free Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-animate-on-the-go-best-stop-motion-apps-for-mobile-phones/"><u>New In 2024, Animate on the Go Best Stop Motion Apps for Mobile Phones</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-say-goodbye-to-tiktok-watermarks-best-online-remover-tools/"><u>New Say Goodbye to TikTok Watermarks Best Online Remover Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-invisible-arbiter-unraveling-chatbot-content-moderation/"><u>The Invisible Arbiter: Unraveling Chatbot Content Moderation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/virtualdub-2023-a-review-of-its-features-pricing-and-alternatives/"><u>Virtualdub 2023 A Review of Its Features, Pricing, and Alternatives</u></a></li>
 </ul></div>
 

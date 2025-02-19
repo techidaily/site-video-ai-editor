@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Fixing 'VLC Cannot Play DVD' Errors in Windows 11 and macOS - Tips and Solutions
-date: 2025-01-22T02:24:30.615Z
-updated: 2025-01-27T19:34:51.436Z
+date: 2025-02-18T17:47:09.102Z
+updated: 2025-02-19T17:02:30.245Z
 tags:
   - video-music-player
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_ 
 
 Acknowledgedly, VLC is the most popular & powerful open source media player in the market. Even so, it does not mean this robust media player is perfect! A certain percentage of users do report that **VLC not playing DVD Windows 10/Mac** problem happens now and then, and they are unable to find a solution after trying very hard. Thus, we share the easy but effective solutions by steps to help you fix all kinds of VLC can't play DVD problems in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What to Do When VLC Not Playing DVD Windows 10/Mac Occurs?
 
@@ -70,10 +74,6 @@ _Note: After installing, VLC will automatically use them when playing DVDs._
 
 ![](https://www.5kplayer.com/video-music-player/img/install-keydb-0113.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Part 3 of Solution 1: ADD Keydb And Libaacs** 
 
 Some users found that VLC can't **play bluray DVD** due to the lack of AACS and BD + DRM libraries and keys. So if you are unable to play a bluray DVD, try the following steps:
@@ -91,10 +91,6 @@ As the best VLC alternative, 5KPlayer excels VLC at playing all sorts of DVDs (V
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **★ Solution 3: Rip DVD to VLC Compatible Formats**
 
 If you have no fancy for VLC media player alternatives and stick to VLC, you can try DVD rippers to rip DVD to VLC compatible formats. Here I sincerely recommend the popular [WinX DVD Ripper](https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/) \- a fastest free DVD ripper for Windows (10) to rip DVD to MP4, AVI, FLV, MOV, WMV, etc. and convert DVD to iPhone, iPad, Apple TV, Android with customized profiles. To rip DVD to VLC compatible formats, do as follows:
@@ -102,7 +98,7 @@ If you have no fancy for VLC media player alternatives and stick to VLC, you can
 ![Initiate DVD Playback Function of VLC](https://www.5kplayer.com/video-music-player/img/rip-dvd-to-vlc-0113.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1.** Free Download WinX DVD Ripper and launch it.  
@@ -111,12 +107,16 @@ If you have no fancy for VLC media player alternatives and stick to VLC, you can
 _Note: The output profile window will automatically pop up the moment your DVD is imported._   
 **Step 4.** Hit "Run" button to start ripping DVD to VLC compatible formats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Play DVD on Mac/PC with Best Free VLC Alternative-5KPlayer?
 
 Download, install and launch 5KPlayer [for Mac ![](https://www.5kplayer.com/video-music-player/../software/pic-style/dvd-video/01.png)](https://tools.techidaily.com/5kplayer/products/) or [for Windows ![](https://www.5kplayer.com/video-music-player/../software/pic-style/dvd-video/01.png)](https://tools.techidaily.com/5kplayer/products/), the best free DVD player software can play any DVD, ISO image, etc without hassle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1.** Launch the free alternative to VLC media player that plays any region-free DVD on your Windows 10 & Mac.
@@ -130,7 +130,7 @@ Download, install and launch 5KPlayer [for Mac ![](https://www.5kplayer.com/vide
 ![Play DVD with 5KPlayer](https://www.5kplayer.com/video-music-player/img/5kplayer-dvd-player-software.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to fixing VLC can't play DVD problem on Windows 10 and Mac, the best DVD player software - 5KPlayer also focuses on [playing HD videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [downloading videos music from Dailymotion](https://tools.techidaily.com/5kplayer/youtube-download/), Vevo, Facebook and 300+ online sites. Moreover, it is a professional [DLNA server](https://tools.techidaily.com/5kplayer/dlna/) doing well in wirelessly streaming DVD/video/audio from Mac/PC to smart TV with original quality.
@@ -152,16 +152,21 @@ In addition to fixing VLC can't play DVD problem on Windows 10 and Mac, the best
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-editing-a-magix-video-pro-x-evaluation/"><u>[New] 2024 Approved Cutting-Edge Editing A Magix Video Pro X Evaluation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-7-3d-modeling-software-for-animation/"><u>[Updated] 7 3D Modeling Software for Animation</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/easy-guide-streaming-and-watching-flv-videos-on-your-ios-device/"><u>Easy Guide: Streaming and Watching FLV Videos on Your iOS Device</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/effective-techniques-for-reducing-video-file-sizes-in-bulk/"><u>Effective Techniques for Reducing Video File Sizes in Bulk</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/effective-ways-to-troubleshoot-and-fix-overflowing-obs-encoding-expert-tips-for-2astockimagejpg/"><u>Effective Ways to Troubleshoot and Fix Overflowing OBS Encoding: Expert Tips for 2astock_image.jpg</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-asus-rog-phone-7-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Asus ROG Phone 7 Safely | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact/"><u>In 2024, Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leveraging-ai-abbyys-educational-presentation-at-the-2018-aiim-convention/"><u>Leveraging AI: ABBYY's Educational Presentation at the 2018 AIIM Convention</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Device</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-fixing-the-blue-screen-error-on-your-windows-pc-tech-solutions-by-yl/"><u>Ultimate Guide: Fixing the Blue Screen Error on Your Windows PC - Tech Solutions by YL</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/44kw44op44ov44kj44od44kv44ki44kv44k744op44os44o844k344on44oz5aplusplus5bplusc44gu44kz44oz44ou44ol44o844k44gv6ieq5yuv55qe44gr6kit5a6a44gv44km44gm44ge44gplus428/"><u>グラフィックアクセラレーション対応のコンピュータは自動的に設定されていますか?設定方法をご紹介します。</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-pivot-past-moments-an-android-video-reversal-tutorial/"><u>[New] In 2024, Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites-for-2024/"><u>[Updated] Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-gamer-friendly-video-capture-apps/"><u>2024 Approved Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-highlights-comprehensive-photography-tips/"><u>2024 Approved Mastering Instagram Highlights Comprehensive Photography Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-decision-making-with-microsofts-ai-hub/"><u>Efficient Decision-Making with Microsoft's AI Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro Recommendations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination-for-2024/"><u>From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-iphone-solutions-for-effective-image-watermarks/"><u>Top Picks IPhone Solutions for Effective Image Watermarks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-maximize-your-edit-10-best-free-fcpx-plugins/"><u>Updated 2024 Approved Maximize Your Edit 10 Best Free FCPX Plugins</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-this-article-introduce-tips-on-how-to-stream-any-video-format-to-google-chromecast/"><u>Updated 2024 Approved This Article Introduce Tips on How to Stream Any Video Format to Google Chromecast</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-unleash-your-creativity-with-fcp-90-days-of-free-usage/"><u>Updated 2024 Approved Unleash Your Creativity with FCP 90 Days of Free Usage</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-freezing-or-crashing-try-these-quick-fixes-for-2024/"><u>Updated FCPX Freezing or Crashing? Try These Quick Fixes for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-an-impact-with-these-top-10-intro-makers-for-pc-for-2024/"><u>Updated Make an Impact with These Top 10 Intro Makers for PC for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-no-watermark-no-problem-7-video-merger-solutions/"><u>Updated No Watermark, No Problem 7 Video Merger Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-take-your-videos-to-the-next-level-picture-in-picture-in-final-cut-pro-for-2024/"><u>Updated Take Your Videos to the Next Level Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

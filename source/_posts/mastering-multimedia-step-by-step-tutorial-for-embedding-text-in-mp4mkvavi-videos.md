@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multimedia: Step-by-Step Tutorial for Embedding Text in MP4/MKV/AVI Videos"
-date: 2024-12-13T22:38:03.494Z
-updated: 2024-12-15T18:23:09.011Z
+date: 2025-02-16T18:32:23.556Z
+updated: 2025-02-19T17:42:17.358Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4 YouTube Video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 As the saying goes - seeing is believing, in the course of movie/video appreciation, we **add subtitles** to avoid our comprehension being interfered by mishearing. But, **how to add subtitles to a MP4 video free**? The subtitles-adding media player -5KPlayer will reveal the answer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Subtitles to MP4/AVI/MKV YouTube Videos with 5KPlayer?
@@ -46,7 +46,7 @@ You can set the subtile default encoding, font, font size, font color, backgroun
 ![5KPlayer Free Subtitle Adding Software](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Open the video/movie file and click subtitle button** on the 5KPlayer interface to load your subtitles, or, you can right click on the playing interface and select subtitle tracks to add your SRT/ASS/SUB subtitle file.
@@ -56,13 +56,17 @@ Note that your **subtitle file should be placed under the same folder of your vi
 ![How to Add Subtitles](https://www.5kplayer.com/video-music-player/img/5kplayer-how-to-add-subtitles-zjy-0420002.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** There's **no way to play Zip subtitles** in any video players! Your subtitle files shall not be compressed and should be remained in one of those common subtitle formats accordingly for file detecting.  
  Since there are basically two kinds of subtitles in a video file – hard subtitle and soft subtitle. The former is part of the video frames that cannot be disabled or hidden during playback, while the latter is an independent stream that can be turned on and off. It's worth noticing that MP4 and MKV movie/videos usually contain several subtitle streams in different formats or language for you to select, which cannot be streamed to Apple-TV via AirPlay if you intend to stream the video to your big HDTV.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5KPlayer not only aids you to add subtitles to your AVI, MP4, MKV movie videos but also serves as a great [movie music player](https://tools.techidaily.com/5kplayer/video-music-player/) that can [play 4K/5K videos](https://tools.techidaily.com/5kplayer/video-music-player/) and [support many popular file formats](https://tools.techidaily.com/5kplayer/video-music-player/) like MKV movies, MP4, AVI, FLV files with whatever subtitle format supported. Others worth a mention are that it can download videos/movies from over 300 online websites with an eye catching feature of [AirPlay](https://tools.techidaily.com/5kplayer/airplay/).
 
@@ -73,10 +77,6 @@ There are chances that the manually inserted subtitles may lag behind or go fast
  Some of you may find it's weird that while AirPlay a movie (in AirPlay compatible format) with separated subtitles to Apple TV, subtitles from the file disappears, (like stop reading the file with manually added subtitles). This is because that **only embedded subtitltes can be streamed via AirPlay**, and that [soft subtitles](https://en.wikipedia.org/wiki/Subtitle%5F%28captioning%29) aka closed subtitles are external subtitles, which cannot be streamed together with the vid.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,14 +93,24 @@ There are chances that the manually inserted subtitles may lag behind or go fast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>[New] 2024 Approved Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] In 2024, Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-the-science-of-writing-magnetic-vlogs/"><u>[Updated] In 2024, Mastering the Science of Writing Magnetic Vlogs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-most-reliable-skype-recorders-ranked/"><u>[Updated] The Most Reliable Skype Recorders Ranked</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-14-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 14 online without jailbreak</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide-for-2024/"><u>PS4 Screenshot Sharing for Beginners A Simple and Easy Guide for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-get-ready-to-edit-configuring-your-computer-for-premiere-pro/"><u>Updated 2024 Approved Get Ready to Edit Configuring Your Computer for Premiere Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-flip-spin-and-rotate-16-best-free-avi-video-rotators-for-all-devices-for-2024/"><u>Updated Flip, Spin, and Rotate 16 Best Free AVI Video Rotators for All Devices for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-make-a-video-from-photos-10-best-online-services/"><u>Updated In 2024, Make a Video From Photos 10 Best Online Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-fumbling-clips-to-viral-videos-youtube-edits-made-easy-with-sony-vegas/"><u>[New] From Fumbling Clips to Viral Videos YouTube Edits Made Easy with Sony Vegas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-download-dynamics-of-hd-content-on-modern-social-networks/"><u>[New] In 2024, Download Dynamics of HD Content on Modern Social Networks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-luminous-gaming-recording-overcoming-the-absence-of-a-black-screen-in-obs/"><u>[New] Luminous Gaming Recording Overcoming the Absence of a Black Screen in OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>[Updated] 2024 Approved Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tidying-up-old-youtube-tracks-bar-free-viewing/"><u>[Updated] Tidying Up Old YouTube Tracks Bar-Free Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-exclusive-ig-edits-for-apple-and-android-users/"><u>2024 Approved Exclusive IG Edits for Apple & Android Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x50i-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X50i Lock Screen Password</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-easy-access-to-no-cost-music-for-video-makers/"><u>In 2024, Easy Access to No-Cost Music for Video Makers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fb-cover-video-techniques-for-business-professionals/"><u>In 2024, FB Cover Video Techniques for Business Professionals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-free-dvd-playback-options-for-windows-10-users-updated-2023/"><u>New In 2024, Best Free DVD Playback Options for Windows 10 Users Updated 2023</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-convert-webm-to-mp3-best-tools-for-the-job/"><u>New In 2024, Convert WebM to MP3 Best Tools for the Job</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mastering-home-video-production-top-dvd-creation-tools-for-2024/"><u>New Mastering Home Video Production Top DVD Creation Tools for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros-for-2024/"><u>New The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year-for-2024/"><u>Updated Best of the Best Top 5 Video Editing Apps for iPhone This Year for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export/"><u>Updated In 2024, Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-macos-compatible-video-editor-avs-software-for-2024/"><u>Updated MacOS Compatible Video Editor AVS Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-essentials-for-2024/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Essentials for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-top-40-keyboard-shortcuts-for-final-cut-pro-x-users/"><u>Updated Unleash Your Creativity Top 40 Keyboard Shortcuts for Final Cut Pro X Users</u></a></li>
 </ul></div>
 

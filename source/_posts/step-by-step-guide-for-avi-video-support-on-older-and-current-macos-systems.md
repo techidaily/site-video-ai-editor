@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide for AVI Video Support on Older and Current macOS Systems
-date: 2024-12-09T22:36:40.873Z
-updated: 2024-12-15T18:13:18.321Z
+date: 2025-02-17T18:24:44.759Z
+updated: 2025-02-19T17:30:15.144Z
 tags:
   - video-music-player
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/d0ad1a80b811183ca46ae79924e7000317315a162
 [5KPlayer](https://tools.techidaily.com/5kplayer/products/) \> [Video Music Player](https://tools.techidaily.com/5kplayer/video-music-player/) \> Playing AVI on Mac
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Guides on Playing AVI on Mac Big Sur, Catalina, Mojave, High Sierra, etc
@@ -52,17 +52,13 @@ To import AVI files, you can:
 ![Playing AVI on Mac with 5KP](https://www.5kplayer.com/video-music-player/img/dvd-player.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:**  
  In addition to playing AVI on Mac (Big Sur/Catalina/Mojave/El Capitan/Yosemite/Mavericks), 5KPlayer can play a wide range of media file types, including MP4, MOV, MKV, WMV, FLV, MP3, AAC, AC3, FLAC, OGG, etc. It also excels at [playing popular 3D movies](https://tools.techidaily.com/5kplayer/video-music-player/), Bluray films as well as encrypted DVDs. More amazingly, this powerful media player supports downloading videos and [airplay them from Mac to apple TV.](https://tools.techidaily.com/5kplayer/airplay/) 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2\. Add QuickTime Plugin Perian for Playing AVI on Mac**
 
@@ -82,6 +78,10 @@ If the above Mac AVI player is not your cup of tea, you can try installing Peria
 
 ![Install Perian on Mac](https://www.5kplayer.com/video-music-player/img/how-to-install-perian-0127.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3\. Convert AVI to Mac/QuickTime for Playback**
 
 To play AVI on Mac, you can also convert AVI to Mac QuickTime compatible file format like MOV, making AVI videos and movies playable on all native Mac media players. Here we use the much-praised [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/). This powerful Mac video converter supports fast converting between a diverse array of HD/SD formats, such as [AVI to MOV](https://tools.techidaily.com/macxdvd/products/), MKV to MP4, M2TS to AVI, MP4 to MP3, etc. Thus you are enabled to play any AVI videos on Mac OS X (OS X 10.11.4 included) with no effort. 
@@ -91,7 +91,7 @@ To play AVI on Mac, you can also convert AVI to Mac QuickTime compatible file fo
 **Step 1.** [Download MacX Video Converter Pro![](https://www.5kplayer.com/video-music-player/../image/download-mac/dicon.png)](https://tools.techidaily.com/macxdvd/products/) for Mac and launch it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Load target AVI files by clicking "Add File" on the main interface. 
@@ -107,7 +107,7 @@ After all done, you can play the converted AVI videos on Mac OS X with QuickTime
 ![Convert AVI to QuickTime MOV](https://www.5kplayer.com/video-music-player/img/convert-avi-to-mov-0128.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -125,19 +125,21 @@ After all done, you can play the converted AVI videos on Mac OS X with QuickTime
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-melody-mixin-adding-tracks-to-snapchat-vids/"><u>[New] 2024 Approved Melody Mixin' Adding Tracks to Snapchat Vids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>[Updated] Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>2024 Approved Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290578126-4/"><u>4版)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-power-of-srt-in-broadcasting/"><u>In 2024, Unveiling the Power of SRT in Broadcasting</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-amateur-to-pro-the-top-10-vlog-editing-apps-for-mobile-devices/"><u>New In 2024, From Amateur to Pro The Top 10 Vlog Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-shaky-videos-be-gone-10-free-online-stabilizers-to-try-for-2024/"><u>New Shaky Videos Be Gone! 10 Free Online Stabilizers to Try for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-mobile-video-capture/"><u>The Ultimate Guide to Mobile Video Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/toppest-ios-video-capture-aids-for-2024/"><u>Toppest iOS Video Capture Aids for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unleash-stunning-videos-top-3-4k8k-editing-software-2024/"><u>Unleash Stunning Videos Top 3 4K/8K Editing Software 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-beginners-guide-to-face-blurring-top-free-apps-tutorials-and-tips/"><u>Updated Beginners Guide to Face Blurring Top Free Apps, Tutorials, and Tips</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-windows-10-webcam-recording-essentials-top-10-software-picks/"><u>Updated In 2024, Windows 10 Webcam Recording Essentials Top 10 Software Picks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-virtualdub-review-is-it-still-the-best-video-editor/"><u>Updated Virtualdub Review Is It Still the Best Video Editor ?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gopro-vs-sjcam-capturing-the-thrill/"><u>[New] 2024 Approved GoPro vs SJCAM Capturing the Thrill</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-seamless-entry-into-friends-tiktok-experiences/"><u>[Updated] 2024 Approved Seamless Entry Into Friends' TikTok Experiences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quickscreencapture-mastery-for-everyday-use/"><u>[Updated] In 2024, QuickScreenCapture Mastery for Everyday Use</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>2024 Approved The Ultimate Calculus of Cashflow From Creativity Measuring Your YouTube Earnings and Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-engaging-in-email-discussions-with-mozilla-thunderbird/"><u>Essential Guide to Engaging in Email Discussions with Mozilla Thunderbird</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-ashen-glitch-a-simple-and-swift-solution/"><u>Fix the Ashen Glitch: A Simple and Swift Solution!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-convert-wav-audio-tracks-into-ogg-files-methods-for-both-online-tools-and-desktop-applications/"><u>How to Convert WAV Audio Tracks Into OGG Files - Methods for Both Online Tools and Desktop Applications</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-retrieve-subtitles-from-an-mkv-file-a-step-by-step-guide/"><u>How To Retrieve Subtitles From an MKV File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-successfully-upload-your-bcpf-document-on-youtube/"><u>How to Successfully Upload Your BCPF Document on YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-htc-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best HTC FRP Bypass Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-camon-20-premier-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Camon 20 Premier 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/iphone6/"><u>IPhone上動画无法观看？解決方法包含6个关键要素！</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-audio-capture-a-step-by-step-tutorial-for-freeconferencecallcom-users/"><u>Mastering Audio Capture: A Step-by-Step Tutorial for FreeConferenceCall.com Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-mic-recording-a-detailed-tutorial-for-desktop-audio-catch-on-windows-and-macos-with-audacity/"><u>Mastering Mic Recording: A Detailed Tutorial for Desktop Audio Catch on Windows and macOS with Audacity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mastering-video-format-transformation-how-to-efficiently-change-xmedias-mkv-videos-into-mp4-with-our-ultimate-guide/"><u>Mastering Video Format Transformation: How to Efficiently Change XMedia's MKV Videos Into MP4 with Our Ultimate Guide</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solucionado-problemas-con-la-particion-del-disco-duro-que-desaparece-en-windows/"><u>Solucionado: Problemas Con La Partición Del Disco Duro Que Desaparece en Windows</u></a></li>
 </ul></div>
 
